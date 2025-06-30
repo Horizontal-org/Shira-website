@@ -17,6 +17,7 @@
   padding: 6rem 1rem;
   position: relative;
   z-index: 1;
+  width: 100%;
 }
 
 .hero .bg {
@@ -34,7 +35,6 @@
 
 .hero h1 {
   font-size: 4rem;
-  font-weight: 600;
   color: var(--text-dark);
   margin-bottom: 1rem;
 }
@@ -62,11 +62,11 @@
 .twoColumns {
   display: flex;
   flex-direction: row;
-  width: 100%;
 }
 
 .columnLight, .columnGreen {
-  padding: 3rem 2rem;
+  padding: 5rem 4rem;
+  flex-basis: 50%;
 }
 
 .columnLight {
@@ -81,6 +81,7 @@
 
 .columnLight h2,
 .columnGreen h2 {
+  font-size: 3rem;
   font-size: 1.8rem;
   margin-bottom: 1rem;
 }
