@@ -15,7 +15,7 @@ export default function Home() {
           <div className={styles.bg}></div>
           <h1>Preparedness. Knowledge. Resilience.</h1>
           <p>Learn the skills needed to identify and defeat phishing attacks</p>
-          <Link className={styles.cta} to="/quiz">Get Started</Link>
+          <Link className={`${styles.buttonDark} ${styles.button}`} to="/quiz">Get Started</Link>
         </section>
 
         {/* Learners & Educators */}
@@ -25,14 +25,14 @@ export default function Home() {
             <p>
               Get started right away with one of our free, pre-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
             </p>
-            <Link className={styles.buttonLight} to="/quiz">Take a quiz</Link>
+            <Link className={`${styles.buttonDark} ${styles.button}`} to="/quiz">Take a quiz</Link>
           </div>
           <div className={styles.columnGreen}>
             <h2>For educators and security professionals</h2>
             <p>
               Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills.
             </p>
-            <Link className={styles.buttonDark} to="/features">Create your own quiz</Link>
+            <Link className={`${styles.buttonLight} ${styles.button}`} to="/features">Create your own quiz</Link>
           </div>
         </section>
 
