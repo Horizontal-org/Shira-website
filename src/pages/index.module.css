@@ -149,9 +149,12 @@
 .whySection .reasonsWhy {
   flex-shrink: 5;
   display: flex;
-  font-size: 2rem;
   flex-direction: column;
   padding: 3rem 2rem;
+}
+
+.whySection p {
+  font-size: 2rem;
 }
 
 .whySection ul {
@@ -161,5 +164,10 @@
 
 .whySection li {
   margin-bottom: 1rem;
-  font-size: 1.1rem;
+}
+
+.whySection span {
+  font-weight: bold;
+  font-size: 1.5rem;
+
 }

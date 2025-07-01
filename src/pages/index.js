@@ -50,9 +50,9 @@ export default function Home() {
           <div className={styles.reasonsWhy}>
             <p>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
             <ul>
-              <li><strong>Easy to use:</strong> Created for communities most at risk of phishing attacks, even with limited tech literacy.</li>
-              <li><strong>Customizable:</strong> Realistic phishing messages to simulate real scenarios users face daily.</li>
-              <li><strong>Privacy-friendly:</strong> We do not collect or share any user data.</li>
+              <li><span>Easy to use</span> <br/> Created for communities most at risk of phishing attacks, even with limited tech literacy.</li>
+              <li><span>Customizable</span> <br/> Realistic phishing messages to simulate real scenarios users face daily.</li>
+              <li><span>Privacy-friendly</span> <br/> We do not collect or share any user data.</li>
             </ul>
           </div>
 
