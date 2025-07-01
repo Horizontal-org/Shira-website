@@ -73,9 +73,21 @@ const config = {
             label: 'Tutorial',
           },
           {
+            href: 'https://quiz.shira.app/',
+            sidebarId: 'takeQuizSidebar',
+            position: 'left',
+            label: 'Take a quiz',
+          },
+          {
+            href: '/about',
+            label: 'About',
+            position: 'left',
+          },
+          {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
+            className: 'button buttonDark'
           },
         ],
       },

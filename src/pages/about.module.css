@@ -1,0 +1,29 @@
+.aboutShira,
+.aboutHorizontal {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 30rem;
+  justify-content: space-evenly;
+}
+
+.aboutShiraText,
+.aboutHorizontalText  {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+}
+
+
+.aboutShira img {
+  height: 8rem;
+}
+
+.aboutHorizontal img {
+  height: 20rem;
+}
+
+.aboutHorizontal .button {
+  width: fit-content;
+}
+

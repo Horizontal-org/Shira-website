@@ -6,25 +6,87 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #587a3f; /*Green dark*/
+  --ifm-color-primary-dark: #4f6e39;
+  --ifm-color-primary-darker: #111827;
+  --ifm-color-primary-darkest: #313638;
+  --ifm-color-primary-light: #e6ecb9;
+  --ifm-color-primary-lighter: #658c48;
+  --ifm-color-primary-lightest: #ffffff;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #e6ecb9; /*Green light*/
+  --ifm-color-primary-dark: #587a3f;
+  --ifm-color-primary-darker: #d4df87;
+  --ifm-color-primary-darkest: #c3d156;
+  --ifm-color-primary-light: #f2f5da;
+  --ifm-color-primary-lighter: #f8f9eb;
+  --ifm-color-primary-lightest: #313638;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Inter', sans-serif;
+  color: --ifm-color-primary-darkest;
+}
+
+.transition { 
+  transition: all .1s ease;
+}
+
+.button {
+  @extend .transition;
+  position: relative;
+  display: inline-block;
+  padding: 1em 2em;
+  border: 0;
+  border-radius: 30px;
+  text-align: center;
+  white-space: nowrap;
+  cursor: pointer;
+  text-transform: uppercase;
+
+  &:hover {
+    outline: none;
+  }
+  
+  &:active {
+    transform: translateY(1px);
+  }
+  
+  &:focus {
+    outline: none;
+  }
+
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+.buttonLight {
+  background-color: var(--ifm-color-primary-light);
+  color: var(--ifm-color-primary);
+}
+
+.buttonDark {
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-lightest);
+}
+
+.backgroundDark {
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-lightest);
 }
