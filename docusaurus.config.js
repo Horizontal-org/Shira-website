@@ -92,45 +92,14 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+            alt: 'Shira Logo',
+            src: 'img/shira-logo.svg',
+            width: 160,
+            height: 51,
+          },
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Get Stated',
-                href: '/contact',
-              },
-            ],
-          },
-        ],
-        copyright: `Shira is a product of Horizontal, a technology non-profit dedicated to making online security and privacy accessible to all. contact@wearehorizontal.org`,
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
         theme: prismThemes.github,
