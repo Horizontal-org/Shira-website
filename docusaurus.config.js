@@ -84,6 +84,11 @@ const config = {
             position: 'left',
           },
           {
+            href: '/pricing',
+            label: 'Pricing',
+            position: 'left',
+          },
+          {
             href: '/contact',
             label: 'Get Started',
             position: 'right',

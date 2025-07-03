@@ -1,0 +1,51 @@
+.pricingShira {
+  width: 100%;
+  padding: 4rem 2rem;
+}
+
+.princingIntro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.plans {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 4rem 2rem;
+}
+
+.plan {
+  border: 1px solid var(--ifm-color-primary-darkest);
+  box-shadow: 1px 1px var(--ifm-color-primary-darkest);
+  border-radius: 20px;
+  padding: 3rem;
+  margin-bottom: 2rem;
+  width: 30%;
+}
+
+.plan h2 { 
+  margin-top: 0;
+}
+
+.price {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.plan ul { 
+  list-style: none; 
+  padding-left: 0; 
+}
+
+.plan li { 
+  margin: 0.5rem 0; 
+}
+
+.plan .note {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
