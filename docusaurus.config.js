@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Shira',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Learn the skills needed to identify and defeat phishing attacks',
   favicon: 'img/shira.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
