@@ -72,6 +72,10 @@ h1 {
   font-size: 4rem;
 }
 
+h2 {
+  font-size: 2rem;
+}
+
 p {
   font-size: 1.25rem;
 }
@@ -89,4 +93,8 @@ p {
 .backgroundDark {
   background-color: var(--ifm-color-primary);
   color: var(--ifm-color-primary-lightest);
+}
+
+.backgroundLight {  
+  background-color: var(--ifm-color-primary-light);
 }

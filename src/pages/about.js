@@ -23,10 +23,37 @@ export default function About() {
           <div className={styles.aboutHorizontalText}>
             <h2>Who makes Shira?</h2>
             <p>Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online. </p>
-            <p>You can help us improve and sustain Shira by <Link to="https://donorbox.org/towards-sustainability">making a donation here. </Link></p>
-            <p>To contribute to the translation of Shira into new languages, email us at contact@wearehorizontal.org.</p>
+            <p>You can help us improve and sustain Shira by <Link to="https://donorbox.org/towards-sustainability">making a donation here</Link>.</p>
+            <p>To contribute to the translation of Shira into new languages, email us at <Link to="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</Link>.</p>
             <Link className={`${styles.button} button buttonDark`} to="https://wearehorizontal.org/index">Learn about Horizontal</Link>
 
+          </div>
+        </section>
+
+        <section className={`backgroundLight ${styles.whyShira}`}>
+          <h2>
+            <img src='/img/hook.png'></img>
+            Why Shira?
+          </h2>
+
+          <div className={styles.whyShiraText}>
+            <div className={styles.whyShiraReason}>
+              <h3>1. Easy to use</h3>
+              <p>Shira was created considering communities that are the most at-risk of phishing attacks, especially users with limited tech literacy.</p>
+            </div>
+            <div className={styles.whyShiraReason}>
+              <h3>2. Customizable</h3>
+              <p>We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face.</p>
+            </div>
+            <div className={styles.whyShiraReason}>
+              <h3>3. Privacy-friendly</h3>
+              <p>We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm.</p>
+            </div>
+          </div>
+
+          <div className={styles.whyShiraButtons}>
+            <Link className={`${styles.button} button buttonDark`} to="https://wearehorizontal.org/index">Privacy policy PENDING</Link>
+            <Link className={`${styles.button} button buttonDark`} to="/assets/shira-final.pdf">Security Audit</Link>
           </div>
         </section>
 
