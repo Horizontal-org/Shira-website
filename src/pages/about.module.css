@@ -1,0 +1,69 @@
+.aboutShira,
+.aboutHorizontal {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 30rem;
+  justify-content: space-evenly;
+}
+
+.aboutShiraText,
+.aboutHorizontalText  {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+}
+
+
+.aboutShira img {
+  height: 8rem;
+}
+
+.aboutHorizontal img {
+  height: 20rem;
+}
+
+.aboutHorizontal .button {
+  width: fit-content;
+}
+
+.whyShira {
+  padding: 4rem 2rem;
+  width: 100%;
+}
+
+.whyShira  h2 {
+  display: flex;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.whyShira  h2 img {
+  float: left;
+  max-height: 6rem;
+}
+
+.whyShiraText {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.whyShiraReason {
+  max-width: 30%;
+}
+
+.whyShiraReason h3 {
+  margin-bottom: 2rem;
+}
+
+.whyShiraButtons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.whyShiraButtons .button {
+  margin: 1rem;
+}
