@@ -44,6 +44,16 @@
   flex-direction: row;
 }
 
+@media (max-width: 768px) {
+  .twoColumns {
+    flex-direction: column;
+  }
+  .columnLight,
+  .columnGreen {
+    padding: 2rem 1rem;
+  }
+}
+
 .columnLight, .columnGreen {
   padding: 5rem 4rem;
   flex-basis: 50%;
@@ -93,6 +103,24 @@
   width: 400px;
 }
 
+@media (max-width: 768px) {
+  .context {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .context p {
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .context img {
+    width: 90%;
+    height: auto;
+    margin-top: 1rem;
+  }
+}
+
 .whySection {
   padding: 4rem 2rem;
   width: 100%;
@@ -131,4 +159,27 @@
 .whySection span {
   font-weight: bold;
   font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .whySection {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .whySection .reasonsWhy {
+    padding: 2rem 1rem;
+  }
+
+  .whySection h2 {
+    font-size: 2.5rem;
+  }
+
+  .whySection p {
+    font-size: 1.2rem;
+  }
+
+  .whySection span {
+    font-size: 1.3rem;
+  }
 }
