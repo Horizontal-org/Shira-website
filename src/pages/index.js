@@ -44,8 +44,12 @@ export default function Home() {
           <img src='/img/context.png'></img>
         </section>
 
+<<<<<<< HEAD
 
         <section className={classNames(global.backgroundDark, styles.whySection)}>
+=======
+        <section className={`darkBackground ${styles.whySection}`}>
+>>>>>>> more-pages
           <h2>Why Shira?</h2>
           <div className={styles.reasonsWhy}>
             <p>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
