@@ -36,6 +36,9 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: ['docusaurus-plugin-sass'],
+
+
   presets: [
     [
       'classic',
@@ -48,7 +51,7 @@ const config = {
 
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/custom.module.scss',
         },
       }),
     ],
@@ -87,7 +90,8 @@ const config = {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
-            className: 'button buttonDark'
+            className: "backgroundDark",
+            //className: {`${global.backgroundDark} ${global.button}`},
           },
         ],
       },

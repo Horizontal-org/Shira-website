@@ -2,6 +2,8 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './about.module.css';
+import global from '../css/custom.module.scss';
+import classNames from 'classnames';
 
 export default function About() {
   return (
@@ -10,7 +12,7 @@ export default function About() {
       description="Information about the Shira team and the parent organization: Horizontal."
     >
       <main className="main">
-        <section className={`backgroundDark ${styles.aboutShira}`}>
+        <section className={classNames(global.backgroundDark, styles.aboutShira)}>
           <div className={styles.aboutShiraText}>
             <h1>Shira</h1>
             <p>Helping individuals and organizations to build their defense against phishing attacks</p>
@@ -18,19 +20,19 @@ export default function About() {
           <img src='/img/shira-s.svg'></img>
         </section>
 
-        <section className={`${styles.aboutHorizontal}`}>
+        <section className={styles.aboutHorizontal}>
           <img src='/img/horizontal-logo.svg'></img>
           <div className={styles.aboutHorizontalText}>
             <h2>Who makes Shira?</h2>
             <p>Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online. </p>
             <p>You can help us improve and sustain Shira by <Link to="https://donorbox.org/towards-sustainability">making a donation here</Link>.</p>
             <p>To contribute to the translation of Shira into new languages, email us at <Link to="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</Link>.</p>
-            <Link className={`${styles.button} button buttonDark`} to="https://wearehorizontal.org/index">Learn about Horizontal</Link>
+            <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Learn about Horizontal</Link>
 
           </div>
         </section>
 
-        <section className={`backgroundLight ${styles.whyShira}`}>
+        <section className={classNames(global.backgroundLight, styles.whyShira)}>
           <h2>
             <img src='/img/hook.png'></img>
             Why Shira?
@@ -52,13 +54,10 @@ export default function About() {
           </div>
 
           <div className={styles.whyShiraButtons}>
-            <Link className={`${styles.button} button buttonDark`} to="https://wearehorizontal.org/index">Privacy policy PENDING</Link>
-            <Link className={`${styles.button} button buttonDark`} to="/assets/shira-final.pdf">Security Audit</Link>
+            <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Privacy policy PENDING</Link>
+            <Link className={classNames(styles.button, global.buttonDark)} to="/assets/shira-final.pdf">Security Audit</Link>
           </div>
         </section>
-
-
-
 
 
       </main>

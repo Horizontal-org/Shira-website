@@ -14,6 +14,7 @@
   --ifm-color-primary-lighter: #658c48;
   --ifm-color-primary-lightest: #ffffff;
   --ifm-code-font-size: 95%;
+  --ifm-navbar-link-color: var(--ifm-color-darkest);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -22,10 +23,11 @@
   --ifm-color-primary: #e6ecb9; /*Green light*/
   --ifm-color-primary-dark: #587a3f;
   --ifm-color-primary-darker: #d4df87;
-  --ifm-color-primary-darkest: #c3d156;
+  --ifm-color-primary-darkest: #313638;
   --ifm-color-primary-light: #f2f5da;
   --ifm-color-primary-lighter: #f8f9eb;
   --ifm-color-primary-lightest: #313638;
+  --ifm-navbar-link-color: var(--ifm-color-darkest);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
@@ -35,15 +37,11 @@
   flex-direction: column;
   align-items: center;
   font-family: 'Inter', sans-serif;
-  color: --ifm-color-primary-darkest;
-}
-
-.transition { 
-  transition: all .1s ease;
+  color: var(--ifm-color-primary-darkest);
 }
 
 .button {
-  @extend .transition;
+  transition: all .1s ease;
   position: relative;
   display: inline-block;
   padding: 1em 2em;
@@ -76,16 +74,24 @@ h2 {
   font-size: 2rem;
 }
 
+@media (max-width: 768px) {
+  h2 {
+    font-size: 1rem;
+  }
+}
+
 p {
   font-size: 1.25rem;
 }
 
 .buttonLight {
+  @extend .button;
   background-color: var(--ifm-color-primary-light);
   color: var(--ifm-color-primary);
 }
 
 .buttonDark {
+  @extend .button;
   background-color: var(--ifm-color-primary);
   color: var(--ifm-color-primary-lightest);
 }
@@ -97,4 +103,6 @@ p {
 
 .backgroundLight {  
   background-color: var(--ifm-color-primary-light);
+  color: var(--ifm-color-primary-darkest);
+
 }

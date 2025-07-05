@@ -2,6 +2,8 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
+import global from '../css/custom.module.scss';
+import classNames from 'classnames';
 
 export default function Home() {
   return (
@@ -9,7 +11,7 @@ export default function Home() {
       title="Shira"
       description="Learn the skills needed to identify and defeat phishing attacks with Shira."
     >
-      <main className="main">
+      <main className={global.main}>
 
         <section className={styles.hero}>
           <div className={styles.bg}></div>
@@ -24,14 +26,14 @@ export default function Home() {
             <p>
               Get started right away with one of our free, pre-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
             </p>
-            <Link className="button buttonDark" to="/quiz">Take a quiz</Link>
+            <Link className={global.buttonDark} to="/quiz">Take a quiz</Link>
           </div>
           <div className={styles.columnGreen}>
             <h2>For educators and security professionals</h2>
             <p>
               Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills.
             </p>
-            <Link className="button buttonLight" to="/features">Create your own quiz</Link>
+            <Link className={global.buttonLight} to="/features">Create your own quiz</Link>
           </div>
         </section>
 
@@ -42,7 +44,8 @@ export default function Home() {
           <img src='/img/context.png'></img>
         </section>
 
-        <section className={`backgroundDark ${styles.whySection}`}>
+
+        <section className={classNames(global.backgroundDark, styles.whySection)}>
           <h2>Why Shira?</h2>
           <div className={styles.reasonsWhy}>
             <p>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
