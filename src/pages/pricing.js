@@ -2,6 +2,8 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './pricing.module.css';
+import global from '../css/custom.module.scss';
+import classNames from 'classnames';
 
 export default function About() {
   return (
@@ -10,8 +12,8 @@ export default function About() {
       description="Plans descriptions that fit organizational needs."
     >
 
-      <main className="main">
-        <section className={`backgroundLight ${styles.pricingShira}`}>
+      <main className={global.main}>
+        <section className={classNames(global.backgroundLight, styles.pricingShira)}>
           <div className={styles.princingIntro}>
             <p>Custom plans for educators and security professionals</p>
             <h1>Simple, transparent, and fair pricing</h1>
@@ -27,7 +29,7 @@ export default function About() {
             <p>Best to try things out.</p>
 
 
-            <Link className="button buttonDark" to="/contact">Get stated</Link>
+            <Link className={global.buttonDark} to="/contact">Get stated</Link>
 
             <hr></hr>
 
@@ -50,13 +52,13 @@ export default function About() {
           </div>
 
 
-           <div className={`backgroundLight ${styles.plan}`}>
+           <div className={backgroundLight ${styles.plan}`}>
             <h2>Pro</h2>
             <p className={styles.prize}>Flat fee</p>
             <p>Best for organizations looking to level-up.</p>
 
 
-            <Link className="button buttonDark" to="/contact">Get stated</Link>
+            <Link className={gloabl.buttonDark} to="/contact">Get stated</Link>
 
             <hr></hr>
 
@@ -81,7 +83,7 @@ export default function About() {
               <li>✔️Analysis and compliance tools.</li>
             </ul>
 
-            <p className="note">
+            <p className={styles.note}>
               * Additional quiz packages available if needed.
             </p>
           </div>
@@ -95,7 +97,7 @@ export default function About() {
             <p>Best for large organizations and service providers </p>
 
 
-            <Link className="button buttonDark" to="/contact">Get stated</Link>
+            <Link className={global.buttonDark} to="/contact">Get stated</Link>
 
             <hr></hr>
 
