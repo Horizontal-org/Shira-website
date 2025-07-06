@@ -21,7 +21,7 @@ export default function About() {
         </section>
 
 
-        <section className={styles.plans}>
+        <section className={classNames(global.row, styles.plans)}>
           <div className={styles.plan}>
             <h2>Starter</h2>
             <p className={styles.prize}>Free</p>
@@ -52,13 +52,13 @@ export default function About() {
           </div>
 
 
-           <div className={backgroundLight ${styles.plan}`}>
+           <div className={classNames(global.backgroundLight,styles.plan)}>
             <h2>Pro</h2>
             <p className={styles.prize}>Flat fee</p>
             <p>Best for organizations looking to level-up.</p>
 
 
-            <Link className={gloabl.buttonDark} to="/contact">Get stated</Link>
+            <Link className={global.buttonDark} to="/contact">Get stated</Link>
 
             <hr></hr>
 

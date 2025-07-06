@@ -20,7 +20,7 @@ export default function Home() {
         </section>
 
 
-        <section className={styles.twoColumns}>
+        <section className={classNames(global.row, styles.twoColumns)}>
           <div className={styles.columnLight}>
             <h2>For learners</h2>
             <p>
@@ -37,14 +37,14 @@ export default function Home() {
           </div>
         </section>
 
-        <section className={styles.context}>
+        <section className={classNames(global.row, global.center,styles.context)}>
           <p>
             For years, phishing is one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before.
           </p>
           <img src='/img/context.png'></img>
         </section>
 
-        <section className={classNames(global.backgroundDark, styles.whySection)}>
+        <section className={classNames(global.row, global.center,global.backgroundDark, styles.whySection)}>
           <h2>Why Shira?</h2>
           <div className={styles.reasonsWhy}>
             <p>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>

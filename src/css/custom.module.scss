@@ -23,8 +23,8 @@
   --ifm-color-primary: #e6ecb9; /*Green light*/
   --ifm-color-primary-dark: #587a3f;
   --ifm-color-primary-darker: #d4df87;
-  --ifm-color-primary-darkest: #313638;
-  --ifm-color-primary-light: #f2f5da;
+  --ifm-color-primary-darkest: #e6ecb9;
+  --ifm-color-primary-light: #587a3f;
   --ifm-color-primary-lighter: #f8f9eb;
   --ifm-color-primary-lightest: #313638;
   --ifm-navbar-link-color: var(--ifm-color-darkest);
@@ -36,8 +36,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-family: 'Inter', sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: var(--ifm-color-primary-darkest);
+  font-weight: 500;
+  letter-spacing: 1.15px;
+  unicode-bidi: isolate;
 }
 
 .button {
@@ -70,18 +73,42 @@ h1 {
   font-size: 4rem;
 }
 
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
 h2 {
   font-size: 2rem;
 }
 
 @media (max-width: 768px) {
   h2 {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
 }
 
 p {
   font-size: 1.25rem;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch; 
+}
+
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+section {
+  padding: 4rem 2rem;
+  width: 100%;
 }
 
 .buttonLight {
@@ -105,4 +132,8 @@ p {
   background-color: var(--ifm-color-primary-light);
   color: var(--ifm-color-primary-darkest);
 
+}
+
+.center {
+  align-items: center;
 }

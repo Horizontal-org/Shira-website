@@ -12,15 +12,15 @@ export default function About() {
       description="Information about the Shira team and the parent organization: Horizontal."
     >
       <main className="main">
-        <section className={classNames(global.backgroundDark, styles.aboutShira)}>
-          <div className={styles.aboutShiraText}>
+        <section className={classNames(global.row, global.backgroundDark, styles.aboutShira)}>
+          <div className={classNames(global.center, styles.aboutShiraText)}>
             <h1>Shira</h1>
             <p>Helping individuals and organizations to build their defense against phishing attacks</p>
           </div>
           <img src='/img/shira-s.svg'></img>
         </section>
 
-        <section className={styles.aboutHorizontal}>
+        <section className={classNames(global.row, styles.aboutHorizontal)}>
           <img src='/img/horizontal-logo.svg'></img>
           <div className={styles.aboutHorizontalText}>
             <h2>Who makes Shira?</h2>
@@ -38,7 +38,7 @@ export default function About() {
             Why Shira?
           </h2>
 
-          <div className={styles.whyShiraText}>
+          <div className={classNames(styles.whyShiraText, global.row)}>
             <div className={styles.whyShiraReason}>
               <h3>1. Easy to use</h3>
               <p>Shira was created considering communities that are the most at-risk of phishing attacks, especially users with limited tech literacy.</p>

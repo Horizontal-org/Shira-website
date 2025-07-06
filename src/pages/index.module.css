@@ -39,15 +39,7 @@
 }
 
 
-.twoColumns {
-  display: flex;
-  flex-direction: row;
-}
-
 @media (max-width: 768px) {
-  .twoColumns {
-    flex-direction: column;
-  }
   .columnLight,
   .columnGreen {
     padding: 2rem 1rem;
@@ -85,8 +77,6 @@
   padding: 3rem 2rem;
   text-align: center;
   display: flex;
-  flex-direction: row;
-  align-items: center;  
   flex-shrink: 1;
   justify-content: space-evenly;
 }
@@ -104,10 +94,6 @@
 }
 
 @media (max-width: 768px) {
-  .context {
-    flex-direction: column;
-    text-align: center;
-  }
 
   .context p {
     text-align: center;
@@ -121,12 +107,11 @@
   }
 }
 
+.twoColumns {
+  padding:0;
+}
+
 .whySection {
-  padding: 4rem 2rem;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  align-items: center; 
   flex-shrink: 1;
 }
 
@@ -162,10 +147,6 @@
 }
 
 @media (max-width: 768px) {
-  .whySection {
-    flex-direction: column;
-    text-align: center;
-  }
 
   .whySection .reasonsWhy {
     padding: 2rem 1rem;
