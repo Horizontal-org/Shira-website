@@ -5,7 +5,7 @@ import styles from './pricing.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 
-export default function About() {
+export default function Pricing() {
   return (
     <Layout
       title="Shira's pricing"

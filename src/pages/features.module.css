@@ -1,0 +1,53 @@
+.feauturesIntro {
+  padding: 6rem;
+}
+
+.feauturesIntro img {
+  height: 30rem;
+}
+
+.feauturesIntroButtons .button{
+  margin-right: 1rem;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: var(--ifm-color-primary);
+}
+
+.feauturesAllInfo {
+  justify-content: space-evenly;
+}
+
+.feauturesAllInfoText {
+  display: flex;
+  flex-direction: column;
+  max-width: 50rem;
+}
+
+.feauturesAllInfo img {
+  height: 20rem;
+}
+
+.feauturesBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.featureElement {
+  border-radius: 20px;
+  padding: 3rem;
+  margin-bottom: 2rem;
+  width: 30%;
+}
+
+@media (max-width: 768px) {
+  .featureElement {
+    width: 100%;
+  }
+}
+
+.feauturesNeedMore {
+  text-align: center;
+}
