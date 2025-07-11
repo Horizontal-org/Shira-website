@@ -1,0 +1,69 @@
+.learnPhishingIntro {
+  padding: 6rem;
+}
+
+.learnPhishingIntro img {
+  height: 30rem;
+}
+
+.learnPhishingCommon {
+  padding: 4rem;  
+  justify-content: space-between;
+}
+
+.learnPhishingCommonText {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .learnPhishingCommonText {
+    width: 100%;
+  }
+}
+
+.attackers,
+.consequences {
+  justify-content: center;
+}
+
+.attackers img {
+  height: 20rem;
+}
+
+.attackersText {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .attackersText {
+    width: 100%;
+  }
+}
+
+.howitworks, 
+.consequences,
+.whyitworks {
+  width: 80%;
+}
+
+@media (max-width: 768px) {
+  .howitworks, 
+  .consequences,
+  .whyitworks {
+    width: 100%;
+  }
+}
+
+.consequences img {
+  height: 20rem;
+}
+
+.consequencesText {
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .consequencesText {
+    width: 100%;
+  }
+}

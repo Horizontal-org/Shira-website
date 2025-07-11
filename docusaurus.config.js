@@ -97,6 +97,16 @@ const config = {
             position: 'left',
           },
           {
+            href: '/phishing',
+            label: 'Learn - phishing',
+            position: 'left',
+          },
+          {
+            href: '/phishing-quizzes',
+            label: 'Learn - phishing quizzes',
+            position: 'left',
+          },
+          {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
