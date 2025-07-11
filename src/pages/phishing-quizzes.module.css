@@ -1,0 +1,37 @@
+.phishingQuizzesEducation {
+  justify-content: center;
+  padding: 6rem;
+}
+
+.phishingTextIntro {
+  justify-content: space-between;
+}
+
+.phishingQuizzesEducationText {
+  width: 50%;
+}
+
+.phishingQuizzesEducation h1 {
+  width: 40%;
+}
+
+@media (max-width: 768px) {
+  .phishingQuizzesEducationText {
+    width: 100%;
+  }
+}
+
+.iframeWrapper {
+  display: flex;
+  justify-content: space-around;
+}
+
+.phishingProblem {
+  justify-content: center;
+  padding: 10rem; 
+}
+
+.alignedCenter {
+  display: flex;
+  justify-content: center;  
+}
