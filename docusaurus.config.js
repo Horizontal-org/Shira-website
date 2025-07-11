@@ -36,6 +36,9 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: ['docusaurus-plugin-sass'],
+
+
   presets: [
     [
       'classic',
@@ -48,7 +51,7 @@ const config = {
 
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/custom.module.scss',
         },
       }),
     ],
@@ -84,53 +87,28 @@ const config = {
             position: 'left',
           },
           {
+            href: '/pricing',
+            label: 'Pricing',
+            position: 'left',
+          },
+          {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
-            className: 'button buttonDark'
+            className: "backgroundDark",
+            //className: {`${global.backgroundDark} ${global.button}`},
           },
         ],
       },
       footer: {
+        logo: {
+            alt: 'Shira Logo',
+            src: 'img/shira-logo.svg',
+            width: 160,
+            height: 51,
+          },
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Get Stated',
-                href: '/contact',
-              },
-            ],
-          },
-        ],
-        copyright: `Shira is a product of Horizontal, a technology non-profit dedicated to making online security and privacy accessible to all. contact@wearehorizontal.org`,
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
         theme: prismThemes.github,
