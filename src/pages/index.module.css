@@ -1,0 +1,166 @@
+
+
+.hero {
+  text-align: center;
+  padding: 6rem 1rem;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hero .bg {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: .1;
+  width: 100%;
+  height: 100%;
+  background-image: url('/img/shira-about.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center top;
+}
+
+.hero h1 {
+  max-width: 1000px;
+  color: var(--ifm-color-primary-darker);
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  margin-bottom: 2rem;
+}
+
+
+@media (max-width: 768px) {
+  .columnLight,
+  .columnGreen {
+    padding: 2rem 1rem;
+  }
+}
+
+.columnLight, .columnGreen {
+  padding: 5rem 4rem;
+  flex-basis: 50%;
+}
+
+.columnLight {
+  background-color: var(--ifm-color-primary-light);
+  color: var(--ifm-color-primary-darker);
+}
+
+.columnGreen {
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-lightest);;
+}
+
+.columnLight h2,
+.columnGreen h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.columnLight p,
+.columnGreen p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+.context {
+  padding: 3rem 2rem;
+  text-align: center;
+  display: flex;
+  flex-shrink: 1;
+  justify-content: space-evenly;
+}
+
+.context p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 600px;
+  text-align: left;
+}
+
+.context img {
+  height: 400px;
+  width: 400px;
+}
+
+@media (max-width: 768px) {
+
+  .context p {
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .context img {
+    width: 90%;
+    height: auto;
+    margin-top: 1rem;
+  }
+}
+
+.twoColumns {
+  padding:0;
+}
+
+.whySection {
+  flex-shrink: 1;
+}
+
+.whySection h2 {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+
+}
+
+.whySection .reasonsWhy {
+  flex-shrink: 5;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 2rem;
+}
+
+.whySection p {
+  font-size: 2rem;
+}
+
+.whySection ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.whySection li {
+  margin-bottom: 1rem;
+}
+
+.whySection span {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+
+  .whySection .reasonsWhy {
+    padding: 2rem 1rem;
+  }
+
+  .whySection h2 {
+    font-size: 2.5rem;
+  }
+
+  .whySection p {
+    font-size: 1.2rem;
+  }
+
+  .whySection span {
+    font-size: 1.3rem;
+  }
+}
