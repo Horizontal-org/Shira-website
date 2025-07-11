@@ -26,7 +26,7 @@ export default function Home() {
             <p>
               Get started right away with one of our free, pre-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
             </p>
-            <Link className={global.buttonDark} to="/quiz">Take a quiz</Link>
+            <Link className={global.buttonDark} to="https://quiz.shira.app/">Take a quiz</Link>
           </div>
           <div className={styles.columnGreen}>
             <h2>For educators and security professionals</h2>

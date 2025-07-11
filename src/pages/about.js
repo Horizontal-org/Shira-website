@@ -55,7 +55,7 @@ export default function About() {
 
           <div className={styles.whyShiraButtons}>
             <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Privacy policy PENDING</Link>
-            <Link className={classNames(styles.button, global.buttonDark)} to="/assets/shira-final.pdf">Security Audit</Link>
+            <Link className={classNames(styles.button, global.buttonDark)} to="./assets/shira-final.pdf">Security Audit</Link>
           </div>
         </section>
 
