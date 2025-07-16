@@ -12,5 +12,6 @@ jobs:
         uses: appleboy/ssh-action@v1
         with:
           host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
           script: ${{ secrets.REPO_PATH }} deploy.sh -b main
