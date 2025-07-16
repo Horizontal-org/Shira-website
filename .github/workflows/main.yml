@@ -13,4 +13,4 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           key: ${{ secrets.SSH_KEY }}
-          script: ${{secrtets.REPO_PATH}} deploy.sh -b main
+          script: ${{ secrets.REPO_PATH }} deploy.sh -b main
