@@ -14,4 +14,6 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           key: ${{ secrets.SSH_KEY }}
-          script: ${{ secrets.REPO_PATH }} deploy.sh -b main
+          script: | 
+            cd ${{ secrets.REPO_PATH }} 
+            ./deploy.sh -b main
