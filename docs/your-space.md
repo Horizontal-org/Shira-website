@@ -1,4 +1,8 @@
-# Your Space
+---
+id: your-space
+title: Your Space
+sidebar_label: Your Space
+---
 
 In Shira, a SPACE is the central place where you will train your team on phishing. This is where you can:
 * Create and manage quizzes

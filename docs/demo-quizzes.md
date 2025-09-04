@@ -1,4 +1,9 @@
-# Demo quizzes
+---
+id: demo
+title: Demo Quizzes
+sidebar_label: Demo Quizzes
+---
+
 Anyone can use Shira’s demo quizzes for free.
 
 Demo quizzes lets anyone take a phishing quiz to build their anti-phishing skills. Demo quizzes provide a significant amount of customization, including by:

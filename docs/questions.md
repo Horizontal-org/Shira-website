@@ -1,4 +1,10 @@
-# Questions
+---
+id: questions
+title: Questions
+sidebar_label: Questions
+---
+
+
 Each question is made up of several components:
 * The question’s preferences [link to section], to 
 * An App [link to the App section], which is an interface that looks exactly like the actual app or platform the learner uses every day: Gmail, SMS, WhatsApp, etc.

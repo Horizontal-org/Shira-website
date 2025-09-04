@@ -1,4 +1,9 @@
-# Shira at a glance  
+---
+id: at-a-glance
+title: Shira at a Glance
+sidebar_label: Shira at a Glance
+---
+
 
 Shira can help you build anti-phishing skills in two ways:
 * Our demo quizzes [add link to section] let anyone take a 10-question quiz using generic questions that are nonetheless customized to look as similar as what they will see in real life as possible
