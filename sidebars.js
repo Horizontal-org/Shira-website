@@ -1,5 +1,5 @@
 const sidebars = {
-  tutorialSidebar: [
+  HelpSidebar: [
     'welcome',
     'at-a-glance',
     'demo',
@@ -18,6 +18,7 @@ const sidebars = {
       items: ['privacy-and-security', 'self-hosting', 'release-notes'],
     },
     'contact',
+    'privacy-policy'
   ],
 };
 

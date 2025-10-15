@@ -90,9 +90,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'HelpSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Help Center',
           },
           {
             href: 'https://quiz.shira.app/',

@@ -33,6 +33,17 @@ Currently, Shira supports the following apps:
 [Let us know](/contact) if you would like to create Shira quizzes with apps that aren't in this list!  
 
 ### The question's content {#content}
- [link to the Content section], which is the actual email or message that you draft, attachments, and any other elements that may be part of a real-life phishing attack. 
+A question's content is the email or message that you draft to display in the quiz question. This can include any elements that are part of emails or messages in real life like text, images, file attachments, and links.
+
 ### Explanations {#explanations}
- to point to specific elements in the question content that suggest that it may be a phishing attack or that it may be legitimate
+Explanations are short snippets of text that you can create to explain to learners why the email or message in the question may be a phishing attack or not. Explanations will be displayed after a learner answers a question, and highlight specific elements in the question.
+
+When you create a question, each explanation must be linked to an element in the question. Explanations can be linked to:
+- An email such as the email
+- The sender's name
+- The sender's email address or phone number
+- Specific words, sentences, or images inside an emails body
+- Images or email attachments
+
+The order of explanations that you see when you create the quiz question is the same order that the explanations will be shown to learners when they take the quiz.
+
