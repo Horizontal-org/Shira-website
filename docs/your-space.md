@@ -9,7 +9,7 @@ In Shira, a SPACE is the central place where you will train your team on phishin
 * Manage learners and assign quizzes
 * See your learners' results on each quiz
 
-Permissions
+### Permissions
 * Currently, only one user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
 * Only admins can access your Space dashboard. Learners never have access to the Space dashboard, quizzes, or Results.
 
@@ -23,3 +23,4 @@ Permissions
 
 
 :::note It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).
+:::
