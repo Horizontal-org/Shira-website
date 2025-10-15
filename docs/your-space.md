@@ -22,5 +22,6 @@ In Shira, a SPACE is the central place where you will train your team on phishin
 | Create and Manage Space | No      | No |
 
 
-:::note It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).
+:::note
+It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).
 :::
