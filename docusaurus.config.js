@@ -126,7 +126,7 @@ const config = {
               },
               {
                 label: 'Why phishing quizzes?',
-                href: 'phishing-quizzes',
+                href: '/phishing-quizzes',
               },
             ],
           },
