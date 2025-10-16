@@ -82,29 +82,11 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
         logo: {
           alt: 'Shira Log',
           src: 'img/shira-logo.svg',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://quiz.shira.app/',
-            sidebarId: 'takeQuizSidebar',
-            position: 'left',
-            label: 'Take a quiz',
-          },
-          {
-            href: '/about',
-            label: 'About',
-            position: 'left',
-          },
           {
             href: '/features',
             label: 'Features',
@@ -115,6 +97,19 @@ const config = {
             label: 'Pricing',
             position: 'left',
           },
+          {
+            href: 'https://quiz.shira.app/',
+            sidebarId: 'takeQuizSidebar',
+            position: 'left',
+            label: 'Take a quiz',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Tutorial',
+          },
+
           {
             type: 'dropdown',
             label: 'Learn',
@@ -130,6 +125,14 @@ const config = {
               },
             ],
           },
+
+          {
+            href: '/about',
+            label: 'About',
+            position: 'left',
+          },
+
+
           {
             href: '/contact',
             label: 'Get Started',
