@@ -116,14 +116,19 @@ const config = {
             position: 'left',
           },
           {
-            href: '/phishing',
-            label: 'Learn - phishing',
+            type: 'dropdown',
+            label: 'Learn',
             position: 'left',
-          },
-          {
-            href: '/phishing-quizzes',
-            label: 'Learn - phishing quizzes',
-            position: 'left',
+            items: [
+              {
+                label: 'What is Phishing?',
+                href: '/phishing',
+              },
+              {
+                label: 'Why phishing quizzes?',
+                href: 'phishing-quizzes',
+              },
+            ],
           },
           {
             href: '/contact',
