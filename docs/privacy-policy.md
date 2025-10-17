@@ -33,8 +33,8 @@ Shira users can be divided into four groups:
 
 As outlined below, for each of those groups, different data is collected.
 
-## Account data
-### What is account data?
+## Account data {#account-data}
+### What is account data? {#what-is-account-data}
 
 Account data is the data that is associated with a user's Shira account. 
 - Admins are considered to have a Shira account as soon they are invited to create a space
@@ -42,7 +42,7 @@ Account data is the data that is associated with a user's Shira account.
 
 Anonymous Learners and Visitors do not have Shira accounts.
 
-### What account data do we collect?
+### What account data do we collect? {#what-account-data-do-we-collect}
 This is the account data we collect about Admins:
 - Email address: this is the email address an Admin is invited to create a space with and that remains associated with the Admin's account.
 - Date of account creation: an Admin account is considered "created" when an Admin accepts the invitation to create a Space.
@@ -55,23 +55,23 @@ This is the account data we collect about Registered Learners:
 
 We do not collect any account data from Anonymous Learners and Visitors.
 
-### How do we collect account data?
+### How do we collect account data? {#how-do-we-collect-account-data}
 - Email addresses and the list of Spaces a user is associated with are collected when a user is invited to Shira through an invitation form (when an Admin is invited to create a Space or when a Registered Learner is invited to join a space).
 - The date of account creation is collected automatically when a user accepts their invitation to create or join a Space.
 
-### How do we share or disclose account data?
+### How do we share or disclose account data? {#how-do-we-share-or-disclose-account-data}
 We will never sell your account data to any third party.
 
 We will never intentionally disclose your account data to any third party, except in the following cases:
 - As required by law (e.g. if this data is subpoenaed as part of a court order)
 - As necessary to operate and provide the services of Shira (e.g. to process payments)
 
-## Functionality data
+## Functionality data {#functionality-data}
 
-### What is functionality data?
+### What is functionality data? {#what-is-functionality-data}
 Functionality data is the data that is generated when users make use of Shira features, such as quizzes, quiz questions, results, and more.
 
-### What functionality data do we collect?
+### What functionality data do we collect? {#what-functionality-data-do-we-collect}
 This is the functionality data we collect about Admins:
 - Information about the quizzes created and managed by Admins, including the quiz name and status (published, unpublished, public, private, etc), the list of quiz questions, and the explanations created in each question.
 - When Admins connect and use Shira, including the day and time of each connection.
@@ -86,28 +86,28 @@ This is the functionality data we collect about Anonymous Learners:
 
 We do not collect functionality data about Visitors.
 
-### How is functionality data collected?
+### How is functionality data collected? {#how-is-functionality-data-collected}
 We collect functionality data automatically from user inputs as they make use of Shira features.
 
-### How do we share or disclose functionality data?
+### How do we share or disclose functionality data? {#how-do-we-share-or-disclose-functionality-data}
 We will never sell your functionality data to any third party.
 
 We will never intentionally disclose your account data to any third party, except in the following cases:
 - As required by law (e.g. if this data is subpoenaed as part of a court order)
 - As necessary to operate and provide the services of Shira (e.g. to display Results)
 
-## Telemetry
+## Telemetry {#telemetry}
 
-### What is telemetry?
+### What is telemetry? {#what-is-telemetry}
 Telemetry is data about how users make use of Shira features, how often they use Shira, and what performance or user experience issues they may be experiencing.
 
 Telemetry data is used to improve Shira's performance, features, and user experience.
 
-### What telemetry do we collect?
+### What telemetry do we collect? {#what-telemetry-do-we-collect}
 We collect the following telemetry data:
 - The day and time when Admins connect to Shira.
 
-### How is telemetry collected?
+### How is telemetry collected? {#how-is-telemetry-collected}
 Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is anonymized to ensure that it reveals no sensitive information or personally identifiable information about users.
 
 This is how we approach the collection of telemetry:
@@ -115,7 +115,7 @@ This is how we approach the collection of telemetry:
 - Even if we wanted to, we couldn't get the whole data: It's not possible to construct the whole data with only one share. Each processor aggregates its data shares into a partial sum. The partial sums can then be combined into a final aggregation, permitting useful statistics over the whole body of data while revealing minimal information about individual participants. More information how Divvi Up works can be found here.
 - We collect as little data as possible: Even though all data is anonymized, we always minimize the amount of data we collect.
 
-### How do we share or disclose telemetry?
+### How do we share or disclose telemetry? {#how-do-we-share-or-disclose-telemetry}
 We will never sell your telemetry data to any third party.
 We will never intentionally disclose your telemetry data to any third party, except in the following cases:
 As required by law (e.g. if this data is subpoenaed as part of a court order)

@@ -23,5 +23,5 @@ This table summarizes what learners and admins can do on Shira:
 | Create and Manage Space | No      | No |
 
 
-### Deleting your space
+### Deleting your space {#deleting-your-space}
 It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).

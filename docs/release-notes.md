@@ -8,7 +8,7 @@ sidebar_label: Release Notes
 Here’s everything you need to know about the latest features and improvements in Shira. If something is missing, you can [suggest new features or improvements here](https://github.com/Horizontal-org/shira/discussions).
 :::
 
-## Shira 2.0-beta4
+## Shira 2.0-beta4 {#shira-20-beta4}
 *Released on 3 November 2025*
 
 With this release, we are getting closer to the full feature set that will be included in Shira 2.0. You can already find the following features:
