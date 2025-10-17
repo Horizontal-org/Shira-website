@@ -82,7 +82,6 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
         logo: {
           alt: 'Shira Log',
           src: 'img/shira-logo.svg',
@@ -95,17 +94,6 @@ const config = {
             label: 'Help Center',
           },
           {
-            href: 'https://quiz.shira.app/',
-            sidebarId: 'takeQuizSidebar',
-            position: 'left',
-            label: 'Take a quiz',
-          },
-          {
-            href: '/about',
-            label: 'About',
-            position: 'left',
-          },
-          {
             href: '/features',
             label: 'Features',
             position: 'left',
@@ -116,15 +104,34 @@ const config = {
             position: 'left',
           },
           {
-            href: '/phishing',
-            label: 'Learn - phishing',
+            href: 'https://quiz.shira.app/',
+            sidebarId: 'takeQuizSidebar',
             position: 'left',
+            label: 'Take a quiz',
           },
           {
-            href: '/phishing-quizzes',
-            label: 'Learn - phishing quizzes',
+            type: 'dropdown',
+            label: 'Learn',
+            position: 'left',
+            items: [
+              {
+                label: 'What is Phishing?',
+                href: '/phishing',
+              },
+              {
+                label: 'Why phishing quizzes?',
+                href: '/phishing-quizzes',
+              },
+            ],
+          },
+
+          {
+            href: '/about',
+            label: 'About',
             position: 'left',
           },
+
+
           {
             href: '/contact',
             label: 'Get Started',
