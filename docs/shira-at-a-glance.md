@@ -18,4 +18,4 @@ A [Shira Space](/overview.md) offers advanced features for teams and organizatio
 - setting your quizz's privacy as public (accessible to anyone with the quiz URL) or private (only accessible to learners registered with your organization). Private quizzes are coming soon!
 - tracking user Results to understand where your users can improve.
 
-[Learn more about Shira spaces](/overview.md) or if you're already convinced, [get in touch](/contact.md) so we can create your space!
+[Learn more about Shira spaces](/overview.md) or if you're already convinced, [get in touch](/contact) so we can create your space!
