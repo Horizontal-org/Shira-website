@@ -6,4 +6,6 @@ sidebar_label: Self-Hosting
 
 Shira is open-source and anyone can self-host their own instance.
 
-For now, we don't have any detailed guidance on how to self-host Shira, but experienced self-hosters may be able to do it anyway: https://github.com/Horizontal-org/shira 
+For now, there is guidance on how to self-host Shira, but experienced self-hosters may be able to do it anyway: https://github.com/Horizontal-org/shira 
+
+In the first quarter of 2026, we will publish self-hosting guidance. 

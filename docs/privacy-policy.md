@@ -13,9 +13,11 @@ sidebar_label: Privacy Policy
 
 
 # 1. Introduction {#intro}
-Horizontal, the organization behind Shira, is deeply committed to user privacy and to the protection of user data. As a non-profit entirely dedicated to privacy rights, we design our products to collect as little information as necessary about our users; and whatever information we do collect, we do our best to anonymize and/or ensure that users give us informed consent to collect this data.
+Horizontal is the organization that makes Shira. Horizontal is deeply committed to user privacy and to the protection of user data. 
 
-The statement below applies exclusively to Shira Cloud, that is the version of Shira available at https://shira.app and https://space.shira.app.
+As a non-profit dedicated to privacy rights, we design our products to collect as little information as necessary about our users; and whatever information we do collect, we do our best to anonymize and/or ensure that users give us informed consent to collect this data.
+
+The statement below applies exclusively to Shira Cloud, that is the version of Shira available at https://shira.app, https://space.shira.app, and https://quiz.shira.app.
 
 # 2. Data collected {#data-collected}
 The data that is created in Shira or that is generated when users use Shira can be divided into three categories:
@@ -24,40 +26,45 @@ The data that is created in Shira or that is generated when users use Shira can 
 - Telemetry
 
 Shira users can be divided into four groups:
-- Admins, who can log into the Shira admin dashboard to manage their space, quizzes, users, and results.
-- Anonymous Learners, who are invited to join Spaces, take quizzes, and don't have a password to log into Shira.
-- Registered Learners, who take public quizzes through a public URL.
-- Visitors, who visit Shira but do not take quizzes or interact with Shira functionality.
+- Admins, who can log into a Shira "space" to manage their quizzes, users, and results.
+- Anonymous Learners, who are not registered on Shira and can only take public quizzes through the public URL.
+- Registered Learners, who are invited to join Spaces, take private quizzes, and don't have a password to log into Shira.
+- Visitors, who visit the Shira websites but do not take quizzes or interact with Shira functionality.
 
 As outlined below, for each of those groups, different data is collected.
 
 ## Account data
-What is account data?
+### What is account data?
 
-Account data is the data that is associated with a user's Shira account. Users, including Admins and Private Learners, are considered to have a Shira account as soon they are invited to create a space or invited to join a Space.
+Account data is the data that is associated with a user's Shira account. 
+- Admins are considered to have a Shira account as soon they are invited to create a space
+- Registered Learners are considered to have a Shira account as soon they are invited to join a Space.
+
+Anonymous Learners and Visitors do not have Shira accounts.
 
 ### What account data do we collect?
 This is the account data we collect about Admins:
-- Email address.
-- Date of account creation. An Admin account is considered "created" when an Admin accepts the invitation to create a Space.
+- Email address: this is the email address an Admin is invited to create a space with and that remains associated with the Admin's account.
+- Date of account creation: an Admin account is considered "created" when an Admin accepts the invitation to create a Space.
 - What Space(s) the Admin is associated with.
 
 This is the account data we collect about Registered Learners:
-- Email address.
-- Date of account creation. A learner account is considered "created" when a Registered Learner accepts the invitation to join a Space.
+- Email address: this is the email address a Registered User is invited to join a space with, and that remains associated with the Registered User's account once the account is created. 
+- Date of account creation: a Registerd Learner's account is considered "created" when a Registered Learner accepts the invitation to join a Space.
 - What Space(s) the Registered Learner is associated with.
 
 We do not collect any account data from Anonymous Learners and Visitors.
 
 ### How do we collect account data?
-- Email addresses and the list of Spaces a user is associated with are collected when a user is invited to Shira through an invitation form (when an Admin is invited to create a Space or when a Learner is invited to join a space).
+- Email addresses and the list of Spaces a user is associated with are collected when a user is invited to Shira through an invitation form (when an Admin is invited to create a Space or when a Registered Learner is invited to join a space).
 - The date of account creation is collected automatically when a user accepts their invitation to create or join a Space.
 
 ### How do we share or disclose account data?
 We will never sell your account data to any third party.
+
 We will never intentionally disclose your account data to any third party, except in the following cases:
-As required by law (e.g. if this data is subpoenaed as part of a court order)
-As necessary to operate and provide the services of Shira (e.g. to process payments)
+- As required by law (e.g. if this data is subpoenaed as part of a court order)
+- As necessary to operate and provide the services of Shira (e.g. to process payments)
 
 ## Functionality data
 
@@ -66,19 +73,21 @@ Functionality data is the data that is generated when users make use of Shira fe
 
 ### What functionality data do we collect?
 This is the functionality data we collect about Admins:
-- Information about the quizzes created and managed by Admins, including the quiz name and status (draft, published, etc), the list of quiz questions, and the explanations created in each question.
+- Information about the quizzes created and managed by Admins, including the quiz name and status (published, unpublished, public, private, etc), the list of quiz questions, and the explanations created in each question.
+- When Admins connect and use Shira, including the day and time of each connection.
 
-This is the functionality data we collect about Private Learners:
-- List of quizzes that a Learner is invited to take or has taken
-- Responses submitted by the Private Learner when taking a quiz (Results). This data is only collected if Admins enabled Results in their space.
 
-This is the functionality data we collect about Public Learners:
-- Responses submitted by the Public Learner when taking a quiz (Results). This data is only collected if Admins enabled Results in their space.
+This is the functionality data we collect about Registered Learners:
+- List of quizzes that a Registered Learner is invited to take or has taken.
+- Responses submitted by the Registered Learner when taking a quiz (Results).
+
+This is the functionality data we collect about Anonymous Learners:
+- Responses submitted by the Anonymous Learner when taking a quiz (Results).
 
 We do not collect functionality data about Visitors.
 
 ### How is functionality data collected?
-We collect functionality data from user inputs as they make use of Shira features.
+We collect functionality data automatically from user inputs as they make use of Shira features.
 
 ### How do we share or disclose functionality data?
 We will never sell your functionality data to any third party.
@@ -92,11 +101,11 @@ We will never intentionally disclose your account data to any third party, excep
 ### What is telemetry?
 Telemetry is data about how users make use of Shira features, how often they use Shira, and what performance or user experience issues they may be experiencing.
 
-### It is used to improve Shira's performance, features, and user experience.
-What telemetry do we collect?
+Telemetry data is used to improve Shira's performance, features, and user experience.
+
+### What telemetry do we collect?
 We collect the following telemetry data:
-- j 
-- k 
+- The day and time when Admins connect to Shira.
 
 ### How is telemetry collected?
 Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is anonymized to ensure that it reveals no sensitive information or personally identifiable information about users.

@@ -4,15 +4,16 @@ title: Your Space
 sidebar_label: Your Space
 ---
 
-In Shira, a SPACE is the central place where you will train your team on phishing. This is where you can:
+In Shira, a space is the central place where you will train your team on phishing. This is where you can:
 * Create and manage quizzes
 * Manage learners and assign quizzes
 * See your learners' results on each quiz
 
-### Permissions
-* Currently, only one user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
+### Permissions {#permissions}
+* Currently, only one admin user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
 * Only admins can access your Space dashboard. Learners never have access to the Space dashboard, quizzes, or Results.
 
+This table summarizes what learners and admins can do on Shira:
 | Permission                | Learner | Admin |
 |---------------------------|---------|-------------|
 | Take Quiz                 | Yes     | Yes |
@@ -22,6 +23,5 @@ In Shira, a SPACE is the central place where you will train your team on phishin
 | Create and Manage Space | No      | No |
 
 
-:::note
+### Deleting your space
 It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).
-:::

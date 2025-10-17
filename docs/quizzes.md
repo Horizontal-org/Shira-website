@@ -9,7 +9,7 @@ In Shira, a quiz is the central component where you train your team. Shira lets 
 
 In your Shira Space, you can:
 - [create quizzes](#create-quizzes)
-- [copy the quiz URL](#quiz-url)
+- [get a quiz URL to share with learners](#quiz-url) 
 - [publish and unpublish a quiz](#publish-unpublish) 
 - [edit existing quizzes](#edit-quizzes) 
 - [duplicate an existing quiz](#duplicate-quiz)
@@ -19,7 +19,9 @@ In your Shira Space, you can:
 In your Shira space, you are free to create as many quizzes as you wish. Each quiz can have as few or as many [quiz questions](/questions.md) as needed.
 
 ### Quiz URL {#quiz-url}
-The quiz URL is the URL that learners will need to take the quiz. This is a URL that is unique to each quiz. The quiz URL remains the same even if you publish and unpublish the quiz multiple times. 
+The quiz URL is a URL unique to each quiz that learners use to take a quiz. A quiz URL looks like this: `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68`
+
+The quiz URL remains the same even if you publish and unpublish the quiz multiple times. 
 
 ### Publishing and unpublishing quizzes {#publish-unpublish}
 Publishing a quiz means that you are making it accessible to anyone with the quiz URL. 
@@ -27,7 +29,7 @@ Publishing a quiz means that you are making it accessible to anyone with the qui
 You can then unpublish the quiz to make it impossible for learners to take it. If the quiz is unpublished, the quiz URL will lead to an error page. 
 
 :::note
-If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers. 
+If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their answers will be lost. 
 :::
 
 ### Editing quizzes {#edit-quizzes}
@@ -37,8 +39,14 @@ You can edit any quiz, whether it is published or unpublished, including:
 - Reording questions. The order of questions that you see in your space is the same order that the questions will be shown to learners when they take the quiz.
 - Deleting questions. Once deleted, there is no way of retrieving a question. 
 
+:::note
+If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results.md).
+:::
+
 ### Duplicating a quiz {#duplicate-quiz}
-Duplicating a quiz means create an exact copy of an existing quiz. Once duplicated, you can freely modify the new quiz; the original quiz will remain intact. Similarly, modifying the original quiz will not impact the new quiz. 
+Duplicating a quiz means creating an exact copy of an existing quiz. 
+
+Once duplicated, the original quiz and the new quiz are independent from each other: you can edit or delete one, the other will be unaffected. 
 
 ### Deleting a quiz {#delete-quiz}
 Deleting a quiz means that the quiz, all the questions inside the quiz, and any [results](/results.md) associated with this quiz are deleted from your space. 

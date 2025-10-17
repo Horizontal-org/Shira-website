@@ -15,7 +15,7 @@ const sidebars = {
       label: 'Technical Stuff',
       link: null,
       collapsible: false,
-      items: ['privacy-and-security', 'self-hosting', 'release-notes'],
+      items: ['self-hosting', 'release-notes'],
     },
     'contact',
     'privacy-policy'
