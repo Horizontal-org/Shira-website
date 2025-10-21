@@ -12,7 +12,7 @@ Each question is made up of several components:
 * [The question’s preferences](#preferences) 
 * [An app](#app)
 * [The question's content](#content)
-* [Explanations](explanations)
+* [Explanations](#explanations)
 
 ### Question preferences {#preferences}
 When you create a question, you must: 
