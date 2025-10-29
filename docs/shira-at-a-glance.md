@@ -2,7 +2,9 @@
 id: at-a-glance
 title: Shira at a Glance
 sidebar_position: 2
-slug: at-a-glance
+slug: /at-a-glance
+description: Overview of Shira's two main ways to build anti-phishing skills, demo quizzes for individuals and Shira Spaces for teams and organizations.
+
 ---
 
 

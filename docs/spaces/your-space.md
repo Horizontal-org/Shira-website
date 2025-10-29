@@ -3,6 +3,7 @@ id: your-space
 title: Your Space
 slug: /your-space
 sidebar_position: 5
+description: Learn about Shira Spaces — the central hub to create and manage quizzes, assign learners, track results, and control permissions for training your team on phishing awareness.
 
 ---
 

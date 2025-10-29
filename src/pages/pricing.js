@@ -9,10 +9,13 @@ export default function Pricing() {
   return (
     <Layout
       title="Shira's pricing"
-      description="Plans descriptions that fit organizational needs."
+      description="Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
     >
 
       <main className={global.main}>
+        <meta name="description" content="Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools." />
+
+
         <section className={classNames(global.backgroundLight, styles.pricingShira)}>
           <div className={styles.princingIntro}>
             <p>Custom plans for educators and security professionals</p>

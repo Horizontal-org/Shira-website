@@ -11,9 +11,12 @@ export default function PhishingQuizzes() {
   return (
     <Layout
       title="Learn about Phishing quizzes"
-      description=""
+      description="Learn why phishing quizzes are more effective than simulations. Shira offers safe, interactive training to build real phishing detection skills without stress or punishment."
     >
       <main className={classNames(global.main, styles.phishingQuizzes)}>
+        <meta name="description" content="Learn why phishing quizzes are more effective than simulations. Shira offers safe, interactive training to build real phishing detection skills without stress or punishment." />
+
+
         <section className={classNames(global.backgroundDark, global.center, styles.phishingQuizzesEducation)}>
           <div className={classNames(global.row, styles.phishingTextIntro)}>
             <h1>Why education beats simulation</h1>

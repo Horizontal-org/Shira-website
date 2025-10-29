@@ -11,6 +11,9 @@ export default function Home() {
       title="Shira"
       description="Learn the skills needed to identify and defeat phishing attacks with Shira."
     >
+
+      <meta name="description" content="Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language." />
+
       <main className={global.main}>
 
         <section className={styles.hero}>

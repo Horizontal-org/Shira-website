@@ -9,9 +9,11 @@ export default function Phishing() {
   return (
     <Layout
       title="Learn about Phishing"
-      description="Learn about Phishing, what is phishing, what are the most common attacks, what do attackers try to obtain, why and how it works, and what are some of the potential consequences."
+      description="Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
     >
       <main className={classNames(global.main, styles.phishing)}>
+        <meta name="description" content="Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations." />
+
 
         <section className={classNames(global.row, global.center, styles.learnPhishingIntro)}>
           <div className={styles.learnPhishingIntroText}>

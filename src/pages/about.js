@@ -9,9 +9,11 @@ export default function About() {
   return (
     <Layout
       title="About Shira"
-      description="Information about the Shira team and the parent organization: Horizontal."
+      description="Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
     >
       <main className="main">
+        <meta name="description" content="Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks." />
+
         <section className={classNames(global.row, global.backgroundDark, styles.aboutShira)}>
           <div className={classNames(global.center, styles.aboutShiraText)}>
             <h1>Shira</h1>

@@ -9,9 +9,11 @@ export default function Features() {
   return (
     <Layout
       title="Shira's Features"
-      description="Learn about Shira features."
+      description="Explore Shira’s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness."
     >
       <main className={global.main}>
+
+        <meta name="description" content="Explore Shira’s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness." />
 
         <section className={classNames(global.row, global.center, styles.feauturesIntro)}>
           <div className={styles.feauturesIntroText}>
