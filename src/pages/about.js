@@ -18,6 +18,8 @@ export default function About() {
           <div className={classNames(global.center, styles.aboutShiraText)}>
             <h1>Shira</h1>
             <p>Helping individuals and organizations to build their defense against phishing attacks</p>
+            <Link className={classNames(styles.button, global.buttonLight)} to="/contact">Get in touch</Link>
+
           </div>
           <img src='/img/shira-s.svg'></img>
         </section>
@@ -55,9 +57,9 @@ export default function About() {
             </div>
           </div>
 
-          <div className={styles.whyShiraButtons}>
-            <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Privacy policy PENDING</Link>
-            <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Security Audit PENDING LINK TO ASSETS</Link>
+          <div className={classNames(styles.whyShiraButtons, global.row, global.center)}>
+            <Link className={classNames(styles.button, global.buttonDark)} to="/privacy-policy">Privacy policy </Link>
+            <Link className={classNames(styles.button, global.buttonDark)} to="/assets/shira-final.pdf">Security Audit</Link>
           </div>
         </section>
 

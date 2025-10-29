@@ -40,57 +40,57 @@ export default function Features() {
         <section className={classNames(global.row, styles.feauturesBox)}>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>🎨 User-friendly interface</h3>
+            <h3>User-friendly interface 🎨</h3>
             <p>Intuitive dashboard for easy navigation and management of quizzes and user data.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>🔒 Role-based access control</h3>
+            <h3>Role-based access control 🔒</h3>
             <p>Different access levels for admins, managers, and employees.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>⚡ Real-Life Attack Simulation</h3>
+            <h3>Real-Life Attack Simulation ⚡ </h3>
             <p>Ability to input details from actual phishing attacks the company has experienced.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>📧 Email phishing simulations</h3>
+            <h3> Email phishing simulations 📧</h3>
             <p>Create quizzes that mimic phishing emails, including headers, body, and attachments.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>💬 SMS phishing simulations</h3>
+            <h3>SMS phishing simulations 💬 </h3>
             <p>Design quizzes that simulate SMS phishing attempts with realistic text messages.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>💬 Messaging app phishing simulations</h3>
+            <h3>Messaging app phishing simulations 💬</h3>
             <p>Include quizzes that replicate phishing through WhatsApp, Messenger, etc.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>📱 Mobile support</h3>
+            <h3>Mobile support 📱 </h3>
             <p>Users can take Shira quizzes on mobile devices to simulate real-life scenarios.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>✅ Compliance</h3>
+            <h3>Compliance ✅ </h3>
             <p>Ensure that your team actually completes your quizzes and monitor success rates.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>📈 Analytics</h3>
+            <h3>Analytics 📈 </h3>
             <p>Track user progress and identify areas for improvement.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>📝 Explanations</h3>
+            <h3>Explanations 📝</h3>
             <p>Embed your own explanations on why an email or message looks like phishing.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>🕹️ Gamification</h3>
+            <h3>Gamification 🕹️</h3>
             <p>An entertaining learning experience promotes better knowledge retention.</p>
           </div>
 

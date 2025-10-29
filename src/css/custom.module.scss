@@ -9,13 +9,14 @@
   --ifm-color-primary: #587a3f; /*Green dark*/
   --ifm-color-primary-dark: #4f6e39;
   --ifm-color-primary-darker: #111827;
-  --ifm-color-primary-darkest: #313638;
+  --ifm-color-primary-darkest: #333030;
   --ifm-color-primary-light: #e6ecb9;
   --ifm-color-primary-lighter: #658c48;
   --ifm-color-primary-lightest: #ffffff;
   --ifm-code-font-size: 95%;
   --ifm-navbar-link-color: var(--ifm-color-darkest);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-footer-background-color: var(--ifm-color-darkest);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -29,6 +30,7 @@
   --ifm-color-primary-lightest: #313638;
   --ifm-navbar-link-color: var(--ifm-color-darkest);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-footer-background-color: var(--ifm-color-darkest);
 }
 
 
@@ -53,6 +55,7 @@
   white-space: nowrap;
   cursor: pointer;
   text-transform: uppercase;
+  margin: 1rem;
 
   &:hover {
     outline: none;

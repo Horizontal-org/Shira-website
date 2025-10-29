@@ -7,7 +7,7 @@
 }
 
 .feauturesIntroButtons .button{
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 .underline {
@@ -17,6 +17,7 @@
 
 .feauturesAllInfo {
   justify-content: space-evenly;
+  padding: 6rem;
 }
 
 .feauturesAllInfoText {

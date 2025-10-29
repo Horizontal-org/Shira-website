@@ -87,19 +87,8 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'HelpSidebar',
-            position: 'left',
-            label: 'Help Center',
-          },
-          {
             href: '/features',
             label: 'Features',
-            position: 'left',
-          },
-          {
-            href: '/pricing',
-            label: 'Pricing',
             position: 'left',
           },
           {
@@ -123,13 +112,22 @@ const config = {
               },
             ],
           },
-
+          {
+            href: '/pricing',
+            label: 'Pricing',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'HelpSidebar',
+            position: 'left',
+            label: 'Help',
+          },
           {
             href: '/about',
             label: 'About',
             position: 'left',
           },
-
 
           {
             href: '/contact',

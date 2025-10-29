@@ -32,7 +32,7 @@ export default function Pricing() {
             <p>Best to try things out.</p>
 
 
-            <Link className={global.buttonDark} to="/contact">Get stated</Link>
+            <Link className={global.buttonDark} to="/contact">Get started</Link>
 
             <hr></hr>
 
@@ -61,7 +61,7 @@ export default function Pricing() {
             <p>Best for organizations looking to level-up.</p>
 
 
-            <Link className={global.buttonDark} to="/contact">Get stated</Link>
+            <Link className={global.buttonDark} to="/contact">Get started</Link>
 
             <hr></hr>
 
@@ -100,7 +100,7 @@ export default function Pricing() {
             <p>Best for large organizations and service providers </p>
 
 
-            <Link className={global.buttonDark} to="/contact">Get stated</Link>
+            <Link className={global.buttonDark} to="/contact">Get started</Link>
 
             <hr></hr>
 
