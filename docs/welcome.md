@@ -2,6 +2,8 @@
 id: welcome
 title: Welcome
 sidebar_label: Welcome
+slug: welcome
+sidebar_position: 1
 ---
 
 Shira is an anti-phishing training tool.

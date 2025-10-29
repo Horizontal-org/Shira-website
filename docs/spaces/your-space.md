@@ -1,7 +1,9 @@
 ---
 id: your-space
 title: Your Space
-sidebar_label: Your Space
+slug: /your-space
+sidebar_position: 5
+
 ---
 
 In Shira, a space is the central place where you will train your team on phishing. This is where you can:

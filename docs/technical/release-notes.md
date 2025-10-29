@@ -1,7 +1,8 @@
 ---
 id: release-notes
 title: Release Notes
-sidebar_label: Release Notes
+slug: /release-notes
+sidebar_position: 12
 ---
 
 :::tip

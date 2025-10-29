@@ -1,7 +1,8 @@
 ---
 id: quizzes
 title: Quizzes
-sidebar_label: Quizzes
+slug: /quizzes
+sidebar_position: 6
 ---
 
 
@@ -16,7 +17,7 @@ In your Shira Space, you can:
 - [delete quizzes](#delete-quiz)
 
 ### Creating quizzes {#create-quizzes}
-In your Shira space, you are free to create as many quizzes as you wish. Each quiz can have as few or as many [quiz questions](/questions.md) as needed.
+In your Shira space, you are free to create as many quizzes as you wish. Each quiz can have as few or as many [quiz questions](/questions) as needed.
 
 ### Quiz URL {#quiz-url}
 The quiz URL is a URL unique to each quiz that learners use to take a quiz. A quiz URL looks like this: `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68`
@@ -40,7 +41,7 @@ You can edit any quiz, whether it is published or unpublished, including:
 - Deleting questions. Once deleted, there is no way of retrieving a question. 
 
 :::note
-If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results.md).
+If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
 :::
 
 ### Duplicating a quiz {#duplicate-quiz}
@@ -49,7 +50,7 @@ Duplicating a quiz means creating an exact copy of an existing quiz.
 Once duplicated, the original quiz and the new quiz are independent from each other: you can edit or delete one, the other will be unaffected. 
 
 ### Deleting a quiz {#delete-quiz}
-Deleting a quiz means that the quiz, all the questions inside the quiz, and any [results](/results.md) associated with this quiz are deleted from your space. 
+Deleting a quiz means that the quiz, all the questions inside the quiz, and any [results](/results) associated with this quiz are deleted from your space. 
 
 :::warning
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!

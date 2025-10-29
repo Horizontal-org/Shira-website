@@ -1,7 +1,8 @@
 ---
 id: questions
 title: Questions
-sidebar_label: Questions
+slug: /questions
+sidebar_position: 7
 ---
 
 Quiz questions are where the learning happens in Shira. This is where you show your learners an email or message, and ask them: does this look like phishing? 

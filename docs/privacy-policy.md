@@ -1,7 +1,9 @@
 ---
 id: privacy-policy
 title: Privacy policy
-sidebar_label: Privacy Policy
+slug: /privacy-policy
+sidebar_position: 13
+
 ---
 
 1. [Introduction](#intro)
@@ -18,7 +20,7 @@ Horizontal is the organization that makes Shira. Horizontal is deeply committed 
 
 As a non-profit dedicated to privacy rights, we design our products to collect as little information as necessary about our users; and whatever information we do collect, we do our best to anonymize and/or ensure that users give us informed consent to collect this data.
 
-The statement below applies exclusively to Shira Cloud, that is the version of Shira available at https://shira.app, https://space.shira.app, and https://quiz.shira.app.
+The statement below applies exclusively to Shira Cloud, that is the version of Shira available at [https://shira.app](https://shira.app), [https://space.shira.app](https://space.shira.app), and [https://quiz.shira.app](https://quiz.shira.app).
 
 ## 2. Data collected {#data-collected}
 The data that is created in Shira or that is generated when users use Shira can be divided into three categories:
@@ -128,11 +130,11 @@ We implement industry standard practices to protect your data from unauthorized 
 - JSON Web Tokens, which are an open, industry standard RFC 7519 method for representing claims securely between two parties
 
 ## 4. Your California Privacy Rights {#california}
-If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit https://www.oag.ca.gov/privacy/ccpa.
+If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
 ## 5. Changes to Our Privacy Policy {#changes}
 We may update or privacy policy from time to time. If we make material changes to how we treat our users’ personal information, we will post the new privacy policy on this page with a notice that the privacy policy has been updated.
 The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting this privacy policy to check for any changes.
 
 ## 6. Contact Information {#contact}
-To ask questions or comment about this privacy policy and our privacy practices, contact us at contact@wearehorizontal.org.
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).

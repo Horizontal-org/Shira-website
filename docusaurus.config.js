@@ -46,9 +46,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-
+          routeBasePath: '/',
+          sidebarCollapsible: false,
         },
         theme: {
           customCss: './src/css/custom.module.scss',
