@@ -146,7 +146,7 @@ const config = {
       footer: {
         logo: {
             alt: 'Shira Logo',
-            src: 'img/shira-logo.svg',
+            src: 'img/shira-logo.png',
             width: 160,
             height: 51,
           },
