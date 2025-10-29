@@ -85,7 +85,7 @@ const config = {
       navbar: {
         logo: {
           alt: 'Shira Log',
-          src: 'img/shira-logo.svg',
+          src: 'img/shira-logo.png',
         },
         items: [
           {
