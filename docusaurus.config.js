@@ -11,6 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Shira',
+  staticDirectories: ['static'],
+
   tagline: 'Learn the skills needed to identify and defeat phishing attacks',
   favicon: 'img/shira.ico',
 
