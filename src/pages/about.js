@@ -4,6 +4,8 @@ import Link from '@docusaurus/Link';
 import styles from './about.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 export default function About() {
   return (
