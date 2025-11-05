@@ -11,6 +11,12 @@
   width: 50%;
 }
 
+.phishingQuizzesEducation img {
+  height: 320px;
+  border-radius: 25px;
+
+}
+
 .phishingQuizzesEducation h1 {
   width: 40%;
 }

@@ -26,10 +26,9 @@ export default function PhishingQuizzes() {
             </div>
           </div>
           <div className={classNames(global.center,styles.iframeWrapper)}>
-            <Iframe url="https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173"
-              width="80%"
-              height="320px"
-              > </Iframe>
+            <a href="https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173">
+              <img src='/img/wsj.png' alt="news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"></img>
+            </a>
             </div>
         </section>
 
