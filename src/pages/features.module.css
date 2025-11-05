@@ -3,7 +3,7 @@
 }
 
 .feauturesIntro img {
-  height: 30rem;
+  max-height: 30rem;
 }
 
 .feauturesIntroButtons .button{
@@ -27,7 +27,7 @@
 }
 
 .feauturesAllInfo img {
-  height: 20rem;
+  max-height: 20rem;
 }
 
 .feauturesBox {
