@@ -25,7 +25,12 @@
   .phishingQuizzesEducationText {
     width: 100%;
   }
+
+  .phishingQuizzesEducation h1 {
+  width: 100%;
+  }
 }
+
 
 .iframeWrapper {
   display: flex;
@@ -35,6 +40,12 @@
 .phishingProblem {
   justify-content: center;
   padding: 10rem; 
+}
+
+@media (max-width: 768px) {
+  .phishingProblem {
+    padding: 4rem 2rem;
+  }
 }
 
 .alignedCenter {
