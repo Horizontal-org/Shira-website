@@ -8,4 +8,4 @@ import DocCardList from '@theme/DocCardList';
 
 # Technical stuff
 
-<DocCardList />
+<DocCardList className="shira-doc-cards" />

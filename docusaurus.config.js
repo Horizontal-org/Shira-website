@@ -140,8 +140,7 @@ const config = {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
-            className: "backgroundDark",
-            //className: {`${global.backgroundDark} ${global.button}`},
+            className: 'backgroundDark button button--primary button--lg',
           },
           {
             type: 'search',
@@ -154,7 +153,6 @@ const config = {
         logo: {
             alt: 'Shira Logo',
             src: 'img/shira-logo.png',
-            width: 160,
             height: 51,
           },
         copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
