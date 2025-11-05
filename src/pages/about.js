@@ -59,6 +59,8 @@ export default function About() {
 
           <div className={classNames(styles.whyShiraButtons, global.row, global.center)}>
             <Link className={classNames(styles.button, global.buttonDark)} to="/privacy-policy">Privacy policy </Link>
+            <Link className={classNames(styles.button, global.buttonDark)} to="/assets/shira-final.pdf">Security Audit</Link>
+
           </div>
         </section>
 

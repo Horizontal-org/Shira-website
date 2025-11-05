@@ -152,7 +152,6 @@ const config = {
             width: 160,
             height: 51,
           },
-        style: 'dark',
         copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
