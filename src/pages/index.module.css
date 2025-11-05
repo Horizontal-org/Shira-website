@@ -128,10 +128,6 @@
   padding: 3rem 2rem;
 }
 
-.whySection p {
-  font-size: 2rem;
-}
-
 .whySection ul {
   list-style: none;
   padding-left: 0;
@@ -142,8 +138,8 @@
 }
 
 .whySection span {
-  font-weight: bold;
-  font-size: 1.5rem;
+  font-weight: 600;
+  font-size: 1rem;
 }
 
 @media (max-width: 768px) {

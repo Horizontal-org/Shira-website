@@ -19,7 +19,7 @@ export default function Home() {
         <section className={styles.hero}>
           <div className={styles.bg}></div>
           <h1>Preparedness. Knowledge. Resilience.</h1>
-          <p>Learn the skills needed to identify and defeat phishing attacks</p>
+          <h4>Learn the skills needed to identify and defeat phishing attacks</h4>
         </section>
 
 
@@ -50,7 +50,7 @@ export default function Home() {
         <section className={classNames(global.row, global.center,global.backgroundDark, styles.whySection)}>
           <h2>Why Shira?</h2>
           <div className={styles.reasonsWhy}>
-            <p>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
+            <h4>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</h4>
             <ul>
               <li><span>Easy to use</span> <br/> Created for communities most at risk of phishing attacks, even with limited tech literacy.</li>
               <li><span>Customizable</span> <br/> Realistic phishing messages to simulate real scenarios users face daily.</li>

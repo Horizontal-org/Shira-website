@@ -17,7 +17,7 @@ export default function About() {
         <section className={classNames(global.row, global.backgroundDark, styles.aboutShira)}>
           <div className={classNames(global.center, styles.aboutShiraText)}>
             <h1>Shira</h1>
-            <p>Helping individuals and organizations to build their defense against phishing attacks</p>
+            <h4>Helping individuals and organizations to build their defense against phishing attacks</h4>
             <Link className={classNames(styles.button, global.buttonLight)} to="/contact">Get in touch</Link>
 
           </div>
@@ -59,7 +59,6 @@ export default function About() {
 
           <div className={classNames(styles.whyShiraButtons, global.row, global.center)}>
             <Link className={classNames(styles.button, global.buttonDark)} to="/privacy-policy">Privacy policy </Link>
-            <Link className={classNames(styles.button, global.buttonDark)} to="/assets/shira-final.pdf">Security Audit</Link>
 
           </div>
         </section>

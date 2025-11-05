@@ -17,7 +17,7 @@ export default function Features() {
 
         <section className={classNames(global.row, global.center, styles.feauturesIntro)}>
           <div className={styles.feauturesIntroText}>
-            <p>For educators and security professionals</p>
+            <h4>For educators and security professionals</h4>
             <h2>Create <span className={classNames(styles.underline)}>your</span> own phishing quizzes for <span className={classNames(styles.underline)}>your</span> team to address <span className={classNames(styles.underline)}>your</span> threats</h2>
 
              <div className={styles.feauturesIntroButtons}>
@@ -33,7 +33,7 @@ export default function Features() {
 
           <div className={styles.feauturesAllInfoText}>
             <h1>All the features you need to keep your team safe</h1>
-            <p>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</p>
+            <h4>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</h4>
           </div>
         </section>
 
@@ -100,7 +100,7 @@ export default function Features() {
 
           <div className={styles.feauturesNeedMore}>
             <h2>Missing a feature?</h2>
-            <p>Get in touch. We’ll make it happen.</p>
+            <h4>Get in touch. We’ll make it happen.</h4>
             <Link className={global.buttonDark} to="/contact">Contact us</Link>
 
           </div>

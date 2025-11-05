@@ -18,8 +18,8 @@ export default function Phishing() {
         <section className={classNames(global.row, global.center, styles.learnPhishingIntro)}>
           <div className={styles.learnPhishingIntroText}>
             <h2>What is phishing?</h2>
-            <p>Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware.</p>
-            <p>Understanding phishing is the first step in protecting yourself and your organization.</p>
+            <h4>Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware.</h4>
+            <h4>Understanding phishing is the first step in protecting yourself and your organization.</h4>
           </div>
           <img src='/img/fish.png'></img>
         </section>
@@ -27,8 +27,8 @@ export default function Phishing() {
         <section className={classNames(global.row, global.center, global.backgroundDark, styles.learnPhishingCommon)}>
             <h1>The most common attack</h1>
             <div className={styles.learnPhishingCommonText}>
-              <p>Phishing is consistently ranked as the most common attack experienced by individuals and organizations.</p>
-              <p>While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls.</p>
+              <h4>Phishing is consistently ranked as the most common attack experienced by individuals and organizations.</h4>
+              <h4>While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls.</h4>
           </div>
         </section>
 

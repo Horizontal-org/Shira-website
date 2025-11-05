@@ -18,7 +18,7 @@ export default function Pricing() {
 
         <section className={classNames(global.backgroundLight, styles.pricingShira)}>
           <div className={styles.princingIntro}>
-            <p>Custom plans for educators and security professionals</p>
+            <h4>Custom plans for educators and security professionals</h4>
             <h1>Simple, transparent, and fair pricing</h1>
           </div>
         </section>

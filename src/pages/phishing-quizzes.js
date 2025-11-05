@@ -21,8 +21,8 @@ export default function PhishingQuizzes() {
           <div className={classNames(global.row, styles.phishingTextIntro)}>
             <h1>Why education beats simulation</h1>
             <div className={styles.phishingQuizzesEducationText}>
-              <p>Phishing simulations have become a standard component of anti-phishing training programs. These simulations involve sending employees emails that mimic the tactics used by cybercriminals to trick individuals into revealing sensitive information or clicking on malicious links. Employees are assessed based on their responses to these simulated emails, particularly whether they clicked on a link or provided any sensitive information.</p>
-              <p>However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education.</p>
+              <h4>Phishing simulations have become a standard component of anti-phishing training programs. These simulations involve sending employees emails that mimic the tactics used by cybercriminals to trick individuals into revealing sensitive information or clicking on malicious links. Employees are assessed based on their responses to these simulated emails, particularly whether they clicked on a link or provided any sensitive information.</h4>
+              <h4>However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education.</h4>
             </div>
           </div>
           <div className={classNames(global.center,styles.iframeWrapper)}>

@@ -10,6 +10,11 @@
   justify-content: space-evenly;
 }
 
+.plans h4 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
 .plan {
   border: 1px solid var(--ifm-color-primary-darkest);
   box-shadow: 1px 1px var(--ifm-color-primary-darkest);
