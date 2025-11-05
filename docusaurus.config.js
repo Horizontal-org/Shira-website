@@ -27,8 +27,13 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+      onBrokenMarkdownImages: 'throw',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -64,15 +69,15 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
           /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
           ({
-            // ... Your options.
-            // `hashed` is recommended as long-term-cache of index file is possible.
-            hashed: true,
 
-            // For Docs using Chinese, it is recomended to set:
-            // language: ["en", "zh"],
+          indexPages: true,
+          searchResultLimits: 8,
+          highlightSearchTermsOnTargetPage: true,
+          explicitSearchResultPath: true,
+          // `hashed` is recommended as long-term-cache of index file is possible.
+          hashed: true,
+          docsRouteBasePath: '/',
 
-            // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
-            // forceIgnoreNoIndex: true,
           }),
     ]
   ],
