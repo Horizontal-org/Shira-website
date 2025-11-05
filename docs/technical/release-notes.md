@@ -1,11 +1,12 @@
 ---
 id: release-notes
-title: Release Notes
 slug: /release-notes
 sidebar_position: 12
 description: Stay up to date with the latest Shira features and improvements, including Spaces, customizable quizzes and questions, explanations, multi-app support, and learner results.
 
 ---
+
+# Release Notes
 
 :::tip
 Here’s everything you need to know about the latest features and improvements in Shira. If something is missing, you can [suggest new features or improvements here](https://github.com/Horizontal-org/shira/discussions).

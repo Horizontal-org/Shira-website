@@ -1,10 +1,11 @@
 ---
 id: spaces
-title: Shira space
 slug: /spaces
 sidebar_position: 4
 description: Learn how to train your team with Shira Spaces — create and manage quizzes, add learners, and track results to strengthen phishing awareness across your organization.
 ---
+
+# Shira space
 
 Here is a short overview of how you can train your team using Shira:
 - **Training your team in Shira is done within a [Space](/your-space)**. A Space is where you will create quizzes, manage learners, and see results for your organization. Learn more about [Shira spaces](/your-space). 

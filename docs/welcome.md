@@ -1,11 +1,11 @@
 ---
 id: welcome
-title: Welcome
-sidebar_label: Welcome
 slug: /welcome
 sidebar_position: 1
 description: Introduction to Shira, an anti-phishing training tool that helps teams and organizations learn to identify phishing attacks in email, SMS, and messaging apps.
 ---
+
+# Welcome
 
 Shira is an anti-phishing training tool.
 

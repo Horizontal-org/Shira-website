@@ -1,10 +1,11 @@
 ---
 id: privacy-policy
-title: Privacy policy
 slug: /privacy-policy
 sidebar_position: 13
 description: Learn how Shira and Horizontal collect, use, and protect user data, including account data, functionality data, telemetry, and privacy rights.
 ---
+
+# Privacy policy {#privacy-policy}
 
 1. [Introduction](#intro)
 2. [Data collected](#data-collected)
@@ -14,7 +15,6 @@ description: Learn how Shira and Horizontal collect, use, and protect user data,
 6. [Contact Information](#contact)
 
 
-# Privacy policy {#privacy-policy}
 ## 1. Introduction {#intro}
 Horizontal is the organization that makes Shira. Horizontal is deeply committed to user privacy and to the protection of user data. 
 
