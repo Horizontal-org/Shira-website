@@ -2,11 +2,12 @@
 id: your-space
 slug: /your-space
 sidebar_position: 5
+sidebar_label: Managing your space
 description: Learn about Shira Spaces — the central hub to create and manage quizzes, assign learners, track results, and control permissions for training your team on phishing awareness.
 
 ---
 
-# Your Space
+# Managing your Space
 
 In Shira, a space is the central place where you will train your team on phishing. This is where you can:
 * Create and manage quizzes

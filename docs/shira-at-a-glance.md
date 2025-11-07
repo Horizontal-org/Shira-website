@@ -7,7 +7,10 @@ description: Overview of Shira's two main ways to build anti-phishing skills, de
 ---
 #  Shira at a Glance
 
-Shira can help you build anti-phishing skills in two ways.
+Shira is built around the recent research findings that show that when it comes to anti-phishing skill building, [education beats simulation](/phishing-quizzes).
+
+With that in mind, Shira can help you build anti-phishing skills in two ways.
+
 
 ## Demo quizzes {#demo-quizzes}
 Our [demo quizzes](/demo) let users take a 10-question quiz that is customized to look as similar as possible to what they will experience in real life. It's free and accessible to anyone. 
