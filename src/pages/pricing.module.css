@@ -37,6 +37,8 @@
 .price {
   font-size: 1.5rem;
   font-weight: bold;
+  margin-bottom: 0rem;
+  line-height: normal;
 }
 
 .plan ul { 

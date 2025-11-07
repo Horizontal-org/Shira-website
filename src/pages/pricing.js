@@ -59,9 +59,8 @@ export default function Pricing() {
             <h2>Pro</h2>
             <p>For organizations who need the full power of Shira</p>
             <p>
-              <span className={styles.price}>$220</span><span className={styles.p}>/month if paid annually</span>
+              <span className={styles.price}>$220</span><span className={styles.p}>/month billed annually or $275/month billed monthly</span>
             </p>
-            <p>$275/month if paid monthly</p>
 
             
             
