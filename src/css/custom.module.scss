@@ -37,9 +37,9 @@
   --ifm-color-primary-lightest: #333030;
   --ifm-background-color: #333030;
   --ifm-button-background-color: var(--ifm-color-primary);
-  --ifm-navbar-link-color: var(--ifm-color-primary-light);
-  --ifm-footer-color: var(--ifm-color-primary-lightest);
-  --ifm-footer-link-color: var(--ifm-color-primary-light) !important;
+  --ifm-navbar-link-color: var(--ifm-color-primary-darker);
+  --ifm-footer-color: var(--ifm-color-primary-darker);
+  --ifm-footer-link-color: var(--ifm-color-primary-darkest) !important;
 }
 
 
@@ -175,7 +175,8 @@ section {
 
 .navbar__link.buttonDark {
   @extend .button;
-  background-color: var(--ifm-color-primary);
-  color: var(--ifm-color-primary-lightest);
+}
 
+[data-theme='light'] footer a {
+  color: var(--ifm-color-primary-light);
 }
