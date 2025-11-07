@@ -1,10 +1,28 @@
 
-.princingIntro {
+.pricingIntro {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
+
+@media (max-width: 768px) {
+  .pricingIntro {
+    text-align: center;
+  }
+
+  .plan {
+    text-align: left;
+  }
+}
+
+.plans a {
+  margin-top: inherit;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: inherit;
+}
+
 
 .plans {
   justify-content: space-evenly;
@@ -15,6 +33,14 @@
   font-weight: 600;
 }
 
+.plans h3, 
+.plans h4 {
+    margin-top: 2rem;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
 .plan {
   border: 1px solid var(--ifm-color-primary-darkest);
   box-shadow: 1px 1px var(--ifm-color-primary-darkest);
@@ -22,6 +48,7 @@
   padding: 3rem;
   margin-bottom: 2rem;
   width: 30%;
+  min-width: 300px;
 }
 
 @media (max-width: 768px) {
