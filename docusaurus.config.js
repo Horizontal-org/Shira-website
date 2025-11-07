@@ -140,7 +140,7 @@ const config = {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
-            className: 'backgroundDark button button--primary button--lg',
+            className: 'button',
           },
           {
             type: 'search',

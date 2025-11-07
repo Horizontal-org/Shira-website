@@ -138,6 +138,13 @@ section {
   width: 100%;
 }
 
+.sectionContainer {
+  max-width: 1300px;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
 .buttonLight {
   @extend .button;
   background-color: var(--ifm-color-primary-light);
@@ -163,6 +170,7 @@ section {
 
 .center {
   align-items: center;
+  justify-content: center;
 }
 
 .bold {
@@ -173,9 +181,14 @@ section {
   white-space: wrap;
 }
 
-.navbar__link.buttonDark {
-  @extend .button;
+[data-theme='light'] .navbar .button{
+  @extend .buttonDark;
 }
+
+[data-theme='dark'] .navbar .button{
+  @extend .buttonLight;
+}
+
 
 [data-theme='light'] footer a {
   color: var(--ifm-color-primary-light);

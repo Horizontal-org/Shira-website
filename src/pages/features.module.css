@@ -20,6 +20,13 @@
   padding: 6rem;
 }
 
+@media (max-width: 768px) {
+  .feauturesAllInfo,
+  .feauturesIntro {
+    padding: 4rem 2rem;
+  }
+}
+
 .feauturesAllInfoText {
   display: flex;
   flex-direction: column;
@@ -46,6 +53,8 @@
 @media (max-width: 768px) {
   .featureElement {
     width: 100%;
+    padding: 1.5rem;
+
   }
 }
 
