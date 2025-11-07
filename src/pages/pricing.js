@@ -27,8 +27,10 @@ export default function Pricing() {
         <section className={classNames(global.row, styles.plans)}>
           <div className={styles.plan}>
             <h2>Starter</h2>
-            <p>Best to try things out and get familiar with Shira</p>
-            <p className={styles.price}>Free</p>
+            <p>To try things out and get familiar with Shira</p>
+            <p className={styles.price}>$0</p>
+            <p>Free, no strings attached</p>
+
 
             <Link className={global.buttonDark} to="/contact">Get started</Link>
 
@@ -55,8 +57,13 @@ export default function Pricing() {
 
            <div className={classNames(global.backgroundLight,styles.plan)}>
             <h2>Pro</h2>
-            <p>Best for organizations who need the full power of Shira</p>
-            <p className={styles.price}>Flat fee</p>
+            <p>For organizations who need the full power of Shira</p>
+            <p>
+              <span className={styles.price}>$220</span><span className={styles.p}>/month if paid annually</span>
+            </p>
+            <p>$275/month if paid monthly</p>
+
+            
             
 
 
@@ -98,6 +105,7 @@ export default function Pricing() {
             <p>Best for large organizations and service providers </p>
 
             <p className={styles.price}>Custom</p>
+            <p>Rates tailored to your needs</p>
 
 
             <Link className={global.buttonDark} to="/contact">Get started</Link>
