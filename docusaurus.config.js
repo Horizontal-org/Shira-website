@@ -57,7 +57,7 @@ const config = {
           sidebarCollapsible: false,
         },
         theme: {
-          customCss: './src/css/custom.module.scss',
+          customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
       }),
     ],
