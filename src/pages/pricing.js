@@ -57,7 +57,7 @@ export default function Pricing() {
 
            <div className={classNames(global.backgroundLight,styles.plan)}>
             <h2>Pro</h2>
-            <p>For organizations who need the full power of Shira</p>
+            <p>One flat fee, the full power of Shira</p>
             <p>
               <span className={styles.price}>$220</span><span className={styles.p}>/month billed annually or $275/month billed monthly</span>
             </p>
@@ -103,7 +103,7 @@ export default function Pricing() {
             <h2>Enterprise</h2>
             <p>Best for large organizations and service providers </p>
 
-            <p className={styles.price}>Custom</p>
+            <p className={styles.price}>Custom pricing</p>
             <p>Rates tailored to your needs</p>
 
 
