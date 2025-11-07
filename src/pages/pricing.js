@@ -27,7 +27,7 @@ export default function Pricing() {
         <section className={classNames(global.row, styles.plans)}>
           <div className={styles.plan}>
             <h2>Starter</h2>
-            <p className={styles.prize}>Free</p>
+            <p className={styles.price}>Free</p>
 
             <p>Best to try things out</p>
 
@@ -57,7 +57,7 @@ export default function Pricing() {
 
            <div className={classNames(global.backgroundLight,styles.plan)}>
             <h2>Pro</h2>
-            <p className={styles.prize}>Flat fee</p>
+            <p className={styles.price}>Flat fee</p>
             <p>Best for organizations looking to level-up</p>
 
 
@@ -96,7 +96,7 @@ export default function Pricing() {
 
            <div className={styles.plan}>
             <h2>Enterprise</h2>
-            <p className={styles.prize}>Custom</p>
+            <p className={styles.price}>Custom</p>
             <p>Best for large organizations and service providers </p>
 
 
