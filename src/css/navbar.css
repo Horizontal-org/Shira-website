@@ -1,7 +1,38 @@
 .navbar {
   justify-content: center;
+  min-height: 5rem;
+
 }
 
 .navbar__inner {
   max-width: 1300px;
+}
+
+.button {
+  transition: all .1s ease;
+  position: relative;
+  display: inline-block;
+  padding: 1em 2em;
+  border: 0;
+  border-radius: 30px;
+  text-align: center;
+  white-space: nowrap;
+  cursor: pointer;
+  text-transform: uppercase;
+
+  &:hover {
+    outline: none;
+  }
+  
+  &:active {
+    transform: translateY(1px);
+  }
+  
+  &:focus {
+    outline: none;
+  }
+
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-lightest);
+
 }
