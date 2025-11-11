@@ -73,11 +73,6 @@
   margin-top: 0;
 }
 
-.plans {
-  font-size: 1rem;
-  letter-spacing: -0.002rem;
-}
-
 .price {
   font-size: 1.5rem;
   font-weight: bold;
@@ -92,6 +87,8 @@
 
 .plan li { 
   margin: 0.5rem 0; 
+  font-size: 1rem;
+  letter-spacing: -0.002rem;
 }
 
 .plan .note {
