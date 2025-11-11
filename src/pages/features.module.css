@@ -3,11 +3,11 @@
 }
 
 .feauturesIntro img {
-  height: 30rem;
+  max-height: 30rem;
 }
 
 .feauturesIntroButtons .button{
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 .underline {
@@ -17,6 +17,14 @@
 
 .feauturesAllInfo {
   justify-content: space-evenly;
+  padding: 6rem;
+}
+
+@media (max-width: 768px) {
+  .feauturesAllInfo,
+  .feauturesIntro {
+    padding: 4rem 2rem;
+  }
 }
 
 .feauturesAllInfoText {
@@ -26,7 +34,7 @@
 }
 
 .feauturesAllInfo img {
-  height: 20rem;
+  max-height: 20rem;
 }
 
 .feauturesBox {
@@ -45,6 +53,8 @@
 @media (max-width: 768px) {
   .featureElement {
     width: 100%;
+    padding: 1.5rem;
+
   }
 }
 

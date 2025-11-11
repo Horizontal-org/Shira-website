@@ -11,15 +11,33 @@
   width: 50%;
 }
 
+.phishingQuizzesEducation img {
+  height: 320px;
+  border-radius: 25px;
+}
+
 .phishingQuizzesEducation h1 {
   width: 40%;
 }
 
 @media (max-width: 768px) {
+  .phishingQuizzesEducation {
+    padding: 4rem 2rem;
+  }
+
   .phishingQuizzesEducationText {
     width: 100%;
   }
+
+  .phishingQuizzesEducation h1 {
+  width: 100%;
+  }
+
+  .phishingQuizzesEducation img {
+    height: auto;
+  }
 }
+
 
 .iframeWrapper {
   display: flex;
@@ -29,6 +47,12 @@
 .phishingProblem {
   justify-content: center;
   padding: 10rem; 
+}
+
+@media (max-width: 768px) {
+  .phishingProblem {
+    padding: 4rem 2rem;
+  }
 }
 
 .alignedCenter {

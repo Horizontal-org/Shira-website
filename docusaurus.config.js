@@ -11,6 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Shira',
+  staticDirectories: ['static'],
+
   tagline: 'Learn the skills needed to identify and defeat phishing attacks',
   favicon: 'img/shira.ico',
 
@@ -25,8 +27,13 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+      onBrokenMarkdownImages: 'throw',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -46,12 +53,11 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-
+          routeBasePath: '/',
+          sidebarCollapsible: false,
         },
         theme: {
-          customCss: './src/css/custom.module.scss',
+          customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
       }),
     ],
@@ -63,15 +69,15 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
           /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
           ({
-            // ... Your options.
-            // `hashed` is recommended as long-term-cache of index file is possible.
-            hashed: true,
 
-            // For Docs using Chinese, it is recomended to set:
-            // language: ["en", "zh"],
+          indexPages: true,
+          searchResultLimits: 8,
+          highlightSearchTermsOnTargetPage: true,
+          explicitSearchResultPath: true,
+          // `hashed` is recommended as long-term-cache of index file is possible.
+          hashed: true,
+          docsRouteBasePath: '/',
 
-            // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
-            // forceIgnoreNoIndex: true,
           }),
     ]
   ],
@@ -80,11 +86,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/shira-social-card.png',
       navbar: {
         logo: {
           alt: 'Shira Log',
-          src: 'img/shira-logo.svg',
+          src: 'img/shira-logo.png',
         },
         items: [
           {
@@ -93,23 +99,11 @@ const config = {
             position: 'left',
           },
           {
-            href: '/pricing',
-            label: 'Pricing',
-            position: 'left',
-          },
-          {
             href: 'https://quiz.shira.app/',
             sidebarId: 'takeQuizSidebar',
             position: 'left',
             label: 'Take a quiz',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-
           {
             type: 'dropdown',
             label: 'Learn',
@@ -125,20 +119,28 @@ const config = {
               },
             ],
           },
-
+          {
+            href: '/pricing',
+            label: 'Pricing',
+            position: 'left',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'HelpSidebar',
+            position: 'left',
+            label: 'Help',
+          },
           {
             href: '/about',
             label: 'About',
             position: 'left',
           },
 
-
           {
             href: '/contact',
             label: 'Get Started',
             position: 'right',
-            className: "backgroundDark",
-            //className: {`${global.backgroundDark} ${global.button}`},
+            className: 'button',
           },
           {
             type: 'search',
@@ -150,11 +152,9 @@ const config = {
       footer: {
         logo: {
             alt: 'Shira Logo',
-            src: 'img/shira-logo.svg',
-            width: 160,
+            src: 'img/shira-logo.png',
             height: 51,
           },
-        style: 'dark',
         copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
