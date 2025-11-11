@@ -15,7 +15,7 @@ export default function Features() {
 
         <meta name="description" content="Explore Shira’s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness." />
 
-        <section className={classNames(global.row, global.center, styles.feauturesIntro)}>
+        <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.feauturesIntro)}>
           <div className={styles.feauturesIntroText}>
             <h4>For educators and security professionals</h4>
             <h2>Create <span className={classNames(styles.underline)}>your</span> own phishing quizzes for <span className={classNames(styles.underline)}>your</span> team to address <span className={classNames(styles.underline)}>your</span> threats</h2>
@@ -28,16 +28,17 @@ export default function Features() {
           <img src='/img/fish.png'></img>
         </section>
 
-        <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
-          <img src='/img/fish-bubbles.png'></img>
+        <div style={{ width: '100%' }}>
+          <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
+            <img src='/img/fish-bubbles.png'></img>
 
-          <div className={styles.feauturesAllInfoText}>
-            <h1>All the features you need to keep your team safe</h1>
-            <h4>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</h4>
-          </div>
-        </section>
-
-        <section className={classNames(global.row, styles.feauturesBox)}>
+            <div className={styles.feauturesAllInfoText}>
+              <h1>All the features you need to keep your team safe</h1>
+              <h4>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</h4>
+            </div>
+          </section>
+        </div>
+        <section className={classNames(styles.feauturesBox)}>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3>User-friendly interface 🎨</h3>

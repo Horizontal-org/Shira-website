@@ -15,7 +15,7 @@ export default function Phishing() {
         <meta name="description" content="Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations." />
 
 
-        <section className={classNames(global.row, global.center, styles.learnPhishingIntro)}>
+        <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.learnPhishingIntro)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileReverseWrap, global.center)}>
             <div className={styles.learnPhishingIntroText}>
               <h2>What is phishing?</h2>
@@ -25,19 +25,21 @@ export default function Phishing() {
             <img src='/img/fish.png'></img>
           </div>
         </section>
-
-        <section className={classNames(global.row, global.center, global.backgroundDark, styles.learnPhishingCommon)}>
-          <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
-            <h1>The most common attack</h1>
-            <div className={styles.learnPhishingCommonText}>
-              <h4>Phishing is consistently ranked as the most common attack experienced by individuals and organizations.</h4>
-              <h4>While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls.</h4>
+        
+        <div style={{ width: '100%' }} className={classNames(global.row, global.center, global.backgroundDark)}>
+          <section className={classNames(global.row, global.center, global.sectionMaxWidth, global.backgroundDark, styles.learnPhishingCommon)}>
+            <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
+              <h1>The most common attack</h1>
+              <div className={styles.learnPhishingCommonText}>
+                <h4>Phishing is consistently ranked as the most common attack experienced by individuals and organizations.</h4>
+                <h4>While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls.</h4>
+              </div>
             </div>
-          </div>
-        </section>
+          </section>
+        </div>
 
 
-        <section className={classNames(global.row, global.center, styles.attackers)}>
+        <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.attackers)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
             <img src='/img/fish-bubbles.png'></img>
             <div className={styles.attackersText}>
@@ -56,7 +58,7 @@ export default function Phishing() {
 
 
 
-         <section className={classNames(global.row, global.center, styles.whyitworks)}>
+         <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.whyitworks)}>
           <div className={classNames(global.sectionContainer, global.center)}>
             <div className={styles.howitworksText}>
               <h3>Why does phishing work?</h3>
@@ -73,7 +75,7 @@ export default function Phishing() {
           </div>
         </section>
 
-        <section className={classNames(global.row, global.center, styles.consequences)}>
+        <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.consequences)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileReverseWrap, global.center)}>
             <div className={styles.consequencesText}>
               <h3>Phishing attacks can lead to severe consequences</h3>
@@ -90,7 +92,7 @@ export default function Phishing() {
           </div>
         </section>
 
-        <section className={classNames(global.row, global.center, styles.howitworks)}>
+        <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.howitworks)}>
           <div className={classNames(global.sectionContainer, global.center)}>
 
             <div className={styles.howitworksText}>

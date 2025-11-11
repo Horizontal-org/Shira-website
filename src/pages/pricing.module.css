@@ -51,7 +51,19 @@
   min-width: 300px;
 }
 
-@media (max-width: 768px) {
+.pricingRow {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch; 
+}
+
+@media (max-width: 1110px) {
+  .pricingRow {
+    flex-direction: column;
+    text-align: center;
+ 
+  }
+
   .plan {
     width: 100%;
   }
@@ -75,6 +87,8 @@
 
 .plan li { 
   margin: 0.5rem 0; 
+  font-size: 1rem;
+  letter-spacing: -0.002rem;
 }
 
 .plan .note {

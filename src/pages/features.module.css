@@ -38,26 +38,41 @@
 }
 
 .feauturesBox {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
+  max-width: 1300px;
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: space-evenly; 
 }
 
 .featureElement {
   border-radius: 20px;
   padding: 3rem;
   margin-bottom: 2rem;
-  width: 30%;
-}
-
-@media (max-width: 768px) {
-  .featureElement {
-    width: 100%;
-    padding: 1.5rem;
-
-  }
+  /* width: 30%; */
 }
 
 .feauturesNeedMore {
   text-align: center;
+}
+
+
+@media (max-width: 1110px) {
+  .feauturesIntro img {
+    max-height: 20rem;
+  }
+
+  .feauturesAllInfo img {
+    max-height: 15rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .feauturesBox {
+    grid-template-columns: 100%;
+  }
+
+  .featureElement {
+    width: 100%;
+    padding: 1.5rem;
+  }
 }
