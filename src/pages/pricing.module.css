@@ -51,7 +51,19 @@
   min-width: 300px;
 }
 
-@media (max-width: 768px) {
+.pricingRow {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch; 
+}
+
+@media (max-width: 1110px) {
+  .pricingRow {
+    flex-direction: column;
+    text-align: center;
+ 
+  }
+
   .plan {
     width: 100%;
   }

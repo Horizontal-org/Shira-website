@@ -24,7 +24,7 @@ export default function Pricing() {
         </section>
 
 
-        <section className={classNames(global.row, styles.plans)}>
+        <section className={classNames(styles.pricingRow, styles.plans)}>
           <div className={styles.plan}>
             <h2>Starter</h2>
             <p>To try things out and get familiar with Shira</p>

@@ -18,7 +18,7 @@ export default function PhishingQuizzes() {
 
 
         <section className={classNames(global.backgroundDark, global.center, styles.phishingQuizzesEducation)}>
-          <div className={classNames(global.row, styles.phishingTextIntro)}>
+          <div className={classNames(global.row, global.center, styles.phishingTextIntro, global.sectionMaxWidth)}>
             <h1>Why education beats simulation</h1>
             <div className={styles.phishingQuizzesEducationText}>
               <h4>Phishing simulations have become a standard component of anti-phishing training programs. These simulations involve sending employees emails that mimic the tactics used by cybercriminals to trick individuals into revealing sensitive information or clicking on malicious links. Employees are assessed based on their responses to these simulated emails, particularly whether they clicked on a link or provided any sensitive information.</h4>
@@ -27,12 +27,21 @@ export default function PhishingQuizzes() {
           </div>
           <div className={classNames(global.center,styles.iframeWrapper)}>
             <a href="https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173">
-              <img src='/img/wsj.png' alt="news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"></img>
+              <img 
+                className={styles.phishingQuizzessEducationDesktopImage}
+                src='/img/wsj.png' 
+                alt="news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
+              ></img>
+              <img 
+                className={styles.phishingQuizzessEducationMobileImage}
+                src='/img/wsj_mobile.jpg' 
+                alt="news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
+              ></img>
             </a>
-            </div>
+          </div>
         </section>
 
-        <section className={classNames(global.center, styles.phishingProblem)}>
+        <section className={classNames(global.center, styles.phishingProblem, global.sectionMaxWidth)}>
           <h3>The problem with phishing simulations</h3>
           <p>Phishing simulations, while widely used, come with several issues that organizations should consider:</p>
           <p>
