@@ -1,0 +1,22 @@
+.contactShira {
+  display: flex;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+
+.contactShiraText {
+  display: flex;
+  align-items: flex-start !important;;
+  flex-direction: column;
+  justify-content: center; 
+  width: 40%;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 768px) {
+  .contactShiraText {
+    width: 100%;
+  }
+}

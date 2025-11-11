@@ -6,29 +6,40 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #587a3f; /*Green dark*/
-  --ifm-color-primary-dark: #4f6e39;
-  --ifm-color-primary-darker: #111827;
-  --ifm-color-primary-darkest: #313638;
-  --ifm-color-primary-light: #e6ecb9;
-  --ifm-color-primary-lighter: #658c48;
-  --ifm-color-primary-lightest: #ffffff;
-  --ifm-code-font-size: 95%;
-  --ifm-navbar-link-color: var(--ifm-color-darkest);
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-color-primary: #3f6a3a;
+    --ifm-button-background-color: var(--ifm-color-primary);
+    --ifm-navbar-link-color: var(--ifm-color-primary-light);
+    --ifm-color-primary-dark: #264d22;
+    --ifm-color-primary-darker: #5f6368;
+    --ifm-color-primary-darkest: #333030;
+    --ifm-color-primary-light: #f3f9cf;
+    --ifm-color-primary-lighter: #f3f5e4;
+    --ifm-color-primary-lightest: #ffffff;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: #0000001a;
+    --ifm-navbar-link-color: var(--ifm-color-darkest);
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-footer-background-color: #333030;
+    --ifm-footer-color: var(--ifm-color-primary-lightest);
+    --ifm-footer-link-color: var(--ifm-color-primary-light) !important;
 }
+
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #e6ecb9; /*Green light*/
-  --ifm-color-primary-dark: #587a3f;
-  --ifm-color-primary-darker: #d4df87;
-  --ifm-color-primary-darkest: #e6ecb9;
-  --ifm-color-primary-light: #587a3f;
-  --ifm-color-primary-lighter: #f8f9eb;
-  --ifm-color-primary-lightest: #313638;
-  --ifm-navbar-link-color: var(--ifm-color-darkest);
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #dbe3a3;
+  --ifm-button-background-color: #dbe3a3;
+  --ifm-color-primary-dark: #f3f9cf;
+  --ifm-color-primary-darker: #f3f5e4;
+  --ifm-color-primary-darkest: #ffffff;
+  --ifm-color-primary-light: #264d22;
+  --ifm-color-primary-lighter: #5f6368;
+  --ifm-color-primary-lightest: #333030;
+  --ifm-background-color: #333030;
+  --ifm-button-background-color: var(--ifm-color-primary);
+  --ifm-navbar-link-color: var(--ifm-color-primary-darker);
+  --ifm-footer-color: var(--ifm-color-primary-darker);
+  --ifm-footer-link-color: var(--ifm-color-primary-darkest) !important;
 }
 
 
@@ -37,7 +48,6 @@
   flex-direction: column;
   align-items: center;
   font-family: "Open Sans", sans-serif;
-  color: var(--ifm-color-primary-darkest);
   letter-spacing: 1.15px;
   unicode-bidi: isolate;
 }
@@ -53,6 +63,7 @@
   white-space: nowrap;
   cursor: pointer;
   text-transform: uppercase;
+  margin: 1rem;
 
   &:hover {
     outline: none;
@@ -70,6 +81,8 @@
 
 h1 {
   font-size: 4rem;
+  font-weight: 500;
+  letter-spacing: 0.2rem;
 }
 
 @media (max-width: 768px) {
@@ -78,8 +91,10 @@ h1 {
   }
 }
 
+
 h2 {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-weight: 600;
 }
 
 @media (max-width: 768px) {
@@ -88,8 +103,21 @@ h2 {
   }
 }
 
-p {
+h3 {
   font-size: 1.25rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 0.05rem;
+  line-height: 1.4;
+}
+
+p {
+  font-size: 1rem;
+  letter-spacing: -0.002rem;
+
 }
 
 .row {
@@ -109,6 +137,24 @@ section {
   padding: 4rem 2rem;
   width: 100%;
 }
+
+.sectionContainer {
+  max-width: 1300px;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+@media (max-width: 768px) {
+  .sectionContainerMobileWrap {
+    flex-wrap: wrap;
+  }
+
+  .sectionContainerMobileReverseWrap {
+    flex-wrap: wrap-reverse;
+  }
+}
+
 
 .buttonLight {
   @extend .button;
@@ -135,8 +181,26 @@ section {
 
 .center {
   align-items: center;
+  justify-content: center;
 }
 
 .bold {
   font-weight: bold;
+}
+
+.shira-doc-cards p.text--truncate {
+  white-space: wrap;
+}
+
+[data-theme='light'] .navbar .button{
+  @extend .buttonDark;
+}
+
+[data-theme='dark'] .navbar .button{
+  @extend .buttonLight;
+}
+
+
+[data-theme='light'] footer a {
+  color: var(--ifm-color-primary-light);
 }

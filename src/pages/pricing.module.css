@@ -1,14 +1,45 @@
 
-.princingIntro {
+.pricingIntro {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
 
+@media (max-width: 768px) {
+  .pricingIntro {
+    text-align: center;
+  }
+
+  .plan {
+    text-align: left;
+  }
+}
+
+.plans a {
+  margin-top: inherit;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: inherit;
+}
+
+
 .plans {
   justify-content: space-evenly;
 }
+
+.plans h4 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.plans h3, 
+.plans h4 {
+    margin-top: 2rem;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+  }
 
 .plan {
   border: 1px solid var(--ifm-color-primary-darkest);
@@ -17,6 +48,7 @@
   padding: 3rem;
   margin-bottom: 2rem;
   width: 30%;
+  min-width: 300px;
 }
 
 @media (max-width: 768px) {
@@ -32,6 +64,8 @@
 .price {
   font-size: 1.5rem;
   font-weight: bold;
+  margin-bottom: 0rem;
+  line-height: normal;
 }
 
 .plan ul { 

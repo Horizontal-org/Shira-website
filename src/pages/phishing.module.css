@@ -3,7 +3,7 @@
 }
 
 .learnPhishingIntro img {
-  height: 30rem;
+  max-height: 30rem;
 }
 
 .learnPhishingCommon {
@@ -27,7 +27,7 @@
 }
 
 .attackers img {
-  height: 20rem;
+  max-height: 20rem;
 }
 
 .attackersText {
@@ -66,4 +66,10 @@
   .consequencesText {
     width: 100%;
   }
+
+  .mobileAlignList {
+    text-align: left;
+  }
 }
+
+

@@ -4,18 +4,24 @@ import Link from '@docusaurus/Link';
 import styles from './about.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 export default function About() {
   return (
     <Layout
       title="About Shira"
-      description="Information about the Shira team and the parent organization: Horizontal."
+      description="Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
     >
       <main className="main">
+        <meta name="description" content="Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks." />
+
         <section className={classNames(global.row, global.backgroundDark, styles.aboutShira)}>
           <div className={classNames(global.center, styles.aboutShiraText)}>
             <h1>Shira</h1>
-            <p>Helping individuals and organizations to build their defense against phishing attacks</p>
+            <h4>Helping individuals and organizations to build their defense against phishing attacks</h4>
+            <Link className={classNames(styles.button, global.buttonLight)} to="/contact">Get in touch</Link>
+
           </div>
           <img src='/img/shira-s.svg'></img>
         </section>
@@ -53,9 +59,10 @@ export default function About() {
             </div>
           </div>
 
-          <div className={styles.whyShiraButtons}>
-            <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Privacy policy PENDING</Link>
-            <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Security Audit PENDING LINK TO ASSETS</Link>
+          <div className={classNames(styles.whyShiraButtons, global.row, global.center)}>
+            <a className={classNames(styles.button, global.buttonDark)} href={useBaseUrl('assets/shira-final.pdf')}>Security Audit</a>
+            <Link className={classNames(styles.button, global.buttonDark)} to="/privacy-policy">Privacy policy </Link>
+
           </div>
         </section>
 
