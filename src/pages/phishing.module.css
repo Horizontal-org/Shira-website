@@ -66,4 +66,10 @@
   .consequencesText {
     width: 100%;
   }
+
+  .mobileAlignList {
+    text-align: left;
+  }
 }
+
+

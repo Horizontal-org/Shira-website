@@ -14,7 +14,6 @@
 .phishingQuizzesEducation img {
   height: 320px;
   border-radius: 25px;
-
 }
 
 .phishingQuizzesEducation h1 {
@@ -22,12 +21,20 @@
 }
 
 @media (max-width: 768px) {
+  .phishingQuizzesEducation {
+    padding: 4rem 2rem;
+  }
+
   .phishingQuizzesEducationText {
     width: 100%;
   }
 
   .phishingQuizzesEducation h1 {
   width: 100%;
+  }
+
+  .phishingQuizzesEducation img {
+    height: auto;
   }
 }
 

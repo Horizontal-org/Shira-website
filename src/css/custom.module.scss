@@ -145,6 +145,17 @@ section {
   align-items: stretch;
 }
 
+@media (max-width: 768px) {
+  .sectionContainerMobileWrap {
+    flex-wrap: wrap;
+  }
+
+  .sectionContainerMobileReverseWrap {
+    flex-wrap: wrap-reverse;
+  }
+}
+
+
 .buttonLight {
   @extend .button;
   background-color: var(--ifm-color-primary-light);

@@ -52,7 +52,7 @@ export default function Home() {
         </section>
 
         <section className={classNames(global.backgroundDark, styles.whySection, global.row, global.center)}>
-          <div className={classNames(global.sectionContainer, global.center)}>
+          <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
             <h2>Why Shira?</h2>
             <div className={classNames(styles.reasonsWhy)}>
               <h4>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</h4>
