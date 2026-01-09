@@ -38,7 +38,7 @@ export default function Pricing() {
             <p>Free, no strings attached</p>
 
 
-            <Link className={global.buttonDark} to="{signupFormUrl}">Get started</Link>
+            <Link className={global.buttonDark} to={signupFormUrl}>Get started</Link>
 
             <hr></hr>
 
