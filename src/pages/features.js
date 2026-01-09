@@ -4,8 +4,14 @@ import Link from '@docusaurus/Link';
 import styles from './features.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
 
 export default function Features() {
+  const {siteConfig} = useDocusaurusContext();
+  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+
+
   return (
     <Layout
       title="Shira's Features"
@@ -22,7 +28,7 @@ export default function Features() {
 
              <div className={styles.feauturesIntroButtons}>
               <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">Pricing</Link>
-              <Link className={classNames(styles.button, global.buttonDark)} to="/contact">Get Started</Link>
+              <Link className={classNames(styles.button, global.buttonDark)} to={signupFormUrl}>Get Started</Link>
             </div>
           </div>
           <img src='/img/fish.png'></img>
