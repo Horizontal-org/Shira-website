@@ -6,6 +6,10 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+const signupBaseURL = process.env.SPACE_URL || 'https://alpha.space.shira.app';
+const signupFormUrl = `${signupBaseURL}/get-started`;
+
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -27,6 +31,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+
   markdown: {
 
     hooks: {
@@ -44,6 +49,10 @@ const config = {
   },
 
   plugins: ['docusaurus-plugin-sass'],
+
+  customFields: {
+    signupFormUrl: signupFormUrl,
+  },
 
 
   presets: [
@@ -137,7 +146,7 @@ const config = {
           },
 
           {
-            href: '/contact',
+            href: `${signupFormUrl}`,
             label: 'Get Started',
             position: 'right',
             className: 'button',

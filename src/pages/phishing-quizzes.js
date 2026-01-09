@@ -5,9 +5,14 @@ import styles from './phishing-quizzes.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Iframe from 'react-iframe'
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
 
 
 export default function PhishingQuizzes() {
+  const {siteConfig} = useDocusaurusContext();
+  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+
   return (
     <Layout
       title="Learn about Phishing quizzes"
@@ -75,7 +80,7 @@ export default function PhishingQuizzes() {
           </p>
 
           <div className={styles.alignedCenter}>
-            <Link className={global.buttonDark} to="/contact">Get started</Link>
+            <Link className={global.buttonDark} to={signupFormUrl}>Get started</Link>
           </div>
 
 
