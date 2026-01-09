@@ -4,8 +4,14 @@ import Link from '@docusaurus/Link';
 import styles from './pricing.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
+
 
 export default function Pricing() {
+  const {siteConfig} = useDocusaurusContext();
+  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+
   return (
     <Layout
       title="Shira's pricing"
@@ -32,7 +38,7 @@ export default function Pricing() {
             <p>Free, no strings attached</p>
 
 
-            <Link className={global.buttonDark} to="/contact">Get started</Link>
+            <Link className={global.buttonDark} to="{signupFormUrl}">Get started</Link>
 
             <hr></hr>
 
@@ -66,7 +72,7 @@ export default function Pricing() {
             
 
 
-            <Link className={global.buttonDark} to="/contact">Get started</Link>
+            <Link className={global.buttonDark} to={signupFormUrl}>Get started</Link>
 
             <hr></hr>
 
@@ -107,7 +113,7 @@ export default function Pricing() {
             <p>Rates tailored to your needs</p>
 
 
-            <Link className={global.buttonDark} to="/contact">Get started</Link>
+            <Link className={global.buttonDark} to={signupFormUrl}>Get started</Link>
 
             <hr></hr>
 
