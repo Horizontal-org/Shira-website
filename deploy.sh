@@ -14,6 +14,8 @@ Help()
    echo
 }
 
+
+
 ############################################################
 ############################################################
 # Main program                                             #
@@ -38,6 +40,13 @@ while getopts ":hb:" option; do
          exit;;
    esac
 done
+
+## read env variables, we use this for space url configuration
+set -e
+
+set -a
+source .env
+set +a
 
 
 if [ -z "$Branch" ]
