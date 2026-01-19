@@ -1,7 +1,7 @@
 ---
 id: spaces
 slug: /spaces
-sidebar_position: 4
+sidebar_position: 1
 sidebar_label: Space overview
 description: Learn how to train your team with Shira Spaces — create and manage quizzes, add learners, and track results to strengthen phishing awareness across your organization.
 ---

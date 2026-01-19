@@ -1,7 +1,7 @@
 ---
 id: questions
 slug: /questions
-sidebar_position: 7
+sidebar_position: 4
 description: Learn how to create and customize quiz questions in Shira — including preferences, apps, content, and explanations — to teach learners how to identify phishing attempts.
 
 ---

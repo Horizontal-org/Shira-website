@@ -1,7 +1,7 @@
 ---
 id: quizzes
 slug: /quizzes
-sidebar_position: 6
+sidebar_position: 3
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---

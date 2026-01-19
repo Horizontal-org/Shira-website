@@ -192,8 +192,29 @@ section {
   font-weight: bold;
 }
 
-.shira-doc-cards p.text--truncate {
-  white-space: wrap;
+.shiraDocCards p {
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.shiraDocCards h2 {
+  font-size: 1rem;
+}
+
+.shiraDocCards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+.shiraDocCards a {
+  width: 45%;
+}
+
+@media (max-width: 768px) {
+  .shiraDocCards a {
+    width: 100%;
+  }
 }
 
 [data-theme='light'] .navbar .button{

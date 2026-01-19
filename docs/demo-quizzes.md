@@ -1,7 +1,7 @@
 ---
 id: demo
 slug: /demo
-sidebar_position: 3
+sidebar_position: 2
 description: Try Shira’s free demo quizzes to practice phishing detection skills, customize quizzes with your apps and field of work, and experience realistic phishing scenarios.
 
 ---
