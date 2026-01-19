@@ -1,7 +1,7 @@
 ---
 id: learners
 slug: /learners
-sidebar_position: 8
+sidebar_position: 5
 description: Learn about Shira learners — anonymous participants who take quizzes to test phishing awareness, with upcoming support for registered learners and private quiz tracking.
 
 ---
