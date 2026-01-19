@@ -41,11 +41,13 @@ while getopts ":hb:" option; do
    esac
 done
 
-## read env variables, we use this for space url configuration
+# read env variables, we use this for space url configuration
 set -e
 
 set -a
 source .env
+echo "space url used:"
+echo $SPACE_URL
 set +a
 
 
