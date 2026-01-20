@@ -147,8 +147,7 @@ const config = {
 
           {
             href: `${signupFormUrl}`,
-            label: 'Get Started',
-            position: 'right',
+            label: 'Sign up/Log in',
             className: 'button',
           },
           {
