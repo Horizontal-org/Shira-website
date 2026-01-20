@@ -5,6 +5,8 @@ sidebar_position: 2
 description: Try Shira’s free pre-made quizzes to practice phishing detection skills, customize quizzes with your apps and field of work, and experience realistic phishing scenarios.
 
 ---
+import Link from '@docusaurus/Link';
+
 # Pre-made quizzes
 
 Anyone can use Shira’s pre-made quizzes for free: just head to [https://quiz.shira.app](https://quiz.shira.app) and get started!
