@@ -63,7 +63,7 @@ export default function Features() {
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3> Email phishing simulations 📧</h3>
-            <p>Create quizzes that mimic phishing emails, including headers, body, and attachments.</p>
+            <p>Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
@@ -99,6 +99,16 @@ export default function Features() {
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3>Gamification 🕹️</h3>
             <p>An entertaining learning experience promotes better knowledge retention.</p>
+          </div>
+
+          <div className={classNames(styles.featureElement, global.backgroundLight)}>
+            <h3>Multilingual 🌐</h3>
+            <p>Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian.</p>
+          </div>
+
+          <div className={classNames(styles.featureElement, global.backgroundLight)}>
+            <h3>Pre-made questions 👷</h3>
+            <p>Pull from Shira's question library to start your trainings from templates created by digital security trainers.</p>
           </div>
 
         </section>
