@@ -20,6 +20,6 @@ With this release, we are getting closer to the full feature set that will be in
 - Customizable quizzes: create as many quizzes as you wish.
 - Customizable quiz questions: create quiz questions tailored to your team's needs and capacity.
 - Explanations: display short texts, directly inside quiz questions, to point learners to specific elements in the question content that suggest that it may be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to what your learners will experience in real life: Gmail, Outlook, WhatsApp, SMS, Facebook Messenger, and Grindr. 
+- Six apps to display your questions and make them look as close as possible to what your learners will experience in real life: Gmail, Outlook, WhatsApp, SMS, Facebook Messenger, and Dating App. 
 - Results: see how well your learners did on your quizzes.
 

@@ -34,7 +34,7 @@ Currently, Shira supports the following apps:
 - SMS
 - WhatsApp
 - Facebook Messenger
-- Grindr
+- Dating App
 
 :::note
 [Let us know](/contact) if your team relies on apps that aren't in this list and that you would like to see in Shira!
