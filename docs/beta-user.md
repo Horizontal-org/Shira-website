@@ -2,9 +2,9 @@
 id: beta-user
 slug: /beta-user
 description: Read about Shira's beta user program, where security trainers and org can get access to Shira for free and help us build our roadmap!
----
-import Link from '@docusaurus/Link';
+unlisted: true
 
+---
 
 # Shira beta user program
 
@@ -12,10 +12,13 @@ The Shira Beta User program is an opportunity to get early access to new feature
 
 As a beta user, you will be able to:
 
-* Try upcoming features and improvements ahead of general availability
-* Provide direct feedback on usability, performance, and security
-* Help us identify bugs, edge cases, and areas for improvement
-* Contribute to making Shira more reliable and effective for everyone
+* Try upcoming features and improvements ahead of general availability.
+* Provide direct feedback on accessibility, performance, and security.
+* Help us identify bugs, edge cases, and areas for improvement.
+* Contribute to making Shira more useful and effective for everyone.
+
+Thank you for helping us improve Shira 💚.
+
 
 ## Commitments and details
 
@@ -38,10 +41,10 @@ For now, our beta program is only by invitation. The beta program is ideal for u
 * Are comfortable testing new features
 * Are willing to share feedback and report issues
 
-
 :::info
 If you would like to become a beta user, please [contact us](/contact).
 :::
+
 
 
 
