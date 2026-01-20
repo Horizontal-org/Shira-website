@@ -29,4 +29,4 @@ These quizzes provide an small amount of customization, including by:
 
 You can see a list of Shira features and a comparison between Shira plans [on this page](/pricing). 
 
-If you need help assessing whether creating a space could be a good option for you, [contact us](/contact-us)!
+If you need help assessing whether creating a space could be a good option for you, [contact us](/contact)!
