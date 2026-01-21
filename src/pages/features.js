@@ -107,7 +107,7 @@ export default function Features() {
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Pre-made questions 👷</h3>
+            <h3>Question library 📚</h3>
             <p>Pull from Shira's question library to start your trainings from templates created by digital security trainers.</p>
           </div>
 
