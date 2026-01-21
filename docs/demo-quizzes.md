@@ -25,7 +25,7 @@ These quizzes provide an small amount of customization, including by:
 * Letting you pick your preferred language (you can choose between English, Spanish, French, Arabic, Mandarin and Russian)
 * Displaying your name and email inside the quiz, to make each email and message look as similar as possible to what you will face in real life.
 
-[Research shows](/phishing-quizzes) that anti-phishing training is most effective if quizzes are tailored to a specific learning goal, adapted with organization-specific details, tone and level. Ready-made quizzes can be a great way to start building your own anti-phishing skills or if you’re looking for a way to let your team become more familiar with phishing. For more advanced features, such as creating tailored quizzes for your team, restrict the quiz to only be visible by your team, or track learners’ results, you may need to create a [Shira Space](/spaces). 
+Ready-made quizzes can be a great way to start building your own anti-phishing skills or if you’re looking for a way to let your team become more familiar with phishing. However, [research shows](/phishing-quizzes) that anti-phishing training is most effective if quizzes are tailored to a specific learning goal, adapted with organization-specific details, tone and level. To achieve this type of customization and for more advanced features, such as restricting the quiz to only be visible by your team or tracking your learners’ results, you may need to create a [Shira Space](/spaces). 
 
 You can see a list of Shira features and a comparison between Shira plans [on this page](/pricing). 
 
