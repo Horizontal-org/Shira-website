@@ -30,7 +30,7 @@ export default function About() {
 
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.aboutHorizontal, global.sectionMaxWidth)}>
-            <img src='/img/horizontal-logo.svg'></img>
+            <img src='/img/horizontal-logo.svg' alt="Horizontal logo"></img>
             <div className={styles.aboutHorizontalText}>
               <h2>Who makes Shira?</h2>
               <p>Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online. </p>
