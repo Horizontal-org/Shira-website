@@ -227,3 +227,7 @@ section {
 [data-theme='light'] footer a {
   color: var(--ifm-color-primary-light);
 }
+
+img {
+  aspect-ratio: auto;
+}
