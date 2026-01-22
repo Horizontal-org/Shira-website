@@ -103,12 +103,12 @@ const config = {
         },
         items: [
           {
-            href: '/features',
+            to: '/features',
             label: 'Features',
             position: 'left',
           },
           {
-            href: 'https://quiz.shira.app/',
+            to: 'https://quiz.shira.app/',
             sidebarId: 'takeQuizSidebar',
             position: 'left',
             label: 'Take a quiz',
@@ -120,16 +120,16 @@ const config = {
             items: [
               {
                 label: 'What is Phishing?',
-                href: '/phishing',
+                to: '/phishing',
               },
               {
                 label: 'Why phishing quizzes?',
-                href: '/phishing-quizzes',
+                to: '/phishing-quizzes',
               },
             ],
           },
           {
-            href: '/pricing',
+            to: '/pricing',
             label: 'Pricing',
             position: 'left',
           },
@@ -140,13 +140,13 @@ const config = {
             label: 'Help',
           },
           {
-            href: '/about',
+            to: '/about',
             label: 'About',
             position: 'left',
           },
 
           {
-            href: `${signupFormUrl}`,
+            to: `${signupFormUrl}`,
             label: 'Sign up/Log in',
             position: 'right',
             className: 'button',
