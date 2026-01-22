@@ -1,5 +1,6 @@
 .aboutShira,
-.aboutHorizontal {
+.aboutHorizontal,
+.howItIsMadeText, {
   display: flex;
   align-items: center;
   width: 100%;
@@ -7,7 +8,8 @@
 }
 
 .aboutShiraText,
-.aboutHorizontalText  {
+.aboutHorizontalText, 
+.howItIsMadeText, {
   max-width: 700px;
 }
 

@@ -72,6 +72,21 @@ export default function About() {
           </section>
         </div>
 
+        <div className={classNames(styles.flexAndCenter)}>
+          <section className={classNames(global.row, styles.howItIsMade, global.sectionMaxWidth)}>
+            <div className={classNames(global.center, styles.howItIsMadeText)}>
+              <h2>How do we make Shira</h2>
+              <ul>
+                <li>Shira is <Link to="https://github.com/Horizontal-org/shira">Open Source</Link>, and licencesed under MIT 2.0. </li>
+                <li>At Horizontal, we design and develop centering the needs of the community: Shira is multilingual, <Link to="/contact">co-created with users</Link> and centering security and privacy.</li>
+                <li>This website runs on green energy.</li>
+                <img src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="95px"></img>
+
+              </ul>
+            </div>
+          </section>
+        </div>
+
       </main>
     </Layout>
   );
