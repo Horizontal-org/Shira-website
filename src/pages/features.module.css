@@ -55,6 +55,13 @@
   text-align: center;
 }
 
+.feauturesAllInfoText span,
+.feauturesNeedMore span {
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 0.05rem;
+  line-height: 1.4;
+}
 
 @media (max-width: 1110px) {
   .feauturesIntro img {

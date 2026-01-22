@@ -40,7 +40,7 @@ export default function Features() {
 
             <div className={styles.feauturesAllInfoText}>
               <h1>All the features you need to keep your team safe</h1>
-              <h4>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</h4>
+              <span>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</span>
             </div>
           </section>
         </div>
@@ -117,7 +117,7 @@ export default function Features() {
 
           <div className={styles.feauturesNeedMore}>
             <h2>Missing a feature?</h2>
-            <h4>Get in touch. We’ll make it happen.</h4>
+            <span>Get in touch. We’ll make it happen.</span>
             <Link className={global.buttonDark} to="/contact">Contact us</Link>
 
           </div>
