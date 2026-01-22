@@ -164,7 +164,65 @@ const config = {
             src: 'img/shira-logo.png',
             height: 51,
           },
-        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
+        links: [
+          {
+            title: 'Learn',
+            items: [
+              {
+                label: 'Learn about phishing',
+                to: '/phishing',
+              },
+              {
+                label: 'Effective phishing education',
+                to: '/phishing-quizzes',
+              },
+            ],
+          },
+          {
+            title: 'Use Shira',
+            items: [
+              {
+                label: 'Take a ready-made quiz',
+                href: 'https://quiz.shira.app/',
+              },
+              {
+                label: 'Explore Shira features',
+                to: '/features',
+              },
+              {
+                label: 'Build a custom quiz',
+                href: signupFormUrl,
+              },
+            ],
+          },
+          {
+            title: 'Get help',
+            items: [
+              {
+                label: 'Visit our help center',
+                to: '/help',
+              },
+              {
+                label: 'Contact us',
+                to: '/contact',
+              },
+            ],
+          },
+          {
+            title: 'About',
+            items: [
+              {
+                label: 'Learn about the Shira team',
+                to: '/about',
+              },
+              {
+                label: 'Shira is open source',
+                href: 'https://github.com/Horizontal-org/shira/',
+              },
+            ],
+          },
+        ],
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under the MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
         theme: prismThemes.github,
