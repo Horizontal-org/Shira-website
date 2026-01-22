@@ -64,17 +64,9 @@
   cursor: pointer;
   text-transform: uppercase;
   margin: 1rem;
-
-  &:hover {
-    outline: none;
-  }
   
   &:active {
     transform: translateY(1px);
-  }
-  
-  &:focus {
-    outline: none;
   }
 
 }
