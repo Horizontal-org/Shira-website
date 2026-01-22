@@ -19,8 +19,8 @@ export default function Phishing() {
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileReverseWrap, global.center)}>
             <div className={styles.learnPhishingIntroText}>
               <h2>What is phishing?</h2>
-              <h4>Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware.</h4>
-              <h4>Understanding phishing is the first step in protecting yourself and your organization.</h4>
+              <span>Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware.</span>
+              <span>Understanding phishing is the first step in protecting yourself and your organization.</span>
             </div>
             <img src='/img/fish.png' alt="decorative image of a fish"></img>
           </div>
@@ -31,8 +31,8 @@ export default function Phishing() {
             <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
               <h1>The most common attack</h1>
               <div className={styles.learnPhishingCommonText}>
-                <h4>Phishing is consistently ranked as the most common attack experienced by individuals and organizations.</h4>
-                <h4>While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls.</h4>
+                <span>Phishing is consistently ranked as the most common attack experienced by individuals and organizations.</span>
+                <span>While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls.</span>
               </div>
             </div>
           </section>
