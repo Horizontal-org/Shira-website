@@ -6,17 +6,18 @@ description: Try Shira’s free ready-made quizzes to practice phishing detectio
 
 ---
 import Link from '@docusaurus/Link';
+import global from '/src/css/custom.module.scss';
+import classNames from 'classnames';
 
 # Ready-made quizzes
 
 Anyone can use Shira’s ready-made quizzes for free: just head to [https://quiz.shira.app](https://quiz.shira.app) and get started!
 
-<Link
-  className="button button--primary"
+<Link 
+  className={classNames(global.buttonDark)} 
   to="https://quiz.shira.app/"
 >Try a ready-made quiz now</Link>
 
-<br>
 Ready-made quizzes lets anyone take a free phishing quiz to build their anti-phishing skills. 
 
 These quizzes provide an small amount of customization, including by:
