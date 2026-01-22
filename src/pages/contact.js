@@ -31,6 +31,7 @@ export default function Contact() {
                 <li>Write to us to <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>.</li>
                 <li><a href="https://github.com/Horizontal-org/shira/discussions">Post a feature idea or vote on the community needs</a>.</li>
                 <li><a href="https://calendly.com/raphael-mimoun/shira-demo">Schedule a demo call directly here</a>.</li>
+                <li><a href="https://blog.wearehorizontal.org/tag/shira/">Subscribe to our newsletter</a>.</li>
               </ul>
           </div>
         </section>
