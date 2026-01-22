@@ -24,7 +24,7 @@ export default function About() {
               <Link className={classNames(styles.button, global.buttonLight)} to="/contact">Get in touch</Link>
 
             </div>
-            <img src='/img/shira-s.svg'></img>
+            <img src='/img/shira-s.svg' alt="shira logo: it is an S in blue and light green colors"></img>
           </section>
         </div>
 
@@ -45,7 +45,7 @@ export default function About() {
         <div className={classNames(global.backgroundLight, styles.flexAndCenter)}>
           <section className={classNames(styles.whyShira, global.sectionMaxWidth)}>
             <h2>
-              <img src='/img/hook.png'></img>
+              <img src='/img/hook.png' alt="decorative image of a hook"></img>
               Why Shira?
             </h2>
 

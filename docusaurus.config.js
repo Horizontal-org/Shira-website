@@ -98,7 +98,7 @@ const config = {
       image: 'img/shira-social-card.png',
       navbar: {
         logo: {
-          alt: 'Shira Log',
+          alt: 'Shira Logo',
           src: 'img/shira-logo.png',
         },
         items: [

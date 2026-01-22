@@ -22,7 +22,7 @@ export default function Phishing() {
               <h4>Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware.</h4>
               <h4>Understanding phishing is the first step in protecting yourself and your organization.</h4>
             </div>
-            <img src='/img/fish.png'></img>
+            <img src='/img/fish.png' alt="decorative image of a fish"></img>
           </div>
         </section>
         
@@ -41,7 +41,7 @@ export default function Phishing() {
 
         <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.attackers)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
-            <img src='/img/fish-bubbles.png'></img>
+            <img src='/img/fish-bubbles.png' alt="decorative image of bubbles"></img>
             <div className={styles.attackersText}>
               <h3>What do attackers try to obtain?</h3>
               <p className={styles.mobileAlignList}>
@@ -88,7 +88,7 @@ export default function Phishing() {
                 </ul>
               </p>
             </div>
-            <img src='/img/worm.png'></img>
+            <img src='/img/worm.png' alt="decorative image of a worm"></img>
           </div>
         </section>
 

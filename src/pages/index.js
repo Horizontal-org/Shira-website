@@ -48,7 +48,7 @@ export default function Home() {
           <p>
             For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before.
           </p>
-          <img src='/img/context.png'></img>
+          <img src='/img/context.png' alt="decorative image of a magnifier glass"></img>
         </section>
 
         <section className={classNames(global.backgroundDark, styles.whySection, global.row, global.center)}>

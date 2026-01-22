@@ -31,12 +31,12 @@ export default function Features() {
               <Link className={classNames(styles.button, global.buttonDark)} to={signupFormUrl}>Get Started</Link>
             </div>
           </div>
-          <img src='/img/fish.png'></img>
+          <img src='/img/fish.png' alt="decorative image of a fish"></img>
         </section>
 
         <div style={{ width: '100%' }}>
           <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
-            <img src='/img/fish-bubbles.png'></img>
+            <img src='/img/fish-bubbles.png' alt="decorative image of a bubbles"></img>
 
             <div className={styles.feauturesAllInfoText}>
               <h1>All the features you need to keep your team safe</h1>
