@@ -1,6 +1,6 @@
 .aboutShira,
 .aboutHorizontal,
-.howItIsMadeText, {
+.howItIsMade, {
   display: flex;
   align-items: center;
   width: 100%;
@@ -22,8 +22,17 @@
   margin-top: 4em;
 }
 
+
 .aboutHorizontal .button {
   width: fit-content;
+}
+.howItIsMade h2 {
+  max-width: 300px;
+}
+
+.howItIsMade {
+  align-items: center;
+  justify-content: center;
 }
 
 .whyShira  h2 {
