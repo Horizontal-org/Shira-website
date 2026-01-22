@@ -20,18 +20,10 @@
   cursor: pointer;
   text-transform: uppercase;
 
-  &:hover {
-    outline: none;
-  }
-  
   &:active {
     transform: translateY(1px);
   }
   
-  &:focus {
-    outline: none;
-  }
-
   background-color: var(--ifm-color-primary);
   color: var(--ifm-color-primary-lightest);
 
