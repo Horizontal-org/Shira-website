@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <Layout
       title="Shira"
-      description="Learn the skills needed to identify and defeat phishing attacks with Shira."
+      description="Shira builds your team's ability to identify and defeat phishing attacks."
     >
 
       <meta name="description" content="Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language." />
@@ -19,7 +19,7 @@ export default function Home() {
         <section className={styles.hero}>
           <div className={styles.bg}></div>
           <h1>Preparedness. Knowledge. Resilience.</h1>
-          <h4>Learn the skills needed to identify and defeat phishing attacks</h4>
+          <h4>Shira builds your team's ability to identify and defeat phishing attacks</h4>
         </section>
 
 
