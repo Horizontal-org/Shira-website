@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Internal paths
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /__docusaurus/
+Disallow: /_next/
+
+# Sitemap
+Sitemap: https://beta.shira.app/sitemap.xml
