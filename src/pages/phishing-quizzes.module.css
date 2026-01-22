@@ -74,3 +74,10 @@
   display: flex;
   justify-content: center;  
 }
+
+.phishingQuizzes span {
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 0.05rem;
+  line-height: 1.4;
+}
