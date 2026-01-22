@@ -119,7 +119,7 @@
 
 .context img {
   height: 400px;
-  width: 400px;
+  aspect-ratio: auto;
 }
 
 @media (max-width: 768px) {
