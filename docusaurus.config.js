@@ -222,7 +222,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under the MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
         theme: prismThemes.github,
