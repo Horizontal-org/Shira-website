@@ -10,13 +10,19 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 Quiz questions are where the learning happens in Shira. This is where you show your learners an email or message, and ask them: does this look like phishing? 
 
-In each quiz, you can include as many questions as you wish.
-
 Each question is made up of several components:
 * [The question’s preferences](#preferences) 
 * [An app](#app)
 * [The question's content](#content)
+* [Variables](#variables)
 * [Explanations](#explanations)
+
+:::info
+The amount of questions you can add to your quizzes depends on your [Shira plan](/pricing).
+:::
+
+## Creating a question {#create}
+You can create questions from scratch -configuring each of the questions components- or you can pull ready-made questions from the Library. Questions on the library has been created by security trainers and have been used in trainings worldwide. If you pull a question from the Library, we recommend you to edit the content and explanations to adapt it to your specific context and learners needs.
 
 ## Question preferences {#preferences}
 When you create a question, you must: 
@@ -57,4 +63,19 @@ When you create a question, each explanation must be linked to an element in the
 - Images or file attachments
 
 The order of explanations that you see when you create the quiz question is the same order that the explanations will be shown to learners when they take the quiz.
+
+## Variables {#variables}
+Variables are placeholders that you can use to insert personalized information into a question.
+
+The information shown is relevant to each learner. For public quizzes, it's based on what they entered or auto-generated during quiz setup. For private quizze, it's the name and email that was configured when inviting the Learner.
+
+To add a variable, type the following:
+
+```
+{{name}}
+This will display the learner's name
+
+{{email}}
+This will display the learner's email address
+```
 
