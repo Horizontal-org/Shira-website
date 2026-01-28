@@ -1016,5 +1016,205 @@
     "phishingQuizzes.cta":
     {
         "message": "Get started"
+    },
+    "phishing.layout.title":
+    {
+        "message": "Learn about Phishing"
+    },
+    "phishing.layout.description":
+    {
+        "message": "Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
+    },
+    "phishing.meta.description":
+    {
+        "message": "Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
+    },
+    "phishing.intro.title":
+    {
+        "message": "What is phishing?"
+    },
+    "phishing.intro.definition":
+    {
+        "message": "Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware."
+    },
+    "phishing.intro.protection":
+    {
+        "message": "Understanding phishing is the first step in protecting yourself and your organization."
+    },
+    "phishing.images.fish.alt":
+    {
+        "message": "Decorative illustration of a fish"
+    },
+    "phishing.common.title":
+    {
+        "message": "The most common attack"
+    },
+    "phishing.common.rank":
+    {
+        "message": "Phishing is consistently ranked as the most common attack experienced by individuals and organizations."
+    },
+    "phishing.common.channels":
+    {
+        "message": "While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls."
+    },
+    "phishing.images.bubbles.alt":
+    {
+        "message": "Decorative illustration of bubbles"
+    },
+    "phishing.attackers.title":
+    {
+        "message": "What do attackers try to obtain?"
+    },
+    "phishing.attackers.passwords.label":
+    {
+        "message": "Passwords:"
+    },
+    "phishing.attackers.passwords.text":
+    {
+        "message": "Attackers seek to steal passwords and login credentials to access victims' online accounts. With this information, they can commit fraud, steal data, or blackmail victims by threatening to expose sensitive information."
+    },
+    "phishing.attackers.money.label":
+    {
+        "message": "Money:"
+    },
+    "phishing.attackers.money.text":
+    {
+        "message": "Financial gain is a key motive for phishing. Attackers impersonate legitimate organizations to trick victims into providing credit card details or making payments, often through fake invoices or donation requests."
+    },
+    "phishing.attackers.confidential.label":
+    {
+        "message": "Confidential information:"
+    },
+    "phishing.attackers.confidential.text":
+    {
+        "message": "Phishing targets confidential information like Social Security numbers and business data. This information can be used for identity theft, sold on the dark web, or exploited for corporate espionage."
+    },
+    "phishing.attackers.malware.label":
+    {
+        "message": "For victims to install malware:"
+    },
+    "phishing.attackers.malware.text":
+    {
+        "message": "Phishers may trick victims into downloading malware through malicious links or attachments. Once installed, malware can steal personal information, monitor activity, or take control of devices, leading to serious data breaches."
+    },
+    "phishing.why.title":
+    {
+        "message": "Why does phishing work?"
+    },
+    "phishing.why.intro":
+    {
+        "message": "Phishers capitalize on our:"
+    },
+    "phishing.why.polite.label":
+    {
+        "message": "Urge to be polite:"
+    },
+    "phishing.why.polite.text":
+    {
+        "message": "People often feel compelled to respond to messages from authority figures or trusted sources. Phishers exploit this by using polite language, making recipients more likely to comply with requests for sensitive information without questioning the message's legitimacy."
+    },
+    "phishing.why.helpful.label":
+    {
+        "message": "Urge to be helpful:"
+    },
+    "phishing.why.helpful.text":
+    {
+        "message": "Many of us naturally want to assist others. Phishers create scenarios that prompt recipients to help, such as claiming a colleague or relative is in trouble. This manipulation can lead individuals to provide personal information, believing they are being supportive."
+    },
+    "phishing.why.embarrassed.label":
+    {
+        "message": "Fear of being embarrassed:"
+    },
+    "phishing.why.embarrassed.text":
+    {
+        "message": "Phishers instill fear by suggesting the recipient has made a mistake, like missing a payment. This fear can push individuals to act quickly, often without verifying the message's source, leading to compromised security."
+    },
+    "phishing.why.urgent.label":
+    {
+        "message": "Panic about urgent messages:"
+    },
+    "phishing.why.urgent.text":
+    {
+        "message": "Urgency is a strong motivator. Phishers craft messages that create a false sense of urgency, claiming accounts will be suspended or payments are overdue. This panic can cloud judgment, causing individuals to overlook warning signs and act impulsively."
+    },
+    "phishing.consequences.title":
+    {
+        "message": "Phishing attacks can lead to severe consequences"
+    },
+    "phishing.consequences.identity.label":
+    {
+        "message": "Identity Theft:"
+    },
+    "phishing.consequences.identity.text":
+    {
+        "message": "Cybercriminals can use your personal information to impersonate you."
+    },
+    "phishing.consequences.financial.label":
+    {
+        "message": "Financial Loss:"
+    },
+    "phishing.consequences.financial.text":
+    {
+        "message": "Unauthorized transactions can drain your accounts."
+    },
+    "phishing.consequences.data.label":
+    {
+        "message": "Data Breaches:"
+    },
+    "phishing.consequences.data.text":
+    {
+        "message": "Sensitive company information can be exposed, leading to reputational damage."
+    },
+    "phishing.consequences.operational.label":
+    {
+        "message": "Operational Disruption:"
+    },
+    "phishing.consequences.operational.text":
+    {
+        "message": "Phishing can result in downtime and loss of productivity."
+    },
+    "phishing.images.worm.alt":
+    {
+        "message": "Decorative illustration of a worm"
+    },
+    "phishing.how.title":
+    {
+        "message": "How phishing works"
+    },
+    "phishing.how.intro":
+    {
+        "message": "Phishing attacks often involve the following steps:"
+    },
+    "phishing.how.deceptive.label":
+    {
+        "message": "Deceptive Communication:"
+    },
+    "phishing.how.deceptive.text":
+    {
+        "message": "Attackers send messages that appear to come from legitimate sources, such as banks, online services, or even colleagues."
+    },
+    "phishing.how.urgent.label":
+    {
+        "message": "Urgent Call to Action:"
+    },
+    "phishing.how.urgent.text":
+    {
+        "message": "The message usually contains a sense of urgency, prompting the recipient to act quickly—such as clicking a link or providing personal information."
+    },
+    "phishing.how.fake.label":
+    {
+        "message": "Fake Websites:"
+    },
+    "phishing.how.fake.text":
+    {
+        "message": "If the victim clicks on a link, they are often directed to a fraudulent website that looks similar to the legitimate one. Here, they may be asked to enter sensitive information such as their password or banking information."
+    },
+    "phishing.how.data.label":
+    {
+        "message": "Data Theft:"
+    },
+    "phishing.how.data.text":
+    {
+        "message": "Once the victim provides their information, attackers can use it for identity theft, financial fraud, or other malicious purposes."
     }
 }
