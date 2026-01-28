@@ -5,39 +5,109 @@ import styles from './about.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import useBaseUrl from '@docusaurus/useBaseUrl';
-
+import Translate, { translate } from '@docusaurus/Translate';
 
 export default function About() {
   return (
     <Layout
-      title="About Shira"
-      description="Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
+      title={translate({
+        id: 'about.meta.title',
+        message: 'About Shira',
+      })}
+      description={translate({
+        id: 'about.meta.description',
+        message:
+          'Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks.',
+      })}
     >
       <main className="main">
-        <meta name="description" content="Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks." />
+        <meta
+          name="description"
+          content={translate({
+            id: 'about.meta.longDescription',
+            message:
+              'Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks.',
+          })}
+        />
 
         <div className={classNames(global.backgroundDark, styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.aboutShira, global.sectionMaxWidth)}>
             <div className={classNames(global.center, styles.aboutShiraText)}>
-              <h1>Shira</h1>
-              <h4>Helping individuals and organizations to build their defense against phishing attacks</h4>
-              <Link className={classNames(styles.button, global.buttonLight)} to="/contact">Get in touch</Link>
-
+              <h1>
+                <Translate id="about.hero.title">Shira</Translate>
+              </h1>
+              <h4>
+                <Translate id="about.hero.subtitle">
+                  Helping individuals and organizations to build their defense against phishing attacks
+                </Translate>
+              </h4>
+              <Link
+                className={classNames(styles.button, global.buttonLight)}
+                to="/contact"
+              >
+                <Translate id="about.hero.cta">Get in touch</Translate>
+              </Link>
             </div>
-            <img src='/img/shira-s.svg' alt="shira logo: it is an S in blue and light green colors"></img>
+
+            <img
+              src="/img/shira-s.svg"
+              alt={translate({
+                id: 'about.hero.imageAlt',
+                message: 'shira logo: it is an S in blue and light green colors',
+              })}
+            />
           </section>
         </div>
 
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.aboutHorizontal, global.sectionMaxWidth)}>
-            <img src='/img/horizontal-logo.svg' alt="Horizontal logo"></img>
-            <div className={styles.aboutHorizontalText}>
-              <h2>Who makes Shira?</h2>
-              <p>Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online. </p>
-              <p>You can help us improve and sustain Shira by <Link to="https://donorbox.org/towards-sustainability">making a donation here</Link>.</p>
-              <p>To contribute to the translation of Shira into new languages, email us at <Link to="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</Link>.</p>
-              <Link className={classNames(styles.button, global.buttonDark)} to="https://wearehorizontal.org/index">Learn about Horizontal</Link>
+            <img
+              src="/img/horizontal-logo.svg"
+              alt={translate({
+                id: 'about.horizontal.imageAlt',
+                message: 'Horizontal logo',
+              })}
+            />
 
+            <div className={styles.aboutHorizontalText}>
+              <h2>
+                <Translate id="about.horizontal.title">Who makes Shira?</Translate>
+              </h2>
+
+              <p>
+                <Translate id="about.horizontal.description">
+                  Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online.
+                </Translate>
+              </p>
+
+              <p>
+                <Translate id="about.horizontal.donationText">
+                  You can help us improve and sustain Shira by
+                </Translate>{' '}
+                <Link to="https://donorbox.org/towards-sustainability">
+                  <Translate id="about.horizontal.donationLink">
+                    making a donation here
+                  </Translate>
+                </Link>.
+              </p>
+
+              <p>
+                <Translate id="about.horizontal.translationText">
+                  To contribute to the translation of Shira into new languages, email us at
+                </Translate>{' '}
+                <Link to="mailto:contact@wearehorizontal.org">
+                  contact@wearehorizontal.org
+                </Link>.
+              </p>
+
+              <Link
+                className={classNames(styles.button, global.buttonDark)}
+                to="https://wearehorizontal.org/index"
+              >
+                <Translate id="about.horizontal.cta">
+                  Learn about Horizontal
+                </Translate>
+              </Link>
             </div>
           </section>
         </div>
@@ -45,53 +115,125 @@ export default function About() {
         <div className={classNames(global.backgroundLight, styles.flexAndCenter)}>
           <section className={classNames(styles.whyShira, global.sectionMaxWidth)}>
             <h2>
-              <img src='/img/hook.png' alt="decorative image of a hook"></img>
-              Why Shira?
+              <img
+                src="/img/hook.png"
+                alt={translate({
+                  id: 'about.why.imageAlt',
+                  message: 'decorative image of a hook',
+                })}
+              />
+              {' '}
+              <Translate id="about.why.title">Why Shira?</Translate>
             </h2>
 
             <div className={classNames(styles.whyShiraText, global.row)}>
               <div className={styles.whyShiraReason}>
-                <h3>1. Easy to use</h3>
-                <p>Shira was created considering communities that are the most at-risk of phishing attacks, especially users with limited tech literacy.</p>
+                <h3>
+                  <Translate id="about.why.easy.title">1. Easy to use</Translate>
+                </h3>
+                <p>
+                  <Translate id="about.why.easy.description">
+                    Shira was created considering communities that are the most at-risk of phishing attacks, especially users with limited tech literacy.
+                  </Translate>
+                </p>
               </div>
+
               <div className={styles.whyShiraReason}>
-                <h3>2. Customizable</h3>
-                <p>We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face.</p>
+                <h3>
+                  <Translate id="about.why.customizable.title">2. Customizable</Translate>
+                </h3>
+                <p>
+                  <Translate id="about.why.customizable.description">
+                    We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face.
+                  </Translate>
+                </p>
               </div>
+
               <div className={styles.whyShiraReason}>
-                <h3>3. Privacy-friendly</h3>
-                <p>We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm.</p>
+                <h3>
+                  <Translate id="about.why.privacy.title">3. Privacy-friendly</Translate>
+                </h3>
+                <p>
+                  <Translate id="about.why.privacy.description">
+                    We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm.
+                  </Translate>
+                </p>
               </div>
             </div>
 
             <div className={classNames(styles.whyShiraButtons, global.row, global.center)}>
-              <a className={classNames(styles.button, global.buttonDark)} href={useBaseUrl('assets/shira-final.pdf')}>Security Audit</a>
-              <Link className={classNames(styles.button, global.buttonDark)} to="/privacy-policy">Privacy policy </Link>
+              <a
+                className={classNames(styles.button, global.buttonDark)}
+                href={useBaseUrl('assets/shira-final.pdf')}
+              >
+                <Translate id="about.why.auditCta">Security Audit</Translate>
+              </a>
 
+              <Link
+                className={classNames(styles.button, global.buttonDark)}
+                to="/privacy-policy"
+              >
+                <Translate id="about.why.privacyCta">Privacy policy</Translate>
+              </Link>
             </div>
           </section>
         </div>
 
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.howItIsMade, global.sectionMaxWidth)}>
-            <h2>How Shira is built?</h2>
+            <h2>
+              <Translate id="about.how.title">How Shira is built?</Translate>
+            </h2>
+
             <div className={classNames(global.center, styles.howItIsMadeText)}>
               <ul>
-                <li>Shira is <Link to="https://github.com/Horizontal-org/shira">Open Source</Link>, and licencesed under MIT 2.0. </li>
-                <li>At Horizontal, we design and develop centering the needs of the community.</li>
-                <ul>
-                  <li>Shira is multilingual, <Link to="/contact">co-created with users</Link> and centering security and privacy.</li>
-                </ul>
-                <li>This website runs on green energy.</li>
-                <img src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="95px"></img>
+                <li>
+                  <Translate id="about.how.opensource">
+                    Shira is Open Source, and licencesed under MIT 2.0.
+                  </Translate>{' '}
+                  <Link to="https://github.com/Horizontal-org/shira">Open Source</Link>.
+                </li>
 
+                <li>
+                  <Translate id="about.how.design">
+                    At Horizontal, we design and develop centering the needs of the community.
+                  </Translate>
+                </li>
+
+                <ul>
+                  <li>
+                    <Translate id="about.how.community">
+                      Shira is multilingual, co-created with users and centering security and privacy.
+                    </Translate>{' '}
+                    <Link to="/contact">
+                      <Translate id="about.how.communityLink">
+                        co-created with users
+                      </Translate>
+                    </Link>
+                  </li>
+                </ul>
+
+                <li>
+                  <Translate id="about.how.green">
+                    This website runs on green energy.
+                  </Translate>
+                </li>
+
+                <img
+                  src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true"
+                  alt={translate({
+                    id: 'about.how.greenAlt',
+                    message:
+                      'This website runs on green hosting - verified by thegreenwebfoundation.org',
+                  })}
+                  width="200px"
+                  height="95px"
+                />
               </ul>
             </div>
           </section>
         </div>
-
       </main>
     </Layout>
   );
 }
-
