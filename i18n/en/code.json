@@ -1216,5 +1216,213 @@
     "phishing.how.data.text":
     {
         "message": "Once the victim provides their information, attackers can use it for identity theft, financial fraud, or other malicious purposes."
+    },
+    "pricing.layout.title":
+    {
+        "message": "Shira's pricing"
+    },
+    "pricing.layout.description":
+    {
+        "message": "Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
+    },
+    "pricing.meta.description":
+    {
+        "message": "Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
+    },
+    "pricing.intro.subtitle":
+    {
+        "message": "Custom plans for educators and security professionals"
+    },
+    "pricing.intro.title":
+    {
+        "message": "Simple, transparent, and fair pricing"
+    },
+    "pricing.starter.title":
+    {
+        "message": "Starter"
+    },
+    "pricing.starter.description":
+    {
+        "message": "To try things out and get familiar with Shira"
+    },
+    "pricing.starter.price":
+    {
+        "message": "$0"
+    },
+    "pricing.starter.note":
+    {
+        "message": "Free, no strings attached"
+    },
+    "pricing.cta.getStarted":
+    {
+        "message": "Get started"
+    },
+    "pricing.starter.includes":
+    {
+        "message": "The Starter plan includes:"
+    },
+    "pricing.admin.title":
+    {
+        "message": "Admin management"
+    },
+    "pricing.admin.cloud":
+    {
+        "message": "✔️ Cloud"
+    },
+    "pricing.admin.dashboard":
+    {
+        "message": "✔️ Admin dashboard"
+    },
+    "pricing.admin.oneAdmin":
+    {
+        "message": "✔️ 1 admin"
+    },
+    "pricing.customization.title":
+    {
+        "message": "Customization"
+    },
+    "pricing.customization.questions":
+    {
+        "message": "✔️ Fully customizable quiz questions"
+    },
+    "pricing.customization.library":
+    {
+        "message": "✔️ Access to the question's library"
+    },
+    "pricing.customization.quizzes":
+    {
+        "message": "✔️ Up to 3 custom quizzes"
+    },
+    "pricing.customization.questionsPerQuiz":
+    {
+        "message": "✔️ Up to 5 questions per quiz"
+    },
+    "pricing.customization.limit":
+    {
+        "message": "✔️ Up to 1,500 quizzes taken per year"
+    },
+    "pricing.customization.apps":
+    {
+        "message": "✔️ 2 apps: Gmail, SMS"
+    },
+    "pricing.access.title":
+    {
+        "message": "Access control"
+    },
+    "pricing.access.public":
+    {
+        "message": "✔️Public quizzes: anyone can take your quiz through an easy-to-share URL"
+    },
+    "pricing.pro.title":
+    {
+        "message": "Pro"
+    },
+    "pricing.pro.description":
+    {
+        "message": "One flat fee, the full power of Shira"
+    },
+    "pricing.pro.price":
+    {
+        "message": "$220"
+    },
+    "pricing.pro.billing":
+    {
+        "message": "/month billed annually or $275/month billed monthly"
+    },
+    "pricing.pro.includes":
+    {
+        "message": "The Pro plan includes:"
+    },
+    "pricing.admin.unlimitedSoon":
+    {
+        "message": "✔️ Unlimited admins [coming soon]"
+    },
+    "pricing.pro.unlimitedQuizzes":
+    {
+        "message": "✔️ Unlimited custom quizzes"
+    },
+    "pricing.pro.unlimitedQuestions":
+    {
+        "message": "✔️ Unlimited quiz questions"
+    },
+    "pricing.pro.limit":
+    {
+        "message": "✔️ Up to 1,500 quizzes taken per year*"
+    },
+    "pricing.pro.apps":
+    {
+        "message": "✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app"
+    },
+    "pricing.access.private":
+    {
+        "message": "✔️Private quizzes: only your users can take your quizzes"
+    },
+    "pricing.compliance.title":
+    {
+        "message": "Compliance"
+    },
+    "pricing.compliance.track":
+    {
+        "message": "✔️Track user progress"
+    },
+    "pricing.compliance.tools":
+    {
+        "message": "✔️Analysis and compliance tools [coming soon]"
+    },
+    "pricing.pro.note":
+    {
+        "message": "* Additional quiz packages available if needed"
+    },
+    "pricing.enterprise.title":
+    {
+        "message": "Enterprise"
+    },
+    "pricing.enterprise.description":
+    {
+        "message": "Best for large organizations and service providers"
+    },
+    "pricing.enterprise.price":
+    {
+        "message": "Custom pricing"
+    },
+    "pricing.enterprise.note":
+    {
+        "message": "Rates tailored to your needs"
+    },
+    "pricing.enterprise.includes":
+    {
+        "message": "The Enterprise plan includes:"
+    },
+    "pricing.enterprise.deployment":
+    {
+        "message": "✔️ Cloud or on-premise"
+    },
+    "pricing.admin.unlimited":
+    {
+        "message": "✔️ Unlimited admins"
+    },
+    "pricing.enterprise.unlimitedQuizzes":
+    {
+        "message": "✔️ Unlimited custom quizzes"
+    },
+    "pricing.enterprise.unlimitedQuestions":
+    {
+        "message": "✔️ Unlimited quiz questions"
+    },
+    "pricing.enterprise.customLimit":
+    {
+        "message": "✔️ Custom number of quizzes taken"
+    },
+    "pricing.enterprise.support":
+    {
+        "message": "Custom support"
+    },
+    "pricing.enterprise.training":
+    {
+        "message": "✔️Tailor-made user training"
+    },
+    "pricing.enterprise.priority":
+    {
+        "message": "✔️Priority support"
     }
 }
