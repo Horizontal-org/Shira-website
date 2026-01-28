@@ -1,0 +1,66 @@
+---
+id: welcome
+slug: /help
+description: Introduction to Shira, an anti-phishing training tool that helps teams and organizations learn to identify phishing attacks in email, SMS, and messaging apps.
+sidebar_label: Welcome
+sidebar_position: 1 
+pagination_prev: null
+pagination_next: 'ready-made'
+---
+import React from 'react';
+import { useDocsSidebar } from '@docusaurus/theme-common/internal';
+
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+import DocCard from '@theme/DocCard';
+import Link from '@docusaurus/Link';
+import global from '/src/css/custom.module.scss';
+import classNames from 'classnames';
+
+
+
+# Shira Help Center
+
+¡Welcome to the Shira Help Center!
+
+Shira is an anti-phishing training tool. You can use Shira in your team or organization to train your colleagues on identifying phishing attacks sent through email, SMS, and messaging apps.
+
+Shira focuses on recreating, in a controlled learning environment, phishing simulations that are as similar as possible to what your team will be receiving in real life. 
+
+Shira is built around the recent research findings that show that when it comes to anti-phishing skill building, [education beats simulation](/phishing-quizzes).
+
+In this help center you can find information and guidance on how to use Shira.
+
+## Ready-made quizzes {#ready-made-quizzes}
+Our [ready-made quizzes](/ready-made) let users take a 10-question quiz that is customized to look as similar as possible to what they will experience in real life. It's free and accessible to anyone. 
+
+<Link 
+  className={classNames(global.buttonDark)} 
+  to="https://quiz.shira.app/"
+>Try a ready-made quiz now</Link>
+
+
+## Shira Space {#shira-space}
+A [Shira Space](/spaces) offers advanced features for teams and organizations, like:
+- creating your own quiz questions, with content specifically relevant to your team.
+- setting your quizz's privacy as public (accessible to anyone with the quiz URL) or private (only accessible to learners registered with your organization). Private quizzes are coming soon!
+- tracking user Results to understand where your users can improve.
+
+[Learn more about Shira spaces](/spaces) or if you're already convinced, [create your space](/contact). You can always [contact us if you need help](/contact).
+
+Learn more about spaces: 
+<FeaturedDocs />
+
+export function FeaturedDocs() {
+  const category = useCurrentSidebarCategory();
+  const spacesItems = category.items.find(sidebarElement => {
+    return sidebarElement.label === "Spaces";
+  }).items;
+
+  return (
+    <div className={classNames(global.shiraDocCards)}>
+      {spacesItems.map((item, idx) => (
+        <DocCard key={idx} item={item} />
+      ))}
+    </div>
+  );
+}

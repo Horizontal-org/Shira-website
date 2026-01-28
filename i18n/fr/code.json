@@ -1,0 +1,1108 @@
+{
+  "about.meta.title": {
+    "message": "FR-About Shira"
+  },
+  "about.meta.description": {
+    "message": "FR-Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
+  },
+  "about.meta.longDescription": {
+    "message": "FR-Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
+  },
+  "about.hero.title": {
+    "message": "FR-Shira"
+  },
+  "about.hero.subtitle": {
+    "message": "FR-Helping individuals and organizations to build their defense against phishing attacks"
+  },
+  "about.hero.cta": {
+    "message": "FR-Get in touch"
+  },
+  "about.hero.imageAlt": {
+    "message": "FR-shira logo: it is an S in blue and light green colors"
+  },
+  "about.horizontal.imageAlt": {
+    "message": "FR-Horizontal logo"
+  },
+  "about.horizontal.title": {
+    "message": "FR-Who makes Shira?"
+  },
+  "about.horizontal.description": {
+    "message": "FR-Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online."
+  },
+  "about.horizontal.donationText": {
+    "message": "FR-You can help us improve and sustain Shira by"
+  },
+  "about.horizontal.donationLink": {
+    "message": "FR-making a donation here"
+  },
+  "about.horizontal.translationText": {
+    "message": "FR-To contribute to the translation of Shira into new languages, email us at"
+  },
+  "about.horizontal.cta": {
+    "message": "FR-Learn about Horizontal"
+  },
+  "about.why.imageAlt": {
+    "message": "FR-decorative image of a hook"
+  },
+  "about.why.title": {
+    "message": "FR-Why Shira?"
+  },
+  "about.why.easy.title": {
+    "message": "FR-1. Easy to use"
+  },
+  "about.why.easy.description": {
+    "message": "FR-Shira was created considering communities that are the most at-risk of phishing attacks, especially users with limited tech literacy."
+  },
+  "about.why.customizable.title": {
+    "message": "FR-2. Customizable"
+  },
+  "about.why.customizable.description": {
+    "message": "FR-We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face."
+  },
+  "about.why.privacy.title": {
+    "message": "FR-3. Privacy-friendly"
+  },
+  "about.why.privacy.description": {
+    "message": "FR-We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm."
+  },
+  "about.why.auditCta": {
+    "message": "FR-Security Audit"
+  },
+  "about.why.privacyCta": {
+    "message": "FR-Privacy policy"
+  },
+  "about.how.title": {
+    "message": "FR-How is Shira built?"
+  },
+  "about.how.opensource": {
+    "message": "FR-Shira is Open Source, and licencesed under MIT 2.0."
+  },
+  "about.how.design": {
+    "message": "FR-At Horizontal, we design and develop centering the needs of the community."
+  },
+  "about.how.community": {
+    "message": "FR-Shira is multilingual, co-created with users and centering security and privacy."
+  },
+  "about.how.communityLink": {
+    "message": "FR-co-created with users"
+  },
+  "about.how.green": {
+    "message": "FR-This website runs on green energy."
+  },
+  "about.how.greenAlt": {
+    "message": "FR-This website runs on green hosting - verified by thegreenwebfoundation.org"
+  },
+  "contact.title": {
+    "message": "FR-Contact the Shira team"
+  },
+  "contact.description": {
+    "message": "FR-Learn about how to contact the Shira team"
+  },
+  "contact.metaDescription": {
+    "message": "FR-Learn about how to contact the Shira team"
+  },
+  "contact.heading": {
+    "message": "FR-Let’s talk!"
+  },
+  "contact.intro.part1": {
+    "message": "FR-Do you have questions about Shira (that are not answered in our"
+  },
+  "contact.intro.helpCenter": {
+    "message": "FR-help center"
+  },
+  "contact.intro.part2": {
+    "message": "FR-)? Would you like to explore a possible partnership? Are you a part of a grassroots organization and cannot afford the full cost of Shira?"
+  },
+  "contact.getInTouch": {
+    "message": "FR-Get in touch:"
+  },
+  "contact.links.emailText": {
+    "message": "FR-Write to us at"
+  },
+  "contact.links.github": {
+    "message": "FR-Post a feature idea or vote on the community needs"
+  },
+  "contact.links.demo": {
+    "message": "FR-Schedule a demo call directly here"
+  },
+  "contact.links.newsletter": {
+    "message": "FR-Subscribe to our newsletter"
+  },
+  "features.meta.title": {
+    "message": "FR-Shira's Features"
+  },
+  "features.meta.description": {
+    "message": "FR-Explore Shira's features for educators and security professionals."
+  },
+  "features.meta.longDescription": {
+    "message": "FR-Explore Shira's features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness."
+  },
+  "features.intro.audience": {
+    "message": "FR-For educators and security professionals"
+  },
+  "features.intro.title": {
+    "message": "FR-Create {your1} own phishing quizzes for {your2} team to address {your3} threats"
+  },
+  "features.intro.your1": {
+    "message": "FR-your"
+  },
+  "features.intro.your2": {
+    "message": "FR-your"
+  },
+  "features.intro.your3": {
+    "message": "FR-your"
+  },
+  "features.intro.pricing": {
+    "message": "FR-Pricing"
+  },
+  "features.intro.getStarted": {
+    "message": "FR-Get Started"
+  },
+  "features.images.fishAlt": {
+    "message": "FR-Illustration of a fish representing phishing"
+  },
+  "features.images.bubblesAlt": {
+    "message": "FR-Fish with bubbles illustration"
+  },
+  "features.allFeatures.title": {
+    "message": "FR-All the features you need to keep your team safe"
+  },
+  "features.allFeatures.description": {
+    "message": "FR-Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level."
+  },
+  "features.list.ui.title": {
+    "message": "FR-User-friendly interface 🎨"
+  },
+  "features.list.ui.description": {
+    "message": "FR-Intuitive dashboard for easy navigation and management of quizzes and user data."
+  },
+  "features.list.roles.title": {
+    "message": "FR-Role-based access control 🔒"
+  },
+  "features.list.roles.description": {
+    "message": "FR-Different access levels for admins, managers, and employees."
+  },
+  "features.list.realLife.title": {
+    "message": "FR-Real-Life Attack Simulation ⚡"
+  },
+  "features.list.realLife.description": {
+    "message": "FR-Ability to input details from actual phishing attacks the company has experienced."
+  },
+  "features.list.email.title": {
+    "message": "FR-Email phishing simulations 📧"
+  },
+  "features.list.email.description": {
+    "message": "FR-Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments."
+  },
+  "features.list.sms.title": {
+    "message": "FR-SMS phishing simulations 💬"
+  },
+  "features.list.sms.description": {
+    "message": "FR-Design quizzes that simulate SMS phishing attempts with realistic text messages."
+  },
+  "features.list.messaging.title": {
+    "message": "FR-Messaging app phishing simulations 💬"
+  },
+  "features.list.messaging.description": {
+    "message": "FR-Include quizzes that replicate phishing through WhatsApp, Messenger, etc."
+  },
+  "features.list.mobile.title": {
+    "message": "FR-Mobile support 📱"
+  },
+  "features.list.mobile.description": {
+    "message": "FR-Users can take Shira quizzes on mobile devices to simulate real-life scenarios."
+  },
+  "features.list.compliance.title": {
+    "message": "FR-Compliance ✅"
+  },
+  "features.list.compliance.description": {
+    "message": "FR-Ensure that your team actually completes your quizzes and monitor success rates."
+  },
+  "features.list.analytics.title": {
+    "message": "FR-Analytics 📈"
+  },
+  "features.list.analytics.description": {
+    "message": "FR-Track user progress and identify areas for improvement."
+  },
+  "features.list.explanations.title": {
+    "message": "FR-Explanations 📝"
+  },
+  "features.list.explanations.description": {
+    "message": "FR-Embed your own explanations on why an email or message looks like phishing."
+  },
+  "features.list.gamification.title": {
+    "message": "FR-Gamification 🕹️"
+  },
+  "features.list.gamification.description": {
+    "message": "FR-An entertaining learning experience promotes better knowledge retention."
+  },
+  "features.list.multilingual.title": {
+    "message": "FR-Multilingual 🌐"
+  },
+  "features.list.multilingual.description": {
+    "message": "FR-Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian."
+  },
+  "features.list.library.title": {
+    "message": "FR-Question library 📚"
+  },
+  "features.list.library.description": {
+    "message": "FR-Pull from Shira's question library to start your trainings from templates created by digital security trainers."
+  },
+  "features.needMore.title": {
+    "message": "FR-Missing a feature?"
+  },
+  "features.needMore.subtitle": {
+    "message": "FR-Get in touch. We’ll make it happen."
+  },
+  "features.needMore.cta": {
+    "message": "FR-Contact us"
+  },
+  "homepage.meta.title": {
+    "message": "FR-Shira"
+  },
+  "homepage.meta.description": {
+    "message": "FR-Shira builds your team's ability to identify and defeat phishing attacks."
+  },
+  "homepage.meta.longDescription": {
+    "message": "FR-Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
+  },
+  "homepage.hero.title": {
+    "message": "FR-Preparedness. Knowledge. Resilience."
+  },
+  "homepage.hero.subtitle": {
+    "message": "FR-Shira builds your team's ability to identify and defeat phishing attacks"
+  },
+  "homepage.learners.title": {
+    "message": "FR-For learners"
+  },
+  "homepage.learners.description": {
+    "message": "FR-Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
+  },
+  "homepage.learners.cta": {
+    "message": "FR-Take a quiz"
+  },
+  "homepage.educators.title": {
+    "message": "FR-For educators and security professionals"
+  },
+  "homepage.educators.description": {
+    "message": "FR-Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills."
+  },
+  "homepage.educators.cta": {
+    "message": "FR-Create your own quiz"
+  },
+  "homepage.context.description": {
+    "message": "FR-For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
+  },
+  "homepage.context.imageAlt": {
+    "message": "FR-decorative image of a magnifier glass"
+  },
+  "homepage.why.title": {
+    "message": "FR-Why Shira?"
+  },
+  "homepage.why.intro": {
+    "message": "FR-Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:"
+  },
+  "homepage.why.easy.title": {
+    "message": "FR-Easy to use"
+  },
+  "homepage.why.easy.description": {
+    "message": "FR-Created for communities most at risk of phishing attacks, even with limited tech literacy."
+  },
+  "homepage.why.customizable.title": {
+    "message": "FR-Customizable"
+  },
+  "homepage.why.customizable.description": {
+    "message": "FR-Realistic phishing messages to simulate real scenarios users face daily."
+  },
+  "homepage.why.privacy.title": {
+    "message": "FR-Privacy-friendly"
+  },
+  "homepage.why.privacy.description": {
+    "message": "FR-We do not collect or share any user data."
+  },
+  "phishingQuizzes.meta.title": {
+    "message": "FR-Learn about Phishing Quizzes"
+  },
+  "phishingQuizzes.meta.description": {
+    "message": "FR-Learn about Phishing quizzes"
+  },
+  "phishingQuizzes.meta.longDescription": {
+    "message": "FR-Learn why phishing quizzes are more effective than simulations."
+  },
+  "phishingQuizzes.education.title": {
+    "message": "FR-Why education beats simulation"
+  },
+  "phishingQuizzes.education.paragraph1": {
+    "message": "FR-Phishing simulations have become a standard component of anti-phishing training programs. These simulations involve sending employees emails that mimic the tactics used by cybercriminals to trick individuals into revealing sensitive information or clicking on malicious links. Employees are assessed based on their responses to these simulated emails, particularly whether they clicked on a link or provided any sensitive information."
+  },
+  "phishingQuizzes.education.paragraph2": {
+    "message": "FR-However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."
+  },
+  "phishingQuizzes.education.wsjAltDesktop": {
+    "message": "FR-News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work"
+  },
+  "phishingQuizzes.education.wsjAltMobile": {
+    "message": "FR-News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work"
+  },
+  "phishingQuizzes.problem.title": {
+    "message": "FR-The problem with phishing simulations"
+  },
+  "phishingQuizzes.problem.intro": {
+    "message": "FR-Phishing simulations, while widely used, come with several issues that organizations should consider:"
+  },
+  "phishingQuizzes.problem.anxiety.title": {
+    "message": "FR-Create anxiety and mistrust:"
+  },
+  "phishingQuizzes.problem.anxiety.text": {
+    "message": "FR-Users may become anxious or mistrustful of emails, even legitimate ones, which can lead to decreased productivity and increased stress."
+  },
+  "phishingQuizzes.problem.emailFocus.title": {
+    "message": "FR-Narrow Focus on Email:"
+  },
+  "phishingQuizzes.problem.emailFocus.text": {
+    "message": "FR-Many phishing simulations primarily target email threats, overlooking other channels like SMS, messaging apps, or social media."
+  },
+  "phishingQuizzes.problem.falseSecurity.title": {
+    "message": "FR-False Sense of Security:"
+  },
+  "phishingQuizzes.problem.falseSecurity.text": {
+    "message": "FR-If employees successfully identify simulated phishing attempts, they may develop a false sense of security."
+  },
+  "phishingQuizzes.problem.clickRates.title": {
+    "message": "FR-Overemphasis on Click Rates:"
+  },
+  "phishingQuizzes.problem.clickRates.text": {
+    "message": "FR-Focusing solely on whether employees clicked on a link can overlook other important aspects of phishing awareness."
+  },
+  "phishingQuizzes.problem.desensitize.title": {
+    "message": "FR-Desensitize users:"
+  },
+  "phishingQuizzes.problem.desensitize.text": {
+    "message": "FR-Repeatedly sending fake phishing emails can desensitize users to the threat."
+  },
+  "phishingQuizzes.problem.punishment.title": {
+    "message": "FR-Focus on punishment rather than prevention:"
+  },
+  "phishingQuizzes.problem.punishment.text": {
+    "message": "FR-Simulated phishing emails can create a culture of fear, where users are more focused on avoiding punishment than on learning."
+  },
+  "phishingQuizzes.research.text": {
+    "message": "FR-Research finds that phishing simulation campaigns do not effectively train people in identifying phishing attacks."
+  },
+  "phishingQuizzes.research.link": {
+    "message": "FR-One study with 14,000 participants"
+  },
+  "phishingQuizzes.research.conclusion": {
+    "message": "FR-actually showed a counterproductive effect of phishing simulations."
+  },
+  "phishingQuizzes.quizzes.title": {
+    "message": "FR-A more effective approach: phishing quizzes"
+  },
+  "phishingQuizzes.quizzes.description": {
+    "message": "FR-Phishing quizzes provide a controlled learning environment that is more effective for skill-building than traditional phishing simulations."
+  },
+  "phishingQuizzes.quizzes.benefitsIntro": {
+    "message": "FR-Benefits include:"
+  },
+  "phishingQuizzes.benefits.controlled.title": {
+    "message": "FR-Controlled Learning Environment:"
+  },
+  "phishingQuizzes.benefits.controlled.text": {
+    "message": "FR-Phishing quizzes create a safe and low-stakes space for employees to practice their skills."
+  },
+  "phishingQuizzes.benefits.interactive.title": {
+    "message": "FR-Interactive Engagement:"
+  },
+  "phishingQuizzes.benefits.interactive.text": {
+    "message": "FR-These quizzes encourage active participation and provide immediate feedback."
+  },
+  "phishingQuizzes.benefits.coverage.title": {
+    "message": "FR-Coverage of Diverse Phishing Tactics:"
+  },
+  "phishingQuizzes.benefits.coverage.text": {
+    "message": "FR-Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios."
+  },
+  "phishingQuizzes.benefits.confidence.title": {
+    "message": "FR-Confidence Building:"
+  },
+  "phishingQuizzes.benefits.confidence.text": {
+    "message": "FR-Employees learn from mistakes in a supportive environment."
+  },
+  "phishingQuizzes.benefits.tailored.title": {
+    "message": "FR-Tailored Learning Objectives:"
+  },
+  "phishingQuizzes.benefits.tailored.text": {
+    "message": "FR-Quizzes can be customized to focus on specific skills and knowledge gaps."
+  },
+  "phishingQuizzes.cta": {
+    "message": "FR-Get started"
+  },
+  "phishing.layout.title": {
+    "message": "FR-Learn about Phishing"
+  },
+  "phishing.layout.description": {
+    "message": "FR-Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
+  },
+  "phishing.meta.description": {
+    "message": "FR-Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
+  },
+  "phishing.intro.title": {
+    "message": "FR-What is phishing?"
+  },
+  "phishing.intro.definition": {
+    "message": "FR-Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware."
+  },
+  "phishing.intro.protection": {
+    "message": "FR-Understanding phishing is the first step in protecting yourself and your organization."
+  },
+  "phishing.images.fish.alt": {
+    "message": "FR-Decorative illustration of a fish"
+  },
+  "phishing.common.title": {
+    "message": "FR-The most common attack"
+  },
+  "phishing.common.rank": {
+    "message": "FR-Phishing is consistently ranked as the most common attack experienced by individuals and organizations."
+  },
+  "phishing.common.channels": {
+    "message": "FR-While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls."
+  },
+  "phishing.images.bubbles.alt": {
+    "message": "FR-Decorative illustration of bubbles"
+  },
+  "phishing.attackers.title": {
+    "message": "FR-What do attackers try to obtain?"
+  },
+  "phishing.attackers.passwords.label": {
+    "message": "FR-Passwords:"
+  },
+  "phishing.attackers.passwords.text": {
+    "message": "FR-Attackers seek to steal passwords and login credentials to access victims' online accounts. With this information, they can commit fraud, steal data, or blackmail victims by threatening to expose sensitive information."
+  },
+  "phishing.attackers.money.label": {
+    "message": "FR-Money:"
+  },
+  "phishing.attackers.money.text": {
+    "message": "FR-Financial gain is a key motive for phishing. Attackers impersonate legitimate organizations to trick victims into providing credit card details or making payments, often through fake invoices or donation requests."
+  },
+  "phishing.attackers.confidential.label": {
+    "message": "FR-Confidential information:"
+  },
+  "phishing.attackers.confidential.text": {
+    "message": "FR-Phishing targets confidential information like Social Security numbers and business data. This information can be used for identity theft, sold on the dark web, or exploited for corporate espionage."
+  },
+  "phishing.attackers.malware.label": {
+    "message": "FR-For victims to install malware:"
+  },
+  "phishing.attackers.malware.text": {
+    "message": "FR-Phishers may trick victims into downloading malware through malicious links or attachments. Once installed, malware can steal personal information, monitor activity, or take control of devices, leading to serious data breaches."
+  },
+  "phishing.why.title": {
+    "message": "FR-Why does phishing work?"
+  },
+  "phishing.why.intro": {
+    "message": "FR-Phishers capitalize on our:"
+  },
+  "phishing.why.polite.label": {
+    "message": "FR-Urge to be polite:"
+  },
+  "phishing.why.polite.text": {
+    "message": "FR-People often feel compelled to respond to messages from authority figures or trusted sources. Phishers exploit this by using polite language, making recipients more likely to comply with requests for sensitive information without questioning the message's legitimacy."
+  },
+  "phishing.why.helpful.label": {
+    "message": "FR-Urge to be helpful:"
+  },
+  "phishing.why.helpful.text": {
+    "message": "FR-Many of us naturally want to assist others. Phishers create scenarios that prompt recipients to help, such as claiming a colleague or relative is in trouble. This manipulation can lead individuals to provide personal information, believing they are being supportive."
+  },
+  "phishing.why.embarrassed.label": {
+    "message": "FR-Fear of being embarrassed:"
+  },
+  "phishing.why.embarrassed.text": {
+    "message": "FR-Phishers instill fear by suggesting the recipient has made a mistake, like missing a payment. This fear can push individuals to act quickly, often without verifying the message's source, leading to compromised security."
+  },
+  "phishing.why.urgent.label": {
+    "message": "FR-Panic about urgent messages:"
+  },
+  "phishing.why.urgent.text": {
+    "message": "FR-Urgency is a strong motivator. Phishers craft messages that create a false sense of urgency, claiming accounts will be suspended or payments are overdue. This panic can cloud judgment, causing individuals to overlook warning signs and act impulsively."
+  },
+  "phishing.consequences.title": {
+    "message": "FR-Phishing attacks can lead to severe consequences"
+  },
+  "phishing.consequences.identity.label": {
+    "message": "FR-Identity Theft:"
+  },
+  "phishing.consequences.identity.text": {
+    "message": "FR-Cybercriminals can use your personal information to impersonate you."
+  },
+  "phishing.consequences.financial.label": {
+    "message": "FR-Financial Loss:"
+  },
+  "phishing.consequences.financial.text": {
+    "message": "FR-Unauthorized transactions can drain your accounts."
+  },
+  "phishing.consequences.data.label": {
+    "message": "FR-Data Breaches:"
+  },
+  "phishing.consequences.data.text": {
+    "message": "FR-Sensitive company information can be exposed, leading to reputational damage."
+  },
+  "phishing.consequences.operational.label": {
+    "message": "FR-Operational Disruption:"
+  },
+  "phishing.consequences.operational.text": {
+    "message": "FR-Phishing can result in downtime and loss of productivity."
+  },
+  "phishing.images.worm.alt": {
+    "message": "FR-Decorative illustration of a worm"
+  },
+  "phishing.how.title": {
+    "message": "FR-How phishing works"
+  },
+  "phishing.how.intro": {
+    "message": "FR-Phishing attacks often involve the following steps:"
+  },
+  "phishing.how.deceptive.label": {
+    "message": "FR-Deceptive Communication:"
+  },
+  "phishing.how.deceptive.text": {
+    "message": "FR-Attackers send messages that appear to come from legitimate sources, such as banks, online services, or even colleagues."
+  },
+  "phishing.how.urgent.label": {
+    "message": "FR-Urgent Call to Action:"
+  },
+  "phishing.how.urgent.text": {
+    "message": "FR-The message usually contains a sense of urgency, prompting the recipient to act quickly—such as clicking a link or providing personal information."
+  },
+  "phishing.how.fake.label": {
+    "message": "FR-Fake Websites:"
+  },
+  "phishing.how.fake.text": {
+    "message": "FR-If the victim clicks on a link, they are often directed to a fraudulent website that looks similar to the legitimate one. Here, they may be asked to enter sensitive information such as their password or banking information."
+  },
+  "phishing.how.data.label": {
+    "message": "FR-Data Theft:"
+  },
+  "phishing.how.data.text": {
+    "message": "FR-Once the victim provides their information, attackers can use it for identity theft, financial fraud, or other malicious purposes."
+  },
+  "pricing.layout.title": {
+    "message": "FR-Shira's pricing"
+  },
+  "pricing.layout.description": {
+    "message": "FR-Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
+  },
+  "pricing.meta.description": {
+    "message": "FR-Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
+  },
+  "pricing.intro.subtitle": {
+    "message": "FR-Custom plans for educators and security professionals"
+  },
+  "pricing.intro.title": {
+    "message": "FR-Simple, transparent, and fair pricing"
+  },
+  "pricing.starter.title": {
+    "message": "FR-Starter"
+  },
+  "pricing.starter.description": {
+    "message": "FR-To try things out and get familiar with Shira"
+  },
+  "pricing.starter.price": {
+    "message": "FR-$0"
+  },
+  "pricing.starter.note": {
+    "message": "FR-Free, no strings attached"
+  },
+  "pricing.cta.getStarted": {
+    "message": "FR-Get started"
+  },
+  "pricing.starter.includes": {
+    "message": "FR-The Starter plan includes:"
+  },
+  "pricing.admin.title": {
+    "message": "FR-Admin management"
+  },
+  "pricing.admin.cloud": {
+    "message": "FR-✔️ Cloud"
+  },
+  "pricing.admin.dashboard": {
+    "message": "FR-✔️ Admin dashboard"
+  },
+  "pricing.admin.oneAdmin": {
+    "message": "FR-✔️ 1 admin"
+  },
+  "pricing.customization.title": {
+    "message": "FR-Customization"
+  },
+  "pricing.customization.questions": {
+    "message": "FR-✔️ Fully customizable quiz questions"
+  },
+  "pricing.customization.library": {
+    "message": "FR-✔️ Access to the question's library"
+  },
+  "pricing.customization.quizzes": {
+    "message": "FR-✔️ Up to 3 custom quizzes"
+  },
+  "pricing.customization.questionsPerQuiz": {
+    "message": "FR-✔️ Up to 5 questions per quiz"
+  },
+  "pricing.customization.limit": {
+    "message": "FR-✔️ Up to 1,500 quizzes taken per year"
+  },
+  "pricing.customization.apps": {
+    "message": "FR-✔️ 2 apps: Gmail, SMS"
+  },
+  "pricing.access.title": {
+    "message": "FR-Access control"
+  },
+  "pricing.access.public": {
+    "message": "FR-✔️Public quizzes: anyone can take your quiz through an easy-to-share URL"
+  },
+  "pricing.pro.title": {
+    "message": "FR-Pro"
+  },
+  "pricing.pro.description": {
+    "message": "FR-One flat fee, the full power of Shira"
+  },
+  "pricing.pro.price": {
+    "message": "FR-$220"
+  },
+  "pricing.pro.billing": {
+    "message": "FR-/month billed annually or $275/month billed monthly"
+  },
+  "pricing.pro.includes": {
+    "message": "FR-The Pro plan includes:"
+  },
+  "pricing.admin.unlimitedSoon": {
+    "message": "FR-✔️ Unlimited admins [coming soon]"
+  },
+  "pricing.pro.unlimitedQuizzes": {
+    "message": "FR-✔️ Unlimited custom quizzes"
+  },
+  "pricing.pro.unlimitedQuestions": {
+    "message": "FR-✔️ Unlimited quiz questions"
+  },
+  "pricing.pro.limit": {
+    "message": "FR-✔️ Up to 1,500 quizzes taken per year*"
+  },
+  "pricing.pro.apps": {
+    "message": "FR-✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app"
+  },
+  "pricing.access.private": {
+    "message": "FR-✔️Private quizzes: only your users can take your quizzes"
+  },
+  "pricing.compliance.title": {
+    "message": "FR-Compliance"
+  },
+  "pricing.compliance.track": {
+    "message": "FR-✔️Track user progress"
+  },
+  "pricing.compliance.tools": {
+    "message": "FR-✔️Analysis and compliance tools [coming soon]"
+  },
+  "pricing.pro.note": {
+    "message": "FR-* Additional quiz packages available if needed"
+  },
+  "pricing.enterprise.title": {
+    "message": "FR-Enterprise"
+  },
+  "pricing.enterprise.description": {
+    "message": "FR-Best for large organizations and service providers"
+  },
+  "pricing.enterprise.price": {
+    "message": "FR-Custom pricing"
+  },
+  "pricing.enterprise.note": {
+    "message": "FR-Rates tailored to your needs"
+  },
+  "pricing.enterprise.includes": {
+    "message": "FR-The Enterprise plan includes:"
+  },
+  "pricing.enterprise.deployment": {
+    "message": "FR-✔️ Cloud or on-premise"
+  },
+  "pricing.admin.unlimited": {
+    "message": "FR-✔️ Unlimited admins"
+  },
+  "pricing.enterprise.unlimitedQuizzes": {
+    "message": "FR-✔️ Unlimited custom quizzes"
+  },
+  "pricing.enterprise.unlimitedQuestions": {
+    "message": "FR-✔️ Unlimited quiz questions"
+  },
+  "pricing.enterprise.customLimit": {
+    "message": "FR-✔️ Custom number of quizzes taken"
+  },
+  "pricing.enterprise.support": {
+    "message": "FR-Custom support"
+  },
+  "pricing.enterprise.training": {
+    "message": "FR-✔️Tailor-made user training"
+  },
+  "pricing.enterprise.priority": {
+    "message": "FR-✔️Priority support"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "FR-This page crashed.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "FR-Scroll back to top",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "FR-Archive",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "FR-Archive",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "FR-Blog list page navigation",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "FR-Newer entries",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "FR-Older entries",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "FR-Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "FR-Newer post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "FR-Older post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "FR-View all tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "FR-Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "FR-system mode",
+    "description": "The name for the system color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "FR-light mode",
+    "description": "The name for the light color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "FR-dark mode",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "FR-Switch between dark and light mode (currently {mode})",
+    "description": "The ARIA label for the color mode toggle"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "FR-1 item|{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "FR-Docs pages",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "FR-Previous",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "FR-Next",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "FR-One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "FR-{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "FR-Version: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "FR-This is unreleased documentation for {siteTitle} {versionLabel} version.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "FR-This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "FR-For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "FR-latest version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "FR-Edit this page",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "FR-Direct link to {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "FR- on {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "FR- by {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "FR-Last updated{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.NotFound.title": {
+    "message": "FR-Page Not Found",
+    "description": "The title of the 404 page"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "FR-Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "FR-Tags:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "FR-Close",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "FR-caution",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "FR-danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "FR-info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "FR-note",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "FR-tip",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "FR-warning",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "FR-Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "FR-Expand sidebar category '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "FR-Collapse sidebar category '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "FR-(opens in new tab)",
+    "description": "The ARIA label for the external link icon"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "FR-Main",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.NotFound.p1": {
+    "message": "FR-We could not find what you were looking for.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "FR-Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "FR-On this page",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "FR-Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readMore": {
+    "message": "FR-Read more",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "FR-Read more about {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "FR-One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "FR-Home page",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "FR-Copy",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "FR-Copied",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "FR-Copy code to clipboard",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "FR-Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "FR-Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "FR-Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "FR-Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "FR-Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "FR-Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "FR-← Back to main menu",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "FR-Expand the dropdown",
+    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "FR-Collapse the dropdown",
+    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "FR-Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "FR-Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchBar.noResultsText": {
+    "message": "FR-No results"
+  },
+  "theme.SearchBar.seeAllOutsideContext": {
+    "message": "FR-See all results outside \"{context}\""
+  },
+  "theme.SearchBar.searchInContext": {
+    "message": "FR-See all results within \"{context}\""
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "FR-See all results"
+  },
+  "theme.SearchBar.label": {
+    "message": "FR-Search",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "FR-Search results for \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "FR-Search the documentation",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.searchContext.everywhere": {
+    "message": "FR-Everywhere"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "FR-1 document found|{count} documents found",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "FR-No documents were found",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.blog.post.plurals": {
+    "message": "FR-One post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "FR-{nPosts} tagged with \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.blog.author.pageTitle": {
+    "message": "FR-{authorName} - {nPosts}",
+    "description": "The title of the page for a blog author"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "FR-Authors",
+    "description": "The title of the authors page"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "FR-View all authors",
+    "description": "The label of the link targeting the blog authors page"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "FR-This author has not written any posts yet.",
+    "description": "The text for authors with 0 blog post"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "FR-Unlisted page",
+    "description": "The unlisted content banner title"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "FR-This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "description": "The unlisted content banner message"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "FR-Draft page",
+    "description": "The draft content banner title"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "FR-This page is a draft. It will only be visible in dev and be excluded from the production build.",
+    "description": "The draft content banner message"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "FR-Try again",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "FR-Skip to main content",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "FR-Tags",
+    "description": "The title of the tag list page"
+  }
+}

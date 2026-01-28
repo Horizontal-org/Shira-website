@@ -1,0 +1,62 @@
+{
+  "link.title.Learn": {
+    "message": "RU-Learn",
+    "description": "The title of the footer links column with title=Learn in the footer"
+  },
+  "link.title.Use Shira": {
+    "message": "RU-Use Shira",
+    "description": "The title of the footer links column with title=Use Shira in the footer"
+  },
+  "link.title.Get help": {
+    "message": "RU-Get help",
+    "description": "The title of the footer links column with title=Get help in the footer"
+  },
+  "link.title.About": {
+    "message": "RU-About",
+    "description": "The title of the footer links column with title=About in the footer"
+  },
+  "link.item.label.Learn about phishing": {
+    "message": "RU-Learn about phishing",
+    "description": "The label of footer link with label=Learn about phishing linking to /phishing"
+  },
+  "link.item.label.Effective phishing education": {
+    "message": "RU-Effective phishing education",
+    "description": "The label of footer link with label=Effective phishing education linking to /phishing-quizzes"
+  },
+  "link.item.label.Take a ready-made quiz": {
+    "message": "RU-Take a ready-made quiz",
+    "description": "The label of footer link with label=Take a ready-made quiz linking to https://quiz.shira.app/"
+  },
+  "link.item.label.Explore Shira features": {
+    "message": "RU-Explore Shira features",
+    "description": "The label of footer link with label=Explore Shira features linking to /features"
+  },
+  "link.item.label.Build a custom quiz": {
+    "message": "RU-Build a custom quiz",
+    "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started"
+  },
+  "link.item.label.Visit our help center": {
+    "message": "RU-Visit our help center",
+    "description": "The label of footer link with label=Visit our help center linking to /help"
+  },
+  "link.item.label.Contact us": {
+    "message": "RU-Contact us",
+    "description": "The label of footer link with label=Contact us linking to /contact"
+  },
+  "link.item.label.Learn about the Shira team": {
+    "message": "RU-Learn about the Shira team",
+    "description": "The label of footer link with label=Learn about the Shira team linking to /about"
+  },
+  "link.item.label.Shira is open source": {
+    "message": "RU-Shira is open source",
+    "description": "The label of footer link with label=Shira is open source linking to https://github.com/Horizontal-org/shira/"
+  },
+  "copyright": {
+    "message": "RU-Shira is a product of <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "RU-Shira Logo",
+    "description": "The alt text of footer logo"
+  }
+}
