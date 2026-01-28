@@ -13,14 +13,22 @@ export default function Features() {
 
   return (
     <Layout
-      title={translate({ id: 'features.meta.title' })}
-      description={translate({ id: 'features.meta.description' })}
+      title={translate({
+        id: 'features.meta.title',
+        message: 'Shira\'s Features',
+      })}
+      description={translate({
+        id: 'features.meta.description',
+        message: 'Explore Shira\'s features for educators and security professionals.',
+      })}
     >
       <main className={global.main}>
-
         <meta
           name="description"
-          content={translate({ id: 'features.meta.description' })}
+          content={translate({
+            id: 'features.meta.longDescription',
+            message: 'Explore Shira\'s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness.',
+          })}
         />
 
         <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.feauturesIntro)}>
@@ -32,9 +40,18 @@ export default function Features() {
             </h4>
 
             <h2>
-              <Translate id="features.intro.title">
-                Create <span className={classNames(styles.underline)}>your</span> own phishing quizzes for <span className={classNames(styles.underline)}>your</span> team to address <span className={classNames(styles.underline)}>your</span> threats
-              </Translate>
+              {translate(
+                {
+                  id: 'features.intro.title',
+                  message:
+                    'Create {your1} own phishing quizzes for {your2} team to address {your3} threats',
+                },
+                {
+                  your1: <span className={styles.underline}><Translate id="features.intro.your1">your</Translate></span>,
+                  your2: <span className={styles.underline}><Translate id="features.intro.your2">your</Translate></span>,
+                  your3: <span className={styles.underline}><Translate id="features.intro.your3">your</Translate></span>,
+                }
+              )}
             </h2>
 
             <div className={styles.feauturesIntroButtons}>
@@ -47,12 +64,24 @@ export default function Features() {
             </div>
           </div>
 
-          <img src="/img/fish.png" alt={translate({ id: 'features.images.fishAlt' })} />
+          <img
+            src="/img/fish.png"
+            alt={translate({
+              id: 'features.images.fishAlt',
+              message: 'Illustration of a fish representing phishing',
+            })}
+          />
         </section>
 
         <div style={{ width: '100%' }}>
           <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
-            <img src="/img/fish-bubbles.png" alt={translate({ id: 'features.images.bubblesAlt' })} />
+            <img
+              src="/img/fish-bubbles.png"
+              alt={translate({
+                id: 'features.images.bubblesAlt',
+                message: 'Fish with bubbles illustration',
+              })}
+            />
 
             <div className={styles.feauturesAllInfoText}>
               <h1>
@@ -70,7 +99,6 @@ export default function Features() {
         </div>
 
         <section className={classNames(styles.feauturesBox)}>
-
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.ui.title">User-friendly interface 🎨</Translate></h3>
             <p><Translate id="features.list.ui.description">Intuitive dashboard for easy navigation and management of quizzes and user data.</Translate></p>
@@ -135,7 +163,6 @@ export default function Features() {
             <h3><Translate id="features.list.library.title">Question library 📚</Translate></h3>
             <p><Translate id="features.list.library.description">Pull from Shira's question library to start your trainings from templates created by digital security trainers.</Translate></p>
           </div>
-
         </section>
 
         <section className={classNames(global.center, global.backgroundLight)}>
@@ -147,7 +174,6 @@ export default function Features() {
             </Link>
           </div>
         </section>
-
       </main>
     </Layout>
   );

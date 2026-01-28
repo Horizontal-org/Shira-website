@@ -14,13 +14,22 @@ export default function PhishingQuizzes() {
 
   return (
     <Layout
-      title={translate({ id: 'phishingQuizzes.meta.title' })}
-      description={translate({ id: 'phishingQuizzes.meta.description' })}
+      title={translate({
+        id: 'phishingQuizzes.meta.title',
+        message:  'Learn about Phishing Quizzes'
+      })}
+      description={translate({
+        id: 'phishingQuizzes.meta.description',
+        message: 'Learn about Phishing quizzes',
+      })}
     >
       <main className={classNames(global.main, styles.phishingQuizzes)}>
         <meta
           name="description"
-          content={translate({ id: 'phishingQuizzes.meta.longDescription' })}
+          content={translate({
+            id: 'phishingQuizzes.meta.longDescription',
+            message: 'Learn why phishing quizzes are more effective than simulations.'
+          })}
         />
 
         <section
@@ -66,6 +75,7 @@ export default function PhishingQuizzes() {
                 src="/img/wsj.png"
                 alt={translate({
                   id: 'phishingQuizzes.education.wsjAlt',
+                  message: 'News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work'
                 })}
               />
               <img

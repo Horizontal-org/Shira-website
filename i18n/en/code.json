@@ -1,88 +1,4 @@
 {
-    "homepage.meta.title":
-    {
-        "message": "Shira"
-    },
-    "homepage.meta.description":
-    {
-        "message": "Shira builds your team's ability to identify and defeat phishing attacks."
-    },
-    "homepage.meta.longDescription":
-    {
-        "message": "Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
-    },
-    "homepage.hero.title":
-    {
-        "message": "Preparedness. Knowledge. Resilience."
-    },
-    "homepage.hero.subtitle":
-    {
-        "message": "Shira builds your team's ability to identify and defeat phishing attacks"
-    },
-    "homepage.learners.title":
-    {
-        "message": "For learners"
-    },
-    "homepage.learners.description":
-    {
-        "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
-    },
-    "homepage.learners.cta":
-    {
-        "message": "Take a quiz"
-    },
-    "homepage.educators.title":
-    {
-        "message": "For educators and security professionals"
-    },
-    "homepage.educators.description":
-    {
-        "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills."
-    },
-    "homepage.educators.cta":
-    {
-        "message": "Create your own quiz"
-    },
-    "homepage.context.description":
-    {
-        "message": "For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
-    },
-    "homepage.context.imageAlt":
-    {
-        "message": "decorative image of a magnifier glass"
-    },
-    "homepage.why.title":
-    {
-        "message": "Why Shira?"
-    },
-    "homepage.why.intro":
-    {
-        "message": "Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:"
-    },
-    "homepage.why.easy.title":
-    {
-        "message": "Easy to use"
-    },
-    "homepage.why.easy.description":
-    {
-        "message": "Created for communities most at risk of phishing attacks, even with limited tech literacy."
-    },
-    "homepage.why.customizable.title":
-    {
-        "message": "Customizable"
-    },
-    "homepage.why.customizable.description":
-    {
-        "message": "Realistic phishing messages to simulate real scenarios users face daily."
-    },
-    "homepage.why.privacy.title":
-    {
-        "message": "Privacy-friendly"
-    },
-    "homepage.why.privacy.description":
-    {
-        "message": "We do not collect or share any user data."
-    },
     "about.meta.title":
     {
         "message": "About Shira"
@@ -111,6 +27,10 @@
     {
         "message": "shira logo: it is an S in blue and light green colors"
     },
+    "about.horizontal.imageAlt":
+    {
+        "message": "Horizontal logo"
+    },
     "about.horizontal.title":
     {
         "message": "Who makes Shira?"
@@ -135,17 +55,13 @@
     {
         "message": "Learn about Horizontal"
     },
-    "about.horizontal.imageAlt":
+    "about.why.imageAlt":
     {
-        "message": "Horizontal logo"
+        "message": "decorative image of a hook"
     },
     "about.why.title":
     {
         "message": "Why Shira?"
-    },
-    "about.why.imageAlt":
-    {
-        "message": "decorative image of a hook"
     },
     "about.why.easy.title":
     {
@@ -207,471 +123,17 @@
     {
         "message": "This website runs on green hosting - verified by thegreenwebfoundation.org"
     },
-    "theme.ErrorPageContent.title":
-    {
-        "message": "This page crashed.",
-        "description": "The title of the fallback page when the page crashed"
-    },
-    "theme.BackToTopButton.buttonAriaLabel":
-    {
-        "message": "Scroll back to top",
-        "description": "The ARIA label for the back to top button"
-    },
-    "theme.blog.archive.title":
-    {
-        "message": "Archive",
-        "description": "The page & hero title of the blog archive page"
-    },
-    "theme.blog.archive.description":
-    {
-        "message": "Archive",
-        "description": "The page & hero description of the blog archive page"
-    },
-    "theme.blog.paginator.navAriaLabel":
-    {
-        "message": "Blog list page navigation",
-        "description": "The ARIA label for the blog pagination"
-    },
-    "theme.blog.paginator.newerEntries":
-    {
-        "message": "Newer entries",
-        "description": "The label used to navigate to the newer blog posts page (previous page)"
-    },
-    "theme.blog.paginator.olderEntries":
-    {
-        "message": "Older entries",
-        "description": "The label used to navigate to the older blog posts page (next page)"
-    },
-    "theme.blog.post.paginator.navAriaLabel":
-    {
-        "message": "Blog post page navigation",
-        "description": "The ARIA label for the blog posts pagination"
-    },
-    "theme.blog.post.paginator.newerPost":
-    {
-        "message": "Newer post",
-        "description": "The blog post button label to navigate to the newer/previous post"
-    },
-    "theme.blog.post.paginator.olderPost":
-    {
-        "message": "Older post",
-        "description": "The blog post button label to navigate to the older/next post"
-    },
-    "theme.tags.tagsPageLink":
-    {
-        "message": "View all tags",
-        "description": "The label of the link targeting the tag list page"
-    },
-    "theme.docs.breadcrumbs.navAriaLabel":
-    {
-        "message": "Breadcrumbs",
-        "description": "The ARIA label for the breadcrumbs"
-    },
-    "theme.colorToggle.ariaLabel.mode.system":
-    {
-        "message": "system mode",
-        "description": "The name for the system color mode"
-    },
-    "theme.colorToggle.ariaLabel.mode.light":
-    {
-        "message": "light mode",
-        "description": "The name for the light color mode"
-    },
-    "theme.colorToggle.ariaLabel.mode.dark":
-    {
-        "message": "dark mode",
-        "description": "The name for the dark color mode"
-    },
-    "theme.colorToggle.ariaLabel":
-    {
-        "message": "Switch between dark and light mode (currently {mode})",
-        "description": "The ARIA label for the color mode toggle"
-    },
-    "theme.docs.DocCard.categoryDescription.plurals":
-    {
-        "message": "1 item|{count} items",
-        "description": "The default description for a category card in the generated index about how many items this category includes"
-    },
-    "theme.docs.paginator.navAriaLabel":
-    {
-        "message": "Docs pages",
-        "description": "The ARIA label for the docs pagination"
-    },
-    "theme.docs.paginator.previous":
-    {
-        "message": "Previous",
-        "description": "The label used to navigate to the previous doc"
-    },
-    "theme.docs.paginator.next":
-    {
-        "message": "Next",
-        "description": "The label used to navigate to the next doc"
-    },
-    "theme.docs.tagDocListPageTitle.nDocsTagged":
-    {
-        "message": "One doc tagged|{count} docs tagged",
-        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.docs.tagDocListPageTitle":
-    {
-        "message": "{nDocsTagged} with \"{tagName}\"",
-        "description": "The title of the page for a docs tag"
-    },
-    "theme.docs.versionBadge.label":
-    {
-        "message": "Version: {versionLabel}"
-    },
-    "theme.docs.versions.unreleasedVersionLabel":
-    {
-        "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
-        "description": "The label used to tell the user that he's browsing an unreleased doc version"
-    },
-    "theme.docs.versions.unmaintainedVersionLabel":
-    {
-        "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
-        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-    },
-    "theme.docs.versions.latestVersionSuggestionLabel":
-    {
-        "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
-        "description": "The label used to tell the user to check the latest version"
-    },
-    "theme.docs.versions.latestVersionLinkLabel":
-    {
-        "message": "latest version",
-        "description": "The label used for the latest version suggestion link label"
-    },
-    "theme.common.editThisPage":
-    {
-        "message": "Edit this page",
-        "description": "The link label to edit the current page"
-    },
-    "theme.common.headingLinkTitle":
-    {
-        "message": "Direct link to {heading}",
-        "description": "Title for link to heading"
-    },
-    "theme.lastUpdated.atDate":
-    {
-        "message": " on {date}",
-        "description": "The words used to describe on which date a page has been last updated"
-    },
-    "theme.lastUpdated.byUser":
-    {
-        "message": " by {user}",
-        "description": "The words used to describe by who the page has been last updated"
-    },
-    "theme.lastUpdated.lastUpdatedAtBy":
-    {
-        "message": "Last updated{atDate}{byUser}",
-        "description": "The sentence used to display when a page has been last updated, and by who"
-    },
-    "theme.NotFound.title":
-    {
-        "message": "Page Not Found",
-        "description": "The title of the 404 page"
-    },
-    "theme.navbar.mobileVersionsDropdown.label":
-    {
-        "message": "Versions",
-        "description": "The label for the navbar versions dropdown on mobile view"
-    },
-    "theme.tags.tagsListLabel":
-    {
-        "message": "Tags:",
-        "description": "The label alongside a tag list"
-    },
-    "theme.admonition.caution":
-    {
-        "message": "caution",
-        "description": "The default label used for the Caution admonition (:::caution)"
-    },
-    "theme.admonition.danger":
-    {
-        "message": "danger",
-        "description": "The default label used for the Danger admonition (:::danger)"
-    },
-    "theme.admonition.info":
-    {
-        "message": "info",
-        "description": "The default label used for the Info admonition (:::info)"
-    },
-    "theme.admonition.note":
-    {
-        "message": "note",
-        "description": "The default label used for the Note admonition (:::note)"
-    },
-    "theme.admonition.tip":
-    {
-        "message": "tip",
-        "description": "The default label used for the Tip admonition (:::tip)"
-    },
-    "theme.admonition.warning":
-    {
-        "message": "warning",
-        "description": "The default label used for the Warning admonition (:::warning)"
-    },
-    "theme.AnnouncementBar.closeButtonAriaLabel":
-    {
-        "message": "Close",
-        "description": "The ARIA label for close button of announcement bar"
-    },
-    "theme.blog.sidebar.navAriaLabel":
-    {
-        "message": "Blog recent posts navigation",
-        "description": "The ARIA label for recent posts in the blog sidebar"
-    },
-    "theme.DocSidebarItem.expandCategoryAriaLabel":
-    {
-        "message": "Expand sidebar category '{label}'",
-        "description": "The ARIA label to expand the sidebar category"
-    },
-    "theme.DocSidebarItem.collapseCategoryAriaLabel":
-    {
-        "message": "Collapse sidebar category '{label}'",
-        "description": "The ARIA label to collapse the sidebar category"
-    },
-    "theme.IconExternalLink.ariaLabel":
-    {
-        "message": "(opens in new tab)",
-        "description": "The ARIA label for the external link icon"
-    },
-    "theme.NavBar.navAriaLabel":
-    {
-        "message": "Main",
-        "description": "The ARIA label for the main navigation"
-    },
-    "theme.NotFound.p1":
-    {
-        "message": "We could not find what you were looking for.",
-        "description": "The first paragraph of the 404 page"
-    },
-    "theme.NotFound.p2":
-    {
-        "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
-        "description": "The 2nd paragraph of the 404 page"
-    },
-    "theme.navbar.mobileLanguageDropdown.label":
-    {
-        "message": "Languages",
-        "description": "The label for the mobile language switcher dropdown"
-    },
-    "theme.TOCCollapsible.toggleButtonLabel":
-    {
-        "message": "On this page",
-        "description": "The label used by the button on the collapsible TOC component"
-    },
-    "theme.blog.post.readMore":
-    {
-        "message": "Read more",
-        "description": "The label used in blog post item excerpts to link to full blog posts"
-    },
-    "theme.blog.post.readMoreLabel":
-    {
-        "message": "Read more about {title}",
-        "description": "The ARIA label for the link to full blog posts from excerpts"
-    },
-    "theme.blog.post.readingTime.plurals":
-    {
-        "message": "One min read|{readingTime} min read",
-        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.CodeBlock.copy":
-    {
-        "message": "Copy",
-        "description": "The copy button label on code blocks"
-    },
-    "theme.CodeBlock.copied":
-    {
-        "message": "Copied",
-        "description": "The copied button label on code blocks"
-    },
-    "theme.CodeBlock.copyButtonAriaLabel":
-    {
-        "message": "Copy code to clipboard",
-        "description": "The ARIA label for copy code blocks button"
-    },
-    "theme.CodeBlock.wordWrapToggle":
-    {
-        "message": "Toggle word wrap",
-        "description": "The title attribute for toggle word wrapping button of code block lines"
-    },
-    "theme.docs.sidebar.collapseButtonTitle":
-    {
-        "message": "Collapse sidebar",
-        "description": "The title attribute for collapse button of doc sidebar"
-    },
-    "theme.docs.sidebar.collapseButtonAriaLabel":
-    {
-        "message": "Collapse sidebar",
-        "description": "The title attribute for collapse button of doc sidebar"
-    },
-    "theme.docs.breadcrumbs.home":
-    {
-        "message": "Home page",
-        "description": "The ARIA label for the home page in the breadcrumbs"
-    },
-    "theme.docs.sidebar.navAriaLabel":
-    {
-        "message": "Docs sidebar",
-        "description": "The ARIA label for the sidebar navigation"
-    },
-    "theme.docs.sidebar.closeSidebarButtonAriaLabel":
-    {
-        "message": "Close navigation bar",
-        "description": "The ARIA label for close button of mobile sidebar"
-    },
-    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel":
-    {
-        "message": "← Back to main menu",
-        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
-    },
-    "theme.docs.sidebar.toggleSidebarButtonAriaLabel":
-    {
-        "message": "Toggle navigation bar",
-        "description": "The ARIA label for hamburger menu button of mobile navigation"
-    },
-    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel":
-    {
-        "message": "Expand the dropdown",
-        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
-    },
-    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel":
-    {
-        "message": "Collapse the dropdown",
-        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
-    },
-    "theme.docs.sidebar.expandButtonTitle":
-    {
-        "message": "Expand sidebar",
-        "description": "The ARIA label and title attribute for expand button of doc sidebar"
-    },
-    "theme.docs.sidebar.expandButtonAriaLabel":
-    {
-        "message": "Expand sidebar",
-        "description": "The ARIA label and title attribute for expand button of doc sidebar"
-    },
-    "theme.SearchPage.existingResultsTitle":
-    {
-        "message": "Search results for \"{query}\"",
-        "description": "The search page title for non-empty query"
-    },
-    "theme.SearchPage.emptyResultsTitle":
-    {
-        "message": "Search the documentation",
-        "description": "The search page title for empty query"
-    },
-    "theme.SearchPage.searchContext.everywhere":
-    {
-        "message": "Everywhere"
-    },
-    "theme.SearchPage.documentsFound.plurals":
-    {
-        "message": "1 document found|{count} documents found",
-        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.SearchPage.noResultsText":
-    {
-        "message": "No documents were found",
-        "description": "The paragraph for empty search result"
-    },
-    "theme.SearchBar.noResultsText":
-    {
-        "message": "No results"
-    },
-    "theme.SearchBar.seeAllOutsideContext":
-    {
-        "message": "See all results outside \"{context}\""
-    },
-    "theme.SearchBar.searchInContext":
-    {
-        "message": "See all results within \"{context}\""
-    },
-    "theme.SearchBar.seeAll":
-    {
-        "message": "See all results"
-    },
-    "theme.SearchBar.label":
-    {
-        "message": "Search",
-        "description": "The ARIA label and placeholder for search button"
-    },
-    "theme.blog.post.plurals":
-    {
-        "message": "One post|{count} posts",
-        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.blog.tagTitle":
-    {
-        "message": "{nPosts} tagged with \"{tagName}\"",
-        "description": "The title of the page for a blog tag"
-    },
-    "theme.blog.author.pageTitle":
-    {
-        "message": "{authorName} - {nPosts}",
-        "description": "The title of the page for a blog author"
-    },
-    "theme.blog.authorsList.pageTitle":
-    {
-        "message": "Authors",
-        "description": "The title of the authors page"
-    },
-    "theme.blog.authorsList.viewAll":
-    {
-        "message": "View all authors",
-        "description": "The label of the link targeting the blog authors page"
-    },
-    "theme.blog.author.noPosts":
-    {
-        "message": "This author has not written any posts yet.",
-        "description": "The text for authors with 0 blog post"
-    },
-    "theme.contentVisibility.unlistedBanner.title":
-    {
-        "message": "Unlisted page",
-        "description": "The unlisted content banner title"
-    },
-    "theme.contentVisibility.unlistedBanner.message":
-    {
-        "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
-        "description": "The unlisted content banner message"
-    },
-    "theme.contentVisibility.draftBanner.title":
-    {
-        "message": "Draft page",
-        "description": "The draft content banner title"
-    },
-    "theme.contentVisibility.draftBanner.message":
-    {
-        "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
-        "description": "The draft content banner message"
-    },
-    "theme.ErrorPageContent.tryAgain":
-    {
-        "message": "Try again",
-        "description": "The label of the button to try again rendering when the React error boundary captures an error"
-    },
-    "theme.common.skipToMainContent":
-    {
-        "message": "Skip to main content",
-        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-    },
-    "theme.tags.tagsPageTitle":
-    {
-        "message": "Tags",
-        "description": "The title of the tag list page"
-    },
     "contact.title":
     {
-        "message": "Contact the Shira team"
+        "message": "contact.title"
     },
     "contact.description":
     {
-        "message": "Learn all the way to get in touch with the Shira team, including email and scheduling a demo call."
+        "message": "contact.description"
     },
     "contact.metaDescription":
     {
-        "message": "Learn all the way to get in touch with the Shira team, including email and scheduling a demo call."
+        "message": "contact.metaDescription"
     },
     "contact.heading":
     {
@@ -715,7 +177,11 @@
     },
     "features.meta.description":
     {
-        "message": "Explore Shira’s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness."
+        "message": "Explore Shira's features for educators and security professionals."
+    },
+    "features.meta.longDescription":
+    {
+        "message": "Explore Shira's features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness."
     },
     "features.intro.audience":
     {
@@ -723,7 +189,19 @@
     },
     "features.intro.title":
     {
-        "message": "threats"
+        "message": "Create {your1} own phishing quizzes for {your2} team to address {your3} threats"
+    },
+    "features.intro.your1":
+    {
+        "message": "your"
+    },
+    "features.intro.your2":
+    {
+        "message": "your"
+    },
+    "features.intro.your3":
+    {
+        "message": "your"
     },
     "features.intro.pricing":
     {
@@ -735,11 +213,11 @@
     },
     "features.images.fishAlt":
     {
-        "message": "decorative image of a fish"
+        "message": "Illustration of a fish representing phishing"
     },
     "features.images.bubblesAlt":
     {
-        "message": "decorative image of a bubbles"
+        "message": "Fish with bubbles illustration"
     },
     "features.allFeatures.title":
     {
@@ -865,17 +343,101 @@
     {
         "message": "Contact us"
     },
+    "homepage.meta.title":
+    {
+        "message": "Shira"
+    },
+    "homepage.meta.description":
+    {
+        "message": "Shira builds your team's ability to identify and defeat phishing attacks."
+    },
+    "homepage.meta.longDescription":
+    {
+        "message": "Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
+    },
+    "homepage.hero.title":
+    {
+        "message": "Preparedness. Knowledge. Resilience."
+    },
+    "homepage.hero.subtitle":
+    {
+        "message": "Shira builds your team's ability to identify and defeat phishing attacks"
+    },
+    "homepage.learners.title":
+    {
+        "message": "For learners"
+    },
+    "homepage.learners.description":
+    {
+        "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
+    },
+    "homepage.learners.cta":
+    {
+        "message": "Take a quiz"
+    },
+    "homepage.educators.title":
+    {
+        "message": "For educators and security professionals"
+    },
+    "homepage.educators.description":
+    {
+        "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills."
+    },
+    "homepage.educators.cta":
+    {
+        "message": "Create your own quiz"
+    },
+    "homepage.context.description":
+    {
+        "message": "For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
+    },
+    "homepage.context.imageAlt":
+    {
+        "message": "decorative image of a magnifier glass"
+    },
+    "homepage.why.title":
+    {
+        "message": "Why Shira?"
+    },
+    "homepage.why.intro":
+    {
+        "message": "Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:"
+    },
+    "homepage.why.easy.title":
+    {
+        "message": "Easy to use"
+    },
+    "homepage.why.easy.description":
+    {
+        "message": "Created for communities most at risk of phishing attacks, even with limited tech literacy."
+    },
+    "homepage.why.customizable.title":
+    {
+        "message": "Customizable"
+    },
+    "homepage.why.customizable.description":
+    {
+        "message": "Realistic phishing messages to simulate real scenarios users face daily."
+    },
+    "homepage.why.privacy.title":
+    {
+        "message": "Privacy-friendly"
+    },
+    "homepage.why.privacy.description":
+    {
+        "message": "We do not collect or share any user data."
+    },
     "phishingQuizzes.meta.title":
     {
-        "message": "Learn about Phishing quizzes."
+        "message": "Learn about Phishing Quizzes"
     },
     "phishingQuizzes.meta.description":
     {
-        "message": "Learn why phishing quizzes are more effective than simulations."
+        "message": "Learn about Phishing quizzes"
     },
     "phishingQuizzes.meta.longDescription":
     {
-        "message": "Learn why phishing quizzes are more effective than simulations. Shira offers safe, interactive training to build real phishing detection skills without stress or punishment."
+        "message": "Learn why phishing quizzes are more effective than simulations."
     },
     "phishingQuizzes.education.title":
     {
@@ -891,7 +453,7 @@
     },
     "phishingQuizzes.education.wsjAlt":
     {
-        "message": "News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work."
+        "message": "phishingQuizzes.education.wsjAlt"
     },
     "phishingQuizzes.problem.title":
     {
@@ -1424,5 +986,459 @@
     "pricing.enterprise.priority":
     {
         "message": "✔️Priority support"
+    },
+    "theme.ErrorPageContent.title":
+    {
+        "message": "This page crashed.",
+        "description": "The title of the fallback page when the page crashed"
+    },
+    "theme.BackToTopButton.buttonAriaLabel":
+    {
+        "message": "Scroll back to top",
+        "description": "The ARIA label for the back to top button"
+    },
+    "theme.blog.archive.title":
+    {
+        "message": "Archive",
+        "description": "The page & hero title of the blog archive page"
+    },
+    "theme.blog.archive.description":
+    {
+        "message": "Archive",
+        "description": "The page & hero description of the blog archive page"
+    },
+    "theme.blog.paginator.navAriaLabel":
+    {
+        "message": "Blog list page navigation",
+        "description": "The ARIA label for the blog pagination"
+    },
+    "theme.blog.paginator.newerEntries":
+    {
+        "message": "Newer entries",
+        "description": "The label used to navigate to the newer blog posts page (previous page)"
+    },
+    "theme.blog.paginator.olderEntries":
+    {
+        "message": "Older entries",
+        "description": "The label used to navigate to the older blog posts page (next page)"
+    },
+    "theme.blog.post.paginator.navAriaLabel":
+    {
+        "message": "Blog post page navigation",
+        "description": "The ARIA label for the blog posts pagination"
+    },
+    "theme.blog.post.paginator.newerPost":
+    {
+        "message": "Newer post",
+        "description": "The blog post button label to navigate to the newer/previous post"
+    },
+    "theme.blog.post.paginator.olderPost":
+    {
+        "message": "Older post",
+        "description": "The blog post button label to navigate to the older/next post"
+    },
+    "theme.tags.tagsPageLink":
+    {
+        "message": "View all tags",
+        "description": "The label of the link targeting the tag list page"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals":
+    {
+        "message": "1 item|{count} items",
+        "description": "The default description for a category card in the generated index about how many items this category includes"
+    },
+    "theme.colorToggle.ariaLabel.mode.system":
+    {
+        "message": "system mode",
+        "description": "The name for the system color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.light":
+    {
+        "message": "light mode",
+        "description": "The name for the light color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark":
+    {
+        "message": "dark mode",
+        "description": "The name for the dark color mode"
+    },
+    "theme.colorToggle.ariaLabel":
+    {
+        "message": "Switch between dark and light mode (currently {mode})",
+        "description": "The ARIA label for the color mode toggle"
+    },
+    "theme.docs.breadcrumbs.navAriaLabel":
+    {
+        "message": "Breadcrumbs",
+        "description": "The ARIA label for the breadcrumbs"
+    },
+    "theme.docs.paginator.navAriaLabel":
+    {
+        "message": "Docs pages",
+        "description": "The ARIA label for the docs pagination"
+    },
+    "theme.docs.paginator.previous":
+    {
+        "message": "Previous",
+        "description": "The label used to navigate to the previous doc"
+    },
+    "theme.docs.paginator.next":
+    {
+        "message": "Next",
+        "description": "The label used to navigate to the next doc"
+    },
+    "theme.docs.tagDocListPageTitle.nDocsTagged":
+    {
+        "message": "One doc tagged|{count} docs tagged",
+        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.tagDocListPageTitle":
+    {
+        "message": "{nDocsTagged} with \"{tagName}\"",
+        "description": "The title of the page for a docs tag"
+    },
+    "theme.docs.versionBadge.label":
+    {
+        "message": "Version: {versionLabel}"
+    },
+    "theme.common.editThisPage":
+    {
+        "message": "Edit this page",
+        "description": "The link label to edit the current page"
+    },
+    "theme.docs.versions.unreleasedVersionLabel":
+    {
+        "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+        "description": "The label used to tell the user that he's browsing an unreleased doc version"
+    },
+    "theme.docs.versions.unmaintainedVersionLabel":
+    {
+        "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+    },
+    "theme.docs.versions.latestVersionSuggestionLabel":
+    {
+        "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+        "description": "The label used to tell the user to check the latest version"
+    },
+    "theme.docs.versions.latestVersionLinkLabel":
+    {
+        "message": "latest version",
+        "description": "The label used for the latest version suggestion link label"
+    },
+    "theme.common.headingLinkTitle":
+    {
+        "message": "Direct link to {heading}",
+        "description": "Title for link to heading"
+    },
+    "theme.lastUpdated.atDate":
+    {
+        "message": " on {date}",
+        "description": "The words used to describe on which date a page has been last updated"
+    },
+    "theme.lastUpdated.byUser":
+    {
+        "message": " by {user}",
+        "description": "The words used to describe by who the page has been last updated"
+    },
+    "theme.lastUpdated.lastUpdatedAtBy":
+    {
+        "message": "Last updated{atDate}{byUser}",
+        "description": "The sentence used to display when a page has been last updated, and by who"
+    },
+    "theme.NotFound.title":
+    {
+        "message": "Page Not Found",
+        "description": "The title of the 404 page"
+    },
+    "theme.navbar.mobileVersionsDropdown.label":
+    {
+        "message": "Versions",
+        "description": "The label for the navbar versions dropdown on mobile view"
+    },
+    "theme.tags.tagsListLabel":
+    {
+        "message": "Tags:",
+        "description": "The label alongside a tag list"
+    },
+    "theme.admonition.caution":
+    {
+        "message": "caution",
+        "description": "The default label used for the Caution admonition (:::caution)"
+    },
+    "theme.admonition.danger":
+    {
+        "message": "danger",
+        "description": "The default label used for the Danger admonition (:::danger)"
+    },
+    "theme.admonition.info":
+    {
+        "message": "info",
+        "description": "The default label used for the Info admonition (:::info)"
+    },
+    "theme.admonition.note":
+    {
+        "message": "note",
+        "description": "The default label used for the Note admonition (:::note)"
+    },
+    "theme.admonition.tip":
+    {
+        "message": "tip",
+        "description": "The default label used for the Tip admonition (:::tip)"
+    },
+    "theme.admonition.warning":
+    {
+        "message": "warning",
+        "description": "The default label used for the Warning admonition (:::warning)"
+    },
+    "theme.AnnouncementBar.closeButtonAriaLabel":
+    {
+        "message": "Close",
+        "description": "The ARIA label for close button of announcement bar"
+    },
+    "theme.blog.sidebar.navAriaLabel":
+    {
+        "message": "Blog recent posts navigation",
+        "description": "The ARIA label for recent posts in the blog sidebar"
+    },
+    "theme.DocSidebarItem.expandCategoryAriaLabel":
+    {
+        "message": "Expand sidebar category '{label}'",
+        "description": "The ARIA label to expand the sidebar category"
+    },
+    "theme.DocSidebarItem.collapseCategoryAriaLabel":
+    {
+        "message": "Collapse sidebar category '{label}'",
+        "description": "The ARIA label to collapse the sidebar category"
+    },
+    "theme.IconExternalLink.ariaLabel":
+    {
+        "message": "(opens in new tab)",
+        "description": "The ARIA label for the external link icon"
+    },
+    "theme.NotFound.p1":
+    {
+        "message": "We could not find what you were looking for.",
+        "description": "The first paragraph of the 404 page"
+    },
+    "theme.NotFound.p2":
+    {
+        "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+        "description": "The 2nd paragraph of the 404 page"
+    },
+    "theme.NavBar.navAriaLabel":
+    {
+        "message": "Main",
+        "description": "The ARIA label for the main navigation"
+    },
+    "theme.TOCCollapsible.toggleButtonLabel":
+    {
+        "message": "On this page",
+        "description": "The label used by the button on the collapsible TOC component"
+    },
+    "theme.blog.post.readMore":
+    {
+        "message": "Read more",
+        "description": "The label used in blog post item excerpts to link to full blog posts"
+    },
+    "theme.blog.post.readMoreLabel":
+    {
+        "message": "Read more about {title}",
+        "description": "The ARIA label for the link to full blog posts from excerpts"
+    },
+    "theme.navbar.mobileLanguageDropdown.label":
+    {
+        "message": "Languages",
+        "description": "The label for the mobile language switcher dropdown"
+    },
+    "theme.blog.post.readingTime.plurals":
+    {
+        "message": "One min read|{readingTime} min read",
+        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.CodeBlock.copy":
+    {
+        "message": "Copy",
+        "description": "The copy button label on code blocks"
+    },
+    "theme.CodeBlock.copied":
+    {
+        "message": "Copied",
+        "description": "The copied button label on code blocks"
+    },
+    "theme.CodeBlock.copyButtonAriaLabel":
+    {
+        "message": "Copy code to clipboard",
+        "description": "The ARIA label for copy code blocks button"
+    },
+    "theme.docs.breadcrumbs.home":
+    {
+        "message": "Home page",
+        "description": "The ARIA label for the home page in the breadcrumbs"
+    },
+    "theme.docs.sidebar.collapseButtonTitle":
+    {
+        "message": "Collapse sidebar",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.collapseButtonAriaLabel":
+    {
+        "message": "Collapse sidebar",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.CodeBlock.wordWrapToggle":
+    {
+        "message": "Toggle word wrap",
+        "description": "The title attribute for toggle word wrapping button of code block lines"
+    },
+    "theme.docs.sidebar.navAriaLabel":
+    {
+        "message": "Docs sidebar",
+        "description": "The ARIA label for the sidebar navigation"
+    },
+    "theme.docs.sidebar.closeSidebarButtonAriaLabel":
+    {
+        "message": "Close navigation bar",
+        "description": "The ARIA label for close button of mobile sidebar"
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel":
+    {
+        "message": "← Back to main menu",
+        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+    },
+    "theme.docs.sidebar.toggleSidebarButtonAriaLabel":
+    {
+        "message": "Toggle navigation bar",
+        "description": "The ARIA label for hamburger menu button of mobile navigation"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel":
+    {
+        "message": "Expand the dropdown",
+        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel":
+    {
+        "message": "Collapse the dropdown",
+        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+    },
+    "theme.docs.sidebar.expandButtonTitle":
+    {
+        "message": "Expand sidebar",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.docs.sidebar.expandButtonAriaLabel":
+    {
+        "message": "Expand sidebar",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.SearchBar.noResultsText":
+    {
+        "message": "No results"
+    },
+    "theme.SearchBar.seeAllOutsideContext":
+    {
+        "message": "See all results outside \"{context}\""
+    },
+    "theme.SearchBar.searchInContext":
+    {
+        "message": "See all results within \"{context}\""
+    },
+    "theme.SearchBar.seeAll":
+    {
+        "message": "See all results"
+    },
+    "theme.SearchBar.label":
+    {
+        "message": "Search",
+        "description": "The ARIA label and placeholder for search button"
+    },
+    "theme.SearchPage.existingResultsTitle":
+    {
+        "message": "Search results for \"{query}\"",
+        "description": "The search page title for non-empty query"
+    },
+    "theme.SearchPage.emptyResultsTitle":
+    {
+        "message": "Search the documentation",
+        "description": "The search page title for empty query"
+    },
+    "theme.SearchPage.searchContext.everywhere":
+    {
+        "message": "Everywhere"
+    },
+    "theme.SearchPage.documentsFound.plurals":
+    {
+        "message": "1 document found|{count} documents found",
+        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.SearchPage.noResultsText":
+    {
+        "message": "No documents were found",
+        "description": "The paragraph for empty search result"
+    },
+    "theme.blog.post.plurals":
+    {
+        "message": "One post|{count} posts",
+        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.blog.tagTitle":
+    {
+        "message": "{nPosts} tagged with \"{tagName}\"",
+        "description": "The title of the page for a blog tag"
+    },
+    "theme.blog.author.pageTitle":
+    {
+        "message": "{authorName} - {nPosts}",
+        "description": "The title of the page for a blog author"
+    },
+    "theme.blog.authorsList.pageTitle":
+    {
+        "message": "Authors",
+        "description": "The title of the authors page"
+    },
+    "theme.blog.authorsList.viewAll":
+    {
+        "message": "View all authors",
+        "description": "The label of the link targeting the blog authors page"
+    },
+    "theme.blog.author.noPosts":
+    {
+        "message": "This author has not written any posts yet.",
+        "description": "The text for authors with 0 blog post"
+    },
+    "theme.contentVisibility.unlistedBanner.title":
+    {
+        "message": "Unlisted page",
+        "description": "The unlisted content banner title"
+    },
+    "theme.contentVisibility.unlistedBanner.message":
+    {
+        "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+        "description": "The unlisted content banner message"
+    },
+    "theme.contentVisibility.draftBanner.title":
+    {
+        "message": "Draft page",
+        "description": "The draft content banner title"
+    },
+    "theme.contentVisibility.draftBanner.message":
+    {
+        "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
+        "description": "The draft content banner message"
+    },
+    "theme.ErrorPageContent.tryAgain":
+    {
+        "message": "Try again",
+        "description": "The label of the button to try again rendering when the React error boundary captures an error"
+    },
+    "theme.common.skipToMainContent":
+    {
+        "message": "Skip to main content",
+        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+    },
+    "theme.tags.tagsPageTitle":
+    {
+        "message": "Tags",
+        "description": "The title of the tag list page"
     }
 }
