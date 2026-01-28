@@ -12,6 +12,13 @@ description: Stay up to date with the latest Shira features and improvements, in
 Here’s everything you need to know about the latest features and improvements in Shira. If something is missing, you can [suggest new features or improvements here](https://github.com/Horizontal-org/shira/discussions).
 :::
 
+## Shira 2.0-beta5 {#shira-20-beta5}
+*Released on 29 January 2026*
+
+With this release, we are getting -even- closer to the full feature set that will be included in Shira 2.0. You can already find the following features:
+- Private quizzes: quizzes that can only be accessed for registered learners.
+- Registered learners: invited learners that can take private quizzes, and their results are tied to their account.
+
 ## Shira 2.0-beta4 {#shira-20-beta4}
 *Released on 3 November 2025*
 
