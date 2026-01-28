@@ -28,7 +28,7 @@ export default function Home() {
             <div className={styles.halfColumn}>
               <h2>For learners</h2>
               <p>
-                Get started right away with one of our free, pre-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
+                Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
               </p>
               <Link className={global.buttonDark} to="https://quiz.shira.app/">Take a quiz</Link>
             </div>
@@ -55,7 +55,7 @@ export default function Home() {
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
             <h2>Why Shira?</h2>
             <div className={classNames(styles.reasonsWhy)}>
-              <p>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
+              <p>Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
               <ul>
                 <li><span>Easy to use</span> <br/> Created for communities most at risk of phishing attacks, even with limited tech literacy.</li>
                 <li><span>Customizable</span> <br/> Realistic phishing messages to simulate real scenarios users face daily.</li>
