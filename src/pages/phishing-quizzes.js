@@ -74,7 +74,7 @@ export default function PhishingQuizzes() {
                 className={styles.phishingQuizzessEducationDesktopImage}
                 src="/img/wsj.png"
                 alt={translate({
-                  id: 'phishingQuizzes.education.wsjAlt',
+                  id: 'phishingQuizzes.education.wsjAltDesktop',
                   message: 'News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work'
                 })}
               />
@@ -82,7 +82,8 @@ export default function PhishingQuizzes() {
                 className={styles.phishingQuizzessEducationMobileImage}
                 src="/img/wsj_mobile.jpg"
                 alt={translate({
-                  id: 'phishingQuizzes.education.wsjAlt',
+                  id: 'phishingQuizzes.education.wsjAltMobile',
+                  message: 'News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work'
                 })}
               />
             </a>

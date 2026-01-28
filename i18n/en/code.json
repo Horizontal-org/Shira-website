@@ -125,15 +125,15 @@
     },
     "contact.title":
     {
-        "message": "contact.title"
+        "message": "Contact the Shira team"
     },
     "contact.description":
     {
-        "message": "contact.description"
+        "message": "Learn about how to contact the Shira team"
     },
     "contact.metaDescription":
     {
-        "message": "contact.metaDescription"
+        "message": "Learn about how to contact the Shira team"
     },
     "contact.heading":
     {
@@ -451,9 +451,13 @@
     {
         "message": "However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."
     },
-    "phishingQuizzes.education.wsjAlt":
+    "phishingQuizzes.education.wsjAltDesktop":
     {
-        "message": "phishingQuizzes.education.wsjAlt"
+        "message": "News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work"
+    },
+    "phishingQuizzes.education.wsjAltMobile":
+    {
+        "message": "News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work"
     },
     "phishingQuizzes.problem.title":
     {
@@ -1042,10 +1046,10 @@
         "message": "View all tags",
         "description": "The label of the link targeting the tag list page"
     },
-    "theme.docs.DocCard.categoryDescription.plurals":
+    "theme.docs.breadcrumbs.navAriaLabel":
     {
-        "message": "1 item|{count} items",
-        "description": "The default description for a category card in the generated index about how many items this category includes"
+        "message": "Breadcrumbs",
+        "description": "The ARIA label for the breadcrumbs"
     },
     "theme.colorToggle.ariaLabel.mode.system":
     {
@@ -1067,10 +1071,10 @@
         "message": "Switch between dark and light mode (currently {mode})",
         "description": "The ARIA label for the color mode toggle"
     },
-    "theme.docs.breadcrumbs.navAriaLabel":
+    "theme.docs.DocCard.categoryDescription.plurals":
     {
-        "message": "Breadcrumbs",
-        "description": "The ARIA label for the breadcrumbs"
+        "message": "1 item|{count} items",
+        "description": "The default description for a category card in the generated index about how many items this category includes"
     },
     "theme.docs.paginator.navAriaLabel":
     {
@@ -1101,11 +1105,6 @@
     {
         "message": "Version: {versionLabel}"
     },
-    "theme.common.editThisPage":
-    {
-        "message": "Edit this page",
-        "description": "The link label to edit the current page"
-    },
     "theme.docs.versions.unreleasedVersionLabel":
     {
         "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
@@ -1125,6 +1124,11 @@
     {
         "message": "latest version",
         "description": "The label used for the latest version suggestion link label"
+    },
+    "theme.common.editThisPage":
+    {
+        "message": "Edit this page",
+        "description": "The link label to edit the current page"
     },
     "theme.common.headingLinkTitle":
     {
@@ -1161,6 +1165,11 @@
         "message": "Tags:",
         "description": "The label alongside a tag list"
     },
+    "theme.AnnouncementBar.closeButtonAriaLabel":
+    {
+        "message": "Close",
+        "description": "The ARIA label for close button of announcement bar"
+    },
     "theme.admonition.caution":
     {
         "message": "caution",
@@ -1191,11 +1200,6 @@
         "message": "warning",
         "description": "The default label used for the Warning admonition (:::warning)"
     },
-    "theme.AnnouncementBar.closeButtonAriaLabel":
-    {
-        "message": "Close",
-        "description": "The ARIA label for close button of announcement bar"
-    },
     "theme.blog.sidebar.navAriaLabel":
     {
         "message": "Blog recent posts navigation",
@@ -1216,6 +1220,11 @@
         "message": "(opens in new tab)",
         "description": "The ARIA label for the external link icon"
     },
+    "theme.NavBar.navAriaLabel":
+    {
+        "message": "Main",
+        "description": "The ARIA label for the main navigation"
+    },
     "theme.NotFound.p1":
     {
         "message": "We could not find what you were looking for.",
@@ -1226,15 +1235,15 @@
         "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
         "description": "The 2nd paragraph of the 404 page"
     },
-    "theme.NavBar.navAriaLabel":
-    {
-        "message": "Main",
-        "description": "The ARIA label for the main navigation"
-    },
     "theme.TOCCollapsible.toggleButtonLabel":
     {
         "message": "On this page",
         "description": "The label used by the button on the collapsible TOC component"
+    },
+    "theme.navbar.mobileLanguageDropdown.label":
+    {
+        "message": "Languages",
+        "description": "The label for the mobile language switcher dropdown"
     },
     "theme.blog.post.readMore":
     {
@@ -1246,15 +1255,15 @@
         "message": "Read more about {title}",
         "description": "The ARIA label for the link to full blog posts from excerpts"
     },
-    "theme.navbar.mobileLanguageDropdown.label":
-    {
-        "message": "Languages",
-        "description": "The label for the mobile language switcher dropdown"
-    },
     "theme.blog.post.readingTime.plurals":
     {
         "message": "One min read|{readingTime} min read",
         "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.breadcrumbs.home":
+    {
+        "message": "Home page",
+        "description": "The ARIA label for the home page in the breadcrumbs"
     },
     "theme.CodeBlock.copy":
     {
@@ -1271,10 +1280,10 @@
         "message": "Copy code to clipboard",
         "description": "The ARIA label for copy code blocks button"
     },
-    "theme.docs.breadcrumbs.home":
+    "theme.CodeBlock.wordWrapToggle":
     {
-        "message": "Home page",
-        "description": "The ARIA label for the home page in the breadcrumbs"
+        "message": "Toggle word wrap",
+        "description": "The title attribute for toggle word wrapping button of code block lines"
     },
     "theme.docs.sidebar.collapseButtonTitle":
     {
@@ -1286,11 +1295,6 @@
         "message": "Collapse sidebar",
         "description": "The title attribute for collapse button of doc sidebar"
     },
-    "theme.CodeBlock.wordWrapToggle":
-    {
-        "message": "Toggle word wrap",
-        "description": "The title attribute for toggle word wrapping button of code block lines"
-    },
     "theme.docs.sidebar.navAriaLabel":
     {
         "message": "Docs sidebar",
@@ -1301,15 +1305,15 @@
         "message": "Close navigation bar",
         "description": "The ARIA label for close button of mobile sidebar"
     },
-    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel":
-    {
-        "message": "← Back to main menu",
-        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
-    },
     "theme.docs.sidebar.toggleSidebarButtonAriaLabel":
     {
         "message": "Toggle navigation bar",
         "description": "The ARIA label for hamburger menu button of mobile navigation"
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel":
+    {
+        "message": "← Back to main menu",
+        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
     },
     "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel":
     {

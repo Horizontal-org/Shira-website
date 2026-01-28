@@ -9,13 +9,22 @@ import Translate, { translate } from '@docusaurus/Translate';
 export default function Contact() {
   return (
     <Layout
-      title={translate({ id: 'contact.title' })}
-      description={translate({ id: 'contact.description' })}
+      title={translate({
+        id: 'contact.title',
+        message: 'Contact the Shira team'
+      })}
+      description={translate({
+        id: 'contact.description',
+        message: 'Learn about how to contact the Shira team'
+      })}
     >
       <main className="main">
         <meta
           name="description"
-          content={translate({ id: 'contact.metaDescription' })}
+          content={translate({
+            id: 'contact.metaDescription',
+            message: 'Learn about how to contact the Shira team'
+             })}
         />
 
         <section
