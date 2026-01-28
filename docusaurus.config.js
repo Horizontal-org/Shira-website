@@ -167,6 +167,11 @@ const config = {
           },
 
           {
+            type: 'localeDropdown',
+            position: 'left',
+          },
+
+          {
             to: `${signupFormUrl}`,
             label: 'Sign up/Log in',
             position: 'right',
