@@ -45,7 +45,28 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', es', 'fr', 'ar', 'zh-Hans', 'ru'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      es: {
+        label: 'Español',
+      },
+      fr: {
+        label: 'Français',
+      },
+      ar: {
+        label: 'العربية',
+        direction: 'rtl',
+      },
+      'zh-Hans': {
+        label: '中文（简体）',
+      },
+      ru: {
+        label: 'Русский',
+      },
+    },
   },
 
   plugins: ['docusaurus-plugin-sass'],
