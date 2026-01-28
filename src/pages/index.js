@@ -28,7 +28,7 @@ export default function Home() {
             <div className={styles.halfColumn}>
               <h2>For learners</h2>
               <p>
-                Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
+                Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc - with examples tailored to your language and field of work.
               </p>
               <Link className={global.buttonDark} to="https://quiz.shira.app/">Take a quiz</Link>
             </div>
