@@ -49,13 +49,18 @@ export default function Pricing() {
               <li>✔️ Cloud</li>
               <li>✔️ Admin dashboard</li>
               <li>✔️ 1 admin</li>
+            </ul>
             <h4>Customization</h4>
+            <ul>
               <li>✔️ Fully customizable quiz questions</li>
+              <li>✔️ Access to the question's library</li>
               <li>✔️ Up to 3 custom quizzes</li>
               <li>✔️ Up to 5 questions per quiz</li>
               <li>✔️ Up to 1,500 quizzes taken per year</li>
               <li>✔️ 2 apps: Gmail, SMS</li>
+            </ul>
             <h4>Access control</h4>
+            <ul>
               <li>✔️Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
             </ul>
           </div>
@@ -83,16 +88,23 @@ export default function Pricing() {
               <li>✔️ Cloud</li>
               <li>✔️ Admin dashboard</li>
               <li>✔️ Unlimited admins [coming soon]</li>
+            </ul>
             <h4>Customization</h4>
+            <ul>
               <li>✔️ Fully customizable quiz questions</li>
+              <li>✔️ Access to the question's library</li>
               <li>✔️ Unlimited custom quizzes</li>
               <li>✔️ Unlimited quiz questions</li>
               <li>✔️ Up to 1,500 quizzes taken per year*</li>
               <li>✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app</li>
+            </ul>
             <h4>Access control</h4>
+            <ul>
               <li>✔️Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
               <li>✔️Private quizzes: only your users can take your quizzes</li>
+            </ul>
             <h4>Compliance</h4>
+            <ul>
               <li>✔️Track user progress</li>
               <li>✔️Analysis and compliance tools [coming soon]</li>
             </ul>
@@ -124,20 +136,28 @@ export default function Pricing() {
               <li>✔️ Cloud or on-premise</li>
               <li>✔️ Admin dashboard</li>
               <li>✔️ Unlimited admins</li>
+            </ul>
             <h4>Customization</h4>
+            <ul>
               <li>✔️ Fully customizable quiz questions</li>
+              <li>✔️ Access to the question's library</li>
               <li>✔️ Unlimited custom quizzes</li>
               <li>✔️ Unlimited quiz questions</li>
               <li>✔️ Custom number of quizzes taken</li>
               <li>✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app</li>
+            </ul>
             <h4>Access control</h4>
+            <ul>
               <li>✔️Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
               <li>✔️Private quizzes: only your users can take your quizzes</li>
+            </ul>
             <h4>Compliance</h4>
+            <ul>
               <li>✔️Track user progress</li>
               <li>✔️Analysis and compliance tools [coming soon]</li>
-
+            </ul>
             <h4>Custom support</h4>
+            <ul>
               <li>✔️Tailor-made user training</li>
               <li>✔️Priority support</li>
             </ul>
