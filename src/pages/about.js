@@ -182,7 +182,7 @@ export default function About() {
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.howItIsMade, global.sectionMaxWidth)}>
             <h2>
-              <Translate id="about.how.title">How Shira is built?</Translate>
+              <Translate id="about.how.title">How is Shira built?</Translate>
             </h2>
 
             <div className={classNames(global.center, styles.howItIsMadeText)}>
