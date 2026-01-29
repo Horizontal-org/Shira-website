@@ -52,9 +52,14 @@ Learn more about spaces:
 
 export function FeaturedDocs() {
   const category = useCurrentSidebarCategory();
-  const spacesItems = category.items.find(sidebarElement => {
-    return sidebarElement.label === "Spaces";
-  }).items;
+
+  const spacesItems = category.items.find(
+    (item) =>
+      item.type === 'category' &&
+      item.items?.some(
+        (child) => child.docId?.startsWith('spaces/')
+      )
+  ).items;
 
   return (
     <div className={classNames(global.shiraDocCards)}>
