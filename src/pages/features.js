@@ -6,6 +6,9 @@ import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Translate, { translate } from '@docusaurus/Translate';
+import FishImage from "@site/static/img/fish.png"
+import BubblesImage from"@site/static/img/fish-bubbles.png"
+
 
 export default function Features() {
   const { siteConfig } = useDocusaurusContext();
@@ -65,7 +68,7 @@ export default function Features() {
           </div>
 
           <img
-            src="/img/fish.png"
+            src={FishImage}
             alt={translate({
               id: 'features.images.fishAlt',
               message: 'Illustration of a fish representing phishing',
@@ -76,7 +79,7 @@ export default function Features() {
         <div style={{ width: '100%' }}>
           <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
             <img
-              src="/img/fish-bubbles.png"
+              src={BubblesImage}
               alt={translate({
                 id: 'features.images.bubblesAlt',
                 message: 'Fish with bubbles illustration',

@@ -6,6 +6,9 @@ import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import Translate, { translate } from '@docusaurus/Translate';
+import ShiraLogo from "@site/static/img/shira-s.png";
+import HorizontalLogo from "@site/static/img/horizontal-logo.png";
+import HookImage from "@site/static/img/hook.png";
 
 export default function About() {
   return (
@@ -50,7 +53,7 @@ export default function About() {
             </div>
 
             <img
-              src="/img/shira-s.svg"
+              src={ShiraLogo}
               alt={translate({
                 id: 'about.hero.imageAlt',
                 message: 'shira logo: it is an S in blue and light green colors',
@@ -61,8 +64,8 @@ export default function About() {
 
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.aboutHorizontal, global.sectionMaxWidth)}>
-            <img
-              src="/img/horizontal-logo.svg"
+              <img
+              src={HorizontalLogo}
               alt={translate({
                 id: 'about.horizontal.imageAlt',
                 message: 'Horizontal logo',
@@ -116,7 +119,7 @@ export default function About() {
           <section className={classNames(styles.whyShira, global.sectionMaxWidth)}>
             <h2>
               <img
-                src="/img/hook.png"
+                src={HookImage}
                 alt={translate({
                   id: 'about.why.imageAlt',
                   message: 'decorative image of a hook',

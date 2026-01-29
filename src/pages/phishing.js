@@ -5,6 +5,9 @@ import styles from './phishing.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Translate, { translate } from '@docusaurus/Translate';
+import FishImage from "@site/static/img/fish.png"
+import BubblesImage from "@site/static/img/fish-bubbles.png"
+import WormImage from "@site/static/img/worm.png"
 
 export default function Phishing() {
   return (
@@ -62,7 +65,7 @@ export default function Phishing() {
               </span>
             </div>
             <img
-              src="/img/fish.png"
+              src={FishImage}
               alt={translate({
                 id: 'phishing.images.fish.alt',
                 message: 'Decorative illustration of a fish',
@@ -128,7 +131,7 @@ export default function Phishing() {
             )}
           >
             <img
-              src="/img/fish-bubbles.png"
+              src={BubblesImage}
               alt={translate({
                 id: 'phishing.images.bubbles.alt',
                 message: 'Decorative illustration of bubbles',
@@ -323,7 +326,7 @@ export default function Phishing() {
               </p>
             </div>
             <img
-              src="/img/worm.png"
+              src={WormImage}
               alt={translate({
                 id: 'phishing.images.worm.alt',
                 message: 'Decorative illustration of a worm',

@@ -7,6 +7,8 @@ import classNames from 'classnames';
 import Iframe from 'react-iframe';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Translate, { translate } from '@docusaurus/Translate';
+import WsjImage from "@site/static/img/wsj.png"
+import WsjMobileImage from "@site/static/img/wsj_mobile.jpg"
 
 export default function PhishingQuizzes() {
   const { siteConfig } = useDocusaurusContext();
@@ -72,7 +74,7 @@ export default function PhishingQuizzes() {
             <a href="https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173">
               <img
                 className={styles.phishingQuizzessEducationDesktopImage}
-                src="/img/wsj.png"
+                src={WsjImage}
                 alt={translate({
                   id: 'phishingQuizzes.education.wsjAltDesktop',
                   message: 'News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work'
@@ -80,7 +82,7 @@ export default function PhishingQuizzes() {
               />
               <img
                 className={styles.phishingQuizzessEducationMobileImage}
-                src="/img/wsj_mobile.jpg"
+                src={WsjMobileImage}
                 alt={translate({
                   id: 'phishingQuizzes.education.wsjAltMobile',
                   message: 'News article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, doesn’t even work'

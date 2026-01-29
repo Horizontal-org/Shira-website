@@ -5,6 +5,7 @@ import styles from './index.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Translate, { translate } from '@docusaurus/Translate';
+import ContextImage from "@site/static/img/context.png"
 
 export default function Home() {
   return (
@@ -94,7 +95,7 @@ export default function Home() {
             </Translate>
           </p>
           <img
-            src="/img/context.png"
+            src={ContextImage}
             alt={translate({
               id: 'homepage.context.imageAlt',
               message: 'decorative image of a magnifier glass',
