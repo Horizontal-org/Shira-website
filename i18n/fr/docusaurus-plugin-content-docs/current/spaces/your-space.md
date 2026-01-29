@@ -3,11 +3,11 @@ id: your-space
 slug: /your-space
 sidebar_position: 2
 sidebar_label: Managing your space
-description: Learn about Shira Spaces — the central hub to create and manage quizzes, assign learners, track results, and control permissions for your phishing awareness education campaigns.
+description: fr-Learn about Shira Spaces — the central hub to create and manage quizzes, assign learners, track results, and control permissions for your phishing awareness education campaigns.
 
 ---
 
-# Managing your Space
+# fr-Managing your Space
 
 A Shira space is the central place where you will manage your for your phishing education campaigns. This is where you can:
 * Create and manage [quizzes](/quizzes)
@@ -16,7 +16,7 @@ A Shira space is the central place where you will manage your for your phishing 
 * Manage [learners](/learners) and assign quizzes
 * See your learners' [results](/results) on each quiz
 
-## Permissions {#permissions}
+## fr-Permissions {#permissions}
 * Currently, only one admin user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
 * Only admins can access your Space dashboard. Learners never have access to the Space dashboard, quizzes, or Results.
 
@@ -30,5 +30,5 @@ This table summarizes what learners and admins can do on Shira:
 | Create and Manage Space | No      | No |
 
 
-## Deleting your space {#deleting-your-space}
+## fr-Deleting your space {#deleting-your-space}
 It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).
