@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <Layout
       title="Shira"
-      description="Learn the skills needed to identify and defeat phishing attacks with Shira."
+      description="Shira builds your team's ability to identify and defeat phishing attacks."
     >
 
       <meta name="description" content="Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language." />
@@ -19,7 +19,7 @@ export default function Home() {
         <section className={styles.hero}>
           <div className={styles.bg}></div>
           <h1>Preparedness. Knowledge. Resilience.</h1>
-          <h4>Learn the skills needed to identify and defeat phishing attacks</h4>
+          <p>Shira builds your team's ability to identify and defeat phishing attacks</p>
         </section>
 
 
@@ -28,7 +28,7 @@ export default function Home() {
             <div className={styles.halfColumn}>
               <h2>For learners</h2>
               <p>
-                Get started right away with one of our free, pre-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc.
+                Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc - with examples tailored to your language and field of work.
               </p>
               <Link className={global.buttonDark} to="https://quiz.shira.app/">Take a quiz</Link>
             </div>
@@ -48,14 +48,14 @@ export default function Home() {
           <p>
             For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before.
           </p>
-          <img src='/img/context.png'></img>
+          <img src='/img/context.png' alt="decorative image of a magnifier glass"></img>
         </section>
 
         <section className={classNames(global.backgroundDark, styles.whySection, global.row, global.center)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
             <h2>Why Shira?</h2>
             <div className={classNames(styles.reasonsWhy)}>
-              <h4>Whether you’re just taking our pre-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</h4>
+              <p>Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:</p>
               <ul>
                 <li><span>Easy to use</span> <br/> Created for communities most at risk of phishing attacks, even with limited tech literacy.</li>
                 <li><span>Customizable</span> <br/> Realistic phishing messages to simulate real scenarios users face daily.</li>

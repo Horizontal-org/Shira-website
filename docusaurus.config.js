@@ -6,6 +6,10 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+const signupBaseURL = process.env.SPACE_URL || 'https://alpha.space.shira.app';
+const signupFormUrl = `${signupBaseURL}/get-started`;
+
+
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
@@ -27,6 +31,7 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+
   markdown: {
 
     hooks: {
@@ -44,6 +49,10 @@ const config = {
   },
 
   plugins: ['docusaurus-plugin-sass'],
+
+  customFields: {
+    signupFormUrl: signupFormUrl,
+  },
 
 
   presets: [
@@ -89,17 +98,17 @@ const config = {
       image: 'img/shira-social-card.png',
       navbar: {
         logo: {
-          alt: 'Shira Log',
+          alt: 'Shira Logo',
           src: 'img/shira-logo.png',
         },
         items: [
           {
-            href: '/features',
+            to: '/features',
             label: 'Features',
             position: 'left',
           },
           {
-            href: 'https://quiz.shira.app/',
+            to: 'https://quiz.shira.app/',
             sidebarId: 'takeQuizSidebar',
             position: 'left',
             label: 'Take a quiz',
@@ -111,16 +120,16 @@ const config = {
             items: [
               {
                 label: 'What is Phishing?',
-                href: '/phishing',
+                to: '/phishing',
               },
               {
                 label: 'Why phishing quizzes?',
-                href: '/phishing-quizzes',
+                to: '/phishing-quizzes',
               },
             ],
           },
           {
-            href: '/pricing',
+            to: '/pricing',
             label: 'Pricing',
             position: 'left',
           },
@@ -131,14 +140,14 @@ const config = {
             label: 'Help',
           },
           {
-            href: '/about',
+            to: '/about',
             label: 'About',
             position: 'left',
           },
 
           {
-            href: '/contact',
-            label: 'Get Started',
+            to: `${signupFormUrl}`,
+            label: 'Sign up/Log in',
             position: 'right',
             className: 'button',
           },
@@ -155,7 +164,65 @@ const config = {
             src: 'img/shira-logo.png',
             height: 51,
           },
-        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
+        links: [
+          {
+            title: 'Learn',
+            items: [
+              {
+                label: 'Learn about phishing',
+                to: '/phishing',
+              },
+              {
+                label: 'Effective phishing education',
+                to: '/phishing-quizzes',
+              },
+            ],
+          },
+          {
+            title: 'Use Shira',
+            items: [
+              {
+                label: 'Take a ready-made quiz',
+                href: 'https://quiz.shira.app/',
+              },
+              {
+                label: 'Explore Shira features',
+                to: '/features',
+              },
+              {
+                label: 'Build a custom quiz',
+                href: signupFormUrl,
+              },
+            ],
+          },
+          {
+            title: 'Get help',
+            items: [
+              {
+                label: 'Visit our help center',
+                to: '/help',
+              },
+              {
+                label: 'Contact us',
+                to: '/contact',
+              },
+            ],
+          },
+          {
+            title: 'About',
+            items: [
+              {
+                label: 'Learn about the Shira team',
+                to: '/about',
+              },
+              {
+                label: 'Shira is open source',
+                href: 'https://github.com/Horizontal-org/shira/',
+              },
+            ],
+          },
+        ],
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
       },
       prism: {
         theme: prismThemes.github,

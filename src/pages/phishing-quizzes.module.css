@@ -74,3 +74,12 @@
   display: flex;
   justify-content: center;  
 }
+
+.phishingQuizzesEducationText span {
+  font-size: 1.25rem;
+  font-weight: 300;
+  letter-spacing: 0.05rem;
+  line-height: 1.4;
+  display: block;
+  margin-bottom: 2rem;
+}

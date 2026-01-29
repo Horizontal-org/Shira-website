@@ -18,9 +18,21 @@ export default function Contact() {
 
         <section className={classNames(global.column, global.backgroundLight, styles.contactShira)}>
           <div className={classNames(global.center,styles.contactShiraText )}>
-            <h1>Let’s talk.</h1>
-            <h4>Tell us a little bit about your organization and needs, and we’ll get back to you to discuss how Shira can help. We usually respond within 1 business day.</h4>
-            <h4>Contact us via email at <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a></h4>
+            <h1>Let’s talk!</h1>
+
+            <p>
+              Do you have questions about shira (that's not answered in our <a href="/help">help center</a>)?
+              Would you like to explore a possible partnership?
+              Are you a part of a grassroot organization and cannot afforrd the full cost of Shira?
+            </p>
+
+            <h4>Get in touch:</h4>
+              <ul>
+                <li>Write to us to <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>.</li>
+                <li><a href="https://github.com/Horizontal-org/shira/discussions">Post a feature idea or vote on the community needs</a>.</li>
+                <li><a href="https://calendly.com/raphael-mimoun/shira-demo">Schedule a demo call directly here</a>.</li>
+                <li><a href="https://blog.wearehorizontal.org/tag/shira/">Subscribe to our newsletter</a>.</li>
+              </ul>
           </div>
         </section>
 

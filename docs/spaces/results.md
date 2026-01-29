@@ -1,13 +1,13 @@
 ---
 id: results
 slug: /results
-sidebar_position: 9
+sidebar_position: 6
 description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
 # Results
 
-The Results section provides insights into whether your team has completed your quiz and identifying areas for improvement.
+The Results section provides insights into whether people has completed your quiz and identifying areas for improvement.
 
 
 For now, Results include two metrics:

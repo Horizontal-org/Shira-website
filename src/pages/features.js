@@ -4,8 +4,14 @@ import Link from '@docusaurus/Link';
 import styles from './features.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
 
 export default function Features() {
+  const {siteConfig} = useDocusaurusContext();
+  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+
+
   return (
     <Layout
       title="Shira's Features"
@@ -22,19 +28,19 @@ export default function Features() {
 
              <div className={styles.feauturesIntroButtons}>
               <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">Pricing</Link>
-              <Link className={classNames(styles.button, global.buttonDark)} to="/contact">Get Started</Link>
+              <Link className={classNames(styles.button, global.buttonDark)} to={signupFormUrl}>Get Started</Link>
             </div>
           </div>
-          <img src='/img/fish.png'></img>
+          <img src='/img/fish.png' alt="decorative image of a fish"></img>
         </section>
 
         <div style={{ width: '100%' }}>
           <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
-            <img src='/img/fish-bubbles.png'></img>
+            <img src='/img/fish-bubbles.png' alt="decorative image of a bubbles"></img>
 
             <div className={styles.feauturesAllInfoText}>
               <h1>All the features you need to keep your team safe</h1>
-              <h4>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</h4>
+              <span>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</span>
             </div>
           </section>
         </div>
@@ -57,7 +63,7 @@ export default function Features() {
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3> Email phishing simulations 📧</h3>
-            <p>Create quizzes that mimic phishing emails, including headers, body, and attachments.</p>
+            <p>Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments.</p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
@@ -95,13 +101,23 @@ export default function Features() {
             <p>An entertaining learning experience promotes better knowledge retention.</p>
           </div>
 
+          <div className={classNames(styles.featureElement, global.backgroundLight)}>
+            <h3>Multilingual 🌐</h3>
+            <p>Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian.</p>
+          </div>
+
+          <div className={classNames(styles.featureElement, global.backgroundLight)}>
+            <h3>Question library 📚</h3>
+            <p>Pull from Shira's question library to start your trainings from templates created by digital security trainers.</p>
+          </div>
+
         </section>
 
         <section className={classNames(global.center, global.backgroundLight)}>
 
           <div className={styles.feauturesNeedMore}>
             <h2>Missing a feature?</h2>
-            <h4>Get in touch. We’ll make it happen.</h4>
+            <span>Get in touch. We’ll make it happen.</span>
             <Link className={global.buttonDark} to="/contact">Contact us</Link>
 
           </div>

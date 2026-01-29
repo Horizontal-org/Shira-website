@@ -24,13 +24,13 @@ export default function About() {
               <Link className={classNames(styles.button, global.buttonLight)} to="/contact">Get in touch</Link>
 
             </div>
-            <img src='/img/shira-s.svg'></img>
+            <img src='/img/shira-s.svg' alt="shira logo: it is an S in blue and light green colors"></img>
           </section>
         </div>
 
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.aboutHorizontal, global.sectionMaxWidth)}>
-            <img src='/img/horizontal-logo.svg'></img>
+            <img src='/img/horizontal-logo.svg' alt="Horizontal logo"></img>
             <div className={styles.aboutHorizontalText}>
               <h2>Who makes Shira?</h2>
               <p>Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online. </p>
@@ -45,7 +45,7 @@ export default function About() {
         <div className={classNames(global.backgroundLight, styles.flexAndCenter)}>
           <section className={classNames(styles.whyShira, global.sectionMaxWidth)}>
             <h2>
-              <img src='/img/hook.png'></img>
+              <img src='/img/hook.png' alt="decorative image of a hook"></img>
               Why Shira?
             </h2>
 
@@ -68,6 +68,24 @@ export default function About() {
               <a className={classNames(styles.button, global.buttonDark)} href={useBaseUrl('assets/shira-final.pdf')}>Security Audit</a>
               <Link className={classNames(styles.button, global.buttonDark)} to="/privacy-policy">Privacy policy </Link>
 
+            </div>
+          </section>
+        </div>
+
+        <div className={classNames(styles.flexAndCenter)}>
+          <section className={classNames(global.row, styles.howItIsMade, global.sectionMaxWidth)}>
+            <h2>How Shira is built?</h2>
+            <div className={classNames(global.center, styles.howItIsMadeText)}>
+              <ul>
+                <li>Shira is <Link to="https://github.com/Horizontal-org/shira">Open Source</Link>, and licencesed under MIT 2.0. </li>
+                <li>At Horizontal, we design and develop centering the needs of the community.</li>
+                <ul>
+                  <li>Shira is multilingual, <Link to="/contact">co-created with users</Link> and centering security and privacy.</li>
+                </ul>
+                <li>This website runs on green energy.</li>
+                <img src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" width="200px" height="95px"></img>
+
+              </ul>
             </div>
           </section>
         </div>
