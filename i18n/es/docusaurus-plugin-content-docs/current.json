@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "ES-Next",
+    "description": "The label for version current"
+  },
+  "sidebar.HelpSidebar.category.Shira Help Center": {
+    "message": "ES-Shira Help Center",
+    "description": "The label for category 'Shira Help Center' in sidebar 'HelpSidebar'"
+  },
+  "sidebar.HelpSidebar.category.Spaces": {
+    "message": "ES-Spaces",
+    "description": "The label for category 'Spaces' in sidebar 'HelpSidebar'"
+  },
+  "sidebar.HelpSidebar.category.Technical Stuff": {
+    "message": "ES-Technical Stuff",
+    "description": "The label for category 'Technical Stuff' in sidebar 'HelpSidebar'"
+  },
+  "sidebar.HelpSidebar.link.Contact & Support": {
+    "message": "ES-Contact & Support",
+    "description": "The label for link 'Contact & Support' in sidebar 'HelpSidebar', linking to '/contact'"
+  }
+}
