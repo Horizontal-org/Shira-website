@@ -1444,5 +1444,21 @@
     {
         "message": "Tags",
         "description": "The title of the tag list page"
+    },
+    "phishingQuizzes.wsj.alt":
+    {
+        "message": "news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
+    },
+    "phishingQuizzes.wsjMobile.alt":
+    {
+        "message": "news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
+    },
+    "phishingQuizzes.research.emphasis":
+    {
+        "message": "counterproductive"
+    },
+    "phishingQuizzes.research.final":
+    {
+        "message": "effect of phishing simulations: users who are continuously exposed to phishing simulations are more likely to click on dangerous links."
     }
 }
