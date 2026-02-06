@@ -8,11 +8,9 @@ description: Learn how to train your team with Shira Spaces — create and manag
 
 # Space overview
 
-A Shira space is the central place where you will manage your for your phishing education campaigns. 
-
-Here is a short overview of how you can build your phishing education campaigns using Shira:
-- **[You manage your education programs within a Space](/your-space)**. A Space is where you will create quizzes, manage learners, and see results for your learners. Learn more about [Shira spaces](/your-space). 
-- **In your space, you can have many [Quizzes](/quizzes)**. For example, you may create a quiz focusing on email phishing and another on SMS phishing; or you may create a quiz that is used to onboard new team members, and separately create a new quiz to train your team each quarter. Learn more about [quizzes](/quizzes).
-- **Each quiz is made up of [Questions](/questions)**. A question shows an email or message, and asks the learner to decide whether the message looks like phishing or looks legitimate. The learner also has the option to answer "I don't know". You can build your questions from scratch or pull templates from the Library. Learn more about [questions](/questions).
-- **Someone who takes a quiz is called a [Learner](/learners)**. There are private learners (who need to be registered into your Space) and public learners (anyone who takes a public quiz using the quiz URL).  Learn more about [learners](/learners).
-- After learners took your quiz, **the [Results section](/results) shows you how they did on the quiz**. Learn more about [results](/results).
+A Space is the central place in Shira where build your phishing education campaigns:
+- [A Space](/your-space) is where you **create quizzes, manage learners, and see results** for your learners.
+- **In your Space, you can have many [Quizzes](/quizzes)**. For example, you may create a quiz focusing on email phishing and another on SMS phishing; or you may create a quiz to onboard new team members, and create a separate quiz to train your team each quarter.
+- **Each quiz is made up of [Questions](/questions)**. A question shows an email or message and asks the learner to decide whether the message looks like phishing or looks legitimate. The learner also has the option to answer "I don't know". You can build your questions from scratch or pull templates from the Library.
+- **Someone who takes a quiz is called a [Learner](/learners)**. There are Registered Learners (who can need to join your Space in order to take private quizzes) and Anonymous Learners (anyone who takes a public quiz using the quiz URL).
+- After learners take a quiz, **the [Results section](/results) shows how they did on the quiz**.
