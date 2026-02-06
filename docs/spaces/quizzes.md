@@ -7,7 +7,7 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 ---
 # Quizzes
 
-In Shira, a quiz is the central component where you build your education campaigns or programs. Shira lets you build your own quizzes to match your audience's specific needs, context, and threats.
+In Shira, a quiz is the central component of a phishing education campaign or program. Shira lets you build your own quizzes to match your audience's specific needs, context, and threats.
 
 In your Shira Space, you can:
 - [create quizzes](#create-quizzes)
@@ -18,14 +18,21 @@ In your Shira Space, you can:
 - [delete quizzes](#delete-quiz)
 
 ## Creating quizzes {#create-quizzes}
-In your Shira space, you can create your quizzes. The amount of quizzes and the amount of questions each quiz can have depends on your [Shira plan](/pricing). 
+When you create a quiz, you must:
+1. Name your quiz
+2. Set the privacy of your quiz
 
-## Quiz privacy settings {#privacy}
-You can choose the privacy settings of your quiz (public or private) in the moment of creation.
-* **Public quizzes**: Anyone with the quiz URL can take the quiz.
-* **Private quizzes**: Only invited learners from your space can take the quiz.
+### Quiz name {#name}
+The name your pick for the quiz helps you and your learners recognize the purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc). The quiz name is visible to learners:
+- In the email learners receive when you assign them a quiz (exclusively for [private quizzes](#privacy))
+- On the welcome screen when learners take the quiz.
 
-This setting is permanent and cannot be changed. If you want to change it later, you will have to duplicate this quiz.
+### Quiz privacy {#privacy}
+There are two options available for quiz privacy:
+* **Public quizzes**: Anyone with the quiz URL can take the quiz. Learners who take public quizzes remain anonymous. This means that in [Results](/results) you cannot identified who those learners are. 
+* **Private quizzes**: Only learners who are registered in your space can take the quiz. You can read more about [registered learners here](/learners#registered)
+
+The privacy of a quiz is permanent and cannot be changed. If you want to change the privacy of an existing quiz, you must to duplicate the quiz.
 
 ## Adding question to your quiz {#questions}
 

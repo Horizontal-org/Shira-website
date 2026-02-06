@@ -14,3 +14,5 @@ Learners in Shira can be:
 
 **Anonymous in public quizzes:** they do not need to register in order to take a quiz and as a result, it is not possible to identify learners when reviewing a quizz's [results](/results). 
 **Registered:** they are learners who are registered in your space, who can take private quizzes, and whose results is tied to their account. 
+
+### Registered learners {#registered}
