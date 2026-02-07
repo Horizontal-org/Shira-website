@@ -28,41 +28,38 @@ The name your pick for the quiz helps you and your learners recognize the purpos
 - On the welcome screen when learners take the quiz.
 
 ### Quiz privacy {#privacy}
-There are two options available for quiz privacy:
-* **Public quizzes**: Anyone with the quiz URL can take the quiz. Learners who take public quizzes remain anonymous. This means that in [Results](/results) you cannot identified who those learners are. 
-* **Private quizzes**: Only learners who are registered in your space can take the quiz. You can read more about [registered learners here](/learners#registered)
+There are two options available for quiz privacy: public and private.
 
-The privacy of a quiz is permanent and cannot be changed. If you want to change the privacy of an existing quiz, you must to duplicate the quiz.
+**The privacy of a quiz is permanent and cannot be changed**. If you want to change the privacy of an existing quiz, you must to duplicate the quiz.
+
+**Public quizzes**
+* Anyone with the quiz URL can take a public quiz.
+* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A quiz URL looks like this: `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The quiz URL remains the same even if you publish and unpublish the quiz multiple times.
+* Learners who take public quizzes remain anonymous. This means that in [Results](/results) you cannot identified who those learners are. 
+
+**Private quizzes**
+* Only learners who are registered in your space can take the quiz. You can read more about [registered learners here](/learners#registered).
+* When a registered learner is assigned a private quiz, they receive an email with the link to take the quiz. This link is unique to each learner and helps keep track of who takes the quiz and their results.  
 
 ## Adding question to your quiz {#questions}
 
 You can add questions to your quiz either by creating them manually or importing ready-made templates from the Library. [Learn more about questions here](/questions).
 
-## Quiz URL {#quiz-url}
-The quiz URL is a URL unique to each quiz that learners use to take a quiz. A quiz URL looks like this: `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68`
-
-The quiz URL remains the same even if you publish and unpublish the quiz multiple times. 
-For public quizzes, the URL is and all learners use the same one. For private quizzes, the URL is unique to each learner and it's used to track their progress.
-
 ## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to anyone with the quiz URL. 
+Publishing a quiz means that you are making it accessible to learners. 
 
 You can then unpublish the quiz to make it impossible for learners to take it. If the quiz is unpublished, the quiz URL will lead to an error page. 
 
 :::note
-If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their answers will be lost. 
+If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost. 
 :::
 
 ## Editing quizzes {#edit-quizzes}
 You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz
-- Editing questions that already exist in the quiz
-- Reording questions. The order of questions that you see in your space is the same order that the questions will be shown to learners when they take the quiz.
-- Deleting questions. Once deleted, there is no way of retrieving a question. 
-
-:::info
-The amount of questions you can add to your quiz depends on your [Shira plan](/pricing).
-:::
+- Adding new questions to the quiz.
+- Editing questions that already exist in the quiz.
+- Reording questions: the order of questions that you see in your space is the same order that the questions will be shown to learners when they take the quiz.
+- Deleting questions: once deleted, there is no way of retrieving a question. 
 
 :::note
 If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
@@ -71,9 +68,9 @@ If some learners have already taken the quiz, editing this quiz may affect the r
 ## Duplicating a quiz {#duplicate-quiz}
 Duplicating a quiz means creating an exact copy of an existing quiz. 
 
-Once duplicated, the original quiz and the new quiz are independent from each other: you can edit or delete one, the other will be unaffected.  Results associated with the original quizz **won't** be moved to the copy.
+Once duplicated, the original quiz and the new quiz are independent from each other: you can edit or delete one, the other will be unaffected.  **Results associated with the original quizz *will not* be moved to the new copy of the quiz**.
 
-You can set a quiz privacy settings (public or private) in the moment of duplication.
+You can set a quiz privacy settings (public or private) at the time of duplication.
 
 
 ## Deleting a quiz {#delete-quiz}

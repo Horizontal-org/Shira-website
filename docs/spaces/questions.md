@@ -17,20 +17,19 @@ Each question is made up of several components:
 * [Variables](#variables)
 * [Explanations](#explanations)
 
-:::info
-The amount of questions you can add to your quizzes depends on your [Shira plan](/pricing).
-:::
 
 ## Creating a question {#create}
-You can create questions from scratch -configuring each of the questions components- or you can pull ready-made questions from the Library. Questions on the library has been created by security trainers and have been used in trainings worldwide. If you pull a question from the Library, we recommend you to edit the content and explanations to adapt it to your specific context and learners needs.
+To create questions and add them to your quiz, you have two options:
+1. You can create questions from scratch and configureeach of the questions components yourself. 
+2. You can pull ready-made questions from the Library. If you pull a question from the Library, you can use it as is or adapt it to your specific context and needs.
 
 ## Question preferences {#preferences}
 When you create a question, you must: 
-- Name the question: this name, like "Invitation to conference" or "Suspicious login notification", is meant to help you recognize the questions you create. A question's name is only visible to space admins and learners never see it when they take a quiz. 
+- Name the question: this name, like "Invitation to conference" or "Suspicious login notification", helps you recognize the questions you create. A question's name is only visible to space admins; learners never see it when they take a quiz. 
 - Tell Shira whether the email or message you're creating is *phishing* or *legitimate*. This will allow Shira to determine whether a user's response is correct. 
 
 ## An app {#app}
-An *app* is an interface that looks exactly like the actual app or platform your learner uses every day: Gmail, Outlook, SMS, WhatsApp, etc. 
+An *app* is an interface that looks exactly like the actual app or platform your learners use every day: Gmail, Outlook, SMS, WhatsApp, etc. 
 
 With apps, Shira shows an email or message exactly how it would be in real life. This means that when they face a real-life phishing attack, learners will be more likely to know where to look for clues that it is phishing. 
 
@@ -52,9 +51,7 @@ A question's content is the actual email or message that you draft to display in
 This can include any elements that are usually part of emails or messages in real life: text, images, file attachments, links, etc. 
 
 ## Explanations {#explanations}
-Explanations are short snippets of text that you can create to explain to learners why the email or message in the question may be a phishing attack or not.
-
-Explanations will be displayed after a learner answers a question, and highlight specific elements in the question. 
+Explanations are short snippets of text that you can create to explain to learners why the email or message in the question may be a phishing attack or not. Explanations will be displayed after a learner answers a question, and highlight specific elements in the question. 
 
 When you create a question, each explanation must be linked to an element in the question, such as:
 - The sender's name
@@ -62,20 +59,18 @@ When you create a question, each explanation must be linked to an element in the
 - Specific words, sentences, or images inside an email or message
 - Images or file attachments
 
-The order of explanations that you see when you create the quiz question is the same order that the explanations will be shown to learners when they take the quiz.
+The order of explanations that you see when you create the questions is the same order in which the questions are presented to learners during the quiz.
 
 ## Variables {#variables}
 Variables are placeholders that you can use to insert personalized information into a question.
 
-The information shown is relevant to each learner. For public quizzes, it's based on what they entered or auto-generated during quiz setup. For private quizze, it's the name and email that was configured when inviting the Learner.
+To add a variable, type the following in the question's content:
+* ``{{name}}`` will display the learner's name
+* ``{{email}}`` will display the learner's email address
 
-To add a variable, type the following:
+Variables work slightly differently in public and private quizzes:
+* In public quizzes, the name and email address displayed are drawn from what the learner entered or auto-generated during quiz setup.
+* In private quizzes,  the name and email address displayed are drawn from the learner's information as they were configured when the learner was invited to the Space.
 
-```
-{{name}}
-This will display the learner's name
 
-{{email}}
-This will display the learner's email address
-```
 
