@@ -17,7 +17,7 @@
     },
     "about.hero.subtitle":
     {
-        "message": "Helping individuals and organizations to build their defense against phishing attacks"
+        "message": "Helping individuals and organizations  build their resilience against phishing attacks"
     },
     "about.hero.cta":
     {
@@ -77,7 +77,7 @@
     },
     "about.why.customizable.description":
     {
-        "message": "We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face."
+        "message": "Shira shows emails and messages that are as realistic as possible to simulate what internet users actually experience in their daily lives and the phishing attacks they are likely to face."
     },
     "about.why.privacy.title":
     {
@@ -85,11 +85,11 @@
     },
     "about.why.privacy.description":
     {
-        "message": "We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm."
+        "message": "We do not collect, save, or share any sensitive or personally-identifiable data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and security audits performed by independent security firms."
     },
     "about.why.auditCta":
     {
-        "message": "Security Audit"
+        "message": "Security Audits"
     },
     "about.why.privacyCta":
     {
@@ -101,7 +101,7 @@
     },
     "about.how.opensource":
     {
-        "message": "Shira is Open Source, and licencesed under MIT 2.0."
+        "message": "Shira is open-source, and licensed under MIT 2.0."
     },
     "about.how.design":
     {
@@ -233,7 +233,7 @@
     },
     "features.list.ui.description":
     {
-        "message": "Intuitive dashboard for easy navigation and management of quizzes and user data."
+        "message": "Intuitive dashboard for easy navigation and management of quizzes and users."
     },
     "features.list.roles.title":
     {
@@ -241,7 +241,7 @@
     },
     "features.list.roles.description":
     {
-        "message": "Different access levels for admins, managers, and employees."
+        "message": "Different access levels for admins and learners."
     },
     "features.list.realLife.title":
     {
@@ -249,7 +249,7 @@
     },
     "features.list.realLife.description":
     {
-        "message": "Ability to input details from actual phishing attacks the company has experienced."
+        "message": "Include in your quizzes details from actual phishing attacks the company has experienced to best prepare your team."
     },
     "features.list.email.title":
     {
@@ -257,7 +257,7 @@
     },
     "features.list.email.description":
     {
-        "message": "Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments."
+        "message": "Create quizzes that mimic phishing emails on Gmail and Outlook, including sender information, subject line, email body, links, images and file attachments."
     },
     "features.list.sms.title":
     {
@@ -265,7 +265,7 @@
     },
     "features.list.sms.description":
     {
-        "message": "Design quizzes that simulate SMS phishing attempts with realistic text messages."
+        "message": "Create quizzes that simulate SMS phishing attempts with realistic text messages."
     },
     "features.list.messaging.title":
     {
@@ -273,7 +273,7 @@
     },
     "features.list.messaging.description":
     {
-        "message": "Include quizzes that replicate phishing through WhatsApp, Messenger, etc."
+        "message": "Create quizzes that replicate phishing through popular messaging apps like WhatsApp or Facebook Messenger."
     },
     "features.list.mobile.title":
     {
@@ -281,7 +281,7 @@
     },
     "features.list.mobile.description":
     {
-        "message": "Users can take Shira quizzes on mobile devices to simulate real-life scenarios."
+        "message": "We often face phishing attacks from our mobile devices. In Shira, users can take quizzes from their mobile devices to prepare for attacks they will face in real life."
     },
     "features.list.compliance.title":
     {
@@ -297,7 +297,7 @@
     },
     "features.list.analytics.description":
     {
-        "message": "Track user progress and identify areas for improvement."
+        "message": "Track user progress and identify areas for improvement, whether it's the type of apps your users are most vulnerable on or the specific users who need extra support."
     },
     "features.list.explanations.title":
     {
@@ -305,7 +305,7 @@
     },
     "features.list.explanations.description":
     {
-        "message": "Embed your own explanations on why an email or message looks like phishing."
+        "message": "Embed your own explanations to point users to elements that suggest that an email or message looks like phishing."
     },
     "features.list.gamification.title":
     {
@@ -313,7 +313,7 @@
     },
     "features.list.gamification.description":
     {
-        "message": "An entertaining learning experience promotes better knowledge retention."
+        "message": "An engaging learning experience promotes better knowledge retention."
     },
     "features.list.multilingual.title":
     {
@@ -329,7 +329,7 @@
     },
     "features.list.library.description":
     {
-        "message": "Pull from Shira's question library to start your trainings from templates created by digital security trainers."
+        "message": "Create your quiz questions from scratch or head to the Shira Library to pull question templates created by digital security trainers."
     },
     "features.needMore.title":
     {
@@ -349,7 +349,7 @@
     },
     "homepage.meta.description":
     {
-        "message": "Shira builds your team's ability to identify and defeat phishing attacks."
+        "message": "Use Shira to build your team's ability to identify and defeat phishing attacks."
     },
     "homepage.meta.longDescription":
     {
@@ -369,7 +369,7 @@
     },
     "homepage.learners.description":
     {
-        "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
+        "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use every day — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
     },
     "homepage.learners.cta":
     {
@@ -381,7 +381,7 @@
     },
     "homepage.educators.description":
     {
-        "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills."
+        "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — without any coding."
     },
     "homepage.educators.cta":
     {
@@ -389,7 +389,7 @@
     },
     "homepage.context.description":
     {
-        "message": "For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
+        "message": "For years, phishing has been one of the most common attacks facing individuals and organizations. While it was initially limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
     },
     "homepage.context.imageAlt":
     {
@@ -401,7 +401,7 @@
     },
     "homepage.why.intro":
     {
-        "message": "Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:"
+        "message": "Whether you’re just taking our ready-made, free quizzes, or you’re building your own custom quizzes to train your team, Shira is:"
     },
     "homepage.why.easy.title":
     {
@@ -425,7 +425,7 @@
     },
     "homepage.why.privacy.description":
     {
-        "message": "We do not collect or share any user data."
+        "message": "We do not collect or share any sensitive or personally-identifiable user data."
     },
     "phishingQuizzes.meta.title":
     {
