@@ -20,9 +20,6 @@ Anonymous learners are users who are *not* registered in a Shira space. Anonymou
 * Cannot take [private quizzes](/quizzes#privacy).
 * Cannot be identified in a quiz's [results](/results).
 
-* **Anonymous learners:** those are learners who take public quizzes and do not need to register in order to take a quiz and as a result, it is not possible to identify learners when reviewing a quizz's . 
-**Registered:** they are learners who are registered in your space, who can take private quizzes, and whose results is tied to their account. 
-
 ### Registered learners {#registered}
 Registered learners are users who you have invited to join your Space and who have accepted your invitation. Registered learners:
 * Can take [private quizzes](/quizzes#privacy).

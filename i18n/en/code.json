@@ -141,7 +141,7 @@
     },
     "contact.intro.part1":
     {
-        "message": "Do you have questions about Shira (that are not answered in our"
+        "message": "Do you have questions about Shira that are not answered in our"
     },
     "contact.intro.helpCenter":
     {
@@ -149,7 +149,7 @@
     },
     "contact.intro.part2":
     {
-        "message": ")? Would you like to explore a possible partnership? Are you a part of a grassroots organization and cannot afford the full cost of Shira?"
+        "message": "? Would you like to explore a possible partnership? Are you a non-profit or a grassroots organization and cannot afford the full cost of Shira?"
     },
     "contact.getInTouch":
     {
