@@ -1,0 +1,42 @@
+{
+  "logo.alt": {
+    "message": "AR-Shira Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Features": {
+    "message": "AR-Features",
+    "description": "Navbar item with label Features"
+  },
+  "item.label.Take a quiz": {
+    "message": "AR-Take a quiz",
+    "description": "Navbar item with label Take a quiz"
+  },
+  "item.label.Learn": {
+    "message": "AR-Learn",
+    "description": "Navbar item with label Learn"
+  },
+  "item.label.Pricing": {
+    "message": "AR-Pricing",
+    "description": "Navbar item with label Pricing"
+  },
+  "item.label.Help": {
+    "message": "AR-Help",
+    "description": "Navbar item with label Help"
+  },
+  "item.label.About": {
+    "message": "AR-About",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Sign up/Log in": {
+    "message": "AR-Sign up/Log in",
+    "description": "Navbar item with label Sign up/Log in"
+  },
+  "item.label.What is Phishing?": {
+    "message": "AR-What is Phishing?",
+    "description": "Navbar item with label What is Phishing?"
+  },
+  "item.label.Why phishing quizzes?": {
+    "message": "AR-Why phishing quizzes?",
+    "description": "Navbar item with label Why phishing quizzes?"
+  }
+}

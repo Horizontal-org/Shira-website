@@ -9,10 +9,10 @@ description: Learn about Shira Spaces — the central hub to create and manage q
 
 # Managing your Space
 
-A Shira space is the central place where you will manage your for your phishing education campaigns. This is where you can:
+A Shira Space is the central place to manage phishing education campaigns. This is where you can:
 * Create and manage [quizzes](/quizzes)
-* Create and manage [questions](/questions), making sure are the right fit for your audience (language, technical level, apps)
-* Pull and adapt ready-made questions from our library.
+* Create and manage [questions](/questions), making sure they are the right fit for your audience (e.g. language, technical level, apps, etc)
+* Pull and adapt ready-made questions from the Shira library.
 * Manage [learners](/learners) and assign quizzes
 * See your learners' [results](/results) on each quiz
 
