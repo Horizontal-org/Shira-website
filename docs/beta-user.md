@@ -35,7 +35,7 @@ We will communicate important updates via email during the beta period. If you w
 
 ## Who can join
 
-Anyone can join our beta program. All you need to do is create your space [here](space.shira.app/get-started). 
+Anyone can join our beta program. All you need to do is create your space [here](https://space.shira.app/get-started). 
 
 This beta program is ideal for users who:
 
