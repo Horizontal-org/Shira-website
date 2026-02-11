@@ -15,9 +15,7 @@ import DocCard from '@theme/DocCard';
 import Link from '@docusaurus/Link';
 import global from '/src/css/custom.module.scss';
 import classNames from 'classnames';
-
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-
+import SignupLink from '@site/src/components/SignupLink';
 
 # Welcome to the Shira Help Center!
 
@@ -39,7 +37,8 @@ A [Shira Space](/spaces) is designed for teams and organizations and offers adva
 - setting your quizz's privacy as public (accessible to anyone with the quiz URL) or private (only accessible to learners registered with your organization). Private quizzes are coming soon!
 - tracking user Results to understand where your users can improve.
 
-If you're ready to dive in, you can [create your space here]({useDocusaurusContext().customFields.signupFormUrl}) or read more about Spaces: 
+If you're ready to dive in, you can <SignupLink>create your space here</SignupLink> or read more about Spaces: 
+
 <FeaturedDocs />
 
 export function FeaturedDocs() {
