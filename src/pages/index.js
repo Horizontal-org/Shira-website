@@ -7,7 +7,13 @@ import classNames from 'classnames';
 import Translate, { translate } from '@docusaurus/Translate';
 import ContextImage from "@site/static/img/context.png"
 
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
+
+
 export default function Home() {
+  const { siteConfig } = useDocusaurusContext();
+
   return (
     <Layout
       title={translate({
@@ -77,7 +83,7 @@ export default function Home() {
                   monitor your team’s success rates — all without technical skills.
                 </Translate>
               </p>
-              <Link className={global.buttonLight} to="/features">
+              <Link className={global.buttonLight} to={siteConfig.customFields.signupFormUrl}>
                 <Translate id="homepage.educators.cta">Create your own quiz</Translate>
               </Link>
             </div>
