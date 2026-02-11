@@ -191,10 +191,11 @@ export default function About() {
             <div className={classNames(global.center, styles.howItIsMadeText)}>
               <ul>
                 <li>
-                  <Translate id="about.how.opensource">
-                    Shira is Open Source, and licencesed under MIT 2.0.
-                  </Translate>{' '}
-                  <Link to="https://github.com/Horizontal-org/shira">Open Source</Link>.
+                  <Link to="https://github.com/Horizontal-org/shira">
+                    <Translate id="about.how.opensource">
+                      Shira is Open Source, and licencesed under MIT 2.0.
+                    </Translate>
+                  </Link>
                 </li>
 
                 <li>
@@ -205,12 +206,9 @@ export default function About() {
 
                 <ul>
                   <li>
-                    <Translate id="about.how.community">
-                      Shira is multilingual, co-created with users and centering security and privacy.
-                    </Translate>{' '}
                     <Link to="/contact">
-                      <Translate id="about.how.communityLink">
-                        co-created with users
+                      <Translate id="about.how.community">
+                        Shira is multilingual, co-created with users and centering security and privacy.
                       </Translate>
                     </Link>
                   </li>
