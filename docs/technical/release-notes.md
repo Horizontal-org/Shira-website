@@ -15,9 +15,9 @@ Here’s everything you need to know about the latest features and improvements 
 ## Shira 2.0-beta5 {#shira-20-beta5}
 *Released on 29 January 2026*
 
-With this release, we are getting -even- closer to the full feature set that will be included in Shira 2.0. You can already find the following features:
-- Private quizzes: quizzes that can only be accessed for registered learners.
-- Registered learners: invited learners that can take private quizzes, and their results are tied to their account.
+This releases introduces private quizzes--our most requested feature!
+- Private quizzes: quizzes that can only be taken by learners who are registered in your space.
+- Registered learners: learners who have been invited by an admin to join your space and whose results are tied to their account, allowing you to see how each is doing on your quizzes.
 
 ## Shira 2.0-beta4 {#shira-20-beta4}
 *Released on 3 November 2025*

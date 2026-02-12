@@ -3,10 +3,10 @@ id: spaces
 slug: /spaces
 sidebar_position: 1
 sidebar_label: Space overview
-description: Learn how to train your team with Shira Spaces — create and manage quizzes, add learners, and track results to strengthen phishing awareness across your organization.
+description: zh-Hans-Learn how to train your team with Shira Spaces — create and manage quizzes, add learners, and track results to strengthen phishing awareness across your organization.
 ---
 
-# Space overview
+# zh-Hans-Space overview
 
 A Shira space is the central place where you will manage your for your phishing education campaigns. 
 

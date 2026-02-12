@@ -5,124 +5,178 @@ import styles from './features.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Translate, { translate } from '@docusaurus/Translate';
+import FishImage from "@site/static/img/fish.png"
+import BubblesImage from"@site/static/img/fish-bubbles.png"
 
 
 export default function Features() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   const signupFormUrl = siteConfig.customFields.signupFormUrl;
-
 
   return (
     <Layout
-      title="Shira's Features"
-      description="Explore Shira’s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness."
+      title={translate({
+        id: 'features.meta.title',
+        message: 'Shira\'s Features',
+      })}
+      description={translate({
+        id: 'features.meta.description',
+        message: 'Explore Shira\'s features for educators and security professionals.',
+      })}
     >
       <main className={global.main}>
-
-        <meta name="description" content="Explore Shira’s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness." />
+        <meta
+          name="description"
+          content={translate({
+            id: 'features.meta.longDescription',
+            message: 'Explore Shira\'s features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness.',
+          })}
+        />
 
         <section className={classNames(global.row, global.center, global.sectionMaxWidth, styles.feauturesIntro)}>
           <div className={styles.feauturesIntroText}>
-            <h4>For educators and security professionals</h4>
-            <h2>Create <span className={classNames(styles.underline)}>your</span> own phishing quizzes for <span className={classNames(styles.underline)}>your</span> team to address <span className={classNames(styles.underline)}>your</span> threats</h2>
+            <h4>
+              <Translate id="features.intro.audience">
+                For educators and security professionals
+              </Translate>
+            </h4>
 
-             <div className={styles.feauturesIntroButtons}>
-              <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">Pricing</Link>
-              <Link className={classNames(styles.button, global.buttonDark)} to={signupFormUrl}>Get Started</Link>
+            <h2>
+              {translate(
+                {
+                  id: 'features.intro.title',
+                  message:
+                    'Create {your1} own phishing quizzes for {your2} team to address {your3} threats',
+                },
+                {
+                  your1: <span className={styles.underline}><Translate id="features.intro.your1">your</Translate></span>,
+                  your2: <span className={styles.underline}><Translate id="features.intro.your2">your</Translate></span>,
+                  your3: <span className={styles.underline}><Translate id="features.intro.your3">your</Translate></span>,
+                }
+              )}
+            </h2>
+
+            <div className={styles.feauturesIntroButtons}>
+              <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">
+                <Translate id="features.intro.pricing">Pricing</Translate>
+              </Link>
+              <Link className={classNames(styles.button, global.buttonDark)} to={signupFormUrl}>
+                <Translate id="features.intro.getStarted">Get Started</Translate>
+              </Link>
             </div>
           </div>
-          <img src='/img/fish.png' alt="decorative image of a fish"></img>
+
+          <img
+            src={FishImage}
+            alt={translate({
+              id: 'features.images.fishAlt',
+              message: 'Illustration of a fish representing phishing',
+            })}
+          />
         </section>
 
         <div style={{ width: '100%' }}>
           <section className={classNames(global.row, global.center, global.backgroundDark, styles.feauturesAllInfo)}>
-            <img src='/img/fish-bubbles.png' alt="decorative image of a bubbles"></img>
+            <img
+              src={BubblesImage}
+              alt={translate({
+                id: 'features.images.bubblesAlt',
+                message: 'Fish with bubbles illustration',
+              })}
+            />
 
             <div className={styles.feauturesAllInfoText}>
-              <h1>All the features you need to keep your team safe</h1>
-              <span>Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.</span>
+              <h1>
+                <Translate id="features.allFeatures.title">
+                  All the features you need to keep your team safe
+                </Translate>
+              </h1>
+              <span>
+                <Translate id="features.allFeatures.description">
+                  Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level.
+                </Translate>
+              </span>
             </div>
           </section>
         </div>
+
         <section className={classNames(styles.feauturesBox)}>
-
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>User-friendly interface 🎨</h3>
-            <p>Intuitive dashboard for easy navigation and management of quizzes and user data.</p>
+            <h3><Translate id="features.list.ui.title">User-friendly interface 🎨</Translate></h3>
+            <p><Translate id="features.list.ui.description">Intuitive dashboard for easy navigation and management of quizzes and user data.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Role-based access control 🔒</h3>
-            <p>Different access levels for admins, managers, and employees.</p>
+            <h3><Translate id="features.list.roles.title">Role-based access control 🔒</Translate></h3>
+            <p><Translate id="features.list.roles.description">Different access levels for admins, managers, and employees.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Real-Life Attack Simulation ⚡ </h3>
-            <p>Ability to input details from actual phishing attacks the company has experienced.</p>
+            <h3><Translate id="features.list.realLife.title">Real-Life Attack Simulation ⚡</Translate></h3>
+            <p><Translate id="features.list.realLife.description">Ability to input details from actual phishing attacks the company has experienced.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3> Email phishing simulations 📧</h3>
-            <p>Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments.</p>
+            <h3><Translate id="features.list.email.title">Email phishing simulations 📧</Translate></h3>
+            <p><Translate id="features.list.email.description">Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>SMS phishing simulations 💬 </h3>
-            <p>Design quizzes that simulate SMS phishing attempts with realistic text messages.</p>
+            <h3><Translate id="features.list.sms.title">SMS phishing simulations 💬</Translate></h3>
+            <p><Translate id="features.list.sms.description">Design quizzes that simulate SMS phishing attempts with realistic text messages.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Messaging app phishing simulations 💬</h3>
-            <p>Include quizzes that replicate phishing through WhatsApp, Messenger, etc.</p>
+            <h3><Translate id="features.list.messaging.title">Messaging app phishing simulations 💬</Translate></h3>
+            <p><Translate id="features.list.messaging.description">Include quizzes that replicate phishing through WhatsApp, Messenger, etc.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Mobile support 📱 </h3>
-            <p>Users can take Shira quizzes on mobile devices to simulate real-life scenarios.</p>
+            <h3><Translate id="features.list.mobile.title">Mobile support 📱</Translate></h3>
+            <p><Translate id="features.list.mobile.description">Users can take Shira quizzes on mobile devices to simulate real-life scenarios.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Compliance ✅ </h3>
-            <p>Ensure that your team actually completes your quizzes and monitor success rates.</p>
+            <h3><Translate id="features.list.compliance.title">Compliance ✅</Translate></h3>
+            <p><Translate id="features.list.compliance.description">Ensure that your team actually completes your quizzes and monitor success rates.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Analytics 📈 </h3>
-            <p>Track user progress and identify areas for improvement.</p>
+            <h3><Translate id="features.list.analytics.title">Analytics 📈</Translate></h3>
+            <p><Translate id="features.list.analytics.description">Track user progress and identify areas for improvement.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Explanations 📝</h3>
-            <p>Embed your own explanations on why an email or message looks like phishing.</p>
+            <h3><Translate id="features.list.explanations.title">Explanations 📝</Translate></h3>
+            <p><Translate id="features.list.explanations.description">Embed your own explanations on why an email or message looks like phishing.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Gamification 🕹️</h3>
-            <p>An entertaining learning experience promotes better knowledge retention.</p>
+            <h3><Translate id="features.list.gamification.title">Gamification 🕹️</Translate></h3>
+            <p><Translate id="features.list.gamification.description">An entertaining learning experience promotes better knowledge retention.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Multilingual 🌐</h3>
-            <p>Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian.</p>
+            <h3><Translate id="features.list.multilingual.title">Multilingual 🌐</Translate></h3>
+            <p><Translate id="features.list.multilingual.description">Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3>Question library 📚</h3>
-            <p>Pull from Shira's question library to start your trainings from templates created by digital security trainers.</p>
+            <h3><Translate id="features.list.library.title">Question library 📚</Translate></h3>
+            <p><Translate id="features.list.library.description">Pull from Shira's question library to start your trainings from templates created by digital security trainers.</Translate></p>
           </div>
-
         </section>
 
         <section className={classNames(global.center, global.backgroundLight)}>
-
           <div className={styles.feauturesNeedMore}>
-            <h2>Missing a feature?</h2>
-            <span>Get in touch. We’ll make it happen.</span>
-            <Link className={global.buttonDark} to="/contact">Contact us</Link>
-
+            <h2><Translate id="features.needMore.title">Missing a feature?</Translate></h2>
+            <span><Translate id="features.needMore.subtitle">Get in touch. We’ll make it happen.</Translate></span>
+            <Link className={global.buttonDark} to="/contact">
+              <Translate id="features.needMore.cta">Contact us</Translate>
+            </Link>
           </div>
         </section>
-
       </main>
     </Layout>
   );

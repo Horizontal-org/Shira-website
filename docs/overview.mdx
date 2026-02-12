@@ -15,46 +15,41 @@ import DocCard from '@theme/DocCard';
 import Link from '@docusaurus/Link';
 import global from '/src/css/custom.module.scss';
 import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink';
+
+# Welcome to the Shira Help Center!
+
+Shira is an anti-phishing education tool. Use Shira to train anyone to identify phishing attacks sent through email, SMS, and messaging apps.
+
+Shira offers, in a controlled learning environment, phishing simulations that are as similar as possible to what your team will be receiving in real life. Shira is built around [research that showed](/phishing-quizzes) that when it comes to anti-phishing skill building, education is far more effective than simulated phishing emails sent to learners inboxes.
+
+In this Help Center, you will find guidance on how to use Shira to train your team or community. If some of your questions aren't answered here, [get in touch!](/contact)
+
+### Ready-made quizzes {#ready-made-quizzes}
+Our [ready-made quizzes](/ready-made) let users take a 10-question quiz customized to look as similar as possible to what they will experience in real life. It's free and accessible to anyone. 
+
+You can [read more about ready-made quizzes here](/ready-made) or [try a ready-made quiz yourself!](https://quiz.shira.app/)
 
 
-
-# Shira Help Center
-
-¡Welcome to the Shira Help Center!
-
-Shira is an anti-phishing training tool. You can use Shira in your team or organization to train your colleagues on identifying phishing attacks sent through email, SMS, and messaging apps.
-
-Shira focuses on recreating, in a controlled learning environment, phishing simulations that are as similar as possible to what your team will be receiving in real life. 
-
-Shira is built around the recent research findings that show that when it comes to anti-phishing skill building, [education beats simulation](/phishing-quizzes).
-
-In this help center you can find information and guidance on how to use Shira.
-
-## Ready-made quizzes {#ready-made-quizzes}
-Our [ready-made quizzes](/ready-made) let users take a 10-question quiz that is customized to look as similar as possible to what they will experience in real life. It's free and accessible to anyone. 
-
-<Link 
-  className={classNames(global.buttonDark)} 
-  to="https://quiz.shira.app/"
->Try a ready-made quiz now</Link>
-
-
-## Shira Space {#shira-space}
-A [Shira Space](/spaces) offers advanced features for teams and organizations, like:
+### Shira Space {#shira-space}
+A [Shira Space](/spaces) is designed for teams and organizations and offers advanced features like:
 - creating your own quiz questions, with content specifically relevant to your team.
 - setting your quizz's privacy as public (accessible to anyone with the quiz URL) or private (only accessible to learners registered with your organization). Private quizzes are coming soon!
 - tracking user Results to understand where your users can improve.
 
-[Learn more about Shira spaces](/spaces) or if you're already convinced, [create your space](/contact). You can always [contact us if you need help](/contact).
+If you're ready to dive in, you can <SignupLink>create your space here</SignupLink> or read more about Spaces: 
 
-Learn more about spaces: 
 <FeaturedDocs />
 
 export function FeaturedDocs() {
   const category = useCurrentSidebarCategory();
-  const spacesItems = category.items.find(sidebarElement => {
-    return sidebarElement.label === "Spaces";
-  }).items;
+  const spacesItems = category.items.find(
+    (item) =>
+      item.type === 'category' &&
+      item.items?.some(
+        (child) => child.docId?.startsWith('spaces/')
+      )
+  ).items;
 
   return (
     <div className={classNames(global.shiraDocCards)}>
