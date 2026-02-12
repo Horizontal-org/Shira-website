@@ -208,7 +208,7 @@ const config = {
             title: 'Use Shira',
             items: [
               {
-                label: 'Take a ready-made quiz',
+                label: 'Take a quiz',
                 href: 'https://quiz.shira.app/',
               },
               {

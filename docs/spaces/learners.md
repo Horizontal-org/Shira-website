@@ -14,7 +14,7 @@ There are two types of learners in Shira:
 * Anonymous learners
 * Registered learners
 
-### Anonymous learners (#anonymous)
+### Anonymous learners {#anonymous}
 Anonymous learners are users who are *not* registered in a Shira space. Anonymous learners:
 * Can take [public quizzes](/quizzes#privacy) or [ready-made quizzes](/ready-made).
 * Cannot take [private quizzes](/quizzes#privacy).

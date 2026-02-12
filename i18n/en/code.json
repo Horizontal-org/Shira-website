@@ -97,23 +97,23 @@
     },
     "about.how.title":
     {
-        "message": "How is Shira built?"
+        "message": "How is Shira developed?"
     },
     "about.how.opensource":
     {
-        "message": "Shira is open-source, and licensed under MIT 2.0."
+        "message": "Shira is open-source and licensed under MIT 2.0."
     },
     "about.how.design":
     {
-        "message": "At Horizontal, we design and develop centering the needs of the community."
+        "message": "At Horizontal, we design and develop centering the needs of users facing high risks of digital attacks."
     },
     "about.how.community":
     {
-        "message": "Shira is multilingual, co-created with users and centering security and privacy."
+        "message": "Shira is multilingual and co-created with at-risk users."
     },
     "about.how.communityLink":
     {
-        "message": "co-created with users"
+        "message": "co-created with at-risk users"
     },
     "about.how.green":
     {
@@ -161,7 +161,7 @@
     },
     "contact.links.github":
     {
-        "message": "Post a feature idea or vote on the community needs"
+        "message": "Post a feature idea or vote on existing requests"
     },
     "contact.links.demo":
     {

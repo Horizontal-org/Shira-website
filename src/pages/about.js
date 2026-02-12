@@ -204,16 +204,14 @@ export default function About() {
                   </Translate>
                 </li>
 
-                <ul>
-                  <li>
-                    <Link to="/contact">
-                      <Translate id="about.how.community">
-                        Shira is multilingual, co-created with users and centering security and privacy.
-                      </Translate>
-                    </Link>
-                  </li>
-                </ul>
-
+                <li>
+                  <Link to="/contact">
+                    <Translate id="about.how.community">
+                      Shira is multilingual, co-created with users and centering security and privacy.
+                    </Translate>
+                  </Link>
+                </li>
+                
                 <li>
                   <Translate id="about.how.green">
                     This website runs on green energy.
