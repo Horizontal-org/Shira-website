@@ -1,0 +1,50 @@
+---
+id: beta-user
+slug: /beta-user
+description: ar-Read about Shira's beta user program, where security trainers and org can get access to Shira for free and help us build our roadmap!
+unlisted: true
+
+---
+
+# ar-Shira beta user program
+
+The Shira Beta User program is an opportunity to get early access to new features before they are released to the public, and to help shape the future of the platform.
+
+As a beta user, you will be able to:
+
+* Try upcoming features and improvements ahead of general availability.
+* Provide direct feedback on accessibility, performance, and security.
+* Help us identify bugs, edge cases, and areas for improvement.
+* Contribute to making Shira more useful and effective for everyone.
+
+Thank you for helping us improve Shira 💚.
+
+
+## ar-Commitments and details
+
+We expect our beta users to actively use the platform and provide feedback to us. Please use the following channels to share feedback with us:
+- Post new feature requests, or vote on existing ones in the [Discussions page in our Github repo](https://github.com/Horizontal-org/shira/discussions).
+- If you have questions, need support or found bugs, please [contact us](/contact).
+
+Beta features may change frequently and could be incomplete or experimental. While we do our best to ensure stability, you understand that beta versions might contain bugs or unexpected behavior.
+
+
+## ar-Newsletter
+We will communicate important updates via email during the beta period. If you would like to read previous emails we sent to our community or manage your subscription, please go to the [Horizontal Blog](https://blog.wearehorizontal.org/tag/shira/).
+
+
+## ar-Who can join
+
+For now, our beta program is only by invitation. The beta program is ideal for users who:
+
+* Actively use Shira in real-world scenarios
+* Are comfortable testing new features
+* Are willing to share feedback and report issues
+
+:::info
+If you would like to become a beta user, please [contact us](/contact).
+:::
+
+
+
+
