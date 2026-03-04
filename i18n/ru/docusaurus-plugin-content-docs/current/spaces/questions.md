@@ -6,10 +6,11 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 ---
 
-# Questions
+# Вопросы
 
-Quiz questions are where the learning happens in Shira. This is where you show
-your learners an email or message, and ask them: does this look like phishing?
+Вопросы викторины — это то, что делает Shira эффективным инструментом обучения.
+Здесь вы показываете своим ученикам электронное письмо или сообщение и
+спрашиваете их: похоже ли это на фишинг?
 
 Each question is made up of several components:
 * [The question’s preferences](#preferences)
