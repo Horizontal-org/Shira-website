@@ -7,7 +7,7 @@ description: Learn how Shira and Horizontal collect, use, and protect user data,
 import TOCInline from '@theme/TOCInline';
 
 
-# Privacy policy {#privacy-policy}
+# Политика конфиденциальности {#privacy-policy}
 
 
 <TOCInline toc={toc.filter((node) => node.level === 2)} />
