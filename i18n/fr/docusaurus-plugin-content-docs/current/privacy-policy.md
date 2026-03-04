@@ -179,49 +179,58 @@ garantir qu'elles ne révèlent aucune information sensible ou donnée
 personnellement identifiable sur les utilisateurs.
 
 Voici comment nous abordons la collecte de télémétrie :
-- All data is anonymous and aggregated: the Divvi Up library splits the data
-  into two anonymized and encrypted shares and uploads each share to different
-  data share processors (one hosted by ISRG, the makers of Divvi Up, and one
-  hosted by us) that do not share data with each other. This way, only partial
-  information about the original data is revealed to either processor.
-- Even if we wanted to, we couldn't get the whole data: It's not possible to
-  construct the whole data with only one share. Each processor aggregates its
-  data shares into a partial sum. The partial sums can then be combined into a
-  final aggregation, permitting useful statistics over the whole body of data
-  while revealing minimal information about individual participants. More
-  information how Divvi Up works can be found here.
-- We collect as little data as possible: Even though all data is anonymized, we
-  always minimize the amount of data we collect.
+- Toutes les données sont anonymes et agrégées : la bibliothèque Divvi Up divise
+  les données en deux parts anonymisées et chiffrées, puis télécharge chaque
+  part vers différents processeurs de partage de données (l'un hébergé par ISRG,
+  les créateurs de Divvi Up, et l'autre hébergé par nous) qui ne partagent pas
+  de données entre eux. De cette manière, seule une information partielle sur
+  les données d'origine est révélée à chaque processeur.
+- Même si nous le souhaitions, nous ne pourrions pas obtenir l'intégralité des
+  données : il est impossible de les reconstituer avec une seule part. Chaque
+  processeur agrège ses parts de données en une somme partielle. Ces sommes
+  partielles sont ensuite combinées en une agrégation finale, permettant
+  d'obtenir des statistiques utiles sur l'ensemble des données tout en révélant
+  un minimum d'informations sur les participants individuels. Pour en savoir
+  plus sur le fonctionnement de Divvi Up, cliquez ici.
+- Nous collectons le moins de données possible : bien que toutes les données
+  soient anonymisées, nous minimisons systématiquement la quantité de données
+  que nous collectons.
 
-#### How do we share or disclose telemetry? {#how-do-we-share-or-disclose-telemetry}
-We will never sell your telemetry data to any third party. We will never
-intentionally disclose your telemetry data to any third party, except in the
-following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order)
-- As necessary to operate and provide the services of Shira (e.g. to provide
-  usage data to partners or contractors)
+#### Comment partageons-nous ou divulguons-nous les données de télémétrie ? {#how-do-we-share-or-disclose-telemetry}
+Nous ne vendrons jamais vos données de télémétrie à des tiers. Nous ne
+divulguerons jamais intentionnellement vos données de télémétrie à des tiers,
+sauf dans les cas suivants :
+- Tel que requis par la loi (par exemple, si ces données font l'objet d'une
+  assignation dans le cadre d'une ordonnance judiciaire)
+- Selon les besoins nécessaires au fonctionnement et à la fourniture des
+  services de Shira (par exemple pour fournir des données d'utilisation à des
+  partenaires ou des sous-traitants)
 
-## 3. Data security {#data-security}
-We implement industry standard practices to protect your data from unauthorized
-access, including:
-- Encryption in-transit between your browser and our servers, using the SSL/TLS
-  protocol
-- JSON Web Tokens, which are an open, industry standard RFC 7519 method for
-  representing claims securely between two parties
+## 3. Sécurité des données {#data-security}
+Nous mettons en œuvre les pratiques standard du secteur pour protéger vos
+données contre tout accès non autorisé, notamment :
+- Chiffrement en transit entre votre navigateur et nos serveurs, à l'aide du
+  protocole SSL/TLS
+- Les JSON Web Tokens (JWT), qui constituent une méthode standard ouverte (RFC
+  7519) de l'industrie pour représenter des revendications de manière sécurisée
+  entre deux parties
 
-## 4. Your California Privacy Rights {#california}
-If you are a California resident, California law may provide you with additional
-rights regarding our use of your personal information. To learn more about your
-California privacy rights, visit
+## 4. Vos droits à la protection de la vie privée en Californie {#california}
+Si vous résidez en Californie, la loi californienne peut vous accorder des
+droits supplémentaires concernant l'utilisation que nous faisons de vos
+informations personnelles. Pour en savoir plus sur vos droits à la protection de
+la vie privée en Californie, consultez
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Changes to Our Privacy Policy {#changes}
-We may update or privacy policy from time to time.
+## 5. Modifications de notre politique de confidentialité {#changes}
+Nous pouvons mettre à jour notre politique de confidentialité de temps à autre.
 
-The date the privacy policy was last revised is identified at the top of the
-page. You are responsible for periodically visiting this privacy policy to check
-for any changes.
+La date de la dernière révision de la politique de confidentialité est indiquée
+en haut de la page. Il vous incombe de consulter périodiquement cette politique
+de confidentialité pour vérifier tout changement.
 
-## 6. Contact Information {#contact}
-To ask questions or comment about this privacy policy and our privacy practices,
-contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
+## 6. Informations de contact {#contact}
+Pour poser des questions ou émettre des commentaires sur cette politique de
+confidentialité et nos pratiques en matière de protection de la vie privée,
+contactez-nous à l'adresse
+[contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
