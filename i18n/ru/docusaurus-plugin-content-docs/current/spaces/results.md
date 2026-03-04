@@ -5,10 +5,10 @@ sidebar_position: 5
 description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
-# Results
+# Результаты
 
-The Results section provides insights into whether people have completed your
-quiz and how well they've on the quiz.
+В разделе «Результаты» представлена информация о том, прошли ли люди ваш тест и
+насколько хорошо они его выполнили.
 
 In Results, you can see the following information: **Number of completed
 quizzes** This is the number of times a quiz has been taken by learners.
