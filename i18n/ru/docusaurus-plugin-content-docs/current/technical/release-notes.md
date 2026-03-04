@@ -6,7 +6,7 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 ---
 
-# Release Notes
+# Примечания к релизу
 
 :::tip Here’s everything you need to know about the latest features and
 improvements in Shira. If something is missing, you can [suggest new features or
