@@ -11,26 +11,26 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 программы по фишингу. Shira позволяет вам создавать собственные викторины в
 соответствии с конкретными потребностями, контекстом и угрозами вашей аудитории.
 
-In your Shira Space, you can:
-- [create quizzes](#create-quizzes)
-- [configure privacy settings](#privacy)
-- [publish and unpublish a quiz](#publish-unpublish)
-- [edit existing quizzes](#edit-quizzes)
-- [duplicate an existing quiz](#duplicate-quiz)
-- [delete quizzes](#delete-quiz)
+В вашем пространстве Shira вы можете:
+- [создать викторины](#create-quizzes)
+- [настроить параметры конфиденциальности](#privacy)
+- [опубликовать и отменить публикацию викторины](#publish-unpublish)
+- [редактировать существующие тесты](#edit-quizzes)
+- [дублировать существующий тест](#duplicate-quiz)
+- [удалить тесты](#delete-quiz)
 
-## Creating quizzes {#create-quizzes}
-When you create a quiz, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+## Создание викторин {#create-quizzes}
+При создании викторины необходимо:
+1. Назовите свой тест
+2. Установите настройки конфиденциальности вашего теста
 
-### Quiz name {#name}
-The name your pick for the quiz helps you and your learners recognize the
-purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc).
-The quiz name is visible to learners:
-- In the email learners receive when you assign them a quiz (exclusively for
-  [private quizzes](#privacy))
-- On the welcome screen when learners take the quiz.
+### Название викторины {#name}
+Название, которое вы выберете для теста, поможет вам и вашим учащимся понять
+цель теста (например, «Обучение персонала Q4», «Самые распространенные атаки -
+2026» и т. д.). Название теста видно учащимся:
+- В электронном письме, которое учащиеся получают, когда вы назначаете им тест
+  (исключительно для [частных тестов](#privacy))
+- На экране приветствия, когда учащиеся проходят тест.
 
 ### Quiz privacy {#privacy}
 There are two options available for quiz privacy: public and private.
