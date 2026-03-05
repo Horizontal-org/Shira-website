@@ -12,32 +12,32 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 Здесь вы показываете своим ученикам электронное письмо или сообщение и
 спрашиваете их: похоже ли это на фишинг?
 
-Each question is made up of several components:
-* [The question’s preferences](#preferences)
-* [An app](#app)
-* [The question's content](#content)
-* [Variables](#variables)
-* [Explanations](#explanations)
+Каждый вопрос состоит из нескольких компонентов:
+* [Предпочтения вопроса](#preferences)
+* [Приложение](#app)
+* [Содержание вопроса](#content)
+* [Переменные](#variables)
+* [Пояснения](#explanations)
 
-## Creating a question {#create}
-To create questions and add them to your quiz, you have two options:
-1. You can create questions from scratch and configureeach of the questions
-   components yourself.
-2. You can pull ready-made questions from the Library. If you pull a question
-   from the Library, you can use it as is or adapt it to your specific context
-   and needs.
+## Создание вопроса {#create}
+Чтобы создать вопросы и добавить их в тест, у вас есть два варианта:
+1. Вы можете создавать вопросы с нуля и самостоятельно настраивать каждый
+   компонент вопросов.
+2. Вы можете взять готовые вопросы из библиотеки. Если вы берете вопрос из
+   библиотеки, вы можете использовать его как есть или адаптировать его к своему
+   конкретному контексту и потребностям.
 
-## Question preferences {#preferences}
-When you create a question, you must:
-- Name the question: this name, like "Invitation to conference" or "Suspicious
-  login notification", helps you recognize the questions you create. A
-  question's name is only visible to space admins; learners never see it when
-  they take a quiz.
-- Tell Shira whether the email or message you're creating is *phishing* or
-  *legitimate*. This will allow Shira to determine whether a user's response is
-  correct.
+## Настройки вопросов {#preferences}
+При создании вопроса необходимо:
+- Назовите вопрос: это название, например «Приглашение на конференцию» или
+  «Уведомление о подозрительном входе в систему», поможет вам распознать
+  созданные вами вопросы. Название вопроса видно только администраторам
+  пространства; учащиеся никогда не видят его, когда проходят тест.
+- Сообщите Shira, является ли создаваемое вами электронное письмо или сообщение
+  *фишингом* или *подлинным*. Это позволит Shira определить, является ли ответ
+  пользователя правильным.
 
-## An app {#app}
+## Приложение {#app}
 An *app* is an interface that looks exactly like the actual app or platform your
 learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
 
