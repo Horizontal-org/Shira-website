@@ -1,57 +1,57 @@
 {
     "about.meta.title": {
-        "message": ""
+        "message": "О продукте Shira"
     },
     "about.meta.description": {
-        "message": ""
+        "message": "Узнайте о Shira и команде, стоящей за этим проектом — проекте Horizontal, некоммерческой организации, создающей инструменты безопасности и конфиденциальности, которые помогают частным лицам и организациям защищаться от фишинговых атак."
     },
     "about.meta.longDescription": {
-        "message": ""
+        "message": "Узнайте о Shira и команде, стоящей за этим проектом — проекте Horizontal, некоммерческой организации, создающей инструменты безопасности и конфиденциальности, которые помогают частным лицам и организациям защищаться от фишинговых атак."
     },
     "about.hero.title": {
-        "message": ""
+        "message": "Shira"
     },
     "about.hero.subtitle": {
-        "message": ""
+        "message": "Помощь частным лицам и организациям в  повышении их устойчивости к фишинговым атакам"
     },
     "about.hero.cta": {
-        "message": ""
+        "message": "Свяжитесь с нами"
     },
     "about.hero.imageAlt": {
-        "message": ""
+        "message": "Логотип Shira: это буква S синего и светло-зеленого цветов"
     },
     "about.horizontal.imageAlt": {
-        "message": ""
+        "message": "Горизонтальный логотип"
     },
     "about.horizontal.title": {
-        "message": ""
+        "message": "Кто разрабатывает Shira?"
     },
     "about.horizontal.description": {
-        "message": ""
+        "message": "Shira — это проект Horizontal, некоммерческой организации, которая разрабатывает технологии безопасности и конфиденциальности, чтобы помочь людям быть более безопасными в Интернете."
     },
     "about.horizontal.donationText": {
-        "message": ""
+        "message": "Вы можете помочь нам улучшить и поддержать Shira, если"
     },
     "about.horizontal.donationLink": {
-        "message": ""
+        "message": "сделать пожертвование здесь"
     },
     "about.horizontal.translationText": {
-        "message": ""
+        "message": "Чтобы помочь в переводе Shira на новые языки, напишите нам по адресу"
     },
     "about.horizontal.cta": {
-        "message": ""
+        "message": "Узнайте больше о Horizontal"
     },
     "about.why.imageAlt": {
-        "message": ""
+        "message": "декоративное изображение крючка"
     },
     "about.why.title": {
-        "message": ""
+        "message": "Почему Shira?"
     },
     "about.why.easy.title": {
-        "message": ""
+        "message": "1. Простота использования"
     },
     "about.why.easy.description": {
-        "message": ""
+        "message": "Shira была создана с учетом сообществ, которые наиболее подвержены риску фишинговых атак, особенно пользователей с ограниченными техническими знаниями."
     },
     "about.why.customizable.title": {
         "message": ""
