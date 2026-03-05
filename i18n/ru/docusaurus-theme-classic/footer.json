@@ -1,62 +1,62 @@
 {
     "link.title.Learn": {
-        "message": "",
+        "message": "Узнать больше",
         "description": "The title of the footer links column with title=Learn in the footer"
     },
     "link.title.Use Shira": {
-        "message": "",
+        "message": "Используйте Shira",
         "description": "The title of the footer links column with title=Use Shira in the footer"
     },
     "link.title.Get help": {
-        "message": "",
+        "message": "Получить помощь",
         "description": "The title of the footer links column with title=Get help in the footer"
     },
     "link.title.About": {
-        "message": "",
+        "message": "О нас",
         "description": "The title of the footer links column with title=About in the footer"
     },
     "link.item.label.Learn about phishing": {
-        "message": "",
+        "message": "Узнайте о фишинге",
         "description": "The label of footer link with label=Learn about phishing linking to /phishing"
     },
     "link.item.label.Effective phishing education": {
-        "message": "",
+        "message": "Эффективное обучение по вопросам фишинга",
         "description": "The label of footer link with label=Effective phishing education linking to /phishing-quizzes"
     },
     "link.item.label.Take a ready-made quiz": {
-        "message": "",
+        "message": "Пройдите готовый тест",
         "description": "The label of footer link with label=Take a ready-made quiz linking to https://quiz.shira.app/"
     },
     "link.item.label.Explore Shira features": {
-        "message": "",
+        "message": "Исследуйте функции Shira",
         "description": "The label of footer link with label=Explore Shira features linking to /features"
     },
     "link.item.label.Build a custom quiz": {
-        "message": "",
+        "message": "Создайте индивидуальный тест",
         "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started"
     },
     "link.item.label.Visit our help center": {
-        "message": "",
+        "message": "Посетите наш справочный центр",
         "description": "The label of footer link with label=Visit our help center linking to /help"
     },
     "link.item.label.Contact us": {
-        "message": "",
+        "message": "Свяжитесь с нами",
         "description": "The label of footer link with label=Contact us linking to /contact"
     },
     "link.item.label.Learn about the Shira team": {
-        "message": "",
+        "message": "Узнайте о команде Shira",
         "description": "The label of footer link with label=Learn about the Shira team linking to /about"
     },
     "link.item.label.Shira is open source": {
-        "message": "",
+        "message": "Shira — это продукт с открытым исходным кодом",
         "description": "The label of footer link with label=Shira is open source linking to https://github.com/Horizontal-org/shira/"
     },
     "copyright": {
-        "message": "",
+        "message": "Shira является продуктом <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, некоммерческой организации, занимающейся обеспечением доступности онлайн-безопасности и конфиденциальности для всех. </br> Лицензировано в соответствии с MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
         "description": "The footer copyright"
     },
     "logo.alt": {
-        "message": "",
+        "message": "Логотип Shira",
         "description": "The alt text of footer logo"
     }
 }
