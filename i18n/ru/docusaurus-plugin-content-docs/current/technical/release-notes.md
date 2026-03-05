@@ -8,34 +8,38 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 # Примечания к релизу
 
-:::tip Here’s everything you need to know about the latest features and
-improvements in Shira. If something is missing, you can [suggest new features or
-improvements here](https://github.com/Horizontal-org/shira/discussions). :::
+:::совет Здесь вы найдете всю необходимую информацию о последних функциях и
+улучшениях в Shira. Если чего-то не хватает, вы можете [предложить новые функции
+или улучшения здесь](https://github.com/Horizontal-org/shira/discussions). :::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}
-*Released on 29 January 2026*
+*Выпущено 29 января 2026 года*
 
-This releases introduces private quizzes--our most requested feature!
-- Private quizzes: quizzes that can only be taken by learners who are registered
-  in your space.
-- Registered learners: learners who have been invited by an admin to join your
-  space and whose results are tied to their account, allowing you to see how
-  each is doing on your quizzes.
+В этом выпуске представлены частные викторины — наша самая востребованная
+функция!
+- Частные тесты: тесты, которые могут проходить только учащиеся,
+  зарегистрированные в вашем пространстве.
+- Зарегистрированные учащиеся: учащиеся, которые были приглашены администратором
+  присоединиться к вашему пространству и чьи результаты привязаны к их учетной
+  записи, что позволяет вам видеть, как каждый из них справляется с вашими
+  тестами.
 
 ## Shira 2.0-beta4 {#shira-20-beta4}
-*Released on 3 November 2025*
+*Выпущено 3 ноября 2025 года*
 
-With this release, we are getting closer to the full feature set that will be
-included in Shira 2.0. You can already find the following features:
-- Organizational spaces: a place for you to manage quizzes and see results.
-- Customizable quizzes: create as many quizzes as you wish.
-- Customizable quiz questions: create quiz questions tailored to your team's
-  needs and capacity.
-- Explanations: display short texts, directly inside quiz questions, to point
-  learners to specific elements in the question content that suggest that it may
-  be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to
-  what your learners will experience in real life: Gmail, Outlook, WhatsApp,
-  SMS, Facebook Messenger, and Dating App.
-- Results: see how well your learners did on your quizzes.
+С этим выпуском мы приближаемся к полному набору функций, который будет включен
+в Shira 2.0. Вы уже можете использовать следующие функции:
+- Организационные пространства: место, где вы можете управлять викторинами и
+  просматривать результаты.
+- Настраиваемые викторины: создавайте столько викторин, сколько хотите.
+- Настраиваемые вопросы викторины: создавайте вопросы викторины с учетом
+  потребностей и возможностей вашей команды.
+- Пояснения: отображение коротких текстов непосредственно в вопросах викторины,
+  чтобы обратить внимание учащихся на конкретные элементы в содержании вопроса,
+  которые указывают на то, что это может быть фишинговая атака или что это может
+  быть достоверным сообщением.
+- Шесть приложений для отображения ваших вопросов и максимального приближения их
+  к тому, что ваши ученики будут испытывать в реальной жизни: Gmail, Outlook,
+  WhatsApp, SMS, Facebook Messenger и приложение для знакомств.
+- Результаты: посмотрите, как ваши ученики справились с тестами.
 
