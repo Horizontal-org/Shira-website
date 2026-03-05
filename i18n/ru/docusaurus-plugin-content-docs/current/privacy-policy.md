@@ -10,41 +10,43 @@ import TOCInline from '@theme/TOCInline';
 # Политика конфиденциальности {#privacy-policy}
 
 
-<TOCInline toc={toc.filter((node) => node.level === 2)} />
+<tocinline toc="{toc.filter((node)" ==""> node.level === 2)} /></tocinline>
 
-This privacy policy was last updated on 9 February 2026.
+Последнее обновление настоящей политики конфиденциальности было произведено 9
+февраля 2026 года.
 
 
-## 1. Introduction {#intro}
-Horizontal is the organization that makes Shira. Horizontal is deeply committed
-to user privacy and to the protection of user data.
+## 1. Введение {#intro}
+Horizontal — это организация, которая создает Shira. Horizontal глубоко
+привержена делу защиты конфиденциальности пользователей и их данных.
 
-As a non-profit dedicated to privacy rights, we design our products to collect
-as little information as necessary about our users; and whatever information we
-do collect, we do our best to anonymize and/or ensure that users give us
-informed consent to collect this data.
+Как некоммерческая организация, занимающаяся защитой прав на конфиденциальность,
+мы разрабатываем наши продукты таким образом, чтобы собирать как можно меньше
+информации о наших пользователях; и какую бы информацию мы ни собирали, мы
+делаем все возможное, чтобы анонимизировать ее и/или обеспечить, чтобы
+пользователи давали нам информированное согласие на сбор этих данных.
 
-The statement below applies exclusively to Shira Cloud, that is the version of
-Shira available at [https://shira.app](https://shira.app),
-[https://space.shira.app](https://space.shira.app), and
+Нижеследующее заявление относится исключительно к Shira Cloud, то есть версии
+Shira, доступной по адресам [https://shira.app](https://shira.app),
+[https://space.shira.app](https://space.shira.app) и
 [https://quiz.shira.app](https://quiz.shira.app).
 
-## 2. Data collected {#data-collected}
-The data that is created in Shira or that is generated when users use Shira can
-be divided into three categories:
-- Account data
-- Functionality data
-- Telemetry
+## 2. Собранные данные {#data-collected}
+Данные, которые создаются в Shira или генерируются при использовании Shira
+пользователями, можно разделить на три категории:
+- Данные учетной записи
+- Данные о функциональности
+- Телеметрия
 
-Shira users can be divided into four groups:
-- Admins, who can log into a Shira "space" to manage their quizzes, users, and
-  results.
-- Anonymous Learners, who are not registered on Shira and can only take public
-  quizzes through the public URL.
-- Registered Learners, who are invited to join Spaces, take private quizzes, and
-  don't have a password to log into Shira.
-- Visitors, who visit the Shira websites but do not take quizzes or interact
-  with Shira functionality.
+Пользователей Shira можно разделить на четыре группы:
+- Администраторы, которые могут войти в «пространство» Shira для управления
+  своими тестами, пользователями и результатами.
+- Анонимные учащиеся, которые не зарегистрированы в Shira и могут проходить
+  только общедоступные тесты через общедоступный URL-адрес.
+- Зарегистрированные учащиеся, которые приглашены присоединиться к
+  Пространствам, проходят частные тесты и не имеют пароля для входа в Shira.
+- Посетители, которые посещают веб-сайты Shira, но не участвуют в викторинах и
+  не взаимодействуют с функционалом Shira.
 
 As outlined below, for each of those groups, different data is collected.
 
