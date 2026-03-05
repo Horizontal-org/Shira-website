@@ -10,28 +10,28 @@ description: View and analyze your team’s quiz performance in Shira — track 
 В разделе «Результаты» представлена информация о том, прошли ли люди ваш тест и
 насколько хорошо они его выполнили.
 
-In Results, you can see the following information: **Number of completed
-quizzes** This is the number of times a quiz has been taken by learners.
-* In public quizzes, the number of completed quizzes is not always equal to the
-  number of learners who have taken the quiz (because learners are anonymous, a
-  learner can take a quiz multiple times).
-* In private quizzes, registered learners can only take a quiz once.
+В разделе «Результаты» вы можете увидеть следующую информацию: **Количество
+завершенных тестов** Это количество раз, когда учащиеся прошли тест.
+* В публичных тестах количество завершенных тестов не всегда равно количеству
+  учащихся, прошедших тест (поскольку учащиеся анонимны, учащийся может
+  проходить тест несколько раз).
+* В частных викторинах зарегистрированные учащиеся могут пройти викторину только
+  один раз.
 
-**Average score**\
-This is the average score received by all learners who took the quiz.
+**Средний балл**\
+Это средний балл, полученный всеми учащимися, которые прошли тест.
 
-**Completion rate** [coming soon]\
-This is the percentage of learners who have submitted the quiz out of all the
-learners assigned this quiz. Completion rate is only available for private
-quizzes.
+**Коэффициент завершения** [скоро будет доступно]\
+Это процент учащихся, которые сдали тест, от общего числа учащихся, которым был
+назначен этот тест. Коэффициент завершения доступен только для частных тестов.
 
-**Results by question** [coming soon]\
-This shows you the average score received by all learners on each specific
-question in the quiz.
+**Результаты по вопросам** [скоро будет доступно]\
+Здесь показан средний балл, полученный всеми учащимися по каждому конкретному
+вопросу в тесте.
 
-**Results by learner** [coming soon]\
-This shows you the list of registered learners who completed the quiz and their
-score on the quiz. Results by learner are only available for private quizzes.
+**Результаты по учащимся** [скоро будет доступно]\
+Здесь отображается список зарегистрированных учащихся, которые прошли тест, и их
+результаты. Результаты по учащимся доступны только для частных тестов.
 
-:::note If there are specific things you'd like to track in Results, [let us
-know](/contact)! :::
+::: note Если есть конкретные вещи, которые вы хотели бы отслеживать в
+результатах, [сообщите нам об этом](/contact)! :::
