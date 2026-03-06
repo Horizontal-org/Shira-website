@@ -55,22 +55,25 @@ export default function Pricing() {
               <li>✔️ Fully customizable quiz questions</li>
               <li>✔️ Access to the question's library</li>
               <li>✔️ Up to 3 custom quizzes</li>
-              <li>✔️ Up to 5 questions per quiz</li>
-              <li>✔️ Up to 1,500 quizzes taken per year</li>
-              <li>✔️ 2 apps: Gmail, SMS</li>
+              <li>✔️ Unlimited quiz questions</li>
+              <li>✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app</li>
             </ul>
             <h4>Access control</h4>
             <ul>
-              <li>✔️Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
+              <li>✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
+            </ul>
+            <h4>Compliance</h4>
+            <ul>
+              <li>✔️ Basic analytics to track results the quiz level</li>
             </ul>
           </div>
 
 
            <div className={classNames(global.backgroundLight,styles.plan)}>
             <h2>Pro</h2>
-            <p>One flat fee, the full power of Shira</p>
+            <p>The full power of Shira</p>
             <p>
-              <span className={styles.price}>$220</span><span className={styles.p}>/month billed annually or $275/month billed monthly</span>
+              <span className={styles.price}>$39/month + $1 per quiz taken</span><span className={styles.p}> when billed annually or $49/month + $1 per quiz taken when billed monthly</span>
             </p>
 
             
@@ -95,23 +98,20 @@ export default function Pricing() {
               <li>✔️ Access to the question's library</li>
               <li>✔️ Unlimited custom quizzes</li>
               <li>✔️ Unlimited quiz questions</li>
-              <li>✔️ Up to 1,500 quizzes taken per year*</li>
               <li>✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app</li>
             </ul>
             <h4>Access control</h4>
             <ul>
-              <li>✔️Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
-              <li>✔️Private quizzes: only your users can take your quizzes</li>
+              <li>✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
+              <li>✔️ Private quizzes: only learners registered in your space can take your quizzes</li>
             </ul>
             <h4>Compliance</h4>
             <ul>
-              <li>✔️Track user progress</li>
-              <li>✔️Analysis and compliance tools [coming soon]</li>
+              <li>✔️ Basic analytics to track results the quiz level</li>
+              <li>✔️ Detailed analytics to track results the learner and question levels</li>
+              <li>✔️ Analysis and compliance tools [coming soon]</li>
             </ul>
 
-            <p className={styles.note}>
-              * Additional quiz packages available if needed
-            </p>
           </div>
 
 
@@ -148,18 +148,19 @@ export default function Pricing() {
             </ul>
             <h4>Access control</h4>
             <ul>
-              <li>✔️Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
-              <li>✔️Private quizzes: only your users can take your quizzes</li>
+              <li>✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL</li>
+              <li>✔️ Private quizzes: only learners registered in your space can take your quizzes</li>
             </ul>
             <h4>Compliance</h4>
             <ul>
-              <li>✔️Track user progress</li>
-              <li>✔️Analysis and compliance tools [coming soon]</li>
+              <li>✔️ Basic analytics to track results the quiz level</li>
+              <li>✔️ Detailed analytics to track results the learner and question levels</li>
+              <li>✔️ Analysis and compliance tools [coming soon]</li>
             </ul>
             <h4>Custom support</h4>
             <ul>
-              <li>✔️Tailor-made user training</li>
-              <li>✔️Priority support</li>
+              <li>✔️ Tailor-made user training</li>
+              <li>✔️ Priority support</li>
             </ul>
 
 
