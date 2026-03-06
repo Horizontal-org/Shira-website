@@ -259,12 +259,12 @@ export default function Pricing() {
             </h4>
             <ul>
               <li>
-                <Translate id="pricing.compliance.track">
+                <Translate id="pricing.pro.track">
                   ✔️ Basic analytics to track results the quiz level
                 </Translate>
               </li>
               <li>
-                <Translate id="pricing.compliance.track">
+                <Translate id="pricing.compliance.detailed">
                   ✔️ Detailed analytics to track results the learner and question levels
                 </Translate>
               </li>
@@ -395,7 +395,7 @@ export default function Pricing() {
                 </Translate>
               </li>
               <li>
-                <Translate id="pricing.compliance.track">
+                <Translate id="pricing.compliance.detailed">
                   ✔️ Detailed analytics to track results the learner and question levels
                 </Translate>
               </li>
