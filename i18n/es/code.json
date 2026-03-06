@@ -33,46 +33,46 @@
         "message": "Puedes ayudarnos a mejorar y mantener Shira"
     },
     "about.horizontal.donationLink": {
-        "message": ""
+        "message": "haciendo una donación aquí."
     },
     "about.horizontal.translationText": {
-        "message": ""
+        "message": "Para contribuir a la traducción de Shira a nuevos idiomas, envíanos un email a"
     },
     "about.horizontal.cta": {
-        "message": ""
+        "message": "Aprende sobre Horizontal."
     },
     "about.why.imageAlt": {
-        "message": ""
+        "message": "Imagen decorativa del un anzuelo."
     },
     "about.why.title": {
-        "message": ""
+        "message": "¿Por qué Shira?"
     },
     "about.why.easy.title": {
-        "message": ""
+        "message": "1. Facilidad de uso."
     },
     "about.why.easy.description": {
-        "message": ""
+        "message": "Shira fue creada tomando en cuenta comunidades que están en mayor riesgo de ataques de phishing, especialmente personas usuarias con alfabetización tecnológica limitada."
     },
     "about.why.customizable.title": {
-        "message": ""
+        "message": "2. Personalizable"
     },
     "about.why.customizable.description": {
-        "message": ""
+        "message": "Shira muestra emails y mensajes lo más realistas posible para simular lo que las personas experimentan en internet en lo cotidiano y los ataques de phishing que pueden llegar a enfrentar."
     },
     "about.why.privacy.title": {
-        "message": ""
+        "message": "3. Amigable con la privacidad."
     },
     "about.why.privacy.description": {
-        "message": ""
+        "message": "No recopilamos, guardamos ni compartimos ningún dato sensible ni de identificación personal sobre las personas usuarias que visiten Shira o completen los cuestionarios."
     },
     "about.why.auditCta": {
-        "message": ""
+        "message": "Auditorías de seguridad."
     },
     "about.why.privacyCta": {
-        "message": ""
+        "message": "Política de privacidad."
     },
     "about.how.title": {
-        "message": ""
+        "message": "¿Cómo se desarrolla Shira?"
     },
     "about.how.opensource": {
         "message": ""
