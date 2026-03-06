@@ -157,6 +157,16 @@
   padding: 3rem 2rem;
 }
 
+.reasonsWhy li span {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.reasonsWhy li p {
+  margin: 0;
+}
+
 .whySection ul {
   list-style: none;
   padding-left: 0;
