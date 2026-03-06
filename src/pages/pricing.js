@@ -140,9 +140,7 @@ export default function Pricing() {
                 </Translate>
               </li>
             </ul>
-          </div>
-
-          <h4>
+            <h4>
               <Translate id="pricing.compliance.title">Compliance</Translate>
             </h4>
             <ul>
@@ -152,6 +150,9 @@ export default function Pricing() {
                 </Translate>
               </li>
             </ul>
+          </div>
+
+          
 
           {/* Pro */}
           <div className={classNames(global.backgroundLight, styles.plan)}>
