@@ -935,7 +935,7 @@
     {
         "message": "✔️ Basic analytics to track results the quiz level"
     },
-    "pricing.compliance.detailed"
+    "pricing.compliance.detailed":
     {
         "message": "✔️ Detailed analytics to track results the learner and question levels"
     },
