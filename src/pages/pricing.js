@@ -142,7 +142,7 @@ export default function Pricing() {
             </ul>
           </div>
 
-          h4>
+          <h4>
               <Translate id="pricing.compliance.title">Compliance</Translate>
             </h4>
             <ul>
