@@ -73,13 +73,10 @@ export default function Pricing() {
             <h2>Pro</h2>
             <p>The full power of Shira</p>
             <p>
-              <span className={styles.price}>$39/month + $1 per quiz taken</span><span className={styles.p}> when billed annually or $49/month + $1 per quiz taken when billed monthly</span>
+              <span className={styles.price}>$50/month + $1 per quiz taken</span><span className={styles.p}></span>
             </p>
 
-            
-            
-
-
+          
             <Link className={global.buttonDark} to={signupFormUrl}>Get started</Link>
 
             <hr></hr>
