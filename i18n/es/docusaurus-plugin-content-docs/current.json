@@ -4,15 +4,15 @@
         "description": "The label for version current"
     },
     "sidebar.HelpSidebar.category.Shira Help Center": {
-        "message": "",
+        "message": "Centro de ayuda",
         "description": "The label for category 'Shira Help Center' in sidebar 'HelpSidebar'"
     },
     "sidebar.HelpSidebar.category.Spaces": {
-        "message": "",
+        "message": "Espacios",
         "description": "The label for category 'Spaces' in sidebar 'HelpSidebar'"
     },
     "sidebar.HelpSidebar.category.Technical Stuff": {
-        "message": "",
+        "message": "Detalles técnicos",
         "description": "The label for category 'Technical Stuff' in sidebar 'HelpSidebar'"
     },
     "sidebar.HelpSidebar.link.Contact & Support": {
