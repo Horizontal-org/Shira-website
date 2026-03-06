@@ -75,109 +75,109 @@
         "message": "¿Cómo se desarrolla Shira?"
     },
     "about.how.opensource": {
-        "message": ""
+        "message": "Shira es de código abierto y bajo licencia MIT 2.0."
     },
     "about.how.design": {
-        "message": ""
+        "message": "En Horizontal, diseñamos y desarrollamos centrando las necesidades de las personas usuarias que enfrentan altos riesgos de ataques digitales."
     },
     "about.how.community": {
-        "message": ""
+        "message": "Shira es multilingüe y co-creada con personas en situación de riesgo."
     },
     "about.how.communityLink": {
-        "message": ""
+        "message": "co-creada con personas en situación de riesgo."
     },
     "about.how.green": {
-        "message": ""
+        "message": "Este sitio web funciona con energía renovable."
     },
     "about.how.greenAlt": {
-        "message": ""
+        "message": "Este sitio web funciona con hosting ecológico - verificado por thegreenwebfoundation.org"
     },
     "contact.title": {
-        "message": ""
+        "message": "Contacta al equipo de Shira."
     },
     "contact.description": {
-        "message": ""
+        "message": "Aprende cómo contactar al equipo de Shira."
     },
     "contact.metaDescription": {
-        "message": ""
+        "message": "Aprende cómo contactar al equipo de Shira."
     },
     "contact.heading": {
-        "message": ""
+        "message": "¡Hablemos!"
     },
     "contact.intro.part1": {
-        "message": ""
+        "message": "¿Tienes preguntas sobre Shira que no tienen respuesta en nuestro"
     },
     "contact.intro.helpCenter": {
-        "message": ""
+        "message": "centro de ayuda?"
     },
     "contact.intro.part2": {
-        "message": ""
+        "message": "¿Te gustaría explorar una posible asociación? ¿Eres una organización sin fines de lucro o una organización comunitaria y no puedes costear el precio completo de Shira?"
     },
     "contact.getInTouch": {
-        "message": ""
+        "message": "Ponte en contacto:"
     },
     "contact.links.emailText": {
-        "message": ""
+        "message": "Escríbenos a"
     },
     "contact.links.github": {
-        "message": ""
+        "message": "Publica una idea de función o vota por solicitudes existentes."
     },
     "contact.links.demo": {
-        "message": ""
+        "message": "Agenda una demo por llamada directamente aquí."
     },
     "contact.links.newsletter": {
-        "message": ""
+        "message": "Suscríbete a nuestro boletín."
     },
     "features.meta.title": {
-        "message": ""
+        "message": "Funciones de Shira."
     },
     "features.meta.description": {
-        "message": ""
+        "message": "Explora las funciones de Shira para docentes y profesionales de seguridad."
     },
     "features.meta.longDescription": {
-        "message": ""
+        "message": "Explora las funciones de Shira para docentes y profesionales de seguridad — crea cuestionarios de phishing realistas, simula ataques reales, visualiza el progreso del equipo y desarrolla una conciencia duradera sobre el phishing."
     },
     "features.intro.audience": {
-        "message": ""
+        "message": "Para docentes y profesionales de seguridad."
     },
     "features.intro.title": {
-        "message": ""
+        "message": "Crea {you1} propios cuestionarios de phishing para que {your2} equipo aborde {your3} amenazas."
     },
     "features.intro.your1": {
-        "message": ""
+        "message": "tus"
     },
     "features.intro.your2": {
-        "message": ""
+        "message": "tu"
     },
     "features.intro.your3": {
-        "message": ""
+        "message": "tus"
     },
     "features.intro.pricing": {
-        "message": ""
+        "message": "Precio"
     },
     "features.intro.getStarted": {
-        "message": ""
+        "message": "Comenzar"
     },
     "features.images.fishAlt": {
-        "message": ""
+        "message": "Ilustración de un pez representado el phishing."
     },
     "features.images.bubblesAlt": {
-        "message": ""
+        "message": "Ilustración de pez con burbujas."
     },
     "features.allFeatures.title": {
-        "message": ""
+        "message": "Todas las funciones que necesitas para mantener a tu equipo seguro."
     },
     "features.allFeatures.description": {
-        "message": ""
+        "message": "Nadie conoce las necesidades de tu equipo mejor que tú. Shira te da control total sobre la creación de experiencias de aprendizaje hechas a medida para las necesidades especificas de tu organización, los ataques que recibes y el nivel de habilidad de tus colegas."
     },
     "features.list.ui.title": {
-        "message": ""
+        "message": "Interfaz fácil de usar 🎨"
     },
     "features.list.ui.description": {
-        "message": ""
+        "message": "Panel intuitivo para facilidad de navegación y gestión de cuestionarios y personas usuarias."
     },
     "features.list.roles.title": {
-        "message": ""
+        "message": "Control de acceso por roles 🔒"
     },
     "features.list.roles.description": {
         "message": ""
