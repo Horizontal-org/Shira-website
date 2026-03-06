@@ -33,9 +33,7 @@ export default function Pricing() {
           })}
         />
 
-        <section
-          className={classNames(global.backgroundLight, styles.pricingShira)}
-        >
+        <section className={classNames(global.backgroundLight, styles.pricingShira)} >
           <div className={classNames(styles.pricingIntro)}>
             <h4>
               <Translate id="pricing.intro.subtitle">
