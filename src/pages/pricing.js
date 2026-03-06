@@ -122,17 +122,12 @@ export default function Pricing() {
               </li>
               <li>
                 <Translate id="pricing.customization.questionsPerQuiz">
-                  ✔️ Up to 5 questions per quiz
-                </Translate>
-              </li>
-              <li>
-                <Translate id="pricing.customization.limit">
-                  ✔️ Up to 1,500 quizzes taken per year
+                  ✔️ Unlimited quiz questions
                 </Translate>
               </li>
               <li>
                 <Translate id="pricing.customization.apps">
-                  ✔️ 2 apps: Gmail, SMS
+                  ✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app
                 </Translate>
               </li>
             </ul>
@@ -143,11 +138,22 @@ export default function Pricing() {
             <ul>
               <li>
                 <Translate id="pricing.access.public">
-                  ✔️Public quizzes: anyone can take your quiz through an easy-to-share URL
+                  ✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL
                 </Translate>
               </li>
             </ul>
           </div>
+
+          h4>
+              <Translate id="pricing.compliance.title">Compliance</Translate>
+            </h4>
+            <ul>
+              <li>
+                <Translate id="pricing.compliance.track">
+                  ✔️ Basic analytics to track results the quiz level
+                </Translate>
+              </li>
+            </ul>
 
           {/* Pro */}
           <div className={classNames(global.backgroundLight, styles.plan)}>
@@ -156,16 +162,16 @@ export default function Pricing() {
             </h2>
             <p>
               <Translate id="pricing.pro.description">
-                One flat fee, the full power of Shira
+                The full power of Shira
               </Translate>
             </p>
             <p>
               <span className={styles.price}>
-                <Translate id="pricing.pro.price">$220</Translate>
+                <Translate id="pricing.pro.price">$39/month + $1 per quiz taken</Translate>
               </span>
               <span className={styles.p}>
                 <Translate id="pricing.pro.billing">
-                  /month billed annually or $275/month billed monthly
+                  when billed annually or $49/month + $1 per quiz taken when billed monthly
                 </Translate>
               </span>
             </p>
@@ -228,11 +234,6 @@ export default function Pricing() {
                 </Translate>
               </li>
               <li>
-                <Translate id="pricing.pro.limit">
-                  ✔️ Up to 1,500 quizzes taken per year*
-                </Translate>
-              </li>
-              <li>
                 <Translate id="pricing.pro.apps">
                   ✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, Dating app
                 </Translate>
@@ -245,12 +246,12 @@ export default function Pricing() {
             <ul>
               <li>
                 <Translate id="pricing.access.public">
-                  ✔️Public quizzes: anyone can take your quiz through an easy-to-share URL
+                  ✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL
                 </Translate>
               </li>
               <li>
                 <Translate id="pricing.access.private">
-                  ✔️Private quizzes: only your users can take your quizzes
+                  ✔️ Private quizzes: only learners registered in your space can take your quizzes
                 </Translate>
               </li>
             </ul>
@@ -261,21 +262,20 @@ export default function Pricing() {
             <ul>
               <li>
                 <Translate id="pricing.compliance.track">
-                  ✔️Track user progress
+                  ✔️ Basic analytics to track results the quiz level
+                </Translate>
+              </li>
+              <li>
+                <Translate id="pricing.compliance.track">
+                  ✔️ Detailed analytics to track results the learner and question levels
                 </Translate>
               </li>
               <li>
                 <Translate id="pricing.compliance.tools">
-                  ✔️Analysis and compliance tools [coming soon]
+                  ✔️ Analysis and compliance tools [coming soon]
                 </Translate>
               </li>
             </ul>
-
-            <p className={styles.note}>
-              <Translate id="pricing.pro.note">
-                * Additional quiz packages available if needed
-              </Translate>
-            </p>
           </div>
 
           {/* Enterprise */}
@@ -377,12 +377,12 @@ export default function Pricing() {
             <ul>
               <li>
                 <Translate id="pricing.access.public">
-                  ✔️Public quizzes: anyone can take your quiz through an easy-to-share URL
+                  ✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL
                 </Translate>
               </li>
               <li>
                 <Translate id="pricing.access.private">
-                  ✔️Private quizzes: only your users can take your quizzes
+                  ✔️ Private quizzes: only learners registered in your space can take your quizzes
                 </Translate>
               </li>
             </ul>
@@ -393,12 +393,17 @@ export default function Pricing() {
             <ul>
               <li>
                 <Translate id="pricing.compliance.track">
-                  ✔️Track user progress
+                  ✔️ Basic analytics to track results the quiz level
+                </Translate>
+              </li>
+              <li>
+                <Translate id="pricing.compliance.track">
+                  ✔️ Detailed analytics to track results the learner and question levels
                 </Translate>
               </li>
               <li>
                 <Translate id="pricing.compliance.tools">
-                  ✔️Analysis and compliance tools [coming soon]
+                  ✔️ Analysis and compliance tools [coming soon]
                 </Translate>
               </li>
             </ul>
@@ -411,12 +416,12 @@ export default function Pricing() {
             <ul>
               <li>
                 <Translate id="pricing.enterprise.training">
-                  ✔️Tailor-made user training
+                  ✔️ Tailor-made user training
                 </Translate>
               </li>
               <li>
                 <Translate id="pricing.enterprise.priority">
-                  ✔️Priority support
+                  ✔️ Priority support
                 </Translate>
               </li>
             </ul>
