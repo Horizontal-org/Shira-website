@@ -1,6 +1,6 @@
 {
     "link.title.Learn": {
-        "message": "",
+        "message": "التعلم",
         "description": "The title of the footer links column with title=Learn in the footer"
     },
     "link.title.Use Shira": {
@@ -56,7 +56,7 @@
         "description": "The footer copyright"
     },
     "logo.alt": {
-        "message": "",
+        "message": "شعار Shira",
         "description": "The alt text of footer logo"
     }
 }
