@@ -1,0 +1,42 @@
+{
+    "logo.alt": {
+        "message": "Логотип Shira",
+        "description": "The alt text of navbar logo"
+    },
+    "item.label.Features": {
+        "message": "Особенности",
+        "description": "Navbar item with label Features"
+    },
+    "item.label.Take a quiz": {
+        "message": "Пройдите тест",
+        "description": "Navbar item with label Take a quiz"
+    },
+    "item.label.Learn": {
+        "message": "Узнать",
+        "description": "Navbar item with label Learn"
+    },
+    "item.label.Pricing": {
+        "message": "Цены",
+        "description": "Navbar item with label Pricing"
+    },
+    "item.label.Help": {
+        "message": "Помощь",
+        "description": "Navbar item with label Help"
+    },
+    "item.label.About": {
+        "message": "О нас",
+        "description": "Navbar item with label About"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "Зарегистрироваться/Войти",
+        "description": "Navbar item with label Sign up/Log in"
+    },
+    "item.label.What is Phishing?": {
+        "message": "Что такое фишинг?",
+        "description": "Navbar item with label What is Phishing?"
+    },
+    "item.label.Why phishing quizzes?": {
+        "message": "Зачем нужны фишинговые викторины?",
+        "description": "Navbar item with label Why phishing quizzes?"
+    }
+}
