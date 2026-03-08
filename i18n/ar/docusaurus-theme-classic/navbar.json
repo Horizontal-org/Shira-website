@@ -4,39 +4,39 @@
         "description": "The alt text of navbar logo"
     },
     "item.label.Features": {
-        "message": "",
+        "message": "الميزات",
         "description": "Navbar item with label Features"
     },
     "item.label.Take a quiz": {
-        "message": "",
+        "message": "إجراء اختبار",
         "description": "Navbar item with label Take a quiz"
     },
     "item.label.Learn": {
-        "message": "",
+        "message": "التعلم",
         "description": "Navbar item with label Learn"
     },
     "item.label.Pricing": {
-        "message": "",
+        "message": "الأسعار",
         "description": "Navbar item with label Pricing"
     },
     "item.label.Help": {
-        "message": "",
+        "message": "المساعدة",
         "description": "Navbar item with label Help"
     },
     "item.label.About": {
-        "message": "",
+        "message": "حول",
         "description": "Navbar item with label About"
     },
     "item.label.Sign up/Log in": {
-        "message": "",
+        "message": "إنشاء حساب / تسجيل الدخول",
         "description": "Navbar item with label Sign up/Log in"
     },
     "item.label.What is Phishing?": {
-        "message": "",
+        "message": "ما هو التصيد الاحتيالي؟",
         "description": "Navbar item with label What is Phishing?"
     },
     "item.label.Why phishing quizzes?": {
-        "message": "",
+        "message": "لماذا اختبارات التصيد الاحتيالي؟",
         "description": "Navbar item with label Why phishing quizzes?"
     }
 }
