@@ -38,59 +38,63 @@ description: Learn how to create and customize quiz questions in Shira — inclu
   пользователя правильным.
 
 ## Приложение {#app}
-An *app* is an interface that looks exactly like the actual app or platform your
-learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
+*Приложение* — это интерфейс, который выглядит точно так же, как реальное
+приложение или платформа, которые ваши учащиеся используют каждый день: Gmail,
+Outlook, SMS, WhatsApp и т. д.
 
-With apps, Shira shows an email or message exactly how it would be in real life.
-This means that when they face a real-life phishing attack, learners will be
-more likely to know where to look for clues that it is phishing.
+С помощью приложений Shira показывает электронное письмо или сообщение точно
+так, как оно выглядело бы в реальной жизни. Это означает, что когда учащиеся
+столкнутся с реальной фишинговой атакой, они с большей вероятностью будут знать,
+где искать признаки фишинга.
 
-Currently, Shira supports the following apps:
+В настоящее время Shira поддерживает следующие приложения:
 - Gmail
 - Outlook
 - SMS
 - WhatsApp
 - Facebook Messenger
-- Dating App
+- Приложение для знакомств
 
-:::note [Let us know](/contact) if your team relies on apps that aren't in this
-list and that you would like to see in Shira! :::
+:::note [Сообщите нам](/contact), если ваша команда использует приложения,
+которых нет в этом списке, и которые вы хотели бы видеть в Shira! :::
 
-## The question's content {#content}
-A question's content is the actual email or message that you draft to display in
-the quiz question.
+## Содержание вопроса {#content}
+Содержимое вопроса — это фактическое электронное письмо или сообщение, которое
+вы составляете для отображения в вопросе викторины.
 
-This can include any elements that are usually part of emails or messages in
-real life: text, images, file attachments, links, etc.
+Это может включать в себя любые элементы, которые обычно входят в состав
+электронных писем или сообщений в реальной жизни: текст, изображения, вложения,
+ссылки и т. д.
 
-## Explanations {#explanations}
-Explanations are short snippets of text that you can create to explain to
-learners why the email or message in the question may be a phishing attack or
-not. Explanations will be displayed after a learner answers a question, and
-highlight specific elements in the question.
+## Объяснения {#объяснения}
+Пояснения — это короткие фрагменты текста, которые вы можете создать, чтобы
+объяснить учащимся, почему электронное письмо или сообщение в вопросе может быть
+фишинговой атакой или нет. Пояснения будут отображаться после того, как учащийся
+ответит на вопрос, и будут выделять конкретные элементы в вопросе.
 
 When you create a question, each explanation must be linked to an element in the
 question, such as:
 - The sender's name
 - The sender's email address or phone number
 - Specific words, sentences, or images inside an email or message
-- Images or file attachments
+- Вложения файлов или изображений
 
-The order of explanations that you see when you create the questions is the same
-order in which the questions are presented to learners during the quiz.
+Порядок объяснений, который вы видите при создании вопросов, соответствует
+порядку, в котором вопросы будут представлены учащимся во время тестирования.
 
 ## Variables {#variables}
 Variables are placeholders that you can use to insert personalized information
 into a question.
 
-To add a variable, type the following in the question's content:
-* ``{{name}}`` will display the learner's name
-* ``{{email}}`` will display the learner's email address
+Чтобы добавить переменную, введите следующее в содержание вопроса:
+* ``{{name}}`` отобразит имя учащегося
+* ``{{email}}`` отобразит адрес электронной почты учащегося
 
-Variables work slightly differently in public and private quizzes:
-* In public quizzes, the name and email address displayed are drawn from what
-  the learner entered or auto-generated during quiz setup.
-* In private quizzes, the name and email address displayed are drawn from the
-  learner's information as they were configured when the learner was invited to
-  the Space.
+Переменные работают немного по-разному в публичных и частных викторинах:
+* В публичных викторинах отображаемое имя и адрес электронной почты берутся из
+  данных, введенных учащимся или автоматически сгенерированных при настройке
+  викторины.
+* В частных викторинах отображаемое имя и адрес электронной почты берутся из
+  информации об учащемся, которая была указана при его приглашении в
+  пространство.
 
