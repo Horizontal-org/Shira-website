@@ -32,40 +32,44 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
   (исключительно для [частных тестов](#privacy))
 - На экране приветствия, когда учащиеся проходят тест.
 
-### Quiz privacy {#privacy}
-There are two options available for quiz privacy: public and private.
+### Конфиденциальность викторины {#privacy}
+Для конфиденциальности викторины доступны два варианта: общедоступный и частный.
 
-**The privacy of a quiz is permanent and cannot be changed**. If you want to
-change the privacy of an existing quiz, you must to duplicate the quiz.
+**Настройки конфиденциальности теста являются постоянными и не могут быть
+изменены**. Если вы хотите изменить настройки конфиденциальности существующего
+теста, вам необходимо создать его дубликат.
 
-**Public quizzes**
-* Anyone with the quiz URL can take a public quiz.
-* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A
-  quiz URL looks like this:
-  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The
-  quiz URL remains the same even if you publish and unpublish the quiz multiple
-  times.
-* Learners who take public quizzes remain anonymous. This means that in
-  [Results](/results) you cannot identified who those learners are.
+**Публичные викторины**
+* Любой, у кого есть URL-адрес викторины, может принять участие в общедоступной
+  викторине.
+* URL-адрес теста — это уникальный URL-адрес каждого теста, который учащиеся
+  используют для прохождения теста. URL-адрес теста выглядит следующим образом:
+  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68.
+  URL-адрес теста остается неизменным, даже если вы публикуете и отменяете
+  публикацию теста несколько раз.
+* Учащиеся, которые участвуют в публичных викторинах, остаются анонимными. Это
+  означает, что в [Результатах](/results) вы не можете определить, кто эти
+  учащиеся.
 
-**Private quizzes**
-* Only learners who are registered in your space can take the quiz. You can read
-  more about [registered learners here](/learners#registered).
-* When a registered learner is assigned a private quiz, they receive an email
-  with the link to take the quiz. This link is unique to each learner and helps
-  keep track of who takes the quiz and their results.
+**Частные викторины**
+* Только учащиеся, зарегистрированные в вашем пространстве, могут проходить
+  тест. Подробнее о [зарегистрированных учащихся можно прочитать
+  здесь](/learners#registered).
+* Когда зарегистрированному учащемуся назначается частный тест, он получает
+  электронное письмо со ссылкой для прохождения теста. Эта ссылка является
+  уникальной для каждого учащегося и помогает отслеживать, кто проходит тест и
+  какие результаты он получает.
 
-## Adding question to your quiz {#questions}
+## Добавление вопроса в тест {#questions}
 
-You can add questions to your quiz either by creating them manually or importing
-ready-made templates from the Library. [Learn more about questions
-here](/questions).
+Вы можете добавлять вопросы в свой тест, создавая их вручную или импортируя
+готовые шаблоны из библиотеки. [Узнайте больше о вопросах здесь](/questions).
 
-## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to learners.
+## Публикация и отмена публикации тестов {#publish-unpublish}
+Публикация теста означает, что вы делаете его доступным для учащихся.
 
-You can then unpublish the quiz to make it impossible for learners to take it.
-If the quiz is unpublished, the quiz URL will lead to an error page.
+Затем вы можете отменить публикацию теста, чтобы учащиеся не могли его
+проходить. Если тест отменен, URL-адрес теста будет вести на страницу с ошибкой.
 
 :::note If you unpublish a quiz *while* a learner is taking it, the learner will
 see an error message at the end of the quiz when they try to submit their
@@ -74,30 +78,31 @@ answers, and their submission will be lost. :::
 ## Editing quizzes {#edit-quizzes}
 You can edit any quiz, whether it is published or unpublished, including:
 - Adding new questions to the quiz.
-- Editing questions that already exist in the quiz.
-- Reording questions: the order of questions that you see in your space is the
-  same order that the questions will be shown to learners when they take the
-  quiz.
+- Редактирование вопросов, которые уже есть в тесте.
+- Порядок вопросов: порядок вопросов, который вы видите в своем пространстве,
+  соответствует порядку, в котором вопросы будут показаны учащимся при
+  прохождении теста.
 - Deleting questions: once deleted, there is no way of retrieving a question.
 
 :::note If some learners have already taken the quiz, editing this quiz may
 affect the reliability of [the quizz's results](/results). :::
 
-## Duplicating a quiz {#duplicate-quiz}
-Duplicating a quiz means creating an exact copy of an existing quiz.
+## Дублирование теста {#duplicate-quiz}
+Дублирование теста означает создание точной копии существующего теста.
 
-Once duplicated, the original quiz and the new quiz are independent from each
-other: you can edit or delete one, the other will be unaffected. **Results
-associated with the original quizz *will not* be moved to the new copy of the
-quiz**.
+После дублирования исходный тест и новый тест становятся независимыми друг от
+друга: вы можете редактировать или удалять один из них, это не повлияет на
+другой. **Результаты, связанные с исходным тестом, *не будут* перенесены в новую
+копию теста**.
 
-You can set a quiz privacy settings (public or private) at the time of
-duplication.
+Вы можете установить настройки конфиденциальности викторины (публичная или
+частная) при копировании.
 
 
-## Deleting a quiz {#delete-quiz}
-Deleting a quiz means that the quiz, all the questions inside the quiz, and any
-[results](/results) associated with this quiz are deleted from your space.
+## Удаление теста {#delete-quiz}
+Удаление теста означает, что тест, все вопросы в тесте и любые
+[результаты](/results), связанные с этим тестом, будут удалены из вашего
+пространства.
 
-:::warning Deleting a quiz is permanent: once deleted, a quiz and its results
-cannot be recovered! :::
+::: warning Удаление теста является необратимым: после удаления тест и его
+результаты не могут быть восстановлены! :::
