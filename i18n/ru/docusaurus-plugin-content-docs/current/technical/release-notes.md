@@ -8,7 +8,7 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 # Примечания к релизу
 
-:::совет Здесь вы найдете всю необходимую информацию о последних функциях и
+::: tip Здесь вы найдете всю необходимую информацию о последних функциях и
 улучшениях в Shira. Если чего-то не хватает, вы можете [предложить новые функции
 или улучшения здесь](https://github.com/Horizontal-org/shira/discussions). :::
 
