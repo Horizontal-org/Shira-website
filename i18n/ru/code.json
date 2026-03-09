@@ -12,7 +12,7 @@
         "message": "Shira"
     },
     "about.hero.subtitle": {
-        "message": "Помощь частным лицам и организациям в  повышении их устойчивости к фишинговым атакам"
+        "message": "Помощь частным лицам и организациям в повышении их устойчивости к фишинговым атакам"
     },
     "about.hero.cta": {
         "message": "Свяжитесь с нами"
@@ -42,7 +42,7 @@
         "message": "Узнайте больше о Horizontal"
     },
     "about.why.imageAlt": {
-        "message": "декоративное изображение крючка"
+        "message": "декоративное изображение крюка"
     },
     "about.why.title": {
         "message": "Почему Shira?"
@@ -54,49 +54,49 @@
         "message": "Shira была создана с учетом сообществ, которые наиболее подвержены риску фишинговых атак, особенно пользователей с ограниченными техническими знаниями."
     },
     "about.why.customizable.title": {
-        "message": ""
+        "message": "2. Настраиваемый"
     },
     "about.why.customizable.description": {
-        "message": ""
+        "message": "Shira показывает электронные письма и сообщения, которые максимально реалистично имитируют то, с чем интернет-пользователи сталкиваются в повседневной жизни, а также фишинговые атаки, с которыми они могут столкнуться."
     },
     "about.why.privacy.title": {
-        "message": ""
+        "message": "3. Соответствие принципам конфиденциальности"
     },
     "about.why.privacy.description": {
-        "message": ""
+        "message": "Мы не собираем, не сохраняем и не передаем никакие конфиденциальные или личные данные о пользователях, посещающих Shira или проходящих тесты. Для получения более подробной информации ознакомьтесь с нашей политикой конфиденциальности и результатами аудитов безопасности, проводимых независимыми компаниями."
     },
     "about.why.auditCta": {
-        "message": ""
+        "message": "Аудиты безопасности"
     },
     "about.why.privacyCta": {
-        "message": ""
+        "message": "Политика конфиденциальности"
     },
     "about.how.title": {
-        "message": ""
+        "message": "Как разрабатывается Shira?"
     },
     "about.how.opensource": {
-        "message": ""
+        "message": "Shira является продуктом с открытым исходным кодом и лицензируется по MIT 2.0."
     },
     "about.how.design": {
-        "message": ""
+        "message": "В Horizontal мы проектируем и разрабатываем, ориентируясь на потребности пользователей, подверженных высокому риску цифровых атак."
     },
     "about.how.community": {
-        "message": ""
+        "message": "Shira является многоязычным приложением и создан в сотрудничестве с пользователями, находящимися в группе риска."
     },
     "about.how.communityLink": {
-        "message": ""
+        "message": "создано совместно с пользователями из группы риска"
     },
     "about.how.green": {
-        "message": ""
+        "message": "Этот веб-сайт работает на экологически чистой энергии."
     },
     "about.how.greenAlt": {
-        "message": ""
+        "message": "Этот веб-сайт работает на экологичном хостинге, что подтверждено thegreenwebfoundation.org"
     },
     "contact.title": {
-        "message": ""
+        "message": "Свяжитесь с командой Shira"
     },
     "contact.description": {
-        "message": ""
+        "message": "Узнайте, как связаться с командой Shira"
     },
     "contact.metaDescription": {
         "message": ""
@@ -111,82 +111,82 @@
         "message": ""
     },
     "contact.intro.part2": {
-        "message": ""
+        "message": "? Хотели бы вы обсудить возможность сотрудничества? Вы являетесь некоммерческой или общественной организацией и не можете позволить себе полную стоимость Shira?"
     },
     "contact.getInTouch": {
-        "message": ""
+        "message": "Свяжитесь с нами:"
     },
     "contact.links.emailText": {
         "message": ""
     },
     "contact.links.github": {
-        "message": ""
+        "message": "Опубликуйте идею новой функции или проголосуйте за существующие предложения"
     },
     "contact.links.demo": {
-        "message": ""
+        "message": "Запланируйте демонстрационный звонок прямо здесь"
     },
     "contact.links.newsletter": {
-        "message": ""
+        "message": "Подпишитесь на нашу рассылку"
     },
     "features.meta.title": {
-        "message": ""
+        "message": "Особенности Shira"
     },
     "features.meta.description": {
-        "message": ""
+        "message": "Ознакомьтесь с функциями Shira для преподавателей и специалистов по безопасности."
     },
     "features.meta.longDescription": {
-        "message": ""
+        "message": "Изучите функции Shira для преподавателей и специалистов по безопасности — создавайте реалистичные тесты по фишингу, моделируйте реальные атаки, отслеживайте прогресс команды и формируйте устойчивое понимание фишинга."
     },
     "features.intro.audience": {
-        "message": ""
+        "message": "Для педагогов и специалистов по безопасности"
     },
     "features.intro.title": {
-        "message": ""
+        "message": "Создайте {your1} собственные тесты по фишингу для {your2} команды, чтобы справиться с {your3} угрозами"
     },
     "features.intro.your1": {
-        "message": ""
+        "message": "ваш"
     },
     "features.intro.your2": {
-        "message": ""
+        "message": "ваш"
     },
     "features.intro.your3": {
-        "message": ""
+        "message": "ваш"
     },
     "features.intro.pricing": {
-        "message": ""
+        "message": "Ценообразование"
     },
     "features.intro.getStarted": {
-        "message": ""
+        "message": "Начать"
     },
     "features.images.fishAlt": {
-        "message": ""
+        "message": "Иллюстрация рыбы, символизирующей фишинг"
     },
     "features.images.bubblesAlt": {
-        "message": ""
+        "message": "Иллюстрация с рыбой и пузырьками"
     },
     "features.allFeatures.title": {
-        "message": ""
+        "message": "Все функции, необходимые для обеспечения безопасности вашей команды"
     },
     "features.allFeatures.description": {
-        "message": ""
+        "message": "Никто не знает потребности вашей команды лучше вас. Shira дает вам полный контроль над созданием учебных программ, адаптированных к конкретным потребностям вашей организации, типам атак, которым вы подвергаетесь, и уровню квалификации ваших коллег."
     },
     "features.list.ui.title": {
-        "message": ""
+        "message": "Удобный для пользователя интерфейс 🎨"
     },
     "features.list.ui.description": {
-        "message": ""
+        "message": "Интуитивно понятная панель управления для удобной навигации и управления тестами и пользователями."
     },
     "features.list.roles.title": {
-        "message": ""
+        "message": "Контроль доступа на основе ролей 🔒"
     },
     "features.list.roles.description": {
-        "message": ""
+        "message": "Различные уровни доступа для администраторов и учащихся."
     },
     "features.list.realLife.title": {
-        "message": ""
+        "message": "Симуляция реальной атаки ⚡"
     },
     "features.list.realLife.description": {
-        "message": ""
+        "message": "Включите в свои тесты подробности реальных фишинговых атак, с которыми столкнулась компания, чтобы наилучшим образом подготовить свою команду."
     },
     "features.list.email.title": {
         "message": ""
