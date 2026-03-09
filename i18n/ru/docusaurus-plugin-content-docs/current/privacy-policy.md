@@ -48,90 +48,100 @@ Shira, доступной по адресам [https://shira.app](https://shira.
 - Посетители, которые посещают веб-сайты Shira, но не участвуют в викторинах и
   не взаимодействуют с функционалом Shira.
 
-As outlined below, for each of those groups, different data is collected.
+Как указано ниже, для каждой из этих групп собираются разные данные.
 
-### Account data {#account-data}
-#### What is account data? {#what-is-account-data}
+### Данные учетной записи {#account-data}
+#### Что такое данные учетной записи? {#what-is-account-data}
 
-Account data is the data that is associated with a user's Shira account.
-- Admins are considered to have a Shira account as soon they have created a
-  space.
-- Registered Learners are considered to have a Shira account as soon they are
-  invited to join a Space.
+Данные учетной записи — это данные, связанные с учетной записью пользователя
+Shira.
+- Считается, что у администраторов есть аккаунт в Shira, как только они создали
+  пространство.
+- Зарегистрированные ученики считаются имеющими аккаунт в Shira, как только их
+  приглашают присоединиться к Пространству.
 
-Anonymous Learners and Visitors do not have Shira accounts.
+Анонимные учащиеся и посетители не имеют учетных записей Shira.
 
-#### What account data do we collect? {#what-account-data-do-we-collect}
-This is the account data we collect about Admins:
-- Email address: this is the email address an Admin uses to create a space with
-  and that remains associated with the Admin's account.
-- Date of account creation: an Admin account is considered "created" when an
-  Admin accepts the invitation to create a Space.
-- What Space(s) the Admin is associated with.
+#### Какие данные учетной записи мы собираем? {#what-account-data-do-we-collect}
+Это данные учетных записей, которые мы собираем об администраторах:
+- Адрес электронной почты: это адрес электронной почты, который администратор
+  использует для создания пространства и который остается связанным с учетной
+  записью администратора.
+- Дата создания учетной записи: учетная запись администратора считается
+  «созданной», когда администратор принимает приглашение на создание
+  Пространства.
+- С каким пространством (пространствами) связан администратор.
 
-This is the account data we collect about Registered Learners:
-- Email address: this is the email address a Registered User is invited to join
-  a space with, and that remains associated with the Registered User's account
-  once the account is created.
-- Date of account creation: a Registered Learner's account is considered
-  "created" when an admin sends an invitation to a Registered Learner to join a
-  Space.
+Это данные учетной записи, которые мы собираем о зарегистрированных учащихся:
+- Адрес электронной почты: это адрес электронной почты, с помощью которого
+  зарегистрированный пользователь приглашается присоединиться к пространству и
+  который остается связанным с учетной записью зарегистрированного пользователя
+  после ее создания.
+- Дата создания учетной записи: учетная запись зарегистрированного учащегося
+  считается «созданной», когда администратор отправляет зарегистрированному
+  учащемуся приглашение присоединиться к Пространству.
 - What Space(s) the Registered Learner is associated with.
 
 We do not collect any account data from Anonymous Learners and Visitors.
 
 #### How do we collect account data? {#how-do-we-collect-account-data}
-- Email addresses and the list of Spaces a user is associated with are collected
-  when a user fills an invitation form (when an Admin fills the form to create a
-  Space or when an admin fills the information to send an invitation to a
-  Registered Learner to join a space).
-- The date of account creation is collected automatically when the account is
-  created.
+- Адреса электронной почты и список Пространств, с которыми связан пользователь,
+  собираются, когда пользователь заполняет форму приглашения (когда
+  администратор заполняет форму для создания пространства или когда
+  администратор заполняет информацию для отправки приглашения
+  зарегистрированному учащемуся присоединиться к пространству).
+- Дата создания учетной записи собирается автоматически.
 
-#### How do we share or disclose account data? {#how-do-we-share-or-disclose-account-data}
+#### Как мы передаем или раскрываем данные учетной записи? {#how-do-we-share-or-disclose-account-data}
 We will never sell your account data to any third party.
 
-We will never intentionally disclose your account data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to process
-  payments).
+Мы никогда не будем намеренно раскрывать данные вашей учетной записи третьим
+лицам, за исключением следующих случаев:
+- В соответствии с требованиями законодательства (например, если эти данные
+  запрашиваются в рамках судебного постановления).
+- В той мере, в какой это необходимо для работы и предоставления услуг Shira
+  (например, для обработки платежей).
 
-### Functionality data {#functionality-data}
+### Данные о функциональности {#functionality-data}
 
-#### What is functionality data? {#what-is-functionality-data}
-Functionality data is the data that is generated when users make use of Shira
-features, such as quizzes, quiz questions, results, and more.
+#### Что такое данные о функциональности? {#what-is-functionality-data}
+Функциональные данные — это данные, которые генерируются, когда пользователи
+используют функции Shira, такие как викторины, вопросы викторин, результаты и т.
+д.
 
-#### What functionality data do we collect? {#what-functionality-data-do-we-collect}
-This is the functionality data we collect about Admins:
-- Information about the quizzes created and managed by Admins, including the
-  quiz name and status (published, unpublished, public, private, etc), the list
-  of quiz questions, and the explanations created in each question.
-- When Admins connect and use Shira, including the day and time of each
-  connection.
+#### Какие функциональные данные мы собираем? {#what-functionality-data-do-we-collect}
+Это функциональные данные, которые мы собираем об администраторах:
+- Информация о викторинах, созданных и управляемых администраторами, включая
+  название и статус викторины (опубликованная, неопубликованная, общедоступная,
+  закрытая и т. д.), список вопросов викторины и пояснения, созданные для
+  каждого вопроса.
+- Когда администраторы подключаются и используют Shira, включая день и время
+  каждого подключения.
 
-This is the functionality data we collect about Registered Learners:
-- List of quizzes that a Registered Learner is invited to take or has taken.
-- Responses submitted by the Registered Learner when taking a quiz (Results).
-- Date and time a Registered Learner has taken a quiz.
+Это функциональные данные, которые мы собираем о зарегистрированных учащихся:
+- Список тестов, на которые зарегистрированный учащийся приглашен для
+  прохождения или уже их прошел.
+- Ответы, предоставленные зарегистрированным учащимся при прохождении теста
+  (результаты).
+- Дата и время, когда зарегистрированный учащийся прошел тест.
 
-This is the functionality data we collect about Anonymous Learners:
-- Responses submitted by the Anonymous Learner when taking a quiz (Results).
-- Date and time an Anonymous Learner has taken a quiz.
+Это функциональные данные, которые мы собираем об анонимных учащихся:
+- Ответы, предоставленные анонимным учащимся при прохождении теста (результаты).
+- Дата и время, когда анонимный учащийся прошел тест.
 
-We do not collect functionality data about Visitors.
+Мы не собираем данные о функциональности посетителей.
 
-#### How is functionality data collected? {#how-is-functionality-data-collected}
-We collect functionality data automatically from user inputs as they make use of
-Shira features.
+#### Как собираются данные о функциональности? {#how-is-functionality-data-collected}
+Мы собираем данные о функциональности автоматически, по мере того как
+пользователь использует возможности Shira.
 
-#### How do we share or disclose functionality data? {#how-do-we-share-or-disclose-functionality-data}
-We will never sell your functionality data to any third party.
+#### Как мы передаем или раскрываем данные о функциональности? {#how-do-we-share-or-disclose-functionality-data}
+Мы никогда не будем продавать ваши функциональные данные третьим лицам.
 
-We will never intentionally disclose your functionality data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
+Мы никогда не будем намеренно раскрывать ваши функциональные данные третьим
+лицам, за исключением следующих случаев:
+- В соответствии с требованиями законодательства (например, если эти данные
+  запрашиваются в рамках судебного постановления).
 - As necessary to operate and provide the services of Shira (e.g. to display
   Results).
 
