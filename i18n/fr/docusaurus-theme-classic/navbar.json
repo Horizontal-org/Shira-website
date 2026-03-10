@@ -1,5 +1,17 @@
 {
     "logo.alt": {
         "message": "Logo Shira"
+    },
+    "item.label.Features": {
+        "message": "Élément de la barre de navigation avec l'étiquette Fonctionnalités"
+    },
+    "item.label.Learn": {
+        "message": "Apprendre"
+    },
+    "item.label.Take a quiz": {
+        "message": "Commencer le quiz"
+    },
+    "item.label.Help": {
+        "message": "Aide"
     }
 }
