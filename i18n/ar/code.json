@@ -48,97 +48,97 @@
         "message": "لماذا Shira؟"
     },
     "about.why.easy.title": {
-        "message": "1. سهولة الاستخدام"
+        "message": "1. سهل الاستخدام"
     },
     "about.why.easy.description": {
         "message": "تم إنشاء Shira مع مراعاة المجتمعات الأكثر عرضة لهجمات التصيد الاحتيالي، لا سيما المستخدمين ذوي الثقافة التقنية المحدودة."
     },
     "about.why.customizable.title": {
-        "message": ""
+        "message": "2. قابل للتخصيص"
     },
     "about.why.customizable.description": {
-        "message": ""
+        "message": "يعرض Shira رسائل بريد إلكتروني ورسائل نصية تحاكي الواقع بأقصى درجة ممكنة، لما يواجهه مستخدمو الإنترنت فعليا في حياتهم اليومية، و لهجمات التصيد الاحتيالي التي من المحتمل أن يتعرضوا لها."
     },
     "about.why.privacy.title": {
-        "message": ""
+        "message": "3. صديق للخصوصية"
     },
     "about.why.privacy.description": {
-        "message": ""
+        "message": "نحن لا نجمع ولا نحفظ ولا نشارك أي بيانات حساسة أو معلومات قد تحدد هوية المستخدمين الذين يزورون Shira أو يشاركون في الاختبارات. لمعرفة المزيد، يمكنك الاطلاع على سياسة الخصوصية الخاصة بنا وعمليات تدقيق الأمان التي أجرتها شركات أمنية مستقلة."
     },
     "about.why.auditCta": {
-        "message": ""
+        "message": "عمليات تدقيق الأمان"
     },
     "about.why.privacyCta": {
-        "message": ""
+        "message": "سياسة الخصوصية"
     },
     "about.how.title": {
-        "message": ""
+        "message": "كيف يتم تطوير Shira؟"
     },
     "about.how.opensource": {
-        "message": ""
+        "message": "Shira مفتوح المصدر ومرخص بموجب رخصة MIT 2.0."
     },
     "about.how.design": {
-        "message": ""
+        "message": "في Horizontal، عند التصميم والتطوير نركز على احتياجات المستخدمين الذين يواجهون مخاطر عالية من الهجمات الرقمية."
     },
     "about.how.community": {
-        "message": ""
+        "message": "Shira متعدد اللغات وتم إنشاؤه بالتعاون مع المستخدمين الأكثر عرضة للمخاطر."
     },
     "about.how.communityLink": {
-        "message": ""
+        "message": "تم إنشاؤه بالتعاون مع المستخدمين الأكثر عرضة للمخاطر"
     },
     "about.how.green": {
-        "message": ""
+        "message": "يعمل هذا الموقع الإلكتروني بالطاقة الخضراء."
     },
     "about.how.greenAlt": {
-        "message": ""
+        "message": "هذا الموقع يعمل باستضافة خضراء - موثق من قِبل thegreenwebfoundation.org"
     },
     "contact.title": {
-        "message": ""
+        "message": "تواصل مع فريق Shira"
     },
     "contact.description": {
-        "message": ""
+        "message": "التعرف على كيفية التواصل مع فريق Shira"
     },
     "contact.metaDescription": {
-        "message": ""
+        "message": "التعرف على كيفية التواصل مع فريق Shira"
     },
     "contact.heading": {
-        "message": ""
+        "message": "لنتحدث!"
     },
     "contact.intro.part1": {
-        "message": ""
+        "message": "هل هناك أسئلة حول Shira لم تتم الإجابة عليها في"
     },
     "contact.intro.helpCenter": {
-        "message": ""
+        "message": "مركز المساعدة"
     },
     "contact.intro.part2": {
-        "message": ""
+        "message": "؟ هل ترغبون في استكشاف شراكة محتملة؟ هل أنتم منظمة غير ربحية أو منظمة قاعدية ولا تستطيعون تحمل التكلفة الكاملة لـ Shira؟"
     },
     "contact.getInTouch": {
-        "message": ""
+        "message": "للتواصل معنا:"
     },
     "contact.links.emailText": {
-        "message": ""
+        "message": "اكتبوا إلينا عبر"
     },
     "contact.links.github": {
-        "message": ""
+        "message": "إرسال فكرة لميزة جديدة أو تصويت على الطلبات الحالية"
     },
     "contact.links.demo": {
-        "message": ""
+        "message": "حجز مكالمة تجريبية مباشرة من هنا"
     },
     "contact.links.newsletter": {
-        "message": ""
+        "message": "الاشتراك في نشرتنا الإخبارية"
     },
     "features.meta.title": {
-        "message": ""
+        "message": "ميزات Shira"
     },
     "features.meta.description": {
-        "message": ""
+        "message": "استكشاف ميزات Shira للمعلمين والمتخصصين في الأمن الرقمي."
     },
     "features.meta.longDescription": {
-        "message": ""
+        "message": "استكشفوا ميزات Shira للمعلمين والمتخصصين في الأمن الرقمي. يمكن انشاء اختبارات تصيد واقعية، ومحاكاة هجمات حقيقية، وتتبع تقدم الفريق، وبناء وعي مستمر ضد التصيد الاحتيالي."
     },
     "features.intro.audience": {
-        "message": ""
+        "message": "للمعلمين والمتخصصين في الأمن الرقمي"
     },
     "features.intro.title": {
         "message": ""
@@ -189,43 +189,43 @@
         "message": ""
     },
     "features.list.email.title": {
-        "message": ""
+        "message": "محاكاة التصيد الاحتيالي عبر البريد الإلكتروني 📧"
     },
     "features.list.email.description": {
-        "message": ""
+        "message": "إنشاء اختبارات تحاكي رسائل التصيد الاحتيالي على Gmail وOutlook، بما في ذلك معلومات المرسِل، وموضوع الرسالة، ونص البريد الإلكتروني، والروابط، والصور، والمرفقات."
     },
     "features.list.sms.title": {
-        "message": ""
+        "message": "محاكاة التصيد الاحتيالي عبر الرسائل النصية 💬"
     },
     "features.list.sms.description": {
-        "message": ""
+        "message": "إنشاء اختبارات تحاكي محاولات التصيد الاحتيالي عبر الرسائل النصية برسائل واقعية."
     },
     "features.list.messaging.title": {
-        "message": ""
+        "message": "محاكاة التصيد الاحتيالي عبر تطبيقات المراسلة 💬"
     },
     "features.list.messaging.description": {
-        "message": ""
+        "message": "إنشاء اختبارات تحاكي التصيد الاحتيالي عبر تطبيقات المراسلة الشهيرة مثل WhatsApp أو Facebook Messenger."
     },
     "features.list.mobile.title": {
-        "message": ""
+        "message": "دعم الأجهزة المحمولة 📱"
     },
     "features.list.mobile.description": {
-        "message": ""
+        "message": "غالبا ما نواجه هجمات التصيد الاحتيالي عبر أجهزتنا المحمولة. في Shira، يمكن للمستخدمين إجراء الاختبارات من هواتفهم للاستعداد للهجمات التي سيواجهونها في الحياة الواقعية."
     },
     "features.list.compliance.title": {
-        "message": ""
+        "message": "الامتثال ✅"
     },
     "features.list.compliance.description": {
-        "message": ""
+        "message": "التحقق من إتمام الفريق للاختبارات فعليا ومراقبة مؤشرات النجاح."
     },
     "features.list.analytics.title": {
-        "message": ""
+        "message": "التحليلات 📈"
     },
     "features.list.analytics.description": {
-        "message": ""
+        "message": "تتبع تقدم المستخدمين وتحديد مجالات التحسين، سواء تعلَّق الأمر بنوع التطبيقات التي يكون المستخدمون أكثر عرضة للتهديدات من خلالها، أو بمستخدمين معينين يحتاجون إلى دعم إضافي."
     },
     "features.list.explanations.title": {
-        "message": ""
+        "message": "التوضيحات 📝"
     },
     "features.list.explanations.description": {
         "message": ""
