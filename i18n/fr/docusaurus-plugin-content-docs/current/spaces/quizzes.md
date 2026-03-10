@@ -5,14 +5,14 @@ sidebar_position: 2
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---
-# Quizzes
+# Questionnaires
 
-In Shira, a quiz is the central component of a phishing education campaign or
-program. Shira lets you build your own quizzes to match your audience's specific
-needs, context, and threats.
+Dans Shira, le quiz est l'élément central d'une campagne ou d'un programme de
+sensibilisation au phishing. Shira vous permet de créer vos propres quiz pour
+répondre aux besoins, au contexte et aux menaces spécifiques de votre public.
 
-In your Shira Space, you can:
-- [create quizzes](#create-quizzes)
+Dans votre espace Shira, vous pouvez:
+- [créer des quiz](#create-quizzes)
 - [configure privacy settings](#privacy)
 - [publish and unpublish a quiz](#publish-unpublish)
 - [edit existing quizzes](#edit-quizzes)
