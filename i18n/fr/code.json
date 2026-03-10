@@ -1,5 +1,368 @@
 {
     "about.meta.title": {
         "message": "À propos de Shira"
+    },
+    "about.meta.description": {
+        "message": "Découvrez Shira et l'équipe qui en est à l'origine — un projet de Horizontal, une organisation à but non lucratif qui crée des outils de sécurité et de confidentialité pour aider les individus et les organisations à se défendre contre les attaques de phishing."
+    },
+    "about.hero.title": {
+        "message": "Shira"
+    },
+    "about.meta.longDescription": {
+        "message": "Découvrez Shira et l'équipe qui en est à l'origine — un projet de Horizontal, une organisation à but non lucratif qui crée des outils de sécurité et de confidentialité pour aider les individus et les organisations à se défendre contre les attaques de phishing."
+    },
+    "about.hero.subtitle": {
+        "message": "Aider les individus et les organisations   à renforcer leur résilience face aux attaques de phishing"
+    },
+    "about.hero.cta": {
+        "message": "Contactez-nous"
+    },
+    "about.hero.imageAlt": {
+        "message": "logo shira : il s'agit d'un S de couleur bleue et vert clair"
+    },
+    "about.horizontal.imageAlt": {
+        "message": "logo Horizontal"
+    },
+    "about.horizontal.title": {
+        "message": "Qui a créé Shira ?"
+    },
+    "about.horizontal.description": {
+        "message": "Shira est un projet de Horizontal, une organisation technologique à but non lucratif qui développe des technologies de sécurité et de confidentialité pour aider les personnes à être plus en sécurité en ligne."
+    },
+    "about.horizontal.donationText": {
+        "message": "Vous pouvez nous aider à améliorer et à pérenniser Shira en"
+    },
+    "about.horizontal.donationLink": {
+        "message": "faisant un don ici"
+    },
+    "about.horizontal.translationText": {
+        "message": "Pour contribuer à la traduction de Shira dans de nouvelles langues, contactez-nous par email à"
+    },
+    "about.horizontal.cta": {
+        "message": "En savoir plus sur Horizontal"
+    },
+    "about.why.imageAlt": {
+        "message": "image décorative d'un hameçon"
+    },
+    "about.why.title": {
+        "message": "Pourquoi Shira ?"
+    },
+    "about.why.easy.title": {
+        "message": "1. Facile à utiliser"
+    },
+    "about.why.easy.description": {
+        "message": "Shira a été conçu en tenant compte des communautés les plus exposées aux attaques de phishing, en particulier les utilisateurs ayant des compétences techniques limitées."
+    },
+    "about.why.customizable.title": {
+        "message": "2. Personnalisable"
+    },
+    "about.why.customizable.description": {
+        "message": "Shira affiche des courriels et des messages aussi réalistes que possible pour simuler l'expérience réelle des internautes au quotidien et les attaques de phishing auxquelles ils sont susceptibles d'être confrontés."
+    },
+    "about.why.privacy.title": {
+        "message": "3. Respectueux de la vie privée"
+    },
+    "about.why.privacy.description": {
+        "message": "Nous ne collectons, n'enregistrons, ni ne partageons aucune donnée sensible ou personnellement identifiable sur les utilisateurs qui visitent Shira ou passent des quiz. Pour en savoir plus, consultez notre politique de confidentialité et les audits de sécurité réalisés par des cabinets de sécurité indépendants."
+    },
+    "about.why.auditCta": {
+        "message": "Audits de sécurité"
+    },
+    "about.why.privacyCta": {
+        "message": "Politique de confidentialité"
+    },
+    "about.how.title": {
+        "message": "Comment Shira est-il développé ?"
+    },
+    "about.how.opensource": {
+        "message": "Shira est open-source et sous licence MIT 2.0."
+    },
+    "about.how.design": {
+        "message": "Chez Horizontal, nous concevons et développons nos outils en plaçant au centre les besoins des utilisateurs confrontés à des risques élevés d'attaques numériques."
+    },
+    "about.how.community": {
+        "message": "Shira est multilingue et co-créé avec des utilisateurs à risque."
+    },
+    "about.how.communityLink": {
+        "message": "Co-créé avec des utilisateurs à risque"
+    },
+    "about.how.green": {
+        "message": "Ce site web fonctionne à l'énergie verte."
+    },
+    "about.how.greenAlt": {
+        "message": "Ce site est hébergé de manière écologique - vérifié par thegreenwebfoundation.org"
+    },
+    "contact.title": {
+        "message": "Contacter l'équipe Shira"
+    },
+    "contact.description": {
+        "message": "Découvrez comment contacter l'équipe Shira"
+    },
+    "contact.metaDescription": {
+        "message": "Découvrez comment contacter l'équipe Shira"
+    },
+    "contact.heading": {
+        "message": "Discutons !"
+    },
+    "contact.intro.part1": {
+        "message": "Avez-vous des questions sur Shira qui ne trouvent pas de réponse dans notre"
+    },
+    "contact.intro.helpCenter": {
+        "message": "centre d'aide"
+    },
+    "contact.intro.part2": {
+        "message": "? Souhaitez-vous explorer un éventuel partenariat ? Vous êtes une association ou une organisation citoyenne et vous ne pouvez pas assumer le coût total de Shira ?"
+    },
+    "contact.getInTouch": {
+        "message": "Contactez-nous :"
+    },
+    "contact.links.emailText": {
+        "message": "Écrivez-nous à"
+    },
+    "contact.links.github": {
+        "message": "Proposez une idée de fonctionnalité ou votez pour les demandes existantes"
+    },
+    "contact.links.demo": {
+        "message": "Planifiez une démonstration directement ici"
+    },
+    "contact.links.newsletter": {
+        "message": "S'abonner à notre newsletter"
+    },
+    "features.meta.title": {
+        "message": "Fonctionnalités de Shira"
+    },
+    "features.meta.description": {
+        "message": "Explorez les fonctionnalités de Shira pour les formateurs et les professionnels de la sécurité."
+    },
+    "features.meta.longDescription": {
+        "message": "Explorez les fonctionnalités de Shira pour les formateurs et les professionnels de la sécurité — créez des quiz de phishing réalistes, simulez des attaques réelles, suivez les progrès de votre équipe et développez une sensibilisation durable au phishing."
+    },
+    "features.intro.audience": {
+        "message": "Pour les formateurs et les professionnels de la sécurité"
+    },
+    "features.intro.title": {
+        "message": "Créez {your1} propres quiz de phishing pour {your2} équipe afin de faire face à {your3} menaces"
+    },
+    "features.intro.your1": {
+        "message": "vos"
+    },
+    "features.intro.your2": {
+        "message": "votre"
+    },
+    "features.intro.your3": {
+        "message": "vos"
+    },
+    "features.intro.pricing": {
+        "message": "Tarifs"
+    },
+    "features.intro.getStarted": {
+        "message": "Commencer"
+    },
+    "features.images.fishAlt": {
+        "message": "Illustration d'un poisson représentant le phishing"
+    },
+    "features.images.bubblesAlt": {
+        "message": "Illustration d'un poisson avec des bulles"
+    },
+    "features.allFeatures.title": {
+        "message": "Toutes les fonctionnalités dont vous avez besoin pour protéger votre équipe"
+    },
+    "features.allFeatures.description": {
+        "message": "Personne ne connaît les besoins de votre équipe mieux que vous. Shira vous donne un contrôle total pour créer des expériences d'apprentissage adaptées aux besoins spécifiques de votre organisation, aux attaques que vous recevez et au niveau de compétence de vos collègues."
+    },
+    "features.list.ui.title": {
+        "message": "Interface intuitive 🎨"
+    },
+    "features.list.ui.description": {
+        "message": "Tableau de bord intuitif pour une navigation et une gestion simplifiée des quiz et des utilisateurs."
+    },
+    "features.list.roles.title": {
+        "message": "Contrôle d'accès basé sur les rôles 🔒"
+    },
+    "features.list.roles.description": {
+        "message": "Différents niveaux d'accès pour les administrateurs et les apprenants."
+    },
+    "features.list.realLife.title": {
+        "message": "Simulation d'attaques réelles ⚡"
+    },
+    "features.list.realLife.description": {
+        "message": "Incluez dans vos quiz des détails provenant d'attaques de phishing réelles subies par l'entreprise afin de préparer au mieux votre équipe."
+    },
+    "features.list.email.title": {
+        "message": "Simulations de phishing par email 📧"
+    },
+    "features.list.email.description": {
+        "message": "Créez des quiz qui imitent les emails de phishing sur Gmail et Outlook, incluant les informations sur l'expéditeur, l'objet, le corps de l'e-mail, les liens, les images et les pièces jointes."
+    },
+    "features.list.sms.title": {
+        "message": "Simulations de phishing par SMS 💬"
+    },
+    "features.list.sms.description": {
+        "message": "Créez des quiz qui simulent des tentatives de phishing par SMS avec des messages texte réalistes."
+    },
+    "features.list.messaging.title": {
+        "message": "Simulations de phishing sur applications de messagerie 💬"
+    },
+    "features.list.messaging.description": {
+        "message": "Créez des quiz qui reproduisent le phishing via des applications de messagerie populaires comme WhatsApp ou Facebook Messenger."
+    },
+    "features.list.mobile.title": {
+        "message": "Compatibilité mobile 📱"
+    },
+    "features.list.mobile.description": {
+        "message": "Nous sommes souvent confrontés à des attaques de phishing depuis nos appareils mobiles. Dans Shira, les utilisateurs peuvent passer des quiz sur leur mobile pour se préparer aux attaques qu'ils rencontreront dans la vie réelle."
+    },
+    "features.list.compliance.title": {
+        "message": "Conformité ✅"
+    },
+    "features.list.compliance.description": {
+        "message": "Assurez-vous que votre équipe termine effectivement vos quiz et surveillez les taux de réussite."
+    },
+    "features.list.analytics.title": {
+        "message": "Analyses 📈"
+    },
+    "features.list.analytics.description": {
+        "message": "Suivez la progression des utilisateurs et identifiez les points à améliorer, qu'il s'agisse du type d'applications sur lesquelles vos utilisateurs sont les plus vulnérables ou des utilisateurs spécifiques qui ont besoin d'un soutien supplémentaire."
+    },
+    "features.list.explanations.title": {
+        "message": "Explications 📝"
+    },
+    "features.list.explanations.description": {
+        "message": "Intégrez vos propres explications pour signaler aux utilisateurs les éléments suggérant qu'un e-mail ou un message ressemble à du phishing."
+    },
+    "features.list.gamification.title": {
+        "message": "Ludification 🕹️"
+    },
+    "features.list.gamification.description": {
+        "message": "Une expérience d'apprentissage stimulante favorise une meilleure mémorisation des connaissances."
+    },
+    "features.list.multilingual.title": {
+        "message": "Multilingue 🌐"
+    },
+    "features.list.multilingual.description": {
+        "message": "Shira est entièrement disponible en anglais, espagnol, français, mandarin, arabe et russe."
+    },
+    "features.list.library.title": {
+        "message": "Bibliothèque de questions 📚"
+    },
+    "features.list.library.description": {
+        "message": "Créez vos questions de quiz de toutes pièces ou rendez-vous dans la bibliothèque Shira pour utiliser des modèles de questions créés par des formateurs en sécurité numérique."
+    },
+    "features.needMore.title": {
+        "message": "Une fonctionnalité vous manque ?"
+    },
+    "features.needMore.subtitle": {
+        "message": "Contactez-nous. Nous la réaliserons."
+    },
+    "features.needMore.cta": {
+        "message": "Contactez-nous"
+    },
+    "homepage.meta.title": {
+        "message": "Shira"
+    },
+    "homepage.meta.description": {
+        "message": "Utilisez Shira pour renforcer la capacité de votre équipe à identifier et à déjouer les attaques de phishing."
+    },
+    "homepage.meta.longDescription": {
+        "message": "Shira aide les individus et les organisations à apprendre à repérer et à déjouer les attaques de phishing grâce à des quiz interactifs et respectueux de la vie privée, personnalisables selon les applications réelles comme Gmail, SMS et WhatsApp, le contexte et la langue."
+    },
+    "homepage.hero.title": {
+        "message": "Préparation. Savoir. Résilience."
+    },
+    "homepage.hero.subtitle": {
+        "message": "Shira renforce la capacité de votre équipe à identifier et à déjouer les attaques de phishing"
+    },
+    "homepage.learners.title": {
+        "message": "Pour les apprenants"
+    },
+    "homepage.learners.description": {
+        "message": "Commencez dès maintenant avec l'un de nos quiz gratuits et prêts à l'emploi. Personnalisez le quiz pour apprendre à identifier le phishing dans les applications que vous utilisez au quotidien — Gmail, SMS, WhatsApp, etc. — avec des exemples adaptés à votre langue et à votre domaine d'activité."
+    },
+    "homepage.learners.cta": {
+        "message": "Passer un quiz"
+    },
+    "homepage.educators.title": {
+        "message": "Pour les formateurs et les professionnels de la sécurité"
+    },
+    "homepage.educators.description": {
+        "message": "Chaque organisation a ses propres besoins et fait face à ses propres menaces. Créez des quiz de phishing adaptés aux besoins de votre organisation et suivez les taux de réussite de votre équipe — le tout sans aucune programmation."
+    },
+    "homepage.educators.cta": {
+        "message": "Créez votre propre quiz"
+    },
+    "homepage.context.description": {
+        "message": "Depuis des années, le phishing est l'une des attaques les plus courantes visant les individus et les organisations. Alors qu'il se limitait initialement aux e-mails, le phishing se manifeste désormais aussi par SMS, via les applications de messagerie et sur les réseaux sociaux. Renforcer les compétences des utilisateurs pour identifier et déjouer les attaques de phishing est plus nécessaire que jamais."
+    },
+    "homepage.context.imageAlt": {
+        "message": "image décorative d'une loupe"
+    },
+    "homepage.why.title": {
+        "message": "Pourquoi Shira ?"
+    },
+    "homepage.why.intro": {
+        "message": "Que vous utilisiez simplement nos quiz gratuits et prêts à l'emploi, ou que vous créiez vos propres quiz personnalisés pour former votre équipe, Shira est :"
+    },
+    "homepage.why.easy.title": {
+        "message": "Facile à utiliser"
+    },
+    "homepage.why.easy.description": {
+        "message": "Conçu pour les communautés les plus exposées aux attaques de phishing, même avec des compétences techniques limitées."
+    },
+    "homepage.why.customizable.title": {
+        "message": "Personnalisable"
+    },
+    "homepage.why.customizable.description": {
+        "message": "Des messages de phishing réalistes pour simuler les scénarios réels auxquels les utilisateurs sont confrontés quotidiennement."
+    },
+    "homepage.why.privacy.title": {
+        "message": "Respectueux de la vie privée"
+    },
+    "homepage.why.privacy.description": {
+        "message": "Nous ne collectons ni ne partageons aucune donnée utilisateur sensible ou personnellement identifiable."
+    },
+    "phishingQuizzes.meta.title": {
+        "message": "En savoir plus sur les quiz de phishing"
+    },
+    "phishingQuizzes.meta.description": {
+        "message": "En savoir plus sur les quiz de phishing"
+    },
+    "phishingQuizzes.meta.longDescription": {
+        "message": "Découvrez pourquoi les quizz de phishing sont plus efficaces que les simulations."
+    },
+    "phishingQuizzes.education.title": {
+        "message": "Pourquoi l'éducation bat la simulation"
+    },
+    "phishingQuizzes.education.paragraph1": {
+        "message": "Les simulations de phishing sont devenues un élément standard des programmes de formation anti-phishing. Ces simulations consistent à envoyer aux employés des courriels reproduisant les tactiques utilisées par les cybercriminels pour inciter les individus à divulguer des informations sensibles ou à cliquer sur des liens malveillants. Les employés sont évalués en fonction de leurs réactions à ces courriels simulés, notamment s'ils ont cliqué sur un lien ou fourni des informations sensibles."
+    },
+    "phishingQuizzes.education.paragraph2": {
+        "message": "Cependant, cette approche présente plusieurs inconvénients et n'est pas aussi efficace qu'une formation complète contre le phishing."
+    },
+    "phishingQuizzes.education.wsjAltDesktop": {
+        "message": "Article de presse du Wall Street Journal : Les tests de phishing, fléau de la vie professionnelle, deviennent de plus en plus cruels — Selon des chercheurs, ces ruses destinées à éduquer les employés crédules sur les dangers qui rôdent en ligne ne fonctionnent même pas"
+    },
+    "phishingQuizzes.education.wsjAltMobile": {
+        "message": "Article de presse du Wall Street Journal : Les tests de phishing, fléau de la vie professionnelle, deviennent de plus en plus cruels — Selon des chercheurs, ces ruses destinées à éduquer les employés crédules sur les dangers qui rôdent en ligne ne fonctionnent même pas"
+    },
+    "phishingQuizzes.problem.title": {
+        "message": "Le problème des simulations de phishing"
+    },
+    "phishingQuizzes.problem.intro": {
+        "message": "Les simulations de phishing, bien que largement utilisées, présentent plusieurs problèmes que les organisations devraient prendre en compte :"
+    },
+    "phishingQuizzes.problem.anxiety.title": {
+        "message": "Créer de l'anxiété et de la méfiance :"
+    },
+    "phishingQuizzes.problem.anxiety.text": {
+        "message": "Les utilisateurs peuvent devenir anxieux ou méfiants envers les emails, même légitimes, ce qui peut entraîner une baisse de productivité et une augmentation du stress."
+    },
+    "phishingQuizzes.problem.emailFocus.title": {
+        "message": "Concentration exclusive sur l'email :"
+    },
+    "phishingQuizzes.problem.emailFocus.text": {
+        "message": "De nombreuses simulations de phishing ciblent principalement les menaces par email, négligeant d'autres canaux comme les SMS, les applications de messagerie ou les réseaux sociaux."
+    },
+    "phishingQuizzes.problem.falseSecurity.title": {
+        "message": "Fausse impression de sécurité :"
     }
 }
