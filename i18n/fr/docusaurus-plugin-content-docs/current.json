@@ -1,15 +1,15 @@
 {
     "sidebar.HelpSidebar.category.Spaces": {
-        "message": ""
+        "message": "Espaces"
     },
     "sidebar.HelpSidebar.link.Contact & Support": {
-        "message": ""
+        "message": "Contact et assistance"
     },
     "sidebar.HelpSidebar.category.Technical Stuff": {
-        "message": ""
+        "message": "L'étiquette pour la catégorie 'Infos techniques' dans la barre latérale 'HelpSidebar'"
     },
     "sidebar.HelpSidebar.category.Shira Help Center": {
-        "message": ""
+        "message": "Centre d'aide Shira"
     },
     "version.label": {
         "message": "Suivant"
