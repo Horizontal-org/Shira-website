@@ -6,14 +6,15 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 ---
 
-# Release Notes
+# Notes de version
 
-:::tip Here’s everything you need to know about the latest features and
-improvements in Shira. If something is missing, you can [suggest new features or
-improvements here](https://github.com/Horizontal-org/shira/discussions). :::
+: ::tip Voici tout ce que vous devez savoir sur les dernières fonctionnalités et
+améliorations de Shira. S'il manque quelque chose, vous pouvez [suggérer de
+nouvelles fonctionnalités ou améliorations
+ici](https://github.com/Horizontal-org/shira/discussions). : ::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}
-*Released on 29 January 2026*
+*Sortie le 29 janvier 2026*
 
 This releases introduces private quizzes--our most requested feature!
 - Private quizzes: quizzes that can only be taken by learners who are registered
