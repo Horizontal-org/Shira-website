@@ -4,5 +4,17 @@
     },
     "logo.alt": {
         "message": "Logo Shira"
+    },
+    "link.title.Use Shira": {
+        "message": "Le titre de la colonne des liens de pied de page avec title=Utiliser Shira dans le pied de page"
+    },
+    "link.title.About": {
+        "message": "À propos"
+    },
+    "link.title.Get help": {
+        "message": "Obtenir de l'aide"
+    },
+    "link.item.label.Learn about phishing": {
+        "message": "En savoir plus sur le phishing"
     }
 }
