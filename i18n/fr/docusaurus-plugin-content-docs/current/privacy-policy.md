@@ -4,7 +4,7 @@ slug: /privacy-policy
 sidebar_position: 11
 description: Learn how Shira and Horizontal collect, use, and protect user data, including account data, functionality data, telemetry, and privacy rights.
 ---
-import TOCInline from '@theme/TOCInline';
+importer TOCInline depuis '@theme/TOCInline' ;
 
 
 # Politique de confidentialité {#privacy-policy}
@@ -37,7 +37,7 @@ la version de Shira disponible sur [https://shira.app](https://shira.app),
 Les données créées dans Shira ou générées lorsque les utilisateurs utilisent
 Shira peuvent être divisées en trois catégories :
 - Données du compte
-- Données fonctionnelles
+- Données de fonctionnalité
 - Télémétrie
 
 Les utilisateurs de Shira peuvent être divisés en quatre groupes :
