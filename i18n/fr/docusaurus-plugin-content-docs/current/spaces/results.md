@@ -5,16 +5,17 @@ sidebar_position: 5
 description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
-# Results
+# Résultats
 
-The Results section provides insights into whether people have completed your
-quiz and how well they've on the quiz.
+La section Résultats donne un aperçu de la complétion de vos quiz et du score
+obtenu par les participants.
 
-In Results, you can see the following information: **Number of completed
-quizzes** This is the number of times a quiz has been taken by learners.
-* In public quizzes, the number of completed quizzes is not always equal to the
-  number of learners who have taken the quiz (because learners are anonymous, a
-  learner can take a quiz multiple times).
+Dans Résultats, vous pouvez consulter les informations suivantes : **Nombre de
+quiz terminés** Il s'agit du nombre de fois où un quiz a été passé par des
+apprenants.
+* Dans les quiz publics, le nombre de quiz terminés n'est pas toujours égal au
+  nombre d'apprenants ayant passé le quiz (les apprenants étant anonymes, un
+  apprenant peut passer un même quiz plusieurs fois).
 * In private quizzes, registered learners can only take a quiz once.
 
 **Average score**\
