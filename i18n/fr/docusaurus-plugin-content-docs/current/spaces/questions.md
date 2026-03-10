@@ -8,11 +8,12 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 # Questions
 
-Quiz questions are where the learning happens in Shira. This is where you show
-your learners an email or message, and ask them: does this look like phishing?
+Les questions de quiz sont le cœur de l'apprentissage dans Shira. C'est ici que
+vous présentez un e-mail ou un message à vos apprenants et que vous leur
+demandez : cela ressemble-t-il à du phishing ?
 
-Each question is made up of several components:
-* [The question’s preferences](#preferences)
+Chaque question est composée de plusieurs éléments :
+* [Les préférences de la question](#preferences)
 * [An app](#app)
 * [The question's content](#content)
 * [Variables](#variables)
