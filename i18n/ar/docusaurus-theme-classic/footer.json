@@ -40,7 +40,7 @@
         "description": "The label of footer link with label=Visit our help center linking to /help"
     },
     "link.item.label.Contact us": {
-        "message": "اتصل بنا",
+        "message": "للتواصل",
         "description": "The label of footer link with label=Contact us linking to /contact"
     },
     "link.item.label.Learn about the Shira team": {
