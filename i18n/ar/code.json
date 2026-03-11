@@ -228,61 +228,61 @@
         "message": "التوضيحات 📝"
     },
     "features.list.explanations.description": {
-        "message": ""
+        "message": "إدراج الشروحات الخاصة لإرشاد المستخدمين إلى العناصر التي تشير إلى أن البريد الإلكتروني أو الرسالة تبدو كعملية تصيد احتيالي."
     },
     "features.list.gamification.title": {
-        "message": ""
+        "message": "التحفيز بالألعاب 🕹️"
     },
     "features.list.gamification.description": {
-        "message": ""
+        "message": "تجربة التعلم التفاعلية تعزز من ترسيخ المعرفة."
     },
     "features.list.multilingual.title": {
-        "message": ""
+        "message": "متعدد اللغات 🌐"
     },
     "features.list.multilingual.description": {
-        "message": ""
+        "message": "Shira متاح بالكامل باللغات الإنجليزية، والإسبانية، والفرنسية، والصينية، والعربية، والروسية."
     },
     "features.list.library.title": {
-        "message": ""
+        "message": "مكتبة الأسئلة 📚"
     },
     "features.list.library.description": {
-        "message": ""
+        "message": "يمكن إنشاء أسئلة اختبار خاصة من الصفر، أو التوجه إلى مكتبة Shira لاستخدام نماذج الأسئلة التي صممها خبراء تدريب في الأمن الرقمي."
     },
     "features.needMore.title": {
-        "message": ""
+        "message": "هل هناك ميزة غير متوفرة؟"
     },
     "features.needMore.subtitle": {
-        "message": ""
+        "message": "تواصلوا معنا، وسنعمل على تحقيق ذلك."
     },
     "features.needMore.cta": {
-        "message": ""
+        "message": "للتواصل"
     },
     "homepage.meta.title": {
-        "message": ""
+        "message": "Shira"
     },
     "homepage.meta.description": {
-        "message": ""
+        "message": "استخدموا Shira لتعزيز قدرة فريقكم على كشف هجمات التصيد الاحتيالي وإحباطها."
     },
     "homepage.meta.longDescription": {
-        "message": ""
+        "message": "يساعد Shira الأفراد والمنظمات على تعلم رصد هجمات التصيد الاحتيالي وإحباطها من خلال اختبارات تفاعلية تحمي الخصوصية وقابلة للتخصيص، وتحاكي سياق ولغة التطبيقات الواقعية مثل Gmail وSMS وWhatsApp."
     },
     "homepage.hero.title": {
-        "message": ""
+        "message": "استعداد. معرفة. صمود."
     },
     "homepage.hero.subtitle": {
-        "message": ""
+        "message": "يعزز Shira قدرة فريقكم على كشف هجمات التصيد الاحتيالي وإحباطها"
     },
     "homepage.learners.title": {
-        "message": ""
+        "message": "للمتعلمين والمتعلمات"
     },
     "homepage.learners.description": {
-        "message": ""
+        "message": "ابدأوا الآن بكل سهولة باستخدام أحد اختباراتنا المجانية والجاهزة. يمكنكم تخصيص الاختبار لتعلّم رصد التصيد الاحتيالي في التطبيقات التي تستخدمونها بشكل يومي مثل Gmail وSMS وWhatsApp وغيرها، مع أمثلة مصممة خصيصا لتناسب لغتكم ومجال عملكم."
     },
     "homepage.learners.cta": {
-        "message": ""
+        "message": "إجراء اختبار"
     },
     "homepage.educators.title": {
-        "message": ""
+        "message": "للمعلمين والمتخصصين في الأمن الرقمي"
     },
     "homepage.educators.description": {
         "message": ""
@@ -315,61 +315,61 @@
         "message": ""
     },
     "homepage.why.privacy.title": {
-        "message": ""
+        "message": "صديق للخصوصية"
     },
     "homepage.why.privacy.description": {
-        "message": ""
+        "message": "نحن لا نقوم بجمع أو مشاركة أي بيانات حساسة أو معلومات قد تحدد هوية المستخدمين."
     },
     "phishingQuizzes.meta.title": {
-        "message": ""
+        "message": "التعرف على اختبارات التصيد الاحتيالي"
     },
     "phishingQuizzes.meta.description": {
-        "message": ""
+        "message": "التعرف على اختبارات التصيد الاحتيالي"
     },
     "phishingQuizzes.meta.longDescription": {
-        "message": ""
+        "message": "اكتشفوا لماذا تُعد اختبارات التصيد أكثر فعالية من محاكاة الهجمات."
     },
     "phishingQuizzes.education.title": {
-        "message": ""
+        "message": "أسباب تفوق النهج التعليمي على محاكاة الهجمات"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": ""
+        "message": "أصبحت عمليات محاكاة التصيد الاحتيالي مكونا معياريا في برامج التدريب على مكافحة التصيد. وتتضمن هذه المحاكات إرسال رسائل بريد إلكتروني للموظفين تُحاكي التكتيكات التي يستخدمها مجرمو الإنترنت لخداع الأفراد ودفعهم للكشف عن معلومات حساسة أو النقر على روابط ضارة. ويتم تقييم الموظفين بناءً على استجاباتهم لهذه الرسائل المحاكية، وتحديداً ما إذا قاموا بالنقر على رابط ما أو قدموا أي معلومات حساسة."
     },
     "phishingQuizzes.education.paragraph2": {
-        "message": ""
+        "message": "غير أن هذا النهج يعاني من عيوب عديدة، ولا يرقى لمستوى فعالية النهج التعليمي الشامل لمكافحة التصيد الاحتيالي."
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": ""
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الإنترنت لا تجدي نفعا"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": ""
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الإنترنت لا تجدي نفعا"
     },
     "phishingQuizzes.problem.title": {
-        "message": ""
+        "message": "مشكلة تجارب محاكاة التصيد الاحتيالي"
     },
     "phishingQuizzes.problem.intro": {
-        "message": ""
+        "message": "على الرغم من الانتشار الواسع لعمليات محاكاة التصيد الاحتيالي، إلا أنها تنطوي على عدة مشكلات ينبغي على المنظمات أخذها بعين الاعتبار:"
     },
     "phishingQuizzes.problem.anxiety.title": {
-        "message": ""
+        "message": "خلق حالة من التوتر وانعدام الثقة:"
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": ""
+        "message": "من المحتمل أن يتولد لدى الأفراد توتر أو انعدام ثقة تجاه المراسلات الإلكترونية، بما في ذلك الرسائل الموثوقة، وهو ما ينعكس سلبا على كفاءتهم ويرفع من حدة الضغوط النفسية في العمل."
     },
     "phishingQuizzes.problem.emailFocus.title": {
-        "message": ""
+        "message": "الاقتصار على منصة البريد الإلكتروني:"
     },
     "phishingQuizzes.problem.emailFocus.text": {
-        "message": ""
+        "message": "تقتصر أغلب برامج محاكاة التصيد على مواجهة مخاطر البريد الإلكتروني، مع إغفال قنوات التواصل البديلة كالرسائل النصية وتطبيقات المحادثة وشبكات التواصل الاجتماعي."
     },
     "phishingQuizzes.problem.falseSecurity.title": {
-        "message": ""
+        "message": "شعور زائف بالأمان:"
     },
     "phishingQuizzes.problem.falseSecurity.text": {
-        "message": ""
+        "message": "إن تمكن الأفراد من تحديد اختبارات التصيد بنجاح قد يمنحهم طمأنينة خادعة تجاه جاهزيتهم الأمنية."
     },
     "phishingQuizzes.problem.clickRates.title": {
-        "message": ""
+        "message": "المبالغة في الاعتماد على معدلات النقر:"
     },
     "phishingQuizzes.problem.clickRates.text": {
         "message": ""
