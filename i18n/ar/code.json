@@ -372,19 +372,19 @@
         "message": "المبالغة في الاعتماد على معدلات النقر:"
     },
     "phishingQuizzes.problem.clickRates.text": {
-        "message": ""
+        "message": "التركيز الحصري على استجابة الأفراد بالنقر على رابط من عدمه قد يحجب رؤية أبعاد هامة أخرى تتعلق بمدى إدراكهم لمخاطر التصيد."
     },
     "phishingQuizzes.problem.desensitize.title": {
-        "message": ""
+        "message": "تراجع الحساسية تجاه التهديدات:"
     },
     "phishingQuizzes.problem.desensitize.text": {
-        "message": ""
+        "message": "قد يتسبب تكرار إرسال رسائل التصيد الوهمية في تراجع الحساسية تجاه التهديدات."
     },
     "phishingQuizzes.problem.punishment.title": {
-        "message": ""
+        "message": "التركيز على العقاب بدلا من الوقاية:"
     },
     "phishingQuizzes.problem.punishment.text": {
-        "message": ""
+        "message": "قد تتسبب محاكاة التصيد في خلق ثقافة يسودها الخوف، مما يجعل الأفراد أكثر تركيزا على تجنب العقاب بدلا من التركيز على التعلم."
     },
     "phishingQuizzes.research.text": {
         "message": ""
