@@ -3,79 +3,79 @@
         "message": "关于 Shira"
     },
     "about.meta.description": {
-        "message": ""
+        "message": "了解 Shira 及其背后的团队：该项目由非营利组织 Horizontal 打造，该组织致力于创建安全和隐私工具，帮助个人和组织抵御钓鱼攻击。"
     },
     "about.meta.longDescription": {
-        "message": ""
+        "message": "了解 Shira 及其背后的团队：该项目由非营利组织 Horizontal 打造，该组织致力于创建安全和隐私工具，帮助个人和组织抵御钓鱼攻击。"
     },
     "about.hero.title": {
-        "message": ""
+        "message": "Shira"
     },
     "about.hero.subtitle": {
-        "message": ""
+        "message": "帮助个人和组织培养抵御钓鱼攻击的能力"
     },
     "about.hero.cta": {
-        "message": ""
+        "message": "联系我们"
     },
     "about.hero.imageAlt": {
-        "message": ""
+        "message": "Shira 标志：由蓝色和浅绿色组成的字母 S"
     },
     "about.horizontal.imageAlt": {
-        "message": ""
+        "message": "Horizontal 标志"
     },
     "about.horizontal.title": {
-        "message": ""
+        "message": "谁打造了 Shira？"
     },
     "about.horizontal.description": {
-        "message": ""
+        "message": "Shira 是由 Horizontal 打造的项目。这是一家非营利科技组织，致力于构建安全和隐私技术，帮助人们在网络世界中更加安全。"
     },
     "about.horizontal.donationText": {
-        "message": ""
+        "message": "您可以帮助我们改善和维护 Shira："
     },
     "about.horizontal.donationLink": {
-        "message": ""
+        "message": "请在这里捐赠"
     },
     "about.horizontal.translationText": {
-        "message": ""
+        "message": "想要参与 Shira 新语种翻译，请发送邮件至"
     },
     "about.horizontal.cta": {
-        "message": ""
+        "message": "了解 Horizontal"
     },
     "about.why.imageAlt": {
-        "message": ""
+        "message": "鱼钩装饰图片"
     },
     "about.why.title": {
-        "message": ""
+        "message": "为什么选择 Shira？"
     },
     "about.why.easy.title": {
-        "message": ""
+        "message": "1. 简单易用"
     },
     "about.why.easy.description": {
-        "message": ""
+        "message": "Shira 在创建时已考虑到高风险人群，他们面临大量钓鱼攻击，而技术能力有限。"
     },
     "about.why.customizable.title": {
-        "message": ""
+        "message": "2. 可自定义"
     },
     "about.why.customizable.description": {
-        "message": ""
+        "message": "Shira 展示最接近真实场景的邮件和消息， 模拟日常网络使用时用户实际遇到的情况以及可能面临的钓鱼攻击。"
     },
     "about.why.privacy.title": {
-        "message": ""
+        "message": "3. 保护隐私"
     },
     "about.why.privacy.description": {
-        "message": ""
+        "message": "对于访问 Shira 或参加测验的用户，我们不会收集、保存或分享任何相关敏感信息或个人可识别数据。了解更多信息，请查看我们的隐私政策以及由独立安全公司执行的安全审计。"
     },
     "about.why.auditCta": {
-        "message": ""
+        "message": "安全审计"
     },
     "about.why.privacyCta": {
-        "message": ""
+        "message": "隐私政策"
     },
     "about.how.title": {
-        "message": ""
+        "message": "Shira 是如何开发的？"
     },
     "about.how.opensource": {
-        "message": ""
+        "message": "Shira 是开源项目，采用 MIT 2.0 许可协议。"
     },
     "about.how.design": {
         "message": ""
