@@ -11,93 +11,100 @@ Dans Shira, le quiz est l'élément central d'une campagne ou d'un programme de
 sensibilisation au phishing. Shira vous permet de créer vos propres quiz pour
 répondre aux besoins, au contexte et aux menaces spécifiques de votre public.
 
-Dans votre espace Shira, vous pouvez:
+Dans votre espace Shira, vous pouvez :
 - [créer des quiz](#create-quizzes)
-- [configure privacy settings](#privacy)
-- [publish and unpublish a quiz](#publish-unpublish)
-- [edit existing quizzes](#edit-quizzes)
-- [duplicate an existing quiz](#duplicate-quiz)
-- [delete quizzes](#delete-quiz)
+- [configurer les paramètres de confidentialité] (#privacy)
+- [publier et dépublier un quiz](#publish-unpublish)
+- [modifier des quiz existants](#edit-quizzes)
+- [dupliquer un quiz existant](#duplicate-quiz)
+- [supprimer des quiz](#delete-quiz)
 
-## Creating quizzes {#create-quizzes}
-When you create a quiz, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+## Créer des quiz {#create-quizzes}
+Lorsque vous créez un quiz, vous devez :
+1. Nommer votre quiz
+2. Définir les paramètres de confidentialité de votre quiz
 
-### Quiz name {#name}
-The name your pick for the quiz helps you and your learners recognize the
-purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc).
-The quiz name is visible to learners:
-- In the email learners receive when you assign them a quiz (exclusively for
-  [private quizzes](#privacy))
-- On the welcome screen when learners take the quiz.
+### Nom du quiz {#name}
+Le nom que vous choisissez pour le quiz vous aide, ainsi que vos apprenants, à
+en identifier l'objectif (ex. : "Formation du personnel T4", "Attaques les plus
+courantes de 2026", etc.). Le nom du quiz est visible par les apprenants :
+- Dans l'email que les apprenants reçoivent lorsque vous leur attribuez un quiz
+  (exclusivement pour les [quiz privés](#privacy))
+- Sur l'écran d'accueil lorsque les apprenants commencent le quiz.
 
-### Quiz privacy {#privacy}
-There are two options available for quiz privacy: public and private.
+### Confidentialité du quiz {#privacy}
+Deux options de confidentialité sont disponibles pour les quiz : public et
+privé.
 
-**The privacy of a quiz is permanent and cannot be changed**. If you want to
-change the privacy of an existing quiz, you must to duplicate the quiz.
+**La confidentialité d'un quiz est permanente et ne peut pas être modifiée.**.
+Si vous souhaitez changer la confidentialité d'un quiz existant, vous devez
+dupliquer le quiz.
 
-**Public quizzes**
-* Anyone with the quiz URL can take a public quiz.
-* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A
-  quiz URL looks like this:
-  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The
-  quiz URL remains the same even if you publish and unpublish the quiz multiple
-  times.
-* Learners who take public quizzes remain anonymous. This means that in
-  [Results](/results) you cannot identified who those learners are.
+**Quiz publics**
+* Toute personne disposant de l'URL du quiz peut y participer.
+* L'URL du quiz est une adresse unique à chaque quiz que les apprenants
+  utilisent pour y participer. Une URL de quiz ressemble à ceci :
+  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. L'URL
+  du quiz reste la même, même si vous publiez et dépubliez le quiz plusieurs
+  fois.
+* Les apprenants qui participent à des quiz publics restent anonymes. Cela
+  signifie que dans les [Résultats](/results), vous ne pouvez pas identifier qui
+  sont ces apprenants.
 
-**Private quizzes**
-* Only learners who are registered in your space can take the quiz. You can read
-  more about [registered learners here](/learners#registered).
-* When a registered learner is assigned a private quiz, they receive an email
-  with the link to take the quiz. This link is unique to each learner and helps
-  keep track of who takes the quiz and their results.
+**Quiz privés**
+* Seuls les apprenants inscrits dans votre espace peuvent participer au quiz.
+  Vous pouvez en savoir plus sur les [apprenants inscrits
+  ici](/learners#registered).
+* Lorsqu'un quiz privé est attribué à un apprenant inscrit, celui-ci reçoit un
+  email contenant le lien pour participer au quiz. Ce lien est unique à chaque
+  apprenant et permet de suivre qui participe au quiz ainsi que leurs résultats.
 
-## Adding question to your quiz {#questions}
+## Ajouter des questions à votre quiz {#questions}
 
-You can add questions to your quiz either by creating them manually or importing
-ready-made templates from the Library. [Learn more about questions
-here](/questions).
+Vous pouvez ajouter des questions à votre quiz soit en les créant manuellement,
+soit en important des modèles prêts à l'emploi depuis la Bibliothèque. [En
+savoir plus sur les questions ici](/questions).
 
-## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to learners.
+## Publier et dépublier des quiz {#publish-unpublish}
+Publier un quiz signifie que vous le rendez accessible aux apprenants.
 
-You can then unpublish the quiz to make it impossible for learners to take it.
-If the quiz is unpublished, the quiz URL will lead to an error page.
+Vous pouvez ensuite dépublier le quiz pour qu'il soit impossible pour les
+apprenants d'y participer. Si le quiz est dépublié, l'URL du quiz mènera à une
+page d'erreur.
 
-:::note If you unpublish a quiz *while* a learner is taking it, the learner will
-see an error message at the end of the quiz when they try to submit their
-answers, and their submission will be lost. :::
+:::note Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
+l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
+d'envoyer ses réponses, et sa participation sera perdue . :::
 
-## Editing quizzes {#edit-quizzes}
-You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz.
-- Editing questions that already exist in the quiz.
-- Reording questions: the order of questions that you see in your space is the
-  same order that the questions will be shown to learners when they take the
-  quiz.
-- Deleting questions: once deleted, there is no way of retrieving a question.
+## Modifier des quiz {#edit-quizzes}
+Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié,
+notamment pour :
+- Ajouter de nouvelles questions au quiz.
+- Modifier des questions déjà existantes dans le quiz.
+- Réorganiser les questions : l'ordre des questions que vous voyez dans votre
+  espace est le même que celui dans lequel les questions seront présentées aux
+  apprenants lorsqu'ils feront le quiz.
+- Supprimer des questions : une fois supprimée, il n'y a aucun moyen de
+  récupérer une question.
 
-:::note If some learners have already taken the quiz, editing this quiz may
-affect the reliability of [the quizz's results](/results). :::
+:::note Si des apprenants ont déjà participé au quiz, la modification de
+celui-ci peut affecter la fiabilité [des résultats du quiz](/results). : ::
 
-## Duplicating a quiz {#duplicate-quiz}
-Duplicating a quiz means creating an exact copy of an existing quiz.
+## Dupliquer un quiz {#duplicate-quiz}
+Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
 
-Once duplicated, the original quiz and the new quiz are independent from each
-other: you can edit or delete one, the other will be unaffected. **Results
-associated with the original quizz *will not* be moved to the new copy of the
-quiz**.
+Une fois dupliqués, le quiz original et le nouveau quiz sont indépendants l'un
+de l'autre : vous pouvez modifier ou supprimer l'un sans que l'autre ne soit
+affecté. **Les résultats associés au quiz original *ne seront pas* transférés
+vers la nouvelle copie du quiz**.
 
-You can set a quiz privacy settings (public or private) at the time of
-duplication.
+Vous pouvez définir les paramètres de confidentialité (public ou privé) au
+moment de la duplication.
 
 
-## Deleting a quiz {#delete-quiz}
-Deleting a quiz means that the quiz, all the questions inside the quiz, and any
-[results](/results) associated with this quiz are deleted from your space.
+## Supprimer un quiz {#delete-quiz}
+Supprimer un quiz signifie que le quiz, toutes les questions qu'il contient et
+tous les [résultats](/results)associés à ce quiz sont supprimés de votre espace.
 
-:::warning Deleting a quiz is permanent: once deleted, a quiz and its results
-cannot be recovered! :::
+:::warning La suppression d'un quiz est permanente : une fois supprimés, un quiz
+et ses résultats ne peuvent pas être récupérés ! :::
