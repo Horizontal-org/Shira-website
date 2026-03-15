@@ -6,36 +6,36 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 ---
 
-# Release Notes
+# ملاحظات الإصدار
 
-:::tip Here’s everything you need to know about the latest features and
-improvements in Shira. If something is missing, you can [suggest new features or
-improvements here](https://github.com/Horizontal-org/shira/discussions). :::
+:::tip هنا كل ما تحتاجون معرفته حول أحدث الميزات والتحسينات في Shira. في حال
+وجود نقص، يمكن [اقتراح ميزات أو تحسينات جديدة من
+هنا](https://github.com/Horizontal-org/shira/discussions). :::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}
-*Released on 29 January 2026*
+*تم الإصدار في 29 يناير 2026*
 
-This releases introduces private quizzes--our most requested feature!
-- Private quizzes: quizzes that can only be taken by learners who are registered
-  in your space.
-- Registered learners: learners who have been invited by an admin to join your
-  space and whose results are tied to their account, allowing you to see how
-  each is doing on your quizzes.
+يقدم هذا الإصدار ميزة الاختبارات الخاصة، وهي الميزة الأكثر طلباً من قبل
+مستخدمينا!
+- الاختبارات الخاصة: هي اختبارات لا يمكن اجراؤها إلا من قِبل المتعلمين المسجلين
+  في مساحتك الخاصة.
+- المتعلمون المسجلون: المتعلمون الذين تمت دعوتهم من قبل مسؤول للانضمام إلى
+  فضائكم ونتائجهم مرتبطة بحسابهم، وذلك يتيح لكم معرفة أداء كل منهم في اختباراتك.
 
-## Shira 2.0-beta4 {#shira-20-beta4}
-*Released on 3 November 2025*
+## Shira‏ 2.0-الإصدار التجريبي 4 (بِيتَا){#shira-20-beta4}
+*صدر في 3 نوفمبر 2025*
 
-With this release, we are getting closer to the full feature set that will be
-included in Shira 2.0. You can already find the following features:
-- Organizational spaces: a place for you to manage quizzes and see results.
-- Customizable quizzes: create as many quizzes as you wish.
-- Customizable quiz questions: create quiz questions tailored to your team's
-  needs and capacity.
-- Explanations: display short texts, directly inside quiz questions, to point
-  learners to specific elements in the question content that suggest that it may
-  be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to
-  what your learners will experience in real life: Gmail, Outlook, WhatsApp,
-  SMS, Facebook Messenger, and Dating App.
-- Results: see how well your learners did on your quizzes.
+مع هذا الإصدار، نقترب من مجموعة الميزات الكاملة التي ستُدرَج في الإصدار 2.0 لـ
+Shira. يمكنكم بالفعل العثور على الميزات التالية:
+- فضاءات التنظيم: مكان لإدارة الاختبارات ورؤية النتائج.
+- الاختبارات القابلة للتخصيص: أنشئوا ما تشاؤون من الاختبارات.
+- أسئلة الاختبار القابلة للتخصيص: لإنشاء أسئلة اختبار مصممة خصيصا لاحتياجات
+  الفريق وقدراته.
+- التوضيحات: عرض نصوص قصيرة داخل أسئلة الاختبار فورا، لتوجيه المتعلمين إلى عناصر
+  محددة في محتوى السؤال تشير إلى أنه قد يكون هجوم تصيد أو أنه قد يكون خاليا من
+  الشبهة.
+- ستة تطبيقات لعرض الأسئلة وجعلها تبدو أقرب ما يمكن لما سيختبره المتعلمون في
+  الحياة الواقعية: Gmail، Outlook، واتساب، الرسائل القصيرة، فيسبوك ماسنجر،
+  وتطبيق المواعدة.
+- النتائج: مشاهدة مدى أداء المتعلمين في اختباراتك.
 
