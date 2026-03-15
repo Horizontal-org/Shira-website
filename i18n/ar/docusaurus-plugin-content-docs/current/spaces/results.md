@@ -5,17 +5,16 @@ sidebar_position: 5
 description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
-# Results
+# النتائج
 
-The Results section provides insights into whether people have completed your
-quiz and how well they've on the quiz.
+يوفر قسم النتائج نظرة شاملة حول مدى إكمال المشاركين للاختبار ومستوى أدائهم فيه.
 
-In Results, you can see the following information: **Number of completed
-quizzes** This is the number of times a quiz has been taken by learners.
-* In public quizzes, the number of completed quizzes is not always equal to the
-  number of learners who have taken the quiz (because learners are anonymous, a
-  learner can take a quiz multiple times).
-* In private quizzes, registered learners can only take a quiz once.
+يمكن الاطلاع على المعلومات التالية في قسم النتائج : **عدد الاختبارات المكتملة**
+وهو إجمالي المرات التي أجرى فيها المتعلمون الاختبار.
+* في الاختبارات العامة، لا يتساوى عدد الاختبارات المكتملة دائماً مع عدد
+  المتعلمين الذين خاضوا الاختبار (فبسبب كون المتعلمين مجهولي الهوية، يمكن
+  للمتعلم الواحد أداء الاختبار عدة مرات).
+* في الاختبارات الخاصة، يمكن للمتعلمين المسجلين أداء الاختبار مرة واحدة فقط.
 
 **Average score**\
 This is the average score received by all learners who took the quiz.
@@ -25,13 +24,13 @@ This is the percentage of learners who have submitted the quiz out of all the
 learners assigned this quiz. Completion rate is only available for private
 quizzes.
 
-**Results by question** [coming soon]\
-This shows you the average score received by all learners on each specific
-question in the quiz.
+**النتائج حسب السؤال** [قريبا]\
+هذا يعرض لكم متوسط الدرجات التي حصل عليها جميع المتعلمين في كل سؤال محدد في
+الاختبار.
 
-**Results by learner** [coming soon]\
-This shows you the list of registered learners who completed the quiz and their
-score on the quiz. Results by learner are only available for private quizzes.
+**النتائج حسب المتعلم** [قريبا]\
+يعرض لكم قائمة المتعلمين المسجلين الذين أكملوا الاختبار ودرجتهم فيه. النتائج حسب
+المتعلم متاحة فقط للاختبارات الخاصة.
 
-:::note If there are specific things you'd like to track in Results, [let us
-know](/contact)! :::
+:::ملاحظة: إذا كانت هناك أشياء محددة ترغبون في تتبُّعها في النتائج،
+[أخبرونا](/contact)! :::
