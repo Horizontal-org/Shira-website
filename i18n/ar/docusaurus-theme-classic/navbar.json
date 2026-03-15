@@ -1,0 +1,42 @@
+{
+    "logo.alt": {
+        "message": "شعار Shira",
+        "description": "The alt text of navbar logo"
+    },
+    "item.label.Features": {
+        "message": "الميزات",
+        "description": "Navbar item with label Features"
+    },
+    "item.label.Take a quiz": {
+        "message": "إجراء اختبار",
+        "description": "Navbar item with label Take a quiz"
+    },
+    "item.label.Learn": {
+        "message": "التعلم",
+        "description": "Navbar item with label Learn"
+    },
+    "item.label.Pricing": {
+        "message": "الأسعار",
+        "description": "Navbar item with label Pricing"
+    },
+    "item.label.Help": {
+        "message": "المساعدة",
+        "description": "Navbar item with label Help"
+    },
+    "item.label.About": {
+        "message": "حول",
+        "description": "Navbar item with label About"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "إنشاء حساب / تسجيل الدخول",
+        "description": "Navbar item with label Sign up/Log in"
+    },
+    "item.label.What is Phishing?": {
+        "message": "ما هو التصيد الاحتيالي؟",
+        "description": "Navbar item with label What is Phishing?"
+    },
+    "item.label.Why phishing quizzes?": {
+        "message": "لماذا اختبارات التصيد الاحتيالي؟",
+        "description": "Navbar item with label Why phishing quizzes?"
+    }
+}
