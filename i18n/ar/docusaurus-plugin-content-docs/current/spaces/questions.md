@@ -6,37 +6,35 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 ---
 
-# Questions
+# الأسئلة
 
-Quiz questions are where the learning happens in Shira. This is where you show
-your learners an email or message, and ask them: does this look like phishing?
+أسئلة الاختبار هي المكان الذي يتحقق فيه التعلم الفعلي في Shira. حيث تعرض على
+متدربيك رسالة بريد إلكتروني أو نصاً قصيراً وتطرح عليهم السؤال : هل يبدو هذا
+تصيداً احتيالياً؟
 
-Each question is made up of several components:
-* [The question’s preferences](#preferences)
-* [An app](#app)
-* [The question's content](#content)
-* [Variables](#variables)
-* [Explanations](#explanations)
+يتكون كل سؤال من عدة عناصر:
+* [تفضيلات السؤال](#preferences)
+* [تطبيق](#app)
+* [محتوى السؤال](#content)
+* [المتغيرات](#variables)
+* [التوضيحات](#explanations)
 
-## Creating a question {#create}
-To create questions and add them to your quiz, you have two options:
-1. You can create questions from scratch and configureeach of the questions
-   components yourself.
-2. You can pull ready-made questions from the Library. If you pull a question
-   from the Library, you can use it as is or adapt it to your specific context
-   and needs.
+## إنشاء سؤال {#create}
+لإنشاء أسئلة وإضافتها إلى الاختبار، هناك خياران اثنان:
+1. يمكن إنشاء أسئلة من الصفر وتهيئة كل جزء من مكونات الأسئلة بأنفسكم.
+2. يمكن سحب أسئلة جاهزة من المكتبة. إذا أخذتم سؤالا من المكتبة، يمكن استخدامه
+   كما هو أو تكييفه حسب السياق وعند الحاجة.
 
-## Question preferences {#preferences}
-When you create a question, you must:
-- Name the question: this name, like "Invitation to conference" or "Suspicious
-  login notification", helps you recognize the questions you create. A
-  question's name is only visible to space admins; learners never see it when
-  they take a quiz.
-- Tell Shira whether the email or message you're creating is *phishing* or
-  *legitimate*. This will allow Shira to determine whether a user's response is
-  correct.
+## تفضيلات الأسئلة {#preferences}
+عند إنشاء سؤال، يجب:
+- تسمية السؤال: ذلك الاسم، مثل 'دعوة للمؤتمر' أو 'إشعار دخول مشبوه'، يساعد على
+  التعرف على الأسئلة التي يجري إنشاؤها. يظهر اسم السؤال فقط لمسؤولي الفضاء؛ لا
+  يرى المتعلمون ذلك أبدا عند إجراء الاختبار.
+- وجب إخبار Shira أن البريد الإلكتروني أو الرسالة التي جرى إنشاؤها تُمثِّل
+  *تصيدا احتياليا* أو هي *مشروعة*. إذ يسمح ذلك لـ Shira بتحديد صحة جواب
+  المستخدم.
 
-## An app {#app}
+## تطبيق {#app}
 An *app* is an interface that looks exactly like the actual app or platform your
 learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
 
