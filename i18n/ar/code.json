@@ -808,7 +808,7 @@
         "description": "The ARIA label for the color mode toggle"
     },
     "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "عنصر واحد|{count} عناصر",
+        "message": "",
         "description": "The default description for a category card in the generated index about how many items this category includes"
     },
     "theme.docs.paginator.navAriaLabel": {
@@ -1106,16 +1106,16 @@
         "description": "The title of the tag list page"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": ""
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الإنترنت لا تجدي نفعا"
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": ""
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الإنترنت لا تجدي نفعا"
     },
     "phishingQuizzes.research.emphasis": {
-        "message": ""
+        "message": "نتائج عكسية"
     },
     "phishingQuizzes.research.final": {
-        "message": ""
+        "message": "أثر محاكاة التصيد الاحتيالي: المستخدمون الذين يتعرضون باستمرار لمحاكاة التصيد هم الأكثر عرضة للنقر على الروابط الخطيرة."
     },
     "pricing.compliance.detailed": {
         "message": "✔️إحصاءات مفصلة لتتبع نتائج حسب المتعلم والأسئلة"
