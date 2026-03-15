@@ -6,28 +6,28 @@ description: Learn about Shira learners — anonymous participants who take quiz
 
 ---
 
-# Learners
+# المتعلمون
 
-A learner is anyone who takes a quiz.
+المتعلم هو أي شخص يُجري اختبارا.
 
-There are two types of learners in Shira:
-* Anonymous learners
-* Registered learners
+تنقسم فئات المتعلمين في Shira إلى نوعين:
+* المتعلمون المجهولون
+* المتعلمون المسجلون
 
-### Anonymous learners {#anonymous}
-Anonymous learners are users who are *not* registered in a Shira space.
-Anonymous learners:
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made).
-* Cannot take [private quizzes](/quizzes#privacy).
-* Cannot be identified in a quiz's [results](/results).
+### المتعلمون المجهولون {#anonymous}
+المتعلمون المجهولون هم مستخدمون *غير مسجلين* في مساحة Shira. المتعلمون
+المجهولون:
+* يمكنكم إنجاز [اختبارات عمومية](/quizzes#privacy) أو [اختبارات
+  جاهزة](/ready-made).
+* لا يمكن إنجاز [اختبارات خاصة](/quizzes#privacy).
+* لا يمكن تحديده في [نتائج الاختبار](/results).
 
-### Registered learners {#registered}
-Registered learners are users who you have invited to join your Space and who
-have accepted your invitation. Registered learners:
-* Can take [private quizzes](/quizzes#privacy).
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made), but their results in those quizzes will not be tied to
-  them (you cannot see how well a registered learner did on a public quiz).
-* Have detailed [results](/results) that let you see how well they've done on
-  the private quizzes they take.
+### المتعلمون المسجلون {#registered}
+المتعلمون المسجلون هم المستخدمون الذين دعوتهم للانضمام إلى فضائكم ثم قبلوا
+الدعوة. المتعلمون المسجلون:
+* يمكن إجراء [اختبارات خاصة](/quizzes#privacy).
+* يمكن إجراء [اختبارات عمومية](/quizzes#privacy) أو [اختبارات
+  جاهزة](/ready-made)، لكن النتائج في تلك الاختبارات لن تكون مرتبطة بالمتعلم (لا
+  يمكنك رؤية مدى أداء المتعلم المسجل في اختبار عمومي).
+* يتيح الحصول على نتائج مفصلة (/results) رؤية مدى أداء المتعلمين في الاختبارات
+  الخاصة التي ينجزونها.
