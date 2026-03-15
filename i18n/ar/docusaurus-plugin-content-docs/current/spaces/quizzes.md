@@ -5,34 +5,34 @@ sidebar_position: 2
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---
-# Quizzes
+# اختبارات
 
-In Shira, a quiz is the central component of a phishing education campaign or
-program. Shira lets you build your own quizzes to match your audience's specific
-needs, context, and threats.
+في Shira، يُعد الاختبار المكون المركزي لأي برنامج أو حملة تعليمية ضد التصيد
+الاحتيالي. يمنحك Shira المرونة الكاملة لبناء اختباراتكم الخاصة بما يتناسب مع
+الاحتياجات الدقيقة لجمهوركم، وسياق عملهم، والتهديدات التي قد يواجهونها.
 
-In your Shira Space, you can:
-- [create quizzes](#create-quizzes)
-- [configure privacy settings](#privacy)
-- [publish and unpublish a quiz](#publish-unpublish)
-- [edit existing quizzes](#edit-quizzes)
-- [duplicate an existing quiz](#duplicate-quiz)
-- [delete quizzes](#delete-quiz)
+في مساحة Shira الخاصة بكم، يمكن:
+- [إنشاء اختبارات](#create-quizzes)
+- [تهيئة إعدادات الخصوصية](#privacy)
+- [نشر وإلغاء نشر الاختبار](#publish-unpublish)
+- [تعديل الاختبارات الموجودة](#edit-quizzes)
+- [تكرار اختبار موجود](#duplicate-quiz)
+- [حذف الاختبارات](#delete-quiz)
 
-## Creating quizzes {#create-quizzes}
-When you create a quiz, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+## إنشاء اختبارات {#create-quizzes}
+عند إنشاء اختبار ما، يجب:
+1. أطلقوا اسما على اختباركم
+2. تحديد خصوصية الاختبارات
 
-### Quiz name {#name}
-The name your pick for the quiz helps you and your learners recognize the
-purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc).
-The quiz name is visible to learners:
-- In the email learners receive when you assign them a quiz (exclusively for
-  [private quizzes](#privacy))
-- On the welcome screen when learners take the quiz.
+### اسم الاختبار {#name}
+إن إطلاق اسم على الاختبار يساعدكم مع متعلميكم على التعرف على هدف الاختبار (مثلا:
+'تدريب الموظفين في الربع الرابع للسنة المالية'، 'أكثر الهجمات شيوعا في 2026'،
+إلخ). اسم الاختبار مرئي للمتعلمين:
+- في البريد الإلكتروني الذي يتلقاه المتعلمون عندما تُعيِّنون لهم اختبارا (حصريا
+  [للاختبارات الخاصة](#privacy))
+- على شاشة الترحيب عندما يُجري المتعلمون الاختبار.
 
-### Quiz privacy {#privacy}
+### خصوصية الاختبار {#privacy}
 There are two options available for quiz privacy: public and private.
 
 **The privacy of a quiz is permanent and cannot be changed**. If you want to
