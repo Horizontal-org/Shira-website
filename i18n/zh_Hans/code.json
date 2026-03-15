@@ -78,259 +78,259 @@
         "message": "Shira 是开源项目，采用 MIT 2.0 许可协议。"
     },
     "about.how.design": {
-        "message": ""
+        "message": "在 Horizontal，我们以用户需求为中心，为面临数字攻击的高风险用户设计和开发。"
     },
     "about.how.community": {
-        "message": ""
+        "message": "Shira 支持多种语言，并与高风险用户共同创建。"
     },
     "about.how.communityLink": {
-        "message": ""
+        "message": "与高风险用户共同创建"
     },
     "about.how.green": {
-        "message": ""
+        "message": "本网站使用绿色能源运行。"
     },
     "about.how.greenAlt": {
-        "message": ""
+        "message": "本网站使用绿色主机服务，已通过 thegreenwebfoundation.org 验证"
     },
     "contact.title": {
-        "message": ""
+        "message": "联系 Shira 团队"
     },
     "contact.description": {
-        "message": ""
+        "message": "了解如何联系 Shira 团队"
     },
     "contact.metaDescription": {
-        "message": ""
+        "message": "了解如何联系 Shira 团队"
     },
     "contact.heading": {
-        "message": ""
+        "message": "来一起聊聊！"
     },
     "contact.intro.part1": {
-        "message": ""
+        "message": "是否有关于 Shira 的问题在"
     },
     "contact.intro.helpCenter": {
-        "message": ""
+        "message": "帮助中心"
     },
     "contact.intro.part2": {
-        "message": ""
+        "message": "中找不到答案？想要探讨可能的合作机会吗？是否是非营利组织或基层团体，并且无法承担 Shira 的全部费用？"
     },
     "contact.getInTouch": {
-        "message": ""
+        "message": "联系我们："
     },
     "contact.links.emailText": {
-        "message": ""
+        "message": "发送邮件至"
     },
     "contact.links.github": {
-        "message": ""
+        "message": "提交功能建议或对现有请求投票"
     },
     "contact.links.demo": {
-        "message": ""
+        "message": "直接在此预约网络演示"
     },
     "contact.links.newsletter": {
-        "message": ""
+        "message": "订阅我们的新闻通讯"
     },
     "features.meta.title": {
-        "message": ""
+        "message": "Shira 功能"
     },
     "features.meta.description": {
-        "message": ""
+        "message": "探索 Shira 为教育工作者和安全专业人员提供的功能。"
     },
     "features.meta.longDescription": {
-        "message": ""
+        "message": "探索 Shira 为教育工作者和安全专业人员提供的功能：创建逼真的钓鱼测验、模拟真实攻击、追踪团队进展，并建立持久的钓鱼防范意识。"
     },
     "features.intro.audience": {
-        "message": ""
+        "message": "面向教育工作者和安全专业人员"
     },
     "features.intro.title": {
-        "message": ""
+        "message": "针对{your3}面临的威胁，为{your2}团队定制{your1}专属的网络钓鱼测验"
     },
     "features.intro.your1": {
-        "message": ""
+        "message": "您"
     },
     "features.intro.your2": {
-        "message": ""
+        "message": "您的"
     },
     "features.intro.your3": {
-        "message": ""
+        "message": "您"
     },
     "features.intro.pricing": {
-        "message": ""
+        "message": "定价"
     },
     "features.intro.getStarted": {
-        "message": ""
+        "message": "开始使用"
     },
     "features.images.fishAlt": {
-        "message": ""
+        "message": "鱼的插图，表示钓鱼攻击"
     },
     "features.images.bubblesAlt": {
-        "message": ""
+        "message": "气泡和鱼的插图"
     },
     "features.allFeatures.title": {
-        "message": ""
+        "message": "保护团队安全所需的一切功能"
     },
     "features.allFeatures.description": {
-        "message": ""
+        "message": "没有人比您更了解团队的需求。Shira 让您完全掌控，针对组织的特定需求、潜在的攻击风险以及同事的技能水平，创建量身定制的学习体验。"
     },
     "features.list.ui.title": {
-        "message": ""
+        "message": "用户友好的界面 🎨"
     },
     "features.list.ui.description": {
-        "message": ""
+        "message": "直观的控制面板，轻松浏览并管理测验和用户。"
     },
     "features.list.roles.title": {
-        "message": ""
+        "message": "基于角色的访问控制 🔒"
     },
     "features.list.roles.description": {
-        "message": ""
+        "message": "管理员和学习者具有不同的访问权限级别。"
     },
     "features.list.realLife.title": {
-        "message": ""
+        "message": "真实攻击模拟 ⚡"
     },
     "features.list.realLife.description": {
-        "message": ""
+        "message": "测验提供公司真实遭受的钓鱼攻击细节，帮助团队做好最充足的准备。"
     },
     "features.list.email.title": {
-        "message": ""
+        "message": "邮件钓鱼模拟 📧"
     },
     "features.list.email.description": {
-        "message": ""
+        "message": "创建模拟 Gmail 和 Outlook 钓鱼邮件的测验，包括发件人信息、主题行、邮件正文、链接、图片和文件附件。"
     },
     "features.list.sms.title": {
-        "message": ""
+        "message": "短信钓鱼模拟 💬"
     },
     "features.list.sms.description": {
-        "message": ""
+        "message": "创建模拟短信钓鱼攻击的测验，提供逼真的短信内容。"
     },
     "features.list.messaging.title": {
-        "message": ""
+        "message": "即时通讯应用钓鱼模拟 💬"
     },
     "features.list.messaging.description": {
-        "message": ""
+        "message": "创建测试，模拟 WhatsApp 或 Facebook Messenger 等流行即时通讯应用中出现的钓鱼攻击。"
     },
     "features.list.mobile.title": {
-        "message": ""
+        "message": "移动端支持 📱"
     },
     "features.list.mobile.description": {
-        "message": ""
+        "message": "我们经常在移动设备上面临钓鱼攻击。在 Shira 中，用户可通过移动设备参加测验，为真实生活中的攻击做好准备。"
     },
     "features.list.compliance.title": {
-        "message": ""
+        "message": "合规 ✅"
     },
     "features.list.compliance.description": {
-        "message": ""
+        "message": "确保团队真正完成测验，并监控成功率。"
     },
     "features.list.analytics.title": {
-        "message": ""
+        "message": "分析 📈"
     },
     "features.list.analytics.description": {
-        "message": ""
+        "message": "追踪用户进展并识别需要改进的领域，包括用户在哪些类型的应用中最容易受到攻击，或者哪些特定用户需要额外支持。"
     },
     "features.list.explanations.title": {
-        "message": ""
+        "message": "解析 📝"
     },
     "features.list.explanations.description": {
-        "message": ""
+        "message": "嵌入您自己的解析，引导用户关注特定元素，识别邮件或消息中的钓鱼特征。"
     },
     "features.list.gamification.title": {
-        "message": ""
+        "message": "游戏化 🕹️"
     },
     "features.list.gamification.description": {
-        "message": ""
+        "message": "引人入胜的学习体验，提升知识记忆效果。"
     },
     "features.list.multilingual.title": {
-        "message": ""
+        "message": "多语言 🌐"
     },
     "features.list.multilingual.description": {
-        "message": ""
+        "message": "Shira 对英语、西班牙语、法语、中文、阿拉伯语和俄语提供完整支持。"
     },
     "features.list.library.title": {
-        "message": ""
+        "message": "题库 📚"
     },
     "features.list.library.description": {
-        "message": ""
+        "message": "从无到有创建测验题目，也可通过 Shira 题库，使用数字安全培训师创建的题目模板。"
     },
     "features.needMore.title": {
-        "message": ""
+        "message": "确实某个功能？"
     },
     "features.needMore.subtitle": {
-        "message": ""
+        "message": "请和我们联系。我们将会满足您的需求。"
     },
     "features.needMore.cta": {
-        "message": ""
+        "message": "联系我们"
     },
     "homepage.meta.title": {
-        "message": ""
+        "message": "Shira"
     },
     "homepage.meta.description": {
-        "message": ""
+        "message": "使用 Shira 提升团队识别和抵御钓鱼攻击的能力。"
     },
     "homepage.meta.longDescription": {
-        "message": ""
+        "message": "通过保护隐私的互动测验，Shira 帮助个人和组织学习识别和抵御钓鱼攻击，测验支持多种场景和语言，并可根据 Gmail、短信和 WhatsApp 等真实应用量身定制。"
     },
     "homepage.hero.title": {
-        "message": ""
+        "message": "准备，知识，韧性"
     },
     "homepage.hero.subtitle": {
-        "message": ""
+        "message": "Shira 可增强团队能力，识别和抵御钓鱼攻击"
     },
     "homepage.learners.title": {
-        "message": ""
+        "message": "面向学习者"
     },
     "homepage.learners.description": {
-        "message": ""
+        "message": "免费的现成测验，即可开始学习。自定义测验，学习日常应用中钓鱼攻击，包括Gmail、短信、WhatsApp 等，同时，根据您的语言和行业，可对内容进行量身定制。"
     },
     "homepage.learners.cta": {
-        "message": ""
+        "message": "参加测验"
     },
     "homepage.educators.title": {
-        "message": ""
+        "message": "面向教育工作者和安全专业人员"
     },
     "homepage.educators.description": {
-        "message": ""
+        "message": "组织的需求和风险各有不同。量身定制的钓鱼测验，可满足组织需求并监控团队的成功率，并且无需任何编程。"
     },
     "homepage.educators.cta": {
-        "message": ""
+        "message": "创建您自己的测验"
     },
     "homepage.context.description": {
-        "message": ""
+        "message": "多年来，钓鱼一直是个人和组织面临的最常见攻击之一。钓鱼攻击最初仅限于电子邮件，但现在也出现在短信、即时通讯应用和社交媒体。培养用户技能，识别和抵御钓鱼攻击，当前比以往任何时候都更加重要。"
     },
     "homepage.context.imageAlt": {
-        "message": ""
+        "message": "放大镜装饰图"
     },
     "homepage.why.title": {
-        "message": ""
+        "message": "为什么选择 Shira？"
     },
     "homepage.why.intro": {
-        "message": ""
+        "message": "无论参加免费的现成测验，还是自定义团队所需的测验，Shira 都具备以下特点："
     },
     "homepage.why.easy.title": {
-        "message": ""
+        "message": "简单易用"
     },
     "homepage.why.easy.description": {
-        "message": ""
+        "message": "针对最高钓鱼攻击风险而设计，即使技术能力有限也可轻松使用。"
     },
     "homepage.why.customizable.title": {
-        "message": ""
+        "message": "量身定制"
     },
     "homepage.why.customizable.description": {
-        "message": ""
+        "message": "逼真的钓鱼消息，模拟用户日常面临的真实场景。"
     },
     "homepage.why.privacy.title": {
-        "message": ""
+        "message": "保护隐私"
     },
     "homepage.why.privacy.description": {
-        "message": ""
+        "message": "我们不会收集或分享用户的任何敏感信息或个人可识别的数据。"
     },
     "phishingQuizzes.meta.title": {
-        "message": ""
+        "message": "了解钓鱼测验"
     },
     "phishingQuizzes.meta.description": {
-        "message": ""
+        "message": "了解钓鱼测验"
     },
     "phishingQuizzes.meta.longDescription": {
-        "message": ""
+        "message": "学习为什么钓鱼测验比模拟更有效。"
     },
     "phishingQuizzes.education.title": {
-        "message": ""
+        "message": "为什么教育优于模拟"
     },
     "phishingQuizzes.education.paragraph1": {
         "message": ""
