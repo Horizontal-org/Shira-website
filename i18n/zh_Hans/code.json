@@ -333,193 +333,193 @@
         "message": "为什么教育优于模拟"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": ""
+        "message": "钓鱼模拟已成为反钓鱼培训项目的标准组成部分。这些模拟向员工发送电子邮件，模仿网络犯罪分子使用的策略，诱骗个人泄露敏感信息或点击恶意链接。根据员工对这些模拟邮件的反应，对其进行评估，尤其是，是否点击链接或提供任何敏感信息。"
     },
     "phishingQuizzes.education.paragraph2": {
-        "message": ""
+        "message": "但是这种方法存在一些缺点，并且效果不如全面的反钓鱼教育。"
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": ""
+        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": ""
+        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.problem.title": {
-        "message": ""
+        "message": "钓鱼模拟的问题"
     },
     "phishingQuizzes.problem.intro": {
-        "message": ""
+        "message": "虽然钓鱼模拟广泛使用，但组织应考虑若干问题："
     },
     "phishingQuizzes.problem.anxiety.title": {
-        "message": ""
+        "message": "制造焦虑和不信任："
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": ""
+        "message": "用户可能对邮件产生焦虑或不信任感，即使正常邮件也是如此，这可能导致生产力下降和压力增加。"
     },
     "phishingQuizzes.problem.emailFocus.title": {
-        "message": ""
+        "message": "过度关注电子邮件："
     },
     "phishingQuizzes.problem.emailFocus.text": {
-        "message": ""
+        "message": "许多钓鱼模拟主要针对电子邮件威胁，忽略了短信、即时通讯应用或社交媒体等其他渠道。"
     },
     "phishingQuizzes.problem.falseSecurity.title": {
-        "message": ""
+        "message": "虚假安全感："
     },
     "phishingQuizzes.problem.falseSecurity.text": {
-        "message": ""
+        "message": "成功识别钓鱼模拟攻击，员工可能产生虚假的安全感。"
     },
     "phishingQuizzes.problem.clickRates.title": {
-        "message": ""
+        "message": "过度强调点击率："
     },
     "phishingQuizzes.problem.clickRates.text": {
-        "message": ""
+        "message": "只关注员工是否点击链接，忽视钓鱼防范意识的其他重要方面。"
     },
     "phishingQuizzes.problem.desensitize.title": {
-        "message": ""
+        "message": "用户变得麻木："
     },
     "phishingQuizzes.problem.desensitize.text": {
-        "message": ""
+        "message": "反复发送虚假钓鱼邮件可能使用户对威胁变得麻木。"
     },
     "phishingQuizzes.problem.punishment.title": {
-        "message": ""
+        "message": "侧重惩罚而非预防："
     },
     "phishingQuizzes.problem.punishment.text": {
-        "message": ""
+        "message": "模拟钓鱼邮件可能制造恐惧文化，用户更关注避免惩罚而非学习。"
     },
     "phishingQuizzes.research.text": {
-        "message": ""
+        "message": "研究发现，钓鱼模拟活动并不能有效训练人们对钓鱼攻击的识别能力。"
     },
     "phishingQuizzes.research.link": {
-        "message": ""
+        "message": "一项涉及 14,000 名参与者的研究"
     },
     "phishingQuizzes.research.conclusion": {
-        "message": ""
+        "message": "实际上揭示了钓鱼模拟的负面效果。"
     },
     "phishingQuizzes.quizzes.title": {
-        "message": ""
+        "message": "更有效的方法：钓鱼测验"
     },
     "phishingQuizzes.quizzes.description": {
-        "message": ""
+        "message": "钓鱼测验提供可控的学习环境，比传统钓鱼模拟更有利于技能培养。"
     },
     "phishingQuizzes.quizzes.benefitsIntro": {
-        "message": ""
+        "message": "优势包括："
     },
     "phishingQuizzes.benefits.controlled.title": {
-        "message": ""
+        "message": "可控的学习环境："
     },
     "phishingQuizzes.benefits.controlled.text": {
-        "message": ""
+        "message": "钓鱼测验为员工提供低风险的安全空间来练习技能。"
     },
     "phishingQuizzes.benefits.interactive.title": {
-        "message": ""
+        "message": "互动参与："
     },
     "phishingQuizzes.benefits.interactive.text": {
-        "message": ""
+        "message": "这些测验鼓励积极参与并提供即时反馈。"
     },
     "phishingQuizzes.benefits.coverage.title": {
-        "message": ""
+        "message": "覆盖各种钓鱼策略："
     },
     "phishingQuizzes.benefits.coverage.text": {
-        "message": ""
+        "message": "钓鱼测验可涵盖短信、社交媒体和语音等场景。"
     },
     "phishingQuizzes.benefits.confidence.title": {
-        "message": ""
+        "message": "信心构建："
     },
     "phishingQuizzes.benefits.confidence.text": {
-        "message": ""
+        "message": "员工在支持性的环境中从错误中学习。"
     },
     "phishingQuizzes.benefits.tailored.title": {
-        "message": ""
+        "message": "量身定制的学习目标："
     },
     "phishingQuizzes.benefits.tailored.text": {
-        "message": ""
+        "message": "自定义测验，专注特定技能和知识盲区。"
     },
     "phishingQuizzes.cta": {
-        "message": ""
+        "message": "开始使用"
     },
     "phishing.layout.title": {
-        "message": ""
+        "message": "了解钓鱼"
     },
     "phishing.layout.description": {
-        "message": ""
+        "message": "了解钓鱼的含义、运作方式以及为何有效。探索最常见的钓鱼攻击、攻击者的目标，以及对个人和组织造成的严重后果。"
     },
     "phishing.meta.description": {
-        "message": ""
+        "message": "了解钓鱼的含义、运作方式以及为何有效。探索最常见的钓鱼攻击、攻击者的目标，以及对个人和组织造成的严重后果。"
     },
     "phishing.intro.title": {
-        "message": ""
+        "message": "什么是钓鱼？"
     },
     "phishing.intro.definition": {
-        "message": ""
+        "message": "钓鱼指一种恶意企图，通过在电子通信中伪装成可信实体，来获取用户名、密码和信用卡详情等敏感信息。钓鱼也可能诱使您下载和安装恶意软件。"
     },
     "phishing.intro.protection": {
-        "message": ""
+        "message": "理解钓鱼是保护自己和组织的第一步。"
     },
     "phishing.images.fish.alt": {
-        "message": ""
+        "message": "鱼的装饰插图"
     },
     "phishing.common.title": {
-        "message": ""
+        "message": "最常见攻击"
     },
     "phishing.common.rank": {
-        "message": ""
+        "message": "钓鱼一直被列为个人和组织所遭受的最常见攻击。"
     },
     "phishing.common.channels": {
-        "message": ""
+        "message": "传统上，钓鱼与电子邮件诈骗关联在一起，但如今涉及多种媒介：电子邮件、短信、即时通讯应用、社交媒体平台和电话。"
     },
     "phishing.images.bubbles.alt": {
-        "message": ""
+        "message": "气泡装饰插图"
     },
     "phishing.attackers.title": {
-        "message": ""
+        "message": "攻击者试图获取什么？"
     },
     "phishing.attackers.passwords.label": {
-        "message": ""
+        "message": "密码："
     },
     "phishing.attackers.passwords.text": {
-        "message": ""
+        "message": "攻击者试图窃取密码和登录凭据，以访问受害者的在线账号。利用这些信息，他们可以实施欺诈、窃取数据，或通过威胁暴露敏感信息来勒索受害者。"
     },
     "phishing.attackers.money.label": {
-        "message": ""
+        "message": "金钱："
     },
     "phishing.attackers.money.text": {
-        "message": ""
+        "message": "经济利益是钓鱼的关键动机。攻击者冒充合法组织，通常借助捐款请求或虚假发票，诱骗受害者付款或提供信用卡详细信息。"
     },
     "phishing.attackers.confidential.label": {
-        "message": ""
+        "message": "机密信息："
     },
     "phishing.attackers.confidential.text": {
-        "message": ""
+        "message": "钓鱼针对机密信息，如社会安全号码和商业数据。这些信息可在暗网出售，或用于身份盗窃以及企业间谍活动。"
     },
     "phishing.attackers.malware.label": {
-        "message": ""
+        "message": "诱使受害者安装恶意软件："
     },
     "phishing.attackers.malware.text": {
-        "message": ""
+        "message": "通过恶意链接或附件，钓鱼者诱骗受害者下载恶意软件。一旦安装，恶意软件可窃取个人信息、监控活动或控制设备，这将导致严重的数据泄露。"
     },
     "phishing.why.title": {
-        "message": ""
+        "message": "钓鱼为何奏效？"
     },
     "phishing.why.intro": {
-        "message": ""
+        "message": "钓鱼者利用以下心理："
     },
     "phishing.why.polite.label": {
-        "message": ""
+        "message": "礼貌冲动："
     },
     "phishing.why.polite.text": {
-        "message": ""
+        "message": "当消息来自权威人士或可信来源时，人们常常感到不得不回复。利用这一心理，钓鱼者使用礼貌的语言，可使收件人更可能满足提供敏感信息的请求，同时不去质疑消息是否可信。"
     },
     "phishing.why.helpful.label": {
-        "message": ""
+        "message": "助人冲动："
     },
     "phishing.why.helpful.text": {
-        "message": ""
+        "message": "我们许多人天生以助人为乐。钓鱼者虚构某些场景，比如声称同事或亲戚遇到麻烦，诱使收件人提供帮助。这种操纵手段会导致人们在自以为乐于助人的情况下，泄露个人信息。"
     },
     "phishing.why.embarrassed.label": {
-        "message": ""
+        "message": "避免尴尬："
     },
     "phishing.why.embarrassed.text": {
-        "message": ""
+        "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，在其心中制造恐慌。这种恐慌促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
     },
     "phishing.why.urgent.label": {
         "message": ""
