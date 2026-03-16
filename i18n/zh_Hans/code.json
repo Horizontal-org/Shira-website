@@ -522,7 +522,7 @@
         "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，在其心中制造恐慌。这种恐慌促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
     },
     "phishing.why.urgent.label": {
-        "message": ""
+        "message": "紧急消息引发恐慌："
     },
     "phishing.why.urgent.text": {
         "message": ""
