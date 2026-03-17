@@ -38,22 +38,23 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 An *app* is an interface that looks exactly like the actual app or platform your
 learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
 
-With apps, Shira shows an email or message exactly how it would be in real life.
-This means that when they face a real-life phishing attack, learners will be
-more likely to know where to look for clues that it is phishing.
+من خلال التطبيقات، يعرض Shira رسائل البريد الإلكتروني أو الرسائل النصية تماماً
+كما تظهر في الواقع. وهذا يعني أنه عندما يواجه المتعلمون هجوماً حقيقياً للتصيد
+الاحتيالي، سيكونون أكثر قدرة على معرفة الأماكن التي يجب البحث فيها عن الدلائل
+التي تكشف هذا الاحتيال.
 
-Currently, Shira supports the following apps:
+يدعم Shira حالياً التطبيقات التالية :
 - Gmail
 - Outlook
-- SMS
+- الرسائل النصية
 - WhatsApp
 - Facebook Messenger
-- Dating App
+- تطبيقات المواعدة
 
 :::note [Let us know](/contact) if your team relies on apps that aren't in this
 list and that you would like to see in Shira! :::
 
-## The question's content {#content}
+## محتوى السؤال {#content}
 A question's content is the actual email or message that you draft to display in
 the quiz question.
 
