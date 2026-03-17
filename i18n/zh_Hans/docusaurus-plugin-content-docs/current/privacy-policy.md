@@ -7,199 +7,143 @@ description: Learn how Shira and Horizontal collect, use, and protect user data,
 import TOCInline from '@theme/TOCInline';
 
 
-# Privacy policy {#privacy-policy}
+# 隐私政策 {#privacy-policy}
 
 
 <TOCInline toc={toc.filter((node) => node.level === 2)} />
 
-This privacy policy was last updated on 9 February 2026.
+本隐私政策最后更新于 2026 年 2 月 9 日。
 
 
-## 1. Introduction {#intro}
-Horizontal is the organization that makes Shira. Horizontal is deeply committed
-to user privacy and to the protection of user data.
+## 1. 引言 {#intro}
+Horizontal 是开发 Shira 的组织，坚定致力于保护用户隐私和数据。
 
-As a non-profit dedicated to privacy rights, we design our products to collect
-as little information as necessary about our users; and whatever information we
-do collect, we do our best to anonymize and/or ensure that users give us
-informed consent to collect this data.
+作为专注于隐私权利的非营利组织，我们在设计产品时力求尽量减少对用户信息的收集；同时，对于已收集的信息，我们尽力进行匿名化处理，并确保用户在知情同意的前提下授权我们收集这些数据。
 
-The statement below applies exclusively to Shira Cloud, that is the version of
-Shira available at [https://shira.app](https://shira.app),
-[https://space.shira.app](https://space.shira.app), and
-[https://quiz.shira.app](https://quiz.shira.app).
+以下声明仅适用于 Shira
+Cloud，即通过以下方式提供的版本：[https://shira.app](https://shira.app)、[https://space.shira.app](https://space.shira.app)
+和 [https://quiz.shira.app](https://quiz.shira.app)。
 
-## 2. Data collected {#data-collected}
-The data that is created in Shira or that is generated when users use Shira can
-be divided into three categories:
-- Account data
-- Functionality data
-- Telemetry
+## 2. 收集的数据 {#data-collected}
+在使用 Shira 时，用户创建或生成数据可分为三类：
+- 账号数据
+- 功能数据
+- 遥测数据
 
-Shira users can be divided into four groups:
-- Admins, who can log into a Shira "space" to manage their quizzes, users, and
-  results.
-- Anonymous Learners, who are not registered on Shira and can only take public
-  quizzes through the public URL.
-- Registered Learners, who are invited to join Spaces, take private quizzes, and
-  don't have a password to log into Shira.
-- Visitors, who visit the Shira websites but do not take quizzes or interact
-  with Shira functionality.
+Shira 用户可分为四类：
+- 管理员：可以登录 Shira “空间”来管理测验、用户和结果。
+- 匿名学员：未在 Shira 注册，仅可通过公开 URL 参加公开测验。
+- 注册学员：受邀加入空间，参加私有测验，但没有登录 Shira 的密码。
+- 访客：访问 Shira 网站，但没有参加测验或使用 Shira 功能。
 
-As outlined below, for each of those groups, different data is collected.
+如下所述，对于每类用户，我们收集的数据有所不同。
 
-### Account data {#account-data}
-#### What is account data? {#what-is-account-data}
+### 账号数据 {#account-data}
+#### 什么是账号数据？ {#what-is-account-data}
 
-Account data is the data that is associated with a user's Shira account.
-- Admins are considered to have a Shira account as soon they have created a
-  space.
-- Registered Learners are considered to have a Shira account as soon they are
-  invited to join a Space.
+账号数据指与用户 Shira 账号相关联的数据。
+- 管理员一旦创建空间，即视为拥有 Shira 账号。
+- 注册学员一旦受邀加入空间，即视为拥有 Shira 账号。
 
-Anonymous Learners and Visitors do not have Shira accounts.
+匿名学员和访客没有 Shira 账号。
 
-#### What account data do we collect? {#what-account-data-do-we-collect}
-This is the account data we collect about Admins:
-- Email address: this is the email address an Admin uses to create a space with
-  and that remains associated with the Admin's account.
-- Date of account creation: an Admin account is considered "created" when an
-  Admin accepts the invitation to create a Space.
-- What Space(s) the Admin is associated with.
+#### 我们收集哪些账号数据？ {#what-account-data-do-we-collect}
+以下是我们收集的管理员账号数据：
+- 电子邮箱地址：管理员创建空间时使用的电子邮箱地址，该地址将始终与管理员账号关联。
+- 账号创建日期：当管理员接受邀请创建空间时，即视为管理员账号“已创建”。
+- 管理员关联的空间。
 
-This is the account data we collect about Registered Learners:
-- Email address: this is the email address a Registered User is invited to join
-  a space with, and that remains associated with the Registered User's account
-  once the account is created.
-- Date of account creation: a Registered Learner's account is considered
-  "created" when an admin sends an invitation to a Registered Learner to join a
-  Space.
-- What Space(s) the Registered Learner is associated with.
+以下是我们收集的注册学员账号数据：
+- 电子邮箱地址：注册用户受邀加入空间时使用的电子邮箱地址。一旦创建账号，该地址将始终与该注册用户账号关联。
+- 账号创建日期：当管理员向注册学员发送加入空间的邀请时，即视为注册学员账号"已创建"。
+- 注册学员关联的空间。
 
-We do not collect any account data from Anonymous Learners and Visitors.
+我们不收集匿名学员和访客的任何账号数据。
 
-#### How do we collect account data? {#how-do-we-collect-account-data}
-- Email addresses and the list of Spaces a user is associated with are collected
-  when a user fills an invitation form (when an Admin fills the form to create a
-  Space or when an admin fills the information to send an invitation to a
-  Registered Learner to join a space).
-- The date of account creation is collected automatically when the account is
-  created.
+#### 我们如何收集账号数据？ {#how-do-we-collect-account-data}
+- 在用户填写邀请表单时，收集电子邮箱地址和用户关联的空间列表，即管理员填写创建空间的表单时，或管理员填写信息以向注册学员发送加入空间邀请时。
+- 在账号创建时自动收集该账号的创建日期。
 
-#### How do we share or disclose account data? {#how-do-we-share-or-disclose-account-data}
-We will never sell your account data to any third party.
+#### 我们如何分享或披露账号数据？ {#how-do-we-share-or-disclose-account-data}
+我们绝不会向任何第三方出售您的账号数据。
 
-We will never intentionally disclose your account data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to process
-  payments).
+我们绝不会有意向任何第三方披露您的账号数据，但以下情况除外：
+- 当法律要求时，例如，法院通过传票要求提供该数据。
+- 运营和提供 Shira 服务所必需时，例如处理付款。
 
-### Functionality data {#functionality-data}
+### 功能数据 {#functionality-data}
 
-#### What is functionality data? {#what-is-functionality-data}
-Functionality data is the data that is generated when users make use of Shira
-features, such as quizzes, quiz questions, results, and more.
+#### 什么是功能数据？ {#what-is-functionality-data}
+功能数据是用户使用 Shira 功能（如测验、测验题目、结果等）时生成的数据。
 
-#### What functionality data do we collect? {#what-functionality-data-do-we-collect}
-This is the functionality data we collect about Admins:
-- Information about the quizzes created and managed by Admins, including the
-  quiz name and status (published, unpublished, public, private, etc), the list
-  of quiz questions, and the explanations created in each question.
-- When Admins connect and use Shira, including the day and time of each
-  connection.
+#### 我们收集哪些功能数据？ {#what-functionality-data-do-we-collect}
+以下是我们收集的管理员功能数据：
+- 管理员创建和管理的测验信息，包括测验名称和状态（已发布、未发布、公开、私有等）、测验题目列表，以及每道题目中创建的解析说明。
+- 管理员连接和使用 Shira 的时间，包括每次连接的日期和时间。
 
-This is the functionality data we collect about Registered Learners:
-- List of quizzes that a Registered Learner is invited to take or has taken.
-- Responses submitted by the Registered Learner when taking a quiz (Results).
-- Date and time a Registered Learner has taken a quiz.
+以下是我们收集的注册学员功能数据：
+- 注册学员受邀参加或已完成的测验列表。
+- 注册学员参加测验时提交的答案（结果）。
+- 注册学员参加测验的日期和时间。
 
-This is the functionality data we collect about Anonymous Learners:
-- Responses submitted by the Anonymous Learner when taking a quiz (Results).
-- Date and time an Anonymous Learner has taken a quiz.
+以下是我们收集的匿名学员功能数据：
+- 匿名学员参加测验时提交的答案（结果）。
+- 匿名学员参加测验的日期和时间。
 
-We do not collect functionality data about Visitors.
+我们不收集访客的功能数据。
 
-#### How is functionality data collected? {#how-is-functionality-data-collected}
-We collect functionality data automatically from user inputs as they make use of
-Shira features.
+#### 如何收集功能数据？ {#how-is-functionality-data-collected}
+我们通过用户在使用 Shira 功能时的输入自动收集功能数据。
 
-#### How do we share or disclose functionality data? {#how-do-we-share-or-disclose-functionality-data}
-We will never sell your functionality data to any third party.
+#### 我们如何分享或披露功能数据？ {#how-do-we-share-or-disclose-functionality-data}
+我们绝不会向任何第三方出售您的功能数据。
 
-We will never intentionally disclose your functionality data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to display
-  Results).
+我们绝不会有意向任何第三方披露您的功能数据，但以下情况除外：
+- 当法律要求时，例如，法院通过传票要求提供该数据。
+- 运营和提供 Shira 服务所必需时，例如处理付款。
 
-### Telemetry {#telemetry}
+### 遥测数据 {#telemetry}
 
-#### What is telemetry? {#what-is-telemetry}
-Telemetry is data about how users make use of Shira features, how often they use
-Shira, and what performance or user experience issues they may be experiencing.
+#### 什么是遥测数据？ {#what-is-telemetry}
+遥测数据指用户如何使用 Shira 功能、使用频率以及可能遇到的性能或用户体验问题。
 
-Telemetry data is used to improve Shira's performance, features, and user
-experience.
+遥测数据用于改善 Shira 的性能、功能和用户体验。
 
-#### What telemetry do we collect? {#what-telemetry-do-we-collect}
-We collect the following telemetry data:
-- The number of visits to https://quiz.shira.app
-- The number of quizzes started at https://shira.app, including both ready-made
-  quizzes and custom quizzes created by Space admins
-- The number of quizzes completed at https://shira.app, including both
-  ready-made quizzes and custom quizzes created by Space admins
+#### 我们收集哪些遥测数据？ {#what-telemetry-do-we-collect}
+我们收集以下遥测数据：
+- https://quiz.shira.app 访问次数
+- 在 https://shira.app 开始的测验数量，包括现成测验和空间管理员自定义的测验
+- 在 https://shira.app 完成的测验数量，包括现成测验和空间管理员自定义的测验
 
-#### How is telemetry collected? {#how-is-telemetry-collected}
-Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a
-privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is
-anonymized to ensure that it reveals no sensitive information or personally
-identifiable information about users.
+#### 如何收集遥测数据？ {#how-is-telemetry-collected}
+遥测数据通过 [Divvi Up](https://divviup.org/) 自动收集。Divvi Up
+是一项尊重隐私的遥测服务，可对所有遥测数据进行匿名化处理，确保不会泄露用户的敏感数据或个人可识别信息。
 
-This is how we approach the collection of telemetry:
-- All data is anonymous and aggregated: the Divvi Up library splits the data
-  into two anonymized and encrypted shares and uploads each share to different
-  data share processors (one hosted by ISRG, the makers of Divvi Up, and one
-  hosted by us) that do not share data with each other. This way, only partial
-  information about the original data is revealed to either processor.
-- Even if we wanted to, we couldn't get the whole data: It's not possible to
-  construct the whole data with only one share. Each processor aggregates its
-  data shares into a partial sum. The partial sums can then be combined into a
-  final aggregation, permitting useful statistics over the whole body of data
-  while revealing minimal information about individual participants. More
-  information how Divvi Up works can be found here.
-- We collect as little data as possible: Even though all data is anonymized, we
-  always minimize the amount of data we collect.
+以下是遥测数据的收集方式：
+- 所有数据均为匿名且聚合而成：Divvi Up 库将数据一分为二，每份经过匿名和加密处理，上传到不同的数据处理器（一个由 Divvi Up 开发方 ISRG
+  托管，另一个由我们托管）。这两个处理器之间不共享数据，因此任一处理器只能获取原始数据的部分信息。
+- 即使想要获取完整数据，我们也无法做到：仅凭一份数据无法还原全部。每个处理器将其数据份额聚合成部分和，然后将这些部分和组合成最终的聚合结果，从而在对整体数据进行有用统计的同时，尽可能少地披露个体参与者的信息。更多关于
+  Divvi Up 工作原理的信息可在此处查看。
+- 尽可能减少数据收集：即使所有数据都经过匿名化处理，我们仍坚持尽量减少数据的收集。
 
-#### How do we share or disclose telemetry? {#how-do-we-share-or-disclose-telemetry}
-We will never sell your telemetry data to any third party. We will never
-intentionally disclose your telemetry data to any third party, except in the
-following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order)
-- As necessary to operate and provide the services of Shira (e.g. to provide
-  usage data to partners or contractors)
+#### 我们如何分享或披露遥测数据？ {#how-do-we-share-or-disclose-telemetry}
+我们绝不会向任何第三方出售您的遥测数据。我们绝不会有意向任何第三方披露您的遥测数据，但以下情况除外：
+- 当法律要求时，例如，法院通过传票要求提供该数据
+- 运营和提供 Shira 服务所必需时，例如处理付款
 
-## 3. Data security {#data-security}
-We implement industry standard practices to protect your data from unauthorized
-access, including:
-- Encryption in-transit between your browser and our servers, using the SSL/TLS
-  protocol
-- JSON Web Tokens, which are an open, industry standard RFC 7519 method for
-  representing claims securely between two parties
+## 3. 数据安全 {#data-security}
+为了防止未经授权访问您的数据，我们采用行业标准实践，包括：
+- 使用 SSL/TLS 协议，对浏览器与服务器之间的传输数据进行加密
+- JSON Web Tokens，一种开放的行业标准（RFC 7519），用于在两方之间安全地传递声明信息
 
-## 4. Your California Privacy Rights {#california}
-If you are a California resident, California law may provide you with additional
-rights regarding our use of your personal information. To learn more about your
-California privacy rights, visit
-[https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
+## 4. 加州隐私权利 {#california}
+如果您是加利福尼亚州居民，加州法律可为您提供有关个人信息使用的额外权利。了解更多关于加州隐私权利，请访问
+[https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa)。
 
-## 5. Changes to Our Privacy Policy {#changes}
-We may update or privacy policy from time to time.
+## 5. 隐私政策变更 {#changes}
+我们可能不定期更新隐私政策。
 
-The date the privacy policy was last revised is identified at the top of the
-page. You are responsible for periodically visiting this privacy policy to check
-for any changes.
+在页面顶部显示隐私政策最后修订的日期。您有责任定期访问本隐私政策，以查看任何变更。
 
-## 6. Contact Information {#contact}
-To ask questions or comment about this privacy policy and our privacy practices,
-contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
+## 6. 联系方式 {#contact}
+对于我们的隐私政策和实践，如果您有任何疑问或意见，请联系：[contact@wearehorizontal.org](mailto:contact@wearehorizontal.org)。
