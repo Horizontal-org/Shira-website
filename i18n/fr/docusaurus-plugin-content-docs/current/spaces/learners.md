@@ -12,22 +12,23 @@ Un apprenant est toute personne qui passe un quiz.
 
 Il existe deux types d'apprenants dans Shira :
 * Apprenants anonymes
-* Registered learners
+* Apprenants inscrits
 
-### Anonymous learners {#anonymous}
-Anonymous learners are users who are *not* registered in a Shira space.
-Anonymous learners:
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made).
-* Cannot take [private quizzes](/quizzes#privacy).
-* Cannot be identified in a quiz's [results](/results).
+### Apprenants anonymes {#anonymous}
+Les apprenants anonymes sont des utilisateurs qui *ne sont pas* inscrits dans un
+espace Shira. Les apprenants anonymes :
+* Peuvent participer aux [quiz publics](/quizzes#privacy) ou aux [quiz prêts à
+  l'emploi](/ready-made).
+* Ne peuvent pas participer aux [quiz privés](/quizzes#privacy).
+* Ne peuvent pas être identifiés dans les [résultats(/results) d'un quiz.
 
-### Registered learners {#registered}
-Registered learners are users who you have invited to join your Space and who
-have accepted your invitation. Registered learners:
-* Can take [private quizzes](/quizzes#privacy).
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made), but their results in those quizzes will not be tied to
-  them (you cannot see how well a registered learner did on a public quiz).
-* Have detailed [results](/results) that let you see how well they've done on
-  the private quizzes they take.
+### Apprenants inscrits {#registered}
+Les apprenants inscrits sont des utilisateurs que vous avez invités à rejoindre
+votre Espace et qui ont accepté votre invitation. Les apprenants inscrits :
+* Peuvent participer aux [quiz privés](/quizzes#privacy).
+* Peuvent participer aux [quiz publics](/quizzes#privacy) ou aux [quiz prêts à
+  l'emploi](/ready-made), mais leurs résultats à ces quiz ne leur seront pas
+  rattachés (vous ne pouvez pas voir les performances d'un apprenant inscrit sur
+  un quiz public).
+* Disposent de [résultats](/results) détaillés qui vous permettent de voir leurs
+  performances aux quiz privés auxquels ils participent.
