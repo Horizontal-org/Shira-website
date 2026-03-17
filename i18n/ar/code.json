@@ -141,7 +141,7 @@
         "message": "للمعلمين والمتخصصين في الأمن الرقمي"
     },
     "features.intro.title": {
-        "message": "صمموا اختبارات التصيد الخاصة {your1} لتمكين {your2} من مواجهة التهديدات التي {your3}."
+        "message": "صمموا اختبارات التصيد الخاصة {your1} لتمكين {your2} من مواجهة التهديدات التي {your3}"
     },
     "features.intro.your1": {
         "message": "بكم"
@@ -300,7 +300,7 @@
         "message": "لماذا Shira ؟"
     },
     "homepage.why.intro": {
-        "message": "‫سواء أنجزتم اختباراتنا الجاهزة والمجانية، أو عند إعداد اختباراتكم المخصصة لتدريب فريقكم، فإن Shira :‬"
+        "message": "‫سواء أنجزتم اختباراتنا الجاهزة والمجانية، أو عند إعداد اختباراتكم المخصصة لتدريب فريقكم، فإن Shira :"
     },
     "homepage.why.easy.title": {
         "message": "سهل الاستخدام"
@@ -657,7 +657,7 @@
         "message": "التحكم في الوصول"
     },
     "pricing.access.public": {
-        "message": "✔️الاختبارات العامة : يمكن لأي شخص إجراء اختبارك من خلال رابط سهل المشاركة"
+        "message": "✔️الاختبارات العمومية : يمكن لأي شخص إجراء اختبارك من خلال رابط سهل المشاركة"
     },
     "pricing.pro.title": {
         "message": "الباقة الاحترافية"
@@ -808,7 +808,7 @@
         "description": "The ARIA label for the color mode toggle"
     },
     "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "",
+        "message": "عنصر واحد|عنصران|{count} عناصر|{count} عنصراً|{count} عنصر",
         "description": "The default description for a category card in the generated index about how many items this category includes"
     },
     "theme.docs.paginator.navAriaLabel": {
@@ -955,7 +955,7 @@
         "description": "The ARIA label for the link to full blog posts from excerpts"
     },
     "theme.blog.post.readingTime.plurals": {
-        "message": "",
+        "message": "دقيقة واحدة للقراءة|دقيقتان للقراءة|{readingTime} دقائق للقراءة|{readingTime} دقيقةً للقراءة|{readingTime} دقيقة للقراءة",
         "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.breadcrumbs.home": {
@@ -1046,7 +1046,7 @@
         "message": "في كل مكان"
     },
     "theme.SearchPage.documentsFound.plurals": {
-        "message": "",
+        "message": "تم العثور على مستند واحد|تم العثور على مستندين|تم العثور على {count} مستندات|تم العثور على {count} مستنداً|تم العثور على {count} مستند",
         "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.SearchPage.noResultsText": {
@@ -1054,7 +1054,7 @@
         "description": "The paragraph for empty search result"
     },
     "theme.blog.post.plurals": {
-        "message": "",
+        "message": "منشور واحد|منشوران|{count} منشورات|{count} منشوراً|{count} منشور",
         "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.blog.tagTitle": {
