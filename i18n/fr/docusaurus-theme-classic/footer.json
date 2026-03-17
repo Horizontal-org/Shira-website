@@ -16,5 +16,32 @@
     },
     "link.item.label.Learn about phishing": {
         "message": "En savoir plus sur le phishing"
+    },
+    "link.item.label.Effective phishing education": {
+        "message": "Formation efficace en matière de phishing"
+    },
+    "link.item.label.Take a ready-made quiz": {
+        "message": "Faire un quiz prêt à l'emploi"
+    },
+    "link.item.label.Explore Shira features": {
+        "message": "Explorer les fonctionnalités de Shira"
+    },
+    "link.item.label.Build a custom quiz": {
+        "message": "Créer un quiz personnalisé"
+    },
+    "link.item.label.Visit our help center": {
+        "message": "Visiter notre centre d'aide"
+    },
+    "link.item.label.Contact us": {
+        "message": "Contactez-nous"
+    },
+    "link.item.label.Learn about the Shira team": {
+        "message": "Découvrir l'équipe Shira"
+    },
+    "link.item.label.Shira is open source": {
+        "message": "Shira est un logiciel libre"
+    },
+    "copyright": {
+        "message": "Shira est un produit de <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, une organisation technologique à but non lucratif dédiée à rendre la sécurité et la confidentialité en ligne accessibles à tous. </br> Sous licence MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
     }
 }
