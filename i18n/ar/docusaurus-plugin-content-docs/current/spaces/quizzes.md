@@ -33,13 +33,13 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 - على شاشة الترحيب عندما يُجري المتعلمون الاختبار.
 
 ### خصوصية الاختبار {#privacy}
-There are two options available for quiz privacy: public and private.
+هناك خياران متاحان لخصوصية الاختبار: عمومي وخاص.
 
-**The privacy of a quiz is permanent and cannot be changed**. If you want to
-change the privacy of an existing quiz, you must to duplicate the quiz.
+**خصوصية الاختبار دائمة ولا يمكن تغييرها**. إذا أردت تغيير إعدادات الخصوصية
+لاختبار موجود بالفعل، فيجب عليك نسخ الاختبار.
 
-**Public quizzes**
-* Anyone with the quiz URL can take a public quiz.
+**الاختبارات العمومية**
+* يمكن لأي شخص لديه رابط الاختبار اجراء اختبار عمومي.
 * The quiz URL is a URL unique to each quiz that learners use to take a quiz. A
   quiz URL looks like this:
   `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The
@@ -48,14 +48,14 @@ change the privacy of an existing quiz, you must to duplicate the quiz.
 * Learners who take public quizzes remain anonymous. This means that in
   [Results](/results) you cannot identified who those learners are.
 
-**Private quizzes**
+**الاختبارات الخاصة**
 * Only learners who are registered in your space can take the quiz. You can read
   more about [registered learners here](/learners#registered).
 * When a registered learner is assigned a private quiz, they receive an email
   with the link to take the quiz. This link is unique to each learner and helps
   keep track of who takes the quiz and their results.
 
-## Adding question to your quiz {#questions}
+## إضافة سؤال إلى الاختبار {#questions}
 
 You can add questions to your quiz either by creating them manually or importing
 ready-made templates from the Library. [Learn more about questions
