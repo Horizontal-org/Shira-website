@@ -180,7 +180,7 @@
         "message": "基于角色的访问控制 🔒"
     },
     "features.list.roles.description": {
-        "message": "管理员和学习者具有不同的访问权限级别。"
+        "message": "管理员和学员具有不同的访问权限级别。"
     },
     "features.list.realLife.title": {
         "message": "真实攻击模拟 ⚡"
@@ -273,7 +273,7 @@
         "message": "Shira 可增强团队能力，识别和抵御钓鱼攻击"
     },
     "homepage.learners.title": {
-        "message": "面向学习者"
+        "message": "面向学员"
     },
     "homepage.learners.description": {
         "message": "免费的现成测验，即可开始学习。自定义测验，学习日常应用中钓鱼攻击，包括Gmail、短信、WhatsApp 等，同时，根据您的语言和行业，可对内容进行量身定制。"
@@ -525,596 +525,599 @@
         "message": "紧急消息引发恐慌："
     },
     "phishing.why.urgent.text": {
-        "message": ""
+        "message": "紧迫感是一种强大的驱动力。钓鱼者捏造虚假消息，声称账户将被暂停或付款已逾期，以此制造紧迫感。恐慌会蒙蔽判断力，使人仓促行动而无视警告信号。"
     },
     "phishing.consequences.title": {
-        "message": ""
+        "message": "钓鱼攻击可导致严重后果"
     },
     "phishing.consequences.identity.label": {
-        "message": ""
+        "message": "身份盗窃："
     },
     "phishing.consequences.identity.text": {
-        "message": ""
+        "message": "网络犯罪分子利用个人信息假冒他人。"
     },
     "phishing.consequences.financial.label": {
-        "message": ""
+        "message": "经济损失："
     },
     "phishing.consequences.financial.text": {
-        "message": ""
+        "message": "未经授权的交易可导致钱被转走，账户清空。"
     },
     "phishing.consequences.data.label": {
-        "message": ""
+        "message": "数据泄露："
     },
     "phishing.consequences.data.text": {
-        "message": ""
+        "message": "公司敏感信息泄露，导致声誉受损。"
     },
     "phishing.consequences.operational.label": {
-        "message": ""
+        "message": "运营中断："
     },
     "phishing.consequences.operational.text": {
-        "message": ""
+        "message": "钓鱼可导致停机和生产力损失。"
     },
     "phishing.images.worm.alt": {
-        "message": ""
+        "message": "虫子装饰插图"
     },
     "phishing.how.title": {
-        "message": ""
+        "message": "钓鱼如何运作"
     },
     "phishing.how.intro": {
-        "message": ""
+        "message": "钓鱼攻击通常涉及以下步骤："
     },
     "phishing.how.deceptive.label": {
-        "message": ""
+        "message": "欺骗性通信："
     },
     "phishing.how.deceptive.text": {
-        "message": ""
+        "message": "攻击者发送的消息看似来自正规的来源，如银行、在线服务或同事。"
     },
     "phishing.how.urgent.label": {
-        "message": ""
+        "message": "非常紧急需要行动："
     },
     "phishing.how.urgent.text": {
-        "message": ""
+        "message": "消息常常含有一种紧迫感，促使收件人快速行动，例如点击链接或提供个人信息。"
     },
     "phishing.how.fake.label": {
-        "message": ""
+        "message": "虚假网站："
     },
     "phishing.how.fake.text": {
-        "message": ""
+        "message": "受害者点击链接之后，将打开欺诈网站，但看似正规网站。在这里，他们可能被要求输入密码或银行信息等敏感信息。"
     },
     "phishing.how.data.label": {
-        "message": ""
+        "message": "数据窃取："
     },
     "phishing.how.data.text": {
-        "message": ""
+        "message": "一旦受害者提供他们的信息，攻击者即可用来进行身份盗窃、金融欺诈或其他恶意行为。"
     },
     "pricing.layout.title": {
-        "message": ""
+        "message": "Shira 定价"
     },
     "pricing.layout.description": {
-        "message": ""
+        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人员和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
     },
     "pricing.meta.description": {
-        "message": ""
+        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人员和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
     },
     "pricing.intro.subtitle": {
-        "message": ""
+        "message": "可定制方案，面向教育工作者和安全专业人员"
     },
     "pricing.intro.title": {
-        "message": ""
+        "message": "定价简单、透明、公平"
     },
     "pricing.starter.title": {
-        "message": ""
+        "message": "入门版"
     },
     "pricing.starter.description": {
-        "message": ""
+        "message": "试用和了解 Shira"
     },
     "pricing.starter.price": {
-        "message": ""
+        "message": "0 美元"
     },
     "pricing.starter.note": {
-        "message": ""
+        "message": "免费，无额外消费"
     },
     "pricing.cta.getStarted": {
-        "message": ""
+        "message": "开始使用"
     },
     "pricing.starter.includes": {
-        "message": ""
+        "message": "入门版包含："
     },
     "pricing.admin.title": {
-        "message": ""
+        "message": "管理员功能"
     },
     "pricing.admin.cloud": {
-        "message": ""
+        "message": "✔️ 云端服务"
     },
     "pricing.admin.dashboard": {
-        "message": ""
+        "message": "✔️ 管理员面板"
     },
     "pricing.admin.oneAdmin": {
-        "message": ""
+        "message": "✔️ 1 位管理员"
     },
     "pricing.customization.title": {
-        "message": ""
+        "message": "可定制"
     },
     "pricing.customization.questions": {
-        "message": ""
+        "message": "✔️ 测验题目全面可定制"
     },
     "pricing.customization.library": {
-        "message": ""
+        "message": "✔️ 题库可用"
     },
     "pricing.customization.quizzes": {
-        "message": ""
+        "message": "✔️ 最多 3 个定制测验"
     },
     "pricing.customization.questionsPerQuiz": {
-        "message": ""
+        "message": "✔️ 测验题目不限量"
     },
     "pricing.customization.limit": {
         "message": ""
     },
     "pricing.customization.apps": {
-        "message": ""
+        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、约会应用"
     },
     "pricing.access.title": {
-        "message": ""
+        "message": "访问控制"
     },
     "pricing.access.public": {
-        "message": ""
+        "message": "✔️ 公开测验：轻松分享测验 URL，任何人都可参加"
     },
     "pricing.pro.title": {
-        "message": ""
+        "message": "专业版"
     },
     "pricing.pro.description": {
-        "message": ""
+        "message": "Shira 完整功能"
     },
     "pricing.pro.price": {
-        "message": ""
+        "message": "39 美元/月 + 每次测验 1 美元"
     },
     "pricing.pro.billing": {
-        "message": ""
+        "message": " （按年计费），或 49 美元/月 + 每次测验 1 美元（按月计费）"
     },
     "pricing.pro.includes": {
-        "message": ""
+        "message": "专业版包含："
     },
     "pricing.admin.unlimitedSoon": {
-        "message": ""
+        "message": "✔️ 管理员不限量 [即将推出]"
     },
     "pricing.pro.unlimitedQuizzes": {
-        "message": ""
+        "message": "✔️ 不限量定制测验"
     },
     "pricing.pro.unlimitedQuestions": {
-        "message": ""
+        "message": "✔️ 不限量测验题目"
     },
     "pricing.pro.limit": {
         "message": ""
     },
     "pricing.pro.apps": {
-        "message": ""
+        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、约会应用"
     },
     "pricing.access.private": {
-        "message": ""
+        "message": "✔️ 私有测验：只有您的用户才能参加您的测验"
     },
     "pricing.compliance.title": {
-        "message": ""
+        "message": "合规管理"
     },
     "pricing.compliance.track": {
-        "message": ""
+        "message": "✔️ 基础分析，追踪测验层面的结果"
     },
     "pricing.compliance.tools": {
-        "message": ""
+        "message": "✔️ 分析和合规工具 [即将推出]"
     },
     "pricing.pro.note": {
         "message": ""
     },
     "pricing.enterprise.title": {
-        "message": ""
+        "message": "企业版"
     },
     "pricing.enterprise.description": {
-        "message": ""
+        "message": "最适合大型组织和服务提供商"
     },
     "pricing.enterprise.price": {
-        "message": ""
+        "message": "自定义定价"
     },
     "pricing.enterprise.note": {
-        "message": ""
+        "message": "价格量身定做，满足您的需求"
     },
     "pricing.enterprise.includes": {
-        "message": ""
+        "message": "企业版包含："
     },
     "pricing.enterprise.deployment": {
-        "message": ""
+        "message": "✔️ 云端或本地部署"
     },
     "pricing.admin.unlimited": {
-        "message": ""
+        "message": "✔️ 管理员不限量"
     },
     "pricing.enterprise.unlimitedQuizzes": {
-        "message": ""
+        "message": "✔️ 不限量定制测验"
     },
     "pricing.enterprise.unlimitedQuestions": {
-        "message": ""
+        "message": "✔️ 测验题目不限量"
     },
     "pricing.enterprise.customLimit": {
-        "message": ""
+        "message": "✔️ 自定义测验参加次数"
     },
     "pricing.enterprise.support": {
-        "message": ""
+        "message": "定制化支持"
     },
     "pricing.enterprise.training": {
-        "message": ""
+        "message": "✔️ 量身定制的用户培训"
     },
     "pricing.enterprise.priority": {
-        "message": ""
+        "message": "优先支持"
     },
     "theme.ErrorPageContent.title": {
-        "message": "",
+        "message": "页面崩溃。",
         "description": "The title of the fallback page when the page crashed"
     },
     "theme.BackToTopButton.buttonAriaLabel": {
-        "message": "",
+        "message": "滚动回到顶部",
         "description": "The ARIA label for the back to top button"
     },
     "theme.blog.archive.title": {
-        "message": "",
+        "message": "归档",
         "description": "The page & hero title of the blog archive page"
     },
     "theme.blog.archive.description": {
-        "message": "",
+        "message": "归档",
         "description": "The page & hero description of the blog archive page"
     },
     "theme.blog.paginator.navAriaLabel": {
-        "message": "",
+        "message": "博客列表页导航",
         "description": "The ARIA label for the blog pagination"
     },
     "theme.blog.paginator.newerEntries": {
-        "message": "",
+        "message": "较新的文章",
         "description": "The label used to navigate to the newer blog posts page (previous page)"
     },
     "theme.blog.paginator.olderEntries": {
-        "message": "",
+        "message": "较久的文章",
         "description": "The label used to navigate to the older blog posts page (next page)"
     },
     "theme.blog.post.paginator.navAriaLabel": {
-        "message": "",
+        "message": "博客文章页面导航",
         "description": "The ARIA label for the blog posts pagination"
     },
     "theme.blog.post.paginator.newerPost": {
-        "message": "",
+        "message": "较新的文章",
         "description": "The blog post button label to navigate to the newer/previous post"
     },
     "theme.blog.post.paginator.olderPost": {
-        "message": "",
+        "message": "较旧的文章",
         "description": "The blog post button label to navigate to the older/next post"
     },
     "theme.tags.tagsPageLink": {
-        "message": "",
+        "message": "查看所有标签",
         "description": "The label of the link targeting the tag list page"
     },
     "theme.docs.breadcrumbs.navAriaLabel": {
-        "message": "",
+        "message": "面包屑导航",
         "description": "The ARIA label for the breadcrumbs"
     },
     "theme.colorToggle.ariaLabel.mode.system": {
-        "message": "",
+        "message": "系统模式",
         "description": "The name for the system color mode"
     },
     "theme.colorToggle.ariaLabel.mode.light": {
-        "message": "",
+        "message": "浅色模式",
         "description": "The name for the light color mode"
     },
     "theme.colorToggle.ariaLabel.mode.dark": {
-        "message": "",
+        "message": "深色模式",
         "description": "The name for the dark color mode"
     },
     "theme.colorToggle.ariaLabel": {
-        "message": "",
+        "message": "深浅色模式切换（当前为{mode}）",
         "description": "The ARIA label for the color mode toggle"
     },
     "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "",
+        "message": "1 个项|{count} 个项",
         "description": "The default description for a category card in the generated index about how many items this category includes"
     },
     "theme.docs.paginator.navAriaLabel": {
-        "message": "",
+        "message": "文档页面",
         "description": "The ARIA label for the docs pagination"
     },
     "theme.docs.paginator.previous": {
-        "message": "",
+        "message": "上一页",
         "description": "The label used to navigate to the previous doc"
     },
     "theme.docs.paginator.next": {
-        "message": "",
+        "message": "下一页",
         "description": "The label used to navigate to the next doc"
     },
     "theme.docs.tagDocListPageTitle.nDocsTagged": {
-        "message": "",
+        "message": "1 篇文档已标记|{count} 篇文档已标记",
         "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.tagDocListPageTitle": {
-        "message": "",
+        "message": "{nDocsTagged} 标记为\"{tagName}\"",
         "description": "The title of the page for a docs tag"
     },
     "theme.docs.versionBadge.label": {
-        "message": ""
+        "message": "版本：{versionLabel}"
     },
     "theme.docs.versions.unreleasedVersionLabel": {
-        "message": "",
+        "message": "这是 {siteTitle} {versionLabel} 版本的未发布文档。",
         "description": "The label used to tell the user that he's browsing an unreleased doc version"
     },
     "theme.docs.versions.unmaintainedVersionLabel": {
-        "message": "",
+        "message": "这是 {siteTitle} {versionLabel} 的文档，已不再积极维护。",
         "description": "The label used to tell the user that he's browsing an unmaintained doc version"
     },
     "theme.docs.versions.latestVersionSuggestionLabel": {
-        "message": "",
+        "message": "如需最新文档，请参阅 {latestVersionLink}（{versionLabel}）。",
         "description": "The label used to tell the user to check the latest version"
     },
     "theme.docs.versions.latestVersionLinkLabel": {
-        "message": "",
+        "message": "最新版本",
         "description": "The label used for the latest version suggestion link label"
     },
     "theme.common.editThisPage": {
-        "message": "",
+        "message": "编辑该页面",
         "description": "The link label to edit the current page"
     },
     "theme.common.headingLinkTitle": {
-        "message": "",
+        "message": "直接链接到 {heading}",
         "description": "Title for link to heading"
     },
     "theme.lastUpdated.atDate": {
-        "message": "",
+        "message": " 于 {date}",
         "description": "The words used to describe on which date a page has been last updated"
     },
     "theme.lastUpdated.byUser": {
-        "message": "",
+        "message": " 由 {user}",
         "description": "The words used to describe by who the page has been last updated"
     },
     "theme.lastUpdated.lastUpdatedAtBy": {
-        "message": "",
+        "message": "最后更新{atDate}{byUser}",
         "description": "The sentence used to display when a page has been last updated, and by who"
     },
     "theme.NotFound.title": {
-        "message": "",
+        "message": "页面未找到",
         "description": "The title of the 404 page"
     },
     "theme.navbar.mobileVersionsDropdown.label": {
-        "message": "",
+        "message": "版本",
         "description": "The label for the navbar versions dropdown on mobile view"
     },
     "theme.tags.tagsListLabel": {
-        "message": "",
+        "message": "标签：",
         "description": "The label alongside a tag list"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
-        "message": "",
+        "message": "关闭",
         "description": "The ARIA label for close button of announcement bar"
     },
     "theme.admonition.caution": {
-        "message": "",
+        "message": "注意",
         "description": "The default label used for the Caution admonition (:::caution)"
     },
     "theme.admonition.danger": {
-        "message": "",
+        "message": "危险",
         "description": "The default label used for the Danger admonition (:::danger)"
     },
     "theme.admonition.info": {
-        "message": "",
+        "message": "信息",
         "description": "The default label used for the Info admonition (:::info)"
     },
     "theme.admonition.note": {
-        "message": "",
+        "message": "备注",
         "description": "The default label used for the Note admonition (:::note)"
     },
     "theme.admonition.tip": {
-        "message": "",
+        "message": "提示",
         "description": "The default label used for the Tip admonition (:::tip)"
     },
     "theme.admonition.warning": {
-        "message": "",
+        "message": "警告",
         "description": "The default label used for the Warning admonition (:::warning)"
     },
     "theme.blog.sidebar.navAriaLabel": {
-        "message": "",
+        "message": "博客最新文章导航",
         "description": "The ARIA label for recent posts in the blog sidebar"
     },
     "theme.DocSidebarItem.expandCategoryAriaLabel": {
-        "message": "",
+        "message": "展开侧边栏分类 '{label}'",
         "description": "The ARIA label to expand the sidebar category"
     },
     "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-        "message": "",
+        "message": "收起侧边栏分类 '{label}'",
         "description": "The ARIA label to collapse the sidebar category"
     },
     "theme.IconExternalLink.ariaLabel": {
-        "message": "",
+        "message": "（在新标签页中打开）",
         "description": "The ARIA label for the external link icon"
     },
     "theme.NavBar.navAriaLabel": {
-        "message": "",
+        "message": "主导航",
         "description": "The ARIA label for the main navigation"
     },
     "theme.NotFound.p1": {
-        "message": "",
+        "message": "找不到您要查找的内容。",
         "description": "The first paragraph of the 404 page"
     },
     "theme.NotFound.p2": {
-        "message": "",
+        "message": "请与提供原始 URL 的网站所有者联系，通知其链接已损坏。",
         "description": "The 2nd paragraph of the 404 page"
     },
     "theme.TOCCollapsible.toggleButtonLabel": {
-        "message": "",
+        "message": "本页内容",
         "description": "The label used by the button on the collapsible TOC component"
     },
     "theme.navbar.mobileLanguageDropdown.label": {
-        "message": "",
+        "message": "语言",
         "description": "The label for the mobile language switcher dropdown"
     },
     "theme.blog.post.readMore": {
-        "message": "",
+        "message": "阅读更多",
         "description": "The label used in blog post item excerpts to link to full blog posts"
     },
     "theme.blog.post.readMoreLabel": {
-        "message": "",
+        "message": "阅读更多关于 {title} 的内容",
         "description": "The ARIA label for the link to full blog posts from excerpts"
     },
     "theme.blog.post.readingTime.plurals": {
-        "message": "",
+        "message": "1 分钟阅读|{readingTime} 分钟阅读",
         "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.breadcrumbs.home": {
-        "message": "",
+        "message": "首页",
         "description": "The ARIA label for the home page in the breadcrumbs"
     },
     "theme.CodeBlock.copy": {
-        "message": "",
+        "message": "复制",
         "description": "The copy button label on code blocks"
     },
     "theme.CodeBlock.copied": {
-        "message": "",
+        "message": "已复制",
         "description": "The copied button label on code blocks"
     },
     "theme.CodeBlock.copyButtonAriaLabel": {
-        "message": "",
+        "message": "复制代码到剪贴板",
         "description": "The ARIA label for copy code blocks button"
     },
     "theme.CodeBlock.wordWrapToggle": {
-        "message": "",
+        "message": "切换自动换行",
         "description": "The title attribute for toggle word wrapping button of code block lines"
     },
     "theme.docs.sidebar.collapseButtonTitle": {
-        "message": "",
+        "message": "收起侧边栏",
         "description": "The title attribute for collapse button of doc sidebar"
     },
     "theme.docs.sidebar.collapseButtonAriaLabel": {
-        "message": "",
+        "message": "收起侧边栏",
         "description": "The title attribute for collapse button of doc sidebar"
     },
     "theme.docs.sidebar.navAriaLabel": {
-        "message": "",
+        "message": "文档侧边栏",
         "description": "The ARIA label for the sidebar navigation"
     },
     "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-        "message": "",
+        "message": "关闭导航栏",
         "description": "The ARIA label for close button of mobile sidebar"
     },
     "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-        "message": "",
+        "message": "切换导航栏",
         "description": "The ARIA label for hamburger menu button of mobile navigation"
     },
     "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-        "message": "",
+        "message": "← 返回主菜单",
         "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
     },
     "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-        "message": "",
+        "message": "展开下拉菜单",
         "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
     },
     "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-        "message": "",
+        "message": "收起下拉菜单",
         "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
     },
     "theme.docs.sidebar.expandButtonTitle": {
-        "message": "",
+        "message": "展开侧边栏",
         "description": "The ARIA label and title attribute for expand button of doc sidebar"
     },
     "theme.docs.sidebar.expandButtonAriaLabel": {
-        "message": "",
+        "message": "展开侧边栏",
         "description": "The ARIA label and title attribute for expand button of doc sidebar"
     },
     "theme.SearchBar.noResultsText": {
-        "message": ""
+        "message": "无结果"
     },
     "theme.SearchBar.seeAllOutsideContext": {
-        "message": ""
+        "message": "查看\"{context}\"之外所有结果"
     },
     "theme.SearchBar.searchInContext": {
-        "message": ""
+        "message": "查看\"{context}\"之内所有结果"
     },
     "theme.SearchBar.seeAll": {
-        "message": ""
+        "message": "查看所有结果"
     },
     "theme.SearchBar.label": {
-        "message": "",
+        "message": "搜索",
         "description": "The ARIA label and placeholder for search button"
     },
     "theme.SearchPage.existingResultsTitle": {
-        "message": "",
+        "message": "\"{query}\" 的搜索结果",
         "description": "The search page title for non-empty query"
     },
     "theme.SearchPage.emptyResultsTitle": {
-        "message": "",
+        "message": "搜索文档",
         "description": "The search page title for empty query"
     },
     "theme.SearchPage.searchContext.everywhere": {
-        "message": ""
+        "message": "所有位置"
     },
     "theme.SearchPage.documentsFound.plurals": {
-        "message": "",
+        "message": "找到 1 篇文档|找到 {count} 篇文档",
         "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.SearchPage.noResultsText": {
-        "message": "",
+        "message": "未找到任何文档",
         "description": "The paragraph for empty search result"
     },
     "theme.blog.post.plurals": {
-        "message": "",
+        "message": "1 篇文章|{count} 篇文章",
         "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.blog.tagTitle": {
-        "message": "",
+        "message": "{nPosts} 标记为\"{tagName}\"",
         "description": "The title of the page for a blog tag"
     },
     "theme.blog.author.pageTitle": {
-        "message": "",
+        "message": "{authorName} - {nPosts}",
         "description": "The title of the page for a blog author"
     },
     "theme.blog.authorsList.pageTitle": {
-        "message": "",
+        "message": "作者",
         "description": "The title of the authors page"
     },
     "theme.blog.authorsList.viewAll": {
-        "message": "",
+        "message": "查看所有作者",
         "description": "The label of the link targeting the blog authors page"
     },
     "theme.blog.author.noPosts": {
-        "message": "",
+        "message": "该作者尚未撰写任何文章。",
         "description": "The text for authors with 0 blog post"
     },
     "theme.contentVisibility.unlistedBanner.title": {
-        "message": "",
+        "message": "未列出的页面",
         "description": "The unlisted content banner title"
     },
     "theme.contentVisibility.unlistedBanner.message": {
-        "message": "",
+        "message": "此页面未列出。搜索引擎不会将其编入索引，只有通过直接链接才能访问。",
         "description": "The unlisted content banner message"
     },
     "theme.contentVisibility.draftBanner.title": {
-        "message": "",
+        "message": "草稿页面",
         "description": "The draft content banner title"
     },
     "theme.contentVisibility.draftBanner.message": {
-        "message": "",
+        "message": "此页面是草稿。它仅在开发环境中可见，并将从生产构建中排除。",
         "description": "The draft content banner message"
     },
     "theme.ErrorPageContent.tryAgain": {
-        "message": "",
+        "message": "重试",
         "description": "The label of the button to try again rendering when the React error boundary captures an error"
     },
     "theme.common.skipToMainContent": {
-        "message": "",
+        "message": "跳转到主要内容",
         "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
     },
     "theme.tags.tagsPageTitle": {
-        "message": "",
+        "message": "标签",
         "description": "The title of the tag list page"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": ""
+        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": ""
+        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.research.emphasis": {
-        "message": ""
+        "message": "钓鱼模拟"
     },
     "phishingQuizzes.research.final": {
-        "message": ""
+        "message": "负面效果：持续暴露于钓鱼模拟的用户更容易点击危险链接。"
+    },
+    "pricing.compliance.detailed": {
+        "message": "✔️ 详细分析，追踪学员和题目层面的结果"
     }
 }
