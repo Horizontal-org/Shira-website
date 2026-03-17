@@ -34,7 +34,7 @@ import TOCInline from '@theme/TOCInline';
 المستخدمين Shira إلى ثلاث فئات:
 - بيانات الحساب
 - بيانات الوظائف
-- Telemetry
+- القياس عن بُعد
 
 يمكن تقسيم مستخدمي Shira إلى أربع مجموعات:
 - المسؤولون، الذين يمكنهم تسجيل الدخول إلى "فضاء" Shira لإدارة اختباراتهم
@@ -46,12 +46,12 @@ import TOCInline from '@theme/TOCInline';
 - الزوار الذين يزورون مواقع Shira لكن لا يمكنهم إنجاز الاختبارات ولا يمكنهم
   التفاعل مع وظائف Shira.
 
-As outlined below, for each of those groups, different data is collected.
+كما هو موضح أدناه، يتم جمع بيانات مختلفة لكل مجموعة من تلك المجموعات.
 
-### Account data {#account-data}
-#### What is account data? {#what-is-account-data}
+### بيانات الحساب {#account-data}
+#### ما هي بيانات الحساب؟ {#what-is-account-data}
 
-Account data is the data that is associated with a user's Shira account.
+بيانات الحساب هي البيانات المرتبطة بحساب المستخدم في Shira.
 - Admins are considered to have a Shira account as soon they have created a
   space.
 - Registered Learners are considered to have a Shira account as soon they are
@@ -59,7 +59,7 @@ Account data is the data that is associated with a user's Shira account.
 
 Anonymous Learners and Visitors do not have Shira accounts.
 
-#### What account data do we collect? {#what-account-data-do-we-collect}
+#### ما هي بيانات الحساب التي نجمعها؟ {#what-account-data-do-we-collect}
 This is the account data we collect about Admins:
 - Email address: this is the email address an Admin uses to create a space with
   and that remains associated with the Admin's account.
@@ -133,30 +133,31 @@ except in the following cases:
 - As necessary to operate and provide the services of Shira (e.g. to display
   Results).
 
-### Telemetry {#telemetry}
+### القياس عن بُعد {#telemetry}
 
-#### What is telemetry? {#what-is-telemetry}
-Telemetry is data about how users make use of Shira features, how often they use
-Shira, and what performance or user experience issues they may be experiencing.
+#### ما هو القياس عن بُعد؟ {#what-is-telemetry}
+بيانات القياس عن بُعد هي معلومات حول كيفية استخدام المستخدمين لمزايا Shira،
+ومعدل استخدامهم لـ Shira، وما قد يواجهونه من مشكلات تتعلق بالأداء أو تجربة
+المستخدم.
 
-Telemetry data is used to improve Shira's performance, features, and user
-experience.
+تُستخدم بيانات القياس عن بُعد لتحسين أداء Shira، وتطوير مزاياه، وتحسين تجربة
+المستخدم.
 
-#### What telemetry do we collect? {#what-telemetry-do-we-collect}
-We collect the following telemetry data:
+#### ما هي بيانات القياس عن بُعد التي نجمعها؟ {#what-telemetry-do-we-collect}
+نقوم بجمع بيانات القياس عن بُعد التالية:
 - The number of visits to https://quiz.shira.app
 - The number of quizzes started at https://shira.app, including both ready-made
   quizzes and custom quizzes created by Space admins
 - The number of quizzes completed at https://shira.app, including both
   ready-made quizzes and custom quizzes created by Space admins
 
-#### How is telemetry collected? {#how-is-telemetry-collected}
-Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a
-privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is
-anonymized to ensure that it reveals no sensitive information or personally
-identifiable information about users.
+#### كيف يتم جمع بيانات القياس عن بُعد؟ {#how-is-telemetry-collected}
+يتم جمع بيانات القياس عن بُعد تلقائياً من خلال [Divvi Up](https://divviup.org/)،
+وهي خدمة قياس عن بُعد تحترم الخصوصية. وبفضل Divvi Up، يتم إخفاء هوية كافة
+البيانات لضمان عدم الكشف عن أي معلومات حساسة أو معلومات تحدد الهوية الشخصية
+للمستخدمين.
 
-This is how we approach the collection of telemetry:
+هذه هي الطريقة التي نتبعها في جمع بيانات القياس عن بُعد:
 - All data is anonymous and aggregated: the Divvi Up library splits the data
   into two anonymized and encrypted shares and uploads each share to different
   data share processors (one hosted by ISRG, the makers of Divvi Up, and one
@@ -171,10 +172,9 @@ This is how we approach the collection of telemetry:
 - We collect as little data as possible: Even though all data is anonymized, we
   always minimize the amount of data we collect.
 
-#### How do we share or disclose telemetry? {#how-do-we-share-or-disclose-telemetry}
-We will never sell your telemetry data to any third party. We will never
-intentionally disclose your telemetry data to any third party, except in the
-following cases:
+#### كيف نقوم بمشاركة أو الإفصاح عن بيانات القياس عن بُعد؟ {#how-do-we-share-or-disclose-telemetry}
+لن نقوم أبداً ببيع بيانات القياس عن بُعد الخاصة بك لأي جهة خارجية. كما لن نقوم
+بالإفصاح عن هذه البيانات عمداً لأي جهة خارجية، إلا في الحالات التالية:
 - As required by law (e.g. if this data is subpoenaed as part of a court order)
 - As necessary to operate and provide the services of Shira (e.g. to provide
   usage data to partners or contractors)
