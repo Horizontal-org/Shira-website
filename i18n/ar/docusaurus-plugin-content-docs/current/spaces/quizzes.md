@@ -16,7 +16,7 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 - [تهيئة إعدادات الخصوصية](#privacy)
 - [نشر وإلغاء نشر الاختبار](#publish-unpublish)
 - [تعديل الاختبارات الموجودة](#edit-quizzes)
-- [تكرار اختبار موجود](#duplicate-quiz)
+- [استنساخ اختبار موجود](#duplicate-quiz)
 - [حذف الاختبارات](#delete-quiz)
 
 ## إنشاء اختبارات {#create-quizzes}
@@ -36,36 +36,34 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 هناك خياران متاحان لخصوصية الاختبار: عمومي وخاص.
 
 **خصوصية الاختبار دائمة ولا يمكن تغييرها**. إذا أردت تغيير إعدادات الخصوصية
-لاختبار موجود بالفعل، فيجب عليك نسخ الاختبار.
+لاختبار موجود بالفعل، فيجب عليك استنساخ الاختبار.
 
 **الاختبارات العمومية**
 * يمكن لأي شخص لديه رابط الاختبار اجراء اختبار عمومي.
-* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A
-  quiz URL looks like this:
-  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The
-  quiz URL remains the same even if you publish and unpublish the quiz multiple
-  times.
-* Learners who take public quizzes remain anonymous. This means that in
-  [Results](/results) you cannot identified who those learners are.
+* رابط الاختبار هو رابط فريد خاص بكل اختبار، يستخدمه المتعلمون لإجراء الاختبار.
+  يبدو رابط الاختبار بهذا الشكل:
+  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. يبقى
+  رابط الاختبار كما هو، حتى لو قمت بنشر الاختبار وإلغاء نشره عدة مرات.
+* يظل المتعلمون الذين يجرون اختبارات عمومية مجهولي الهوية. وهذا يعني أنه في قسم
+  [النتائج](/results)، لن تتمكنوا من تحديد هوية هؤلاء المتعلمين.
 
 **الاختبارات الخاصة**
-* Only learners who are registered in your space can take the quiz. You can read
-  more about [registered learners here](/learners#registered).
-* When a registered learner is assigned a private quiz, they receive an email
-  with the link to take the quiz. This link is unique to each learner and helps
-  keep track of who takes the quiz and their results.
+* يمكن فقط للمتعلمين المسجلين في مساحة العمل الخاصة بك إجراء الاختبار. يمكنك
+  قراءة المزيد عن [المتعلمين المسجلين هنا](/learners#registered).
+* عندما يتم تعيين اختبار خاص لمتعلم مسجل، فإنه يتلقى رسالة بريد إلكتروني تحتوي
+  على رابط لإجراء الاختبار. هذا الرابط فريد لكل متعلم، ويساعد في تتبع من قام
+  بإجراء الاختبار ومعرفة نتائجه.
 
 ## إضافة سؤال إلى الاختبار {#questions}
 
-You can add questions to your quiz either by creating them manually or importing
-ready-made templates from the Library. [Learn more about questions
-here](/questions).
+يمكنكم إضافة أسئلة إلى اختباراتكم إما عن طريق إنشائها يدوياً أو استيراد قوالب
+جاهزة من المكتبة. [تعرفوا على المزيد حول الأسئلة هنا](/questions).
 
-## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to learners.
+## نشر الاختبارات وإلغاء نشرها {#publish-unpublish}
+نشر اختبار يعني أنكم تتيحون للمتعلمين إمكانية الوصول إليه.
 
-You can then unpublish the quiz to make it impossible for learners to take it.
-If the quiz is unpublished, the quiz URL will lead to an error page.
+يمكنكم بعد ذلك إلغاء نشر الاختبار لمنع المتعلمين من إجرائه. وفي حال إلغاء نشر
+الاختبار، فإن رابط الاختبار سيُظهر صفحة خطأ.
 
 :::note If you unpublish a quiz *while* a learner is taking it, the learner will
 see an error message at the end of the quiz when they try to submit their
@@ -83,7 +81,7 @@ You can edit any quiz, whether it is published or unpublished, including:
 :::note If some learners have already taken the quiz, editing this quiz may
 affect the reliability of [the quizz's results](/results). :::
 
-## Duplicating a quiz {#duplicate-quiz}
+## استنساخ اختبار {#duplicate-quiz}
 Duplicating a quiz means creating an exact copy of an existing quiz.
 
 Once duplicated, the original quiz and the new quiz are independent from each
