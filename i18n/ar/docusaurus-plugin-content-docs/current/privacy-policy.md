@@ -52,22 +52,21 @@ import TOCInline from '@theme/TOCInline';
 #### ما هي بيانات الحساب؟ {#what-is-account-data}
 
 بيانات الحساب هي البيانات المرتبطة بحساب المستخدم في Shira.
-- Admins are considered to have a Shira account as soon they have created a
-  space.
-- Registered Learners are considered to have a Shira account as soon they are
-  invited to join a Space.
+- يُعتبر المسؤولون حاصلين على حساب في Shira بمجرد قيامهم بإنشاء مساحة عمل.
+- يُعتبر المتعلمون المسجلون حاصلين على حساب في Shira بمجرد دعوتهم للانضمام إلى
+  مساحة عمل.
 
-Anonymous Learners and Visitors do not have Shira accounts.
+لا يملك المتعلمون مجهولو الهوية والزوار حسابات في Shira.
 
 #### ما هي بيانات الحساب التي نجمعها؟ {#what-account-data-do-we-collect}
-This is the account data we collect about Admins:
-- Email address: this is the email address an Admin uses to create a space with
-  and that remains associated with the Admin's account.
-- Date of account creation: an Admin account is considered "created" when an
-  Admin accepts the invitation to create a Space.
-- What Space(s) the Admin is associated with.
+هذه هي بيانات الحساب التي نجمعها عن المسؤولين:
+- عنوان البريد الإلكتروني: هذا هو البريد الإلكتروني الذي يستخدمه المسؤول لإنشاء
+  مساحة عمل، ويظل مرتبطا بحسابه.
+- تاريخ إنشاء الحساب: يُعتبر حساب المسؤول "تم إنشاؤه" بمجرد قبوله الدعوة لإنشاء
+  مساحة عمل.
+- مساحة (أو مساحات) العمل المرتبطة بالمسؤول.
 
-This is the account data we collect about Registered Learners:
+إليكم بيانات الحساب التي نجمعها عن المتعلمين المسجلين:
 - Email address: this is the email address a Registered User is invited to join
   a space with, and that remains associated with the Registered User's account
   once the account is created.
