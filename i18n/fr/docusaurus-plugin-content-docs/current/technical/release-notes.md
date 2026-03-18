@@ -16,27 +16,30 @@ ici](https://github.com/Horizontal-org/shira/discussions). : ::
 ## Shira 2.0-beta5 {#shira-20-beta5}
 *Sortie le 29 janvier 2026*
 
-This releases introduces private quizzes--our most requested feature!
-- Private quizzes: quizzes that can only be taken by learners who are registered
-  in your space.
-- Registered learners: learners who have been invited by an admin to join your
-  space and whose results are tied to their account, allowing you to see how
-  each is doing on your quizzes.
+Cette version introduit les quiz privés--notre fonctionnalité la plus demandée !
+- Quiz privés : des quiz qui ne peuvent être suivis que par les apprenants
+  inscrits dans votre espace.
+- Apprenants inscrits : les apprenants qui ont été invités par un administrateur
+  à rejoindre votre espace et dont les résultats sont rattachés à leur compte,
+  vous permettant ainsi de suivre la progression de chacun sur vos quiz.
 
 ## Shira 2.0-beta4 {#shira-20-beta4}
-*Released on 3 November 2025*
+*Publié le 3 novembre 2025*
 
-With this release, we are getting closer to the full feature set that will be
-included in Shira 2.0. You can already find the following features:
-- Organizational spaces: a place for you to manage quizzes and see results.
-- Customizable quizzes: create as many quizzes as you wish.
-- Customizable quiz questions: create quiz questions tailored to your team's
-  needs and capacity.
-- Explanations: display short texts, directly inside quiz questions, to point
-  learners to specific elements in the question content that suggest that it may
-  be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to
-  what your learners will experience in real life: Gmail, Outlook, WhatsApp,
-  SMS, Facebook Messenger, and Dating App.
-- Results: see how well your learners did on your quizzes.
+Avec cette version, nous nous rapprochons de l'ensemble complet des
+fonctionnalités qui seront incluses dans Shira 2.0. Vous pouvez déjà trouver les
+fonctionnalités suivantes :
+- Espaces d'organisation : un endroit pour gérer vos quiz et consulter les
+  résultats.
+- Quiz personnalisables : créez autant de quiz que vous le souhaitez.
+- Questions de quiz personnalisables : créez des questions adaptées aux besoins
+  et aux compétences de votre équipe.
+- Explications : affichez de courts textes, directement à l'intérieur des
+  questions du quiz, pour signaler aux apprenants des éléments spécifiques du
+  contenu suggérant qu'il peut s'agir d'une attaque de phishing ou d'un message
+  légitime.
+- Six applications pour afficher vos questions et leur donner une apparence
+  aussi proche que possible de ce que vos apprenants vivront dans la réalité :
+  Gmail, Outlook, WhatsApp, SMS, Facebook Messenger et Application de rencontre.
+- Résultats : découvrez les performances de vos apprenants à vos quiz.
 
