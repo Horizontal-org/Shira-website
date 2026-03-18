@@ -80,11 +80,12 @@ Shira.
 - Дата создания учетной записи: учетная запись зарегистрированного учащегося
   считается «созданной», когда администратор отправляет зарегистрированному
   учащемуся приглашение присоединиться к Пространству.
-- What Space(s) the Registered Learner is associated with.
+- С какими Пространствами связан зарегистрированный учащийся.
 
-We do not collect any account data from Anonymous Learners and Visitors.
+Мы не собираем никаких данных об учетных записях анонимных учащихся и
+посетителей.
 
-#### How do we collect account data? {#how-do-we-collect-account-data}
+#### Как мы собираем данные об учетных записях? {#how-do-we-collect-account-data}
 - Адреса электронной почты и список Пространств, с которыми связан пользователь,
   собираются, когда пользователь заполняет форму приглашения (когда
   администратор заполняет форму для создания пространства или когда
@@ -93,7 +94,7 @@ We do not collect any account data from Anonymous Learners and Visitors.
 - Дата создания учетной записи собирается автоматически.
 
 #### Как мы передаем или раскрываем данные учетной записи? {#how-do-we-share-or-disclose-account-data}
-We will never sell your account data to any third party.
+Мы никогда не будем продавать данные вашей учетной записи третьим лицам.
 
 Мы никогда не будем намеренно раскрывать данные вашей учетной записи третьим
 лицам, за исключением следующих случаев:
@@ -142,76 +143,88 @@ We will never sell your account data to any third party.
 лицам, за исключением следующих случаев:
 - В соответствии с требованиями законодательства (например, если эти данные
   запрашиваются в рамках судебного постановления).
-- As necessary to operate and provide the services of Shira (e.g. to display
-  Results).
+- В той мере, в какой это необходимо для работы и предоставления услуг Shira
+  (например, для отображения результатов).
 
-### Telemetry {#telemetry}
+### Телеметрия {#telemetry}
 
-#### What is telemetry? {#what-is-telemetry}
-Telemetry is data about how users make use of Shira features, how often they use
-Shira, and what performance or user experience issues they may be experiencing.
+#### Что такое телеметрия? {#what-is-telemetry}
+Телеметрия — это данные о том, как пользователи используют функции Shira, как
+часто они пользуются Shira, а также о возможных проблемах с производительностью
+или удобством использования.
 
-Telemetry data is used to improve Shira's performance, features, and user
-experience.
+Данные телеметрии используются для улучшения производительности,
+функциональности и удобства использования Shira.
 
-#### What telemetry do we collect? {#what-telemetry-do-we-collect}
-We collect the following telemetry data:
-- The number of visits to https://quiz.shira.app
-- The number of quizzes started at https://shira.app, including both ready-made
-  quizzes and custom quizzes created by Space admins
-- The number of quizzes completed at https://shira.app, including both
-  ready-made quizzes and custom quizzes created by Space admins
+#### Какие телеметрические данные мы собираем? {#what-telemetry-do-we-collect}
+Мы собираем следующие телеметрические данные:
+- Количество посещений сайта https://quiz.shira.app
+- Количество викторин, запущенных на сайте https://shira.app, включая как
+  готовые викторины, так и индивидуальные викторины, созданные администраторами
+  Space
+- Количество пройденных тестов на сайте https://shira.app, включая как готовые
+  тесты, так и тесты, созданные администраторами Space
 
-#### How is telemetry collected? {#how-is-telemetry-collected}
-Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a
-privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is
-anonymized to ensure that it reveals no sensitive information or personally
-identifiable information about users.
+#### Как собираются телеметрические данные? {#how-is-telemetry-collected}
+Телеметрические данные собираются автоматически с помощью [Divvi
+Up](https://divviup.org/) — сервиса телеметрии, обеспечивающего
+конфиденциальность. Благодаря Divvi Up все телеметрические данные
+анонимизируются, что гарантирует отсутствие в них конфиденциальной информации
+или данных, позволяющих идентифицировать личность пользователей.
 
-This is how we approach the collection of telemetry:
-- All data is anonymous and aggregated: the Divvi Up library splits the data
-  into two anonymized and encrypted shares and uploads each share to different
-  data share processors (one hosted by ISRG, the makers of Divvi Up, and one
-  hosted by us) that do not share data with each other. This way, only partial
-  information about the original data is revealed to either processor.
-- Even if we wanted to, we couldn't get the whole data: It's not possible to
-  construct the whole data with only one share. Each processor aggregates its
-  data shares into a partial sum. The partial sums can then be combined into a
-  final aggregation, permitting useful statistics over the whole body of data
-  while revealing minimal information about individual participants. More
-  information how Divvi Up works can be found here.
-- We collect as little data as possible: Even though all data is anonymized, we
-  always minimize the amount of data we collect.
+Вот как мы подходим к сбору телеметрических данных:
+- Все данные являются анонимными и агрегированными: библиотека Divvi Up
+  разделяет данные на две анонимизированные и зашифрованные части и загружает
+  каждую из них на разные серверы обработки данных (один из которых находится
+  под управлением ISRG, разработчиков Divvi Up, а другой — под нашим
+  управлением), которые не обмениваются данными друг с другом. Таким образом,
+  каждому из этих серверов предоставляется лишь частичная информация об исходных
+  данных.
+- Даже если бы мы захотели, мы не смогли бы получить полный набор данных:
+  невозможно восстановить полный набор данных, располагая лишь одной долей.
+  Каждый процессор суммирует свои доли данных, получая промежуточную сумму.
+  Затем промежуточные суммы можно объединить в итоговую агрегированную сумму,
+  что позволяет получать полезную статистику по всему массиву данных, раскрывая
+  при этом минимум информации об отдельных участниках. Более подробную
+  информацию о том, как работает Divvi Up, можно найти здесь.
+- Мы собираем как можно меньше данных: несмотря на то, что все данные
+  анонимизированы, мы всегда стремимся свести объем собираемых данных к
+  минимуму.
 
-#### How do we share or disclose telemetry? {#how-do-we-share-or-disclose-telemetry}
-We will never sell your telemetry data to any third party. We will never
-intentionally disclose your telemetry data to any third party, except in the
-following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order)
-- As necessary to operate and provide the services of Shira (e.g. to provide
-  usage data to partners or contractors)
+#### Как мы передаем или раскрываем телеметрические данные? {#how-do-we-share-or-disclose-telemetry}
+Мы никогда не будем продавать ваши телеметрические данные третьим лицам. Мы
+никогда не будем намеренно раскрывать ваши телеметрические данные третьим лицам,
+за исключением следующих случаев:
+- В соответствии с требованиями законодательства (например, если эти данные
+  запрашиваются в рамках судебного постановления)
+- В той мере, в какой это необходимо для обеспечения работы и предоставления
+  услуг Shira (например, для передачи данных об использовании партнерам или
+  подрядчикам)
 
-## 3. Data security {#data-security}
-We implement industry standard practices to protect your data from unauthorized
-access, including:
-- Encryption in-transit between your browser and our servers, using the SSL/TLS
-  protocol
-- JSON Web Tokens, which are an open, industry standard RFC 7519 method for
-  representing claims securely between two parties
+## 3. Безопасность данных {#data-security}
+Мы применяем стандартные отраслевые методы для защиты ваших данных от
+несанкционированного доступа, в том числе:
+- Шифрование данных при передаче между вашим браузером и нашими серверами с
+  использованием протокола SSL/TLS
+- JSON Web Tokens — это открытый отраслевой стандарт (RFC 7519), предназначенный
+  для безопасного обмена утверждениями между двумя сторонами
 
-## 4. Your California Privacy Rights {#california}
-If you are a California resident, California law may provide you with additional
-rights regarding our use of your personal information. To learn more about your
-California privacy rights, visit
+## 4. Ваши права на конфиденциальность в штате Калифорния {#california}
+Если вы проживаете в штате Калифорния, законодательство штата Калифорния может
+предоставлять вам дополнительные права в отношении использования нами вашей
+личной информации. Чтобы узнать больше о ваших правах на конфиденциальность в
+штате Калифорния, посетите сайт
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Changes to Our Privacy Policy {#changes}
-We may update or privacy policy from time to time.
+## 5. Изменения в нашей Политике конфиденциальности {#changes}
+Мы можем время от времени обновлять нашу политику конфиденциальности.
 
-The date the privacy policy was last revised is identified at the top of the
-page. You are responsible for periodically visiting this privacy policy to check
-for any changes.
+Дата последнего обновления Политики конфиденциальности указана в верхней части
+страницы. Вы несете ответственность за периодическое ознакомление с настоящей
+Политикой конфиденциальности с целью проверки наличия каких-либо изменений.
 
-## 6. Contact Information {#contact}
-To ask questions or comment about this privacy policy and our privacy practices,
-contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
+## 6. Контактная информация {#contact}
+Если у вас есть вопросы или замечания по поводу данной политики
+конфиденциальности и наших методов обеспечения конфиденциальности, свяжитесь с
+нами по адресу
+[contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
