@@ -14,83 +14,92 @@ demandez : cela ressemble-t-il à du phishing ?
 
 Chaque question est composée de plusieurs éléments :
 * [Les préférences de la question](#preferences)
-* [An app](#app)
-* [The question's content](#content)
+* [Une application](#app)
+* [Le contenu de la question](#content)
 * [Variables](#variables)
-* [Explanations](#explanations)
+* [Explications](#explanations)
 
-## Creating a question {#create}
-To create questions and add them to your quiz, you have two options:
-1. You can create questions from scratch and configureeach of the questions
-   components yourself.
-2. You can pull ready-made questions from the Library. If you pull a question
-   from the Library, you can use it as is or adapt it to your specific context
-   and needs.
+## Créer une question {#create}
+Pour créer des questions et les ajouter à votre quiz, deux options s'offrent à
+vous :
+1. Vous pouvez créer des questions de toutes pièces et configurer vous-même
+   chacun de leurs composants.
+2. Vous pouvez importer des questions prêtes à l'emploi depuis la Bibliothèque.
+   Si vous importez une question depuis la Bibliothèque, vous pouvez l'utiliser
+   telle quelle ou l'adapter à votre contexte et à vos besoins spécifiques.
 
-## Question preferences {#preferences}
-When you create a question, you must:
-- Name the question: this name, like "Invitation to conference" or "Suspicious
-  login notification", helps you recognize the questions you create. A
-  question's name is only visible to space admins; learners never see it when
-  they take a quiz.
-- Tell Shira whether the email or message you're creating is *phishing* or
-  *legitimate*. This will allow Shira to determine whether a user's response is
-  correct.
+## Préférences de la question {#preferences}
+Lorsque vous créez une question, vous devez :
+- Nommer la question : ce nom, comme "Invitation à une conférence" ou
+  "Notification de connexion suspecte", vous aide à reconnaître les questions
+  que vous créez. Le nom d'une question est uniquement visible par les
+  administrateurs de l'espace ; les apprenants ne le voient jamais lorsqu'ils
+  participent à un quiz.
+- Indiquez à Shira si l'email ou le message que vous créez est *du phishing* ou
+  s'il est *légitime*. Cela permettra à Shira de déterminer si la réponse d'un
+  utilisateur est correcte.
 
-## An app {#app}
-An *app* is an interface that looks exactly like the actual app or platform your
-learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
+## Une application {#app}
+Une *application* est une interface qui ressemble exactement à l'application ou
+à la plateforme réelle que vos apprenants utilisent au quotidien : Gmail,
+Outlook, SMS, WhatsApp, etc.
 
-With apps, Shira shows an email or message exactly how it would be in real life.
-This means that when they face a real-life phishing attack, learners will be
-more likely to know where to look for clues that it is phishing.
+Avec les applications, Shira affiche un email ou un message exactement tel qu'il
+apparaîtrait dans la vie réelle. Cela signifie que lorsqu'ils seront confrontés
+à une véritable attaque de phishing, les apprenants seront plus susceptibles de
+savoir où chercher les indices prouvant qu'il s'agit d'un hameçonnage.
 
-Currently, Shira supports the following apps:
+Actuellement, Shira prend en charge les applications suivantes :
 - Gmail
 - Outlook
 - SMS
 - WhatsApp
 - Facebook Messenger
-- Dating App
+- Application de rencontre
 
-:::note [Let us know](/contact) if your team relies on apps that aren't in this
-list and that you would like to see in Shira! :::
+:::note [Informez-nous](/contact) si votre équipe utilise des applications qui
+ne figurent pas dans cette liste et que vous souhaiteriez voir intégrées à Shira
+! :::
 
-## The question's content {#content}
-A question's content is the actual email or message that you draft to display in
-the quiz question.
+## Contenu de la question {#content}
+Le contenu d'une question correspond à l'email ou au message que vous rédigez
+pour l'afficher dans le quiz.
 
-This can include any elements that are usually part of emails or messages in
-real life: text, images, file attachments, links, etc.
+Il peut s'agir de tous les éléments habituellement présents dans les emails et
+les messages : texte, images, pièces jointes, liens, etc.
 
-## Explanations {#explanations}
-Explanations are short snippets of text that you can create to explain to
-learners why the email or message in the question may be a phishing attack or
-not. Explanations will be displayed after a learner answers a question, and
-highlight specific elements in the question.
+## Explications {#explanations}
+Les explications sont de courts extraits de texte permettant d'expliquer aux
+apprenants pourquoi l'e-mail ou le message de la question pourrait être une
+tentative d'hameçonnage. Les explications s'affichent après la réponse de
+l'apprenant et mettent en évidence des éléments spécifiques de la question.
 
-When you create a question, each explanation must be linked to an element in the
-question, such as:
-- The sender's name
-- The sender's email address or phone number
-- Specific words, sentences, or images inside an email or message
-- Images or file attachments
+Lorsque vous créez une question, chaque explication doit être liée à un élément
+de la question, tel que :
+- Le nom de l’expéditeur
+- L’adresse courriel ou le numéro de téléphone de l’expéditeur
+- Des mots, phrases ou images spécifiques contenus dans un courriel ou un
+  message
+- Des images ou des pièces jointes
 
-The order of explanations that you see when you create the questions is the same
-order in which the questions are presented to learners during the quiz.
+L’ordre d’affichage des explications lors de la création des questions
+correspond à l’ordre dans lequel elles sont présentées aux apprenants pendant le
+quiz.
 
 ## Variables {#variables}
-Variables are placeholders that you can use to insert personalized information
-into a question.
+Les variables sont des espaces réservés permettant d’insérer des informations
+personnalisées dans une question.
 
-To add a variable, type the following in the question's content:
-* ``{{name}}`` will display the learner's name
-* ``{{email}}`` will display the learner's email address
+Pour ajouter une variable, saisissez le texte suivant dans le contenu de la
+question :
+* ``{{name}}`` affichera le nom de l'apprenant
+* ``{{email}}`` affichera l'adresse e-mail de l'apprenant
 
-Variables work slightly differently in public and private quizzes:
-* In public quizzes, the name and email address displayed are drawn from what
-  the learner entered or auto-generated during quiz setup.
-* In private quizzes, the name and email address displayed are drawn from the
-  learner's information as they were configured when the learner was invited to
-  the Space.
+Le fonctionnement des variables diffère légèrement selon qu'il s'agit d'un quiz
+public ou privé :
+* Dans un quiz public, le nom et l'adresse email affichés sont ceux saisis par
+  l'apprenant ou générés automatiquement lors de la configuration du quiz.
+* Dans les quiz privés, le nom et l'adresse électronique affichés sont tirés des
+  informations de l'apprenant telles qu'elles ont été configurées lors de son
+  invitation à l'Espace.
 
