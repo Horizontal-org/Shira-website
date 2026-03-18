@@ -71,21 +71,22 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 Затем вы можете отменить публикацию теста, чтобы учащиеся не могли его
 проходить. Если тест отменен, URL-адрес теста будет вести на страницу с ошибкой.
 
-:::note If you unpublish a quiz *while* a learner is taking it, the learner will
-see an error message at the end of the quiz when they try to submit their
-answers, and their submission will be lost. :::
+::: note. Если вы отменили публикацию теста *во время* его прохождения учащимся,
+по завершении теста при попытке отправить ответы учащемуся будет отображено
+сообщение об ошибке, и его ответы будут утеряны. :::
 
-## Editing quizzes {#edit-quizzes}
-You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz.
+## Редактирование тестов {#edit-quizzes}
+Вы можете редактировать любую викторину, независимо от того, опубликована она
+или нет, в том числе:
+- Добавление новых вопросов в викторину.
 - Редактирование вопросов, которые уже есть в тесте.
 - Порядок вопросов: порядок вопросов, который вы видите в своем пространстве,
   соответствует порядку, в котором вопросы будут показаны учащимся при
   прохождении теста.
-- Deleting questions: once deleted, there is no way of retrieving a question.
+- Удаление вопросов: после удаления восстановить вопрос невозможно.
 
-:::note If some learners have already taken the quiz, editing this quiz may
-affect the reliability of [the quizz's results](/results). :::
+::: note. Если некоторые учащиеся уже прошли тест, его редактирование может
+повлиять на достоверность [результатов теста](/results). :::
 
 ## Дублирование теста {#duplicate-quiz}
 Дублирование теста означает создание точной копии существующего теста.
