@@ -6,36 +6,28 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 ---
 
-# Release Notes
+# 发布说明
 
-:::tip Here’s everything you need to know about the latest features and
-improvements in Shira. If something is missing, you can [suggest new features or
-improvements here](https://github.com/Horizontal-org/shira/discussions). :::
+:::提示 这里包含您需要了解的 Shira
+所有的最新功能和改进。如有遗漏，请[在此处建议新功能或改进](https://github.com/Horizontal-org/shira/discussions)。
+:::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}
-*Released on 29 January 2026*
+*发布于 2026 年 1 月 29 日*
 
-This releases introduces private quizzes--our most requested feature!
-- Private quizzes: quizzes that can only be taken by learners who are registered
-  in your space.
-- Registered learners: learners who have been invited by an admin to join your
-  space and whose results are tied to their account, allowing you to see how
-  each is doing on your quizzes.
+此版本推出私有测验，用户最期待的功能！
+- 私有测验：只有在您的空间注册的学员才能参加测验。
+- 注册学员：指管理员邀请加入空间的学员，其结果与其账号关联，以便您查看每位学员的测验表现。
 
 ## Shira 2.0-beta4 {#shira-20-beta4}
-*Released on 3 November 2025*
+*发布于 2025 年 11 月 3 日*
 
-With this release, we are getting closer to the full feature set that will be
-included in Shira 2.0. You can already find the following features:
-- Organizational spaces: a place for you to manage quizzes and see results.
-- Customizable quizzes: create as many quizzes as you wish.
-- Customizable quiz questions: create quiz questions tailored to your team's
-  needs and capacity.
-- Explanations: display short texts, directly inside quiz questions, to point
-  learners to specific elements in the question content that suggest that it may
-  be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to
-  what your learners will experience in real life: Gmail, Outlook, WhatsApp,
-  SMS, Facebook Messenger, and Dating App.
-- Results: see how well your learners did on your quizzes.
+此版本几乎包含 Shira 2.0 中的所有功能。您已经可以使用以下功能：
+- 组织空间：用于管理测验和查看结果。
+- 可自定义测验：创建任意数量的测验。
+- 可自定义测验题目：根据团队的需求和能力，量身定制测验题目。
+- 解析：在测验题目中直接展示简短文本，引导学员关注题目内容中的特定元素，这些元素可能表明它钓鱼攻击或合法内容。
+- 通过六种应用展示题目，使其尽可能贴近学员在现实中会遇到的情况：Gmail、Outlook、WhatsApp、短信（SMS）、Facebook
+  Messenger 和约会应用。
+- 结果：查看学员的测验表现。
 
