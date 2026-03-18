@@ -5,13 +5,10 @@ sidebar_position: 2
 description: Learn how to self-host Shira, the open-source phishing training platform, with upcoming guidance for setting up your own instance and managing quizzes independently.
 
 ---
-# Self-Hosting
+# 自托管
 
-Shira is [open-source](https://github.com/Horizontal-org/shira) and it's
-distributed under an MIT 2.0 License. We maintain a cloud instance of Shira for
-our partners, but anyone can self-host their own instance.
+Shira 开源[open-source](https://github.com/Horizontal-org/shira) 并基于 MIT 2.0
+许可协议分发。我们为合作伙伴维护 Shira 云端实例，不过任何人都可以自托管自己的实例。
 
-Please [contact us](/contact) if you are interested in self-hosting Shira.
-However, experienced self-hosters may be able to do it anyway:
-[https://github.com/Horizontal-org/shira](https://github.com/Horizontal-org/shira).
-We will soon be publishing self-hosting guidance.
+如果您想要自托管
+Shira，请[联系我们](/contact)。不过，经验丰富的自托管用户可直接操作：[https://github.com/Horizontal-org/shira](https://github.com/Horizontal-org/shira)。自托管指南将很快发布。
