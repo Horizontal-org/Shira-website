@@ -35,8 +35,8 @@ description: Learn how to create and customize quiz questions in Shira — inclu
   المستخدم.
 
 ## تطبيق {#app}
-An *app* is an interface that looks exactly like the actual app or platform your
-learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
+التطبيق واجهة تبدو تماماً مثل التطبيق أو المنصة الفعلية التي يستخدمها المتعلمون
+كل يوم: Gmail، أو Outlook، أو الرسائل النصية، أو WhatsApp، وغيرها.
 
 من خلال التطبيقات، يعرض Shira رسائل البريد الإلكتروني أو الرسائل النصية تماماً
 كما تظهر في الواقع. وهذا يعني أنه عندما يواجه المتعلمون هجوماً حقيقياً للتصيد
@@ -51,15 +51,15 @@ learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
 - Facebook Messenger
 - تطبيقات المواعدة
 
-:::note [Let us know](/contact) if your team relies on apps that aren't in this
-list and that you would like to see in Shira! :::
+:::note [أخبرونا](/contact) إذا كانت فرقكم تعتمد على تطبيقات ليست مدرجة في هذه
+القائمة، وترغبون في رؤيتها ضمن Shira! :::
 
 ## محتوى السؤال {#content}
-A question's content is the actual email or message that you draft to display in
-the quiz question.
+محتوى السؤال هو نص البريد الإلكتروني أو الرسالة الفعلية التي تقومون بصياغتها
+لتظهر ضمن سؤال الاختبار.
 
-This can include any elements that are usually part of emails or messages in
-real life: text, images, file attachments, links, etc.
+يمكن أن يشمل ذلك أي عناصر تكون عادةً جزءاً من رسائل البريد الإلكتروني أو الرسائل
+في الحياة الواقعية: النصوص، الصور، ملفات المرفقات، الروابط، وغيرها.
 
 ## Explanations {#explanations}
 Explanations are short snippets of text that you can create to explain to
