@@ -65,37 +65,33 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 يمكنكم بعد ذلك إلغاء نشر الاختبار لمنع المتعلمين من إجرائه. وفي حال إلغاء نشر
 الاختبار، فإن رابط الاختبار سيُظهر صفحة خطأ.
 
-:::note If you unpublish a quiz *while* a learner is taking it, the learner will
-see an error message at the end of the quiz when they try to submit their
-answers, and their submission will be lost. :::
+:::note إذا ألغيتم نشر اختبار ما *أثناء إجراء* المتعلم له، سيرى المتعلم رسالة
+خطأ في نهاية الاختبار عند محاولته تقديم إجاباته، وسيفقد حينها تقديمه. :::
 
-## Editing quizzes {#edit-quizzes}
-You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz.
-- Editing questions that already exist in the quiz.
-- Reording questions: the order of questions that you see in your space is the
-  same order that the questions will be shown to learners when they take the
-  quiz.
-- Deleting questions: once deleted, there is no way of retrieving a question.
+## تحرير الاختبارات {#edit-quizzes}
+يمكنك تحرير أي اختبار، سواء كان منشورا أو غير منشور، بما في ذلك:
+- إضافة أسئلة جديدة إلى الاختبار.
+- تحرير الأسئلة الموجودة بالفعل في الاختبار.
+- تنظيم الأسئلة: إن ترتيب الأسئلة التي ترونها في فضائكم سيكون هو نفس ترتيب
+  الأسئلة التي ستُعرَض بها على المتعلمين عند إجراء الاختبار.
+- حذف الأسئلة: بمجرد الحذف، لا توجد طريقة لاسترجاع السؤال.
 
-:::note If some learners have already taken the quiz, editing this quiz may
-affect the reliability of [the quizz's results](/results). :::
+:::note إذا كان بعض المتعلمين قد أجروا الاختبار بالفعل، فقد يؤثر تحرير هذا
+الاختبار على موثوقية [نتائج الاختبار](/results). :::
 
 ## استنساخ اختبار {#duplicate-quiz}
-Duplicating a quiz means creating an exact copy of an existing quiz.
+تكرار اختبار يعني إنشاء نسخة مطابقة من اختبار موجود.
 
-Once duplicated, the original quiz and the new quiz are independent from each
-other: you can edit or delete one, the other will be unaffected. **Results
-associated with the original quizz *will not* be moved to the new copy of the
-quiz**.
+بمجرد تكرارهما، يصبح الاختبار الأصلي والاختبار الجديد مستقلَّين عن بعضهما البعض:
+يمكنكم تعديل أو حذف أحدهما، فلن يتأثر الآخر. **إن النتائج المرتبطة بالاختبار
+الأصلي *لن تُنقَل* إلى النسخة الجديدة من الاختبار**.
 
-You can set a quiz privacy settings (public or private) at the time of
-duplication.
+يمكنكم تعيين إعدادات الخصوصية للاختبار (عمومية أو خاصة) عند الهمِّ بالتكرار.
 
 
-## Deleting a quiz {#delete-quiz}
-Deleting a quiz means that the quiz, all the questions inside the quiz, and any
-[results](/results) associated with this quiz are deleted from your space.
+## حذف الاختبار {#delete-quiz}
+إن حذف الاختبار يعني أن الحذف من فضائكم يشمل الاختبار، وجميع الأسئلة داخله، وكل
+[النتائج](/results) المرتبطة به.
 
-:::warning Deleting a quiz is permanent: once deleted, a quiz and its results
-cannot be recovered! :::
+:::warning إن حذف اختبار أمر لا رجعة فيه: بمجرد حذفه، لن يكون ممكنا استعادة
+الاختبار ونتائجه!! :::
