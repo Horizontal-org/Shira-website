@@ -5,99 +5,72 @@ sidebar_position: 2
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---
-# Quizzes
+# 测验
 
-In Shira, a quiz is the central component of a phishing education campaign or
-program. Shira lets you build your own quizzes to match your audience's specific
-needs, context, and threats.
+在 Shira 中，测验是钓鱼教育活动或项目的核心组件。通过 Shira，您可根据受众的特定需求、背景和威胁，来创建自己的测验。
 
-In your Shira Space, you can:
-- [create quizzes](#create-quizzes)
-- [configure privacy settings](#privacy)
-- [publish and unpublish a quiz](#publish-unpublish)
-- [edit existing quizzes](#edit-quizzes)
-- [duplicate an existing quiz](#duplicate-quiz)
-- [delete quizzes](#delete-quiz)
+在 Shira 空间中，您可以：
+- [创建测验](#create-quizzes)
+- [配置隐私设置](#privacy)
+- [发布和取消发布测验](#publish-unpublish)
+- [编辑现有测验](#edit-quizzes)
+- [复制现有测验](#duplicate-quiz)
+- [删除测验](#delete-quiz)
 
-## Creating quizzes {#create-quizzes}
-When you create a quiz, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+## 创建测验 {#create-quizzes}
+在创建测验时，必须：
+1. 命名测验
+2. 设置测验隐私
 
-### Quiz name {#name}
-The name your pick for the quiz helps you and your learners recognize the
-purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc).
-The quiz name is visible to learners:
-- In the email learners receive when you assign them a quiz (exclusively for
-  [private quizzes](#privacy))
-- On the welcome screen when learners take the quiz.
+### 测验名称{#name}
+测验名称应表明测验目的（例如，“第四季度员工培训”、“2026 年最常见攻击”等）。测验名称对学员可见：
+- 在学员收到的分配测验邮件中（仅适用于[私有测验](#privacy)）
+- 在学员参加测验时的欢迎界面上。
 
-### Quiz privacy {#privacy}
-There are two options available for quiz privacy: public and private.
+### 测验隐私{#privacy}
+测验隐私有两种选项：公开和私有。
 
-**The privacy of a quiz is permanent and cannot be changed**. If you want to
-change the privacy of an existing quiz, you must to duplicate the quiz.
+**测验的隐私设置是永久性的，无法更改**。如果想要更改现有测验的隐私设置，必须复制该测验。
 
-**Public quizzes**
-* Anyone with the quiz URL can take a public quiz.
-* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A
-  quiz URL looks like this:
-  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The
-  quiz URL remains the same even if you publish and unpublish the quiz multiple
-  times.
-* Learners who take public quizzes remain anonymous. This means that in
-  [Results](/results) you cannot identified who those learners are.
+**公开测验**
+* 任何人通过测验链接都可以参加公开测验。
+* 测验链接指每个测验的唯一
+  URL，学员通过该链接参加测验。测验链接格式如下：`https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68。即使多次发布和取消发布测验，其链接保持不变。
+* 参加公开测验的学员保持匿名。这表示，在[结果](/results)中，您无法识别这些学员是谁。
 
-**Private quizzes**
-* Only learners who are registered in your space can take the quiz. You can read
-  more about [registered learners here](/learners#registered).
-* When a registered learner is assigned a private quiz, they receive an email
-  with the link to take the quiz. This link is unique to each learner and helps
-  keep track of who takes the quiz and their results.
+**私有测验**
+* 只有空间的注册学员才能参加测验。关于注册学员的更多信息，可在[这里查看](/learners#registered)。
+* 为注册学员分配私有测验时，他们会收到一封邮件，内含测验链接。该链接对每位学员是唯一的，以便追踪谁参加了测验及其结果。
 
-## Adding question to your quiz {#questions}
+## 添加测验题目 {#questions}
 
-You can add questions to your quiz either by creating them manually or importing
-ready-made templates from the Library. [Learn more about questions
-here](/questions).
+可手动创建题目，或从题库导入现成模板，以此添加测验题目。[可在这里了解更多关于题目的信息](/questions)。
 
-## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to learners.
+## 发布和取消发布测验{#publish-unpublish}
+发布测验表示将其开放给学员访问。
 
-You can then unpublish the quiz to make it impossible for learners to take it.
-If the quiz is unpublished, the quiz URL will lead to an error page.
+取消发布测验之后，学员将无法参加该测验，并且测验链接将导向错误页面。
 
-:::note If you unpublish a quiz *while* a learner is taking it, the learner will
-see an error message at the end of the quiz when they try to submit their
-answers, and their submission will be lost. :::
+:::备注 在取消发布该测验时，如果学员*正在*参加测验，那么测验结束提交答案后，将在结束中显示错误消息，并且提交内容将丢失。 :::
 
-## Editing quizzes {#edit-quizzes}
-You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz.
-- Editing questions that already exist in the quiz.
-- Reording questions: the order of questions that you see in your space is the
-  same order that the questions will be shown to learners when they take the
-  quiz.
-- Deleting questions: once deleted, there is no way of retrieving a question.
+## 编辑测验{#edit-quizzes}
+无论是否发布，都可对测验进行编辑，包括：
+- 为测验添加新题目。
+- 编辑测验中的现有题目。
+- 题目重新排序：您在空间中看到的题目顺序，与学员参加测验时显示的顺序相同。
+- 删除题目：题目一旦删除，无法恢复。
 
-:::note If some learners have already taken the quiz, editing this quiz may
-affect the reliability of [the quizz's results](/results). :::
+:::备注 如果已有学员参加过测验，编辑该测验可能会影响[测验结果](/results)。 :::
 
-## Duplicating a quiz {#duplicate-quiz}
-Duplicating a quiz means creating an exact copy of an existing quiz.
+## 复制测验{#duplicate-quiz}
+复制测验指创建现有测验的完全副本。
 
-Once duplicated, the original quiz and the new quiz are independent from each
-other: you can edit or delete one, the other will be unaffected. **Results
-associated with the original quizz *will not* be moved to the new copy of the
-quiz**.
+复制测验后，原始测验和新测验互相独立：编辑或删除一个测验，不会影响另一个。**与原始测验关联的*结果不会*转移到新测验**。
 
-You can set a quiz privacy settings (public or private) at the time of
-duplication.
+在复制时，可设置测验隐私为公开或私有。
 
 
-## Deleting a quiz {#delete-quiz}
-Deleting a quiz means that the quiz, all the questions inside the quiz, and any
-[results](/results) associated with this quiz are deleted from your space.
+## 删除测验{#delete-quiz}
+删除测验表示，在您的空间中删除测验及其所有题目，还有该测验相关的所有[结果](/results)。
 
-:::warning Deleting a quiz is permanent: once deleted, a quiz and its results
-cannot be recovered! :::
+:::警告 删除测验是永久性的：一旦删除，测验及其结果将无法恢复！ :::
