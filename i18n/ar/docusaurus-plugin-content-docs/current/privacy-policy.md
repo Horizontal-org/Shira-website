@@ -67,70 +67,61 @@ import TOCInline from '@theme/TOCInline';
 - مساحة (أو مساحات) العمل المرتبطة بالمسؤول.
 
 إليكم بيانات الحساب التي نجمعها عن المتعلمين المسجلين:
-- Email address: this is the email address a Registered User is invited to join
-  a space with, and that remains associated with the Registered User's account
-  once the account is created.
-- Date of account creation: a Registered Learner's account is considered
-  "created" when an admin sends an invitation to a Registered Learner to join a
-  Space.
-- What Space(s) the Registered Learner is associated with.
+- عنوان البريد الإلكتروني: هذا هو عنوان البريد الإلكتروني الذي يُدعى المستخدم
+  المُسجَّل للانضمام إليه في الفضاء، والذي يظل مرتبطا بحساب المستخدم المُسجَّل
+  بمجرد إنشاء الحساب.
+- تاريخ إنشاء الحساب: يعد حساب المتعلم المسجل 'أُنشيء' عندما يرسل المسؤول دعوة
+  لمتعلم مسجل للانضمام إلى فضاء ما.
+- بأي فضاءات يرتبط المتعلم المسجل.
 
-We do not collect any account data from Anonymous Learners and Visitors.
+نحن لا نجمع أي بيانات عن حسابات المتعلمين والزوار المجهولين.
 
-#### How do we collect account data? {#how-do-we-collect-account-data}
-- Email addresses and the list of Spaces a user is associated with are collected
-  when a user fills an invitation form (when an Admin fills the form to create a
-  Space or when an admin fills the information to send an invitation to a
-  Registered Learner to join a space).
-- The date of account creation is collected automatically when the account is
-  created.
+#### كيف نجمع البيانات عن الحسابات ؟ {#how-do-we-collect-account-data}
+- يتم جمع عناوين البريد الإلكتروني وقائمة الفضاءات المرتبطة بالمستخدم عندما يملأ
+  المستخدم استمارة الدعوة (عندما يملأ المسؤول الاستمارة لإنشاء الفضاء أو عندما
+  يملأ المسؤول المعلومات لإرسال دعوة إلى متعلم مسجل للانضمام إلى الفضاء).
+- يتم جمع تاريخ إنشاء الحساب تلقائيا عند إنشاء الحساب.
 
-#### How do we share or disclose account data? {#how-do-we-share-or-disclose-account-data}
-We will never sell your account data to any third party.
+#### كيف نشارك أو نكشف عن بيانات الحسابات؟ {#how-do-we-share-or-disclose-account-data}
+لن نبيع أبدا بيانات حسابك لأي طرف خارجي.
 
-We will never intentionally disclose your account data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to process
-  payments).
+لن نكشف أبدا عن بيانات حسابك عمدا لأي طرف خارجي، إلا في الحالات التالية:
+- كما هو واجب بقوة القانون (مثلا إذا كان طلب هذه البيانات بموجب أمر قضائي).
+- حسب الحاجة لتشغيل وتقديم خدمات Shira (مثل معالجة المدفوعات).
 
-### Functionality data {#functionality-data}
+### بيانات الوظائف {#functionality-data}
 
-#### What is functionality data? {#what-is-functionality-data}
-Functionality data is the data that is generated when users make use of Shira
-features, such as quizzes, quiz questions, results, and more.
+#### ما هي بيانات الوظائف؟ {#what-is-functionality-data}
+بيانات الوظائف هي البيانات التي يتم توليدها عندما يستعمل المستخدمون ميزات Shira،
+مثل الاختبارات السابقة، وأسئلة الاختبار، والنتائج، والمزيد.
 
-#### What functionality data do we collect? {#what-functionality-data-do-we-collect}
-This is the functionality data we collect about Admins:
-- Information about the quizzes created and managed by Admins, including the
-  quiz name and status (published, unpublished, public, private, etc), the list
-  of quiz questions, and the explanations created in each question.
-- When Admins connect and use Shira, including the day and time of each
-  connection.
+#### ما هي بيانات الوظائف التي نجمعها؟ {#what-functionality-data-do-we-collect}
+هذه هي بيانات الوظائف التي نجمعها عن المسؤولين:
+- معلومات عن الاختبارات التي أنشأها ويُديرها المسؤولون، بما في ذلك اسم الاختبار
+  وحالته (منشور، غير منشور، عمومي، خاص، إلخ)، وقائمة أسئلة الاختبار، والتفسيرات
+  التي تم إنشاؤها لكل سؤال.
+- عندما يتصل المسؤولون بـ Shira ويستخدمونه، بما في ذلك تاريخ وزمن كل اتصال.
 
-This is the functionality data we collect about Registered Learners:
-- List of quizzes that a Registered Learner is invited to take or has taken.
-- Responses submitted by the Registered Learner when taking a quiz (Results).
-- Date and time a Registered Learner has taken a quiz.
+هذه هي بيانات الوظائف التي نجمعها عن المتعلمين المسجلين:
+- قائمة الاختبارات التي يُدعى المتعلم المسجل لخوضها أو التي أجراها آنفا.
+- الإجابات المُقدَّمة من المتعلم المُسجَّل عند إجراء اختبار (النتائج).
+- تاريخ وزمن اجتياز المتعلم المُسجَّل للاختبار.
 
-This is the functionality data we collect about Anonymous Learners:
-- Responses submitted by the Anonymous Learner when taking a quiz (Results).
-- Date and time an Anonymous Learner has taken a quiz.
+هذه هي بيانات الوظائف التي نجمعها عن المتعلمين المجهولين:
+- الإجابات المقدمة من متعلم مجهول عند إجراء الاختبار (النتائج).
+- التاريخ والزمن الذي أجرى فيه متعلم مجهول اختبارا.
 
-We do not collect functionality data about Visitors.
+نحن لا نجمع بيانات الوظائف عن الزوار.
 
-#### How is functionality data collected? {#how-is-functionality-data-collected}
-We collect functionality data automatically from user inputs as they make use of
-Shira features.
+#### كيف يتم جمع بيانات الوظائف؟ {#how-is-functionality-data-collected}
+نجمع بيانات الوظائف تلقائيا من مدخلات المستخدمين أثناء استخدامهم لميزات Shira.
 
-#### How do we share or disclose functionality data? {#how-do-we-share-or-disclose-functionality-data}
-We will never sell your functionality data to any third party.
+#### كيف نشارك أو نكشف عن بيانات الوظائف؟ {#how-do-we-share-or-disclose-functionality-data}
+لن نبيع أبدا بيانات وظائفكم لأي طرف خارجي.
 
-We will never intentionally disclose your functionality data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to display
-  Results).
+لن نكشف عمدا عن بيانات وظائفك لأي طرف خارجي، إلا في الحالات التالية:
+- كما هو واجب بقوة القانون (مثلا إذا كان طلب هذه البيانات بموجب أمر قضائي).
+- حسب الحاجة لتشغيل وتقديم خدمات Shira (مثل عرض النتائج).
 
 ### القياس عن بُعد {#telemetry}
 
@@ -144,11 +135,11 @@ except in the following cases:
 
 #### ما هي بيانات القياس عن بُعد التي نجمعها؟ {#what-telemetry-do-we-collect}
 نقوم بجمع بيانات القياس عن بُعد التالية:
-- The number of visits to https://quiz.shira.app
-- The number of quizzes started at https://shira.app, including both ready-made
-  quizzes and custom quizzes created by Space admins
-- The number of quizzes completed at https://shira.app, including both
-  ready-made quizzes and custom quizzes created by Space admins
+- عدد الزيارات إلى https://quiz.shira.app
+- عدد الاختبارات التي جرى بدأُها من https://shira.app، بما في ذلك الاختبارات
+  الجاهزة والاختبارات المخصصة التي أنشأها المسؤولون عن الفضاء
+- عدد الاختبارات التي جرى إتمامها من https://shira.app، بما في ذلك الاختبارات
+  الجاهزة والاختبارات المخصصة التي أنشأها المسؤولون عن الفضاء
 
 #### كيف يتم جمع بيانات القياس عن بُعد؟ {#how-is-telemetry-collected}
 يتم جمع بيانات القياس عن بُعد تلقائياً من خلال [Divvi Up](https://divviup.org/)،
@@ -157,48 +148,45 @@ except in the following cases:
 للمستخدمين.
 
 هذه هي الطريقة التي نتبعها في جمع بيانات القياس عن بُعد:
-- All data is anonymous and aggregated: the Divvi Up library splits the data
-  into two anonymized and encrypted shares and uploads each share to different
-  data share processors (one hosted by ISRG, the makers of Divvi Up, and one
-  hosted by us) that do not share data with each other. This way, only partial
-  information about the original data is revealed to either processor.
-- Even if we wanted to, we couldn't get the whole data: It's not possible to
-  construct the whole data with only one share. Each processor aggregates its
-  data shares into a partial sum. The partial sums can then be combined into a
-  final aggregation, permitting useful statistics over the whole body of data
-  while revealing minimal information about individual participants. More
-  information how Divvi Up works can be found here.
-- We collect as little data as possible: Even though all data is anonymized, we
-  always minimize the amount of data we collect.
+- جميع البيانات مجهولة المصدر ومُجمَّعة: مكتبة Divvi Up تُقسِّم البيانات إلى
+  جزئين اثنين مجهولَين ومُعمَّيَين، ثم ترفع كل جزء إلى معالجات مشاركة بيانات
+  مختلفة (واحدة مُستضافة في ISRG، وهم الذين أنشأوا Divvi Up، والأخرى نحن
+  نستضيفها عندنا) لا يشاركان البيانات مع بعضها البعض. إذ بهذه الطريقة، يتم الكشف
+  عن معلومات جزئية فقط من البيانات الأصلية لكل من المعالجَين.
+- حتى لو أردنا فعل ذلك، لن نتمكن من الحصول على البيانات الكاملة: من غير الممكن
+  بناء البيانات الكاملة بجزء واحد فقط. يقوم كل معالج بتجميع أجزاء بياناته في
+  مجموع جزئي. يمكن بعد ذلك دمج المجاميع الجزئية في تجميع نهائي، مما يسمح
+  بإحصائيات مفيدة على كامل مجموعة البيانات مع كشف معلومات قليلة عن الأفراد
+  المشاركين. يمكن العثور على مزيد من المعلومات حول كيفية عمل Divvi Up هنا.
+- إننا نجمع أقل قدر ممكن من البيانات: حتى وإن كانت جميع البيانات مجهولة، فإننا
+  دائما نقلل من كمية البيانات التي نجمعها.
 
 #### كيف نقوم بمشاركة أو الإفصاح عن بيانات القياس عن بُعد؟ {#how-do-we-share-or-disclose-telemetry}
 لن نقوم أبداً ببيع بيانات القياس عن بُعد الخاصة بك لأي جهة خارجية. كما لن نقوم
 بالإفصاح عن هذه البيانات عمداً لأي جهة خارجية، إلا في الحالات التالية:
-- As required by law (e.g. if this data is subpoenaed as part of a court order)
-- As necessary to operate and provide the services of Shira (e.g. to provide
-  usage data to partners or contractors)
+- كما هو واجب بقوة القانون (مثلا إذا كان طلب هذه البيانات بموجب أمر قضائي).
+- عند الحاجة لتشغيل وتقديم خدمات Shira (مثل توفير بيانات الاستخدام للشركاء أو
+  المقاولين المتعاقدين معنا)
 
-## 3. Data security {#data-security}
-We implement industry standard practices to protect your data from unauthorized
-access, including:
-- Encryption in-transit between your browser and our servers, using the SSL/TLS
-  protocol
-- JSON Web Tokens, which are an open, industry standard RFC 7519 method for
-  representing claims securely between two parties
+## 3. أمن البيانات {#data-security}
+نحن نطبق معايير صناعية لحماية بياناتك من الوصول غير المصرح به، بما في ذلك:
+- التعمية أثناء النقل بين متصفحك وخوادمنا، باستخدام بروتوكول SSL/TLS
+- رموز الاستيثاق (JWT)، وهي طريقة مفتوحة ومعيارية تابعة لـ RFC 7519 لتبادل
+  الطلبات بأمان بين طرفين
 
-## 4. Your California Privacy Rights {#california}
-If you are a California resident, California law may provide you with additional
-rights regarding our use of your personal information. To learn more about your
-California privacy rights, visit
+## 4. حقوقكم في الخصوصية في ولاية كاليفورنيا {#california}
+إذا كنتم مقيمين في ولاية كاليفورنيا، فقد يوفر لك قانون كاليفورنيا حقوقا إضافية
+بشأن استخدامنا لمعلوماتكم الشخصية. لمعرفة المزيد عن حقوق الخصوصية الخاصة بكم في
+كاليفورنيا، يُرجى زيارة
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Changes to Our Privacy Policy {#changes}
-We may update or privacy policy from time to time.
+## 5. تغييرات في سياسة خصوصيتنا {#changes}
+قد نقوم بتحديث سياسة الخصوصية من وقت لآخر.
 
-The date the privacy policy was last revised is identified at the top of the
-page. You are responsible for periodically visiting this privacy policy to check
-for any changes.
+يتم تحديد تاريخ آخر تعديل لسياسة الخصوصية في أعلى الصفحة. تقع على عاتقكم مسؤولية
+زيارة سياسة الخصوصية هذه بشكل دوري للتحقق من أي تغييرات.
 
-## 6. Contact Information {#contact}
-To ask questions or comment about this privacy policy and our privacy practices,
-contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
+## 6. معلومات الاتصال {#contact}
+يُرجى التواصل معنا على
+[contact@wearehorizontal.org](mailto:contact@wearehorizontal.org) لطرح الأسئلة
+أو التعليق حول سياسة الخصوصية هذه وممارساتنا المتعلقة بالخصوصية.
