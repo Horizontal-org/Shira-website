@@ -61,34 +61,31 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 يمكن أن يشمل ذلك أي عناصر تكون عادةً جزءاً من رسائل البريد الإلكتروني أو الرسائل
 في الحياة الواقعية: النصوص، الصور، ملفات المرفقات، الروابط، وغيرها.
 
-## Explanations {#explanations}
-Explanations are short snippets of text that you can create to explain to
-learners why the email or message in the question may be a phishing attack or
-not. Explanations will be displayed after a learner answers a question, and
-highlight specific elements in the question.
+## التفسيرات{#explanations}
+التفسيرات هي مقتطفات قصيرة من النص يمكنكم إنشاؤها لشرح طبيعة البريد الإلكتروني
+أو الرسالة في السؤال (أ هي هجوم تصيُّد احتيالي أم لا). ستُعرَض التفسيرات بعد أن
+يجيب المتعلم على السؤال، وسيُسلَّط الضوء على عناصر مُحدَّدة في السؤال.
 
-When you create a question, each explanation must be linked to an element in the
-question, such as:
-- The sender's name
-- The sender's email address or phone number
-- Specific words, sentences, or images inside an email or message
-- Images or file attachments
+عند إنشاء سؤال، يجب ربط كل تفسير بعنصر في السؤال، مثل:
+- اسم المُرسِل
+- عنوان البريد الإلكتروني أو رقم هاتف المُرسِل
+- كلمات أو جمل أو صور محددة داخل البريد الإلكتروني أو الرسالة
+- الصور أو المرفقات
 
-The order of explanations that you see when you create the questions is the same
-order in which the questions are presented to learners during the quiz.
+ترتيب التفسيرات التي ترونها عند إنشاء الأسئلة سيكون بنفس ترتيب الأسئلة التي
+ستُعرَض على المتعلمين أثناء الاختبار.
 
-## Variables {#variables}
-Variables are placeholders that you can use to insert personalized information
-into a question.
+## المتغيرات {#variables}
+المتغيرات هي نصوص بديلة يمكنكم استخدامها لإدراج معلومات مُخصَّصة في السؤال.
 
-To add a variable, type the following in the question's content:
-* ``{{name}}`` will display the learner's name
-* ``{{email}}`` will display the learner's email address
+لإضافة متغير ما، اكتبوا ما يلي في محتوى السؤال:
+* سوف يعرض ``{{name}}`` اسم المتعلم
+* سيعرض ``{{email}}`` عنوان البريد الإلكتروني للمتعلم
 
-Variables work slightly differently in public and private quizzes:
-* In public quizzes, the name and email address displayed are drawn from what
-  the learner entered or auto-generated during quiz setup.
-* In private quizzes, the name and email address displayed are drawn from the
-  learner's information as they were configured when the learner was invited to
-  the Space.
+تعمل المتغيرات بشكل مختلف قليلا عندما يتعلق الأمر بالاختبارات العمومية أو
+بالاختبارات الخاصة:
+* في الاختبارات العمومية، يظهر كل من الاسم وعنوان البريد الإلكتروني للمستخدم
+  عندما يدخلهما أو أنهما يُولَّدان تلقائيا أثناء إعداد الاختبار.
+* في الاختبارات الخاصة، يُستخرَج كل من الاسم وعنوان البريد الإلكتروني المعروضَين
+  انطلاقا من معلومات المتعلم كما سبق إعدادُها عند دعوة المتعلم إلى الفضاء.
 
