@@ -4,15 +4,15 @@
         "description": "The alt text of navbar logo"
     },
     "item.label.Features": {
-        "message": "",
+        "message": "功能",
         "description": "Navbar item with label Features"
     },
     "item.label.Take a quiz": {
-        "message": "",
+        "message": "参加测验",
         "description": "Navbar item with label Take a quiz"
     },
     "item.label.Learn": {
-        "message": "",
+        "message": "了解",
         "description": "Navbar item with label Learn"
     },
     "item.label.Pricing": {
