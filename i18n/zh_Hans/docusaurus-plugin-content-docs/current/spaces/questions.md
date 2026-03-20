@@ -6,90 +6,66 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 ---
 
-# Questions
+# 题目
 
-Quiz questions are where the learning happens in Shira. This is where you show
-your learners an email or message, and ask them: does this look like phishing?
+Shira 通过测验题目来学习。在题目中，向学员展示一封邮件或一条消息，并提问：看起来像钓鱼吗？
 
-Each question is made up of several components:
-* [The question’s preferences](#preferences)
-* [An app](#app)
-* [The question's content](#content)
-* [Variables](#variables)
-* [Explanations](#explanations)
+每道题目有几个部分：
+* [题目偏好设置](#preferences)
+* [应用](#app)
+* [题目内容](#content)
+* [变量](#variables)
+* [解析](#explanations)
 
-## Creating a question {#create}
-To create questions and add them to your quiz, you have two options:
-1. You can create questions from scratch and configureeach of the questions
-   components yourself.
-2. You can pull ready-made questions from the Library. If you pull a question
-   from the Library, you can use it as is or adapt it to your specific context
-   and needs.
+## 创建题目 {#create}
+可通过两种方式，来创建题目并将其添加到测验：
+1. 从零开始创建题目，自行配置题目的各个组成部分。
+2. 使用题库中的现成题目。可直接使用这些题目，也可根据具体背景和需求进行调整。
 
-## Question preferences {#preferences}
-When you create a question, you must:
-- Name the question: this name, like "Invitation to conference" or "Suspicious
-  login notification", helps you recognize the questions you create. A
-  question's name is only visible to space admins; learners never see it when
-  they take a quiz.
-- Tell Shira whether the email or message you're creating is *phishing* or
-  *legitimate*. This will allow Shira to determine whether a user's response is
-  correct.
+## 题目偏好 {#preferences}
+创建题目时，必须：
+- 命名题目：该名称应便于识别您的题目，如“会议邀请”或“可疑登录通知”。题目名称仅对空间管理员可见，测验学员看不到。
+- 对于正在创建的邮件或消息，指定是*钓鱼*或*正规*，以便 Shira 判断用户的回答是否正确。
 
-## An app {#app}
-An *app* is an interface that looks exactly like the actual app or platform your
-learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
+## 应用 {#app}
+*应用*指界面所模拟的应用，其外观与学员实际使用的日常应用或平台完全一致，可以是：Gmail、Outlook、短信、WhatsApp 等。
 
-With apps, Shira shows an email or message exactly how it would be in real life.
-This means that when they face a real-life phishing attack, learners will be
-more likely to know where to look for clues that it is phishing.
+通过“应用”这一设置，Shira 可使用与实际界面相同的方式展示邮件或消息。这样，当面临真实的钓鱼攻击时，学员更有可能知道在哪里寻找线索来判断是否为钓鱼。
 
-Currently, Shira supports the following apps:
+目前，Shira 支持以下应用：
 - Gmail
 - Outlook
-- SMS
+- 短信（SMS）
 - WhatsApp
 - Facebook Messenger
-- Dating App
+- 约会应用
 
-:::note [Let us know](/contact) if your team relies on apps that aren't in this
-list and that you would like to see in Shira! :::
+:::备注 如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！ :::
 
-## The question's content {#content}
-A question's content is the actual email or message that you draft to display in
-the quiz question.
+## 题目内容{#content}
+题目内容指您为测验题目编写的实际邮件或消息。
 
-This can include any elements that are usually part of emails or messages in
-real life: text, images, file attachments, links, etc.
+可包括真实邮件或消息中常见的各种元素：文本、图片、文件附件、链接等。
 
-## Explanations {#explanations}
-Explanations are short snippets of text that you can create to explain to
-learners why the email or message in the question may be a phishing attack or
-not. Explanations will be displayed after a learner answers a question, and
-highlight specific elements in the question.
+## 解析{#explanations}
+解析指您创建的简短文本，用来解释题目中的邮件或消息为什么是或不是钓鱼攻击。解析将在学员回答问题后显示，并高亮题目中的特定元素。
 
-When you create a question, each explanation must be linked to an element in the
-question, such as:
-- The sender's name
-- The sender's email address or phone number
-- Specific words, sentences, or images inside an email or message
-- Images or file attachments
+创建题目时，每条解析必须关联题目中的元素，例如：
+- 发件人姓名
+- 发件人的电子邮箱地址或电话号码
+- 邮件或消息中的特定词语、句子或图片
+- 图片或文件附件
 
-The order of explanations that you see when you create the questions is the same
-order in which the questions are presented to learners during the quiz.
+您在创建题目时看到的解析顺序，与测验学员所见相同。
 
-## Variables {#variables}
-Variables are placeholders that you can use to insert personalized information
-into a question.
+## 变量{#variables}
+变量指占位符，用于在题目中插入个性化信息。
 
-To add a variable, type the following in the question's content:
-* ``{{name}}`` will display the learner's name
-* ``{{email}}`` will display the learner's email address
+要添加变量，请在题目内容中输入以下内容：
+* ``{{name}}`` 将显示学员的姓名
+* ``{{email}}`` 将显示学员的电子邮箱地址
 
-Variables work slightly differently in public and private quizzes:
-* In public quizzes, the name and email address displayed are drawn from what
-  the learner entered or auto-generated during quiz setup.
-* In private quizzes, the name and email address displayed are drawn from the
-  learner's information as they were configured when the learner was invited to
-  the Space.
+在公开和私有测验中，变量的工作方式略有不同：
+* 公开测验显示的姓名和电子邮箱地址，来自学员在测验设置过程中输入或自动生成的信息。
+* 私有测验显示的姓名和电子邮箱地址，来自学员受邀加入空间时配置的信息。
 
