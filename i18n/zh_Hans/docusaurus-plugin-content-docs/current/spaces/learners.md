@@ -6,28 +6,22 @@ description: Learn about Shira learners — anonymous participants who take quiz
 
 ---
 
-# Learners
+# 学员
 
-A learner is anyone who takes a quiz.
+学员指任何参加测验的人。
 
-There are two types of learners in Shira:
-* Anonymous learners
-* Registered learners
+Shira 学员分为两类：
+* 匿名学员
+* 注册学员
 
-### Anonymous learners {#anonymous}
-Anonymous learners are users who are *not* registered in a Shira space.
-Anonymous learners:
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made).
-* Cannot take [private quizzes](/quizzes#privacy).
-* Cannot be identified in a quiz's [results](/results).
+### 匿名学员{#anonymous}
+匿名学员是*未*在 Shira 空间注册的用户。匿名学员：
+* 可以参加[公开测验](/quizzes#privacy)或[现成测验](/ready-made)。
+* 无法参加[私有测验](/quizzes#privacy)。
+* 无法在测验[结果](/results)中被识别。
 
-### Registered learners {#registered}
-Registered learners are users who you have invited to join your Space and who
-have accepted your invitation. Registered learners:
-* Can take [private quizzes](/quizzes#privacy).
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made), but their results in those quizzes will not be tied to
-  them (you cannot see how well a registered learner did on a public quiz).
-* Have detailed [results](/results) that let you see how well they've done on
-  the private quizzes they take.
+### 注册学员{#registered}
+注册学员指接受您的邀请并加入空间的用户。注册学员：
+* 可以参加[私有测验](/quizzes#privacy)。
+* 可以参加[公开测验](/quizzes#privacy)或[现成测验](/ready-made)，但并不关联测验结果，即无法看到注册用户在公开测验中的表现。
+* 拥有详细的[结果](/results)，这样让您可查看他们私有测验的表现。
