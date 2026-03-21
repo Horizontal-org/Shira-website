@@ -24,8 +24,8 @@ Como organización sin fines de lucro dedicada a los derechos de privacidad,
 diseñamos nuestros productos para recopilar la menor cantidad de información
 necesaria sobre nuestras personas usuarias; y cualquier información que
 recopilemos, hacemos lo todo lo posible para anonimizarla y/o garantizar que las
-personas usuarias nos den su consentimiento informado para recopilar esta
-información.
+personas usuarias nos den su consentimiento informado para recopilar estos
+datos.
 
 La siguiente declaración aplica exclusivamente a Shira Cloud, que es la versión
 de Shira disponible en [https://shira.app](https://shira.app),
