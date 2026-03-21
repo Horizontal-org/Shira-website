@@ -7,26 +7,29 @@ description: Learn how Shira and Horizontal collect, use, and protect user data,
 import TOCInline from '@theme/TOCInline';
 
 
-# Privacy policy {#privacy-policy}
+# Política de privacidad {#privacy-policy}
 
 
 <TOCInline toc={toc.filter((node) => node.level === 2)} />
 
-This privacy policy was last updated on 9 February 2026.
+Esta política de privacidad se actualizó por última vez el 9 de Febrero de 2026.
 
 
-## 1. Introduction {#intro}
-Horizontal is the organization that makes Shira. Horizontal is deeply committed
-to user privacy and to the protection of user data.
+## 1. Introducción {#intro}
+Horizontal es la organización que desarrolla Shira. Horizontal está
+profundamente comprometida con la privacidad de las personas usuarias y la
+protección de sus datos.
 
-As a non-profit dedicated to privacy rights, we design our products to collect
-as little information as necessary about our users; and whatever information we
-do collect, we do our best to anonymize and/or ensure that users give us
-informed consent to collect this data.
+Como organización sin fines de lucro dedicada a los derechos de privacidad,
+diseñamos nuestros productos para recopilar la menor cantidad de información
+necesaria sobre nuestras personas usuarias; y cualquier información que
+recopilemos, hacemos lo todo lo posible para anonimizarla y/o garantizar que las
+personas usuarias nos den su consentimiento informado para recopilar esta
+información.
 
-The statement below applies exclusively to Shira Cloud, that is the version of
-Shira available at [https://shira.app](https://shira.app),
-[https://space.shira.app](https://space.shira.app), and
+La siguiente declaración aplica exclusivamente a Shira Cloud, que es la versión
+de Shira disponible en [https://shira.app](https://shira.app),
+[https://space.shira.app](https://space.shira.app), y
 [https://quiz.shira.app](https://quiz.shira.app).
 
 ## 2. Data collected {#data-collected}
