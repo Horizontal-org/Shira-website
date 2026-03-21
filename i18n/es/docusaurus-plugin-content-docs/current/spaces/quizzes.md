@@ -7,9 +7,9 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 ---
 # Cuestionarios
 
-En Shira, un cuestionario es el componente central de una campaña o programa de
-educación sobre phishing. Shira te permite elaborar tus propios cuestionarios
-para adaptarlos a las necesidades, contexto y amenazas específicas de tu
+En Shira, un cuestionario es el componente central de una campaña o programa
+educativos sobre phishing. Shira te permite elaborar tus propios cuestionarios
+para adaptarlos a las necesidades, contexto, y amenazas específicas de tu
 audiencia.
 
 En tu Espacio Shira, puedes:
