@@ -4,39 +4,39 @@
         "description": "The alt text of navbar logo"
     },
     "item.label.Features": {
-        "message": "",
+        "message": "Funciones",
         "description": "Navbar item with label Features"
     },
     "item.label.Take a quiz": {
-        "message": "",
+        "message": "Iniciar cuestionario",
         "description": "Navbar item with label Take a quiz"
     },
     "item.label.Learn": {
-        "message": "",
+        "message": "Aprender",
         "description": "Navbar item with label Learn"
     },
     "item.label.Pricing": {
-        "message": "",
+        "message": "Precios",
         "description": "Navbar item with label Pricing"
     },
     "item.label.Help": {
-        "message": "",
+        "message": "Ayuda",
         "description": "Navbar item with label Help"
     },
     "item.label.About": {
-        "message": "",
+        "message": "Acerca de",
         "description": "Navbar item with label About"
     },
     "item.label.Sign up/Log in": {
-        "message": "",
+        "message": "Registrarse / Iniciar Sesión",
         "description": "Navbar item with label Sign up/Log in"
     },
     "item.label.What is Phishing?": {
-        "message": "",
+        "message": "¿Que es el Phishing?",
         "description": "Navbar item with label What is Phishing?"
     },
     "item.label.Why phishing quizzes?": {
-        "message": "",
+        "message": "¿Por qué cuestionarios sobre phishing?",
         "description": "Navbar item with label Why phishing quizzes?"
     }
 }
