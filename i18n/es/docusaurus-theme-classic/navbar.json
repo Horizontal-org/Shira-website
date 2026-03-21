@@ -4,11 +4,11 @@
         "description": "The alt text of navbar logo"
     },
     "item.label.Features": {
-        "message": "Funciones",
+        "message": "Funcionalidades",
         "description": "Navbar item with label Features"
     },
     "item.label.Take a quiz": {
-        "message": "Iniciar cuestionario",
+        "message": "Iniciar un cuestionario",
         "description": "Navbar item with label Take a quiz"
     },
     "item.label.Learn": {
@@ -32,7 +32,7 @@
         "description": "Navbar item with label Sign up/Log in"
     },
     "item.label.What is Phishing?": {
-        "message": "¿Que es el Phishing?",
+        "message": "¿Qué es el Phishing?",
         "description": "Navbar item with label What is Phishing?"
     },
     "item.label.Why phishing quizzes?": {
