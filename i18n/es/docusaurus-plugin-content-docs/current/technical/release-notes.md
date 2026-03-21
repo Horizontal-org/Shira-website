@@ -8,17 +8,17 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 # Notas de Lanzamiento
 
-:::tip Aquí está todo lo que necesitas saber sobre las últimas funciones y
+:::tip Aquí está todo lo que necesitas saber sobre las últimas funcionalidades y
 mejoras en Shira. Si falta algo, puedes [sugerir nuevas funciones o mejoras
 aquí](https://github.com/Horizontal-org/shira/discussions). :::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}
 *Lanzada el 29 de Enero de 2026*
 
-Este lanzamiento introduce los cuestionarios privados -- !nuestra función más
+Este lanzamiento introduce los cuestionarios privados -- ¡Nuestra función más
 solicitada!
 - Cuestionarios privados: cuestionarios que solo pueden ser completados una vez
-  por aprendices registrados en tu espacio.
+  por aprendices con registro en tu espacio.
 - Registered learners: learners who have been invited by an admin to join your
   space and whose results are tied to their account, allowing you to see how
   each is doing on your quizzes.
