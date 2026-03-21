@@ -6,12 +6,12 @@ description: Learn about Shira learners — anonymous participants who take quiz
 
 ---
 
-# Aprendices
+# Estudiantes
 
-Aprendiz es cualquier persona que completa un cuestionario.
+Estudiante es cualquier persona que inicia un cuestionario.
 
-Hay dos tipos de Aprendices en Shira:
-* Personas aprendices anónimas
+Hay dos tipos de Estudiantes en Shira:
+* Personas estudiantes anónimas
 * Aprendices en registro
 
 ### Anonymous learners {#anonymous}
