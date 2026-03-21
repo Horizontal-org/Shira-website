@@ -8,7 +8,7 @@ description: View and analyze your team’s quiz performance in Shira — track 
 # Resultados
 
 La sección Resultados proporciona métricas sobre si las personas han completado
-tu cuestionario y qué tan bien les fue.
+tu cuestionario y qué tan bien les fue en el cuestionario.
 
 En Resultados, puedes ver la siguiente información: **Número de cuestionarios
 completados** Este es el número de veces que un cuestionario ha sido completado
@@ -20,7 +20,7 @@ por estudiantes.
 * En los cuestionarios privados, las personas registradas solo pueden completar
   el cuestionario una vez.
 
-**Puntuación Promedio**\
+**Puntuación promedio**\
 Esta es la puntuación promedio recibida por todas las personas aprendices que
 completaron el cuestionario.
 
