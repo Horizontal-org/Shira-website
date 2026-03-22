@@ -24,18 +24,19 @@ por estudiantes.
 Esta es la puntuación promedio recibida por todas las personas aprendices que
 completaron el cuestionario.
 
-**Completion rate** [coming soon]\
-This is the percentage of learners who have submitted the quiz out of all the
-learners assigned this quiz. Completion rate is only available for private
-quizzes.
+**Tasa de Finalización** [próximamente]\
+Es el porcentaje de aprendices que han enviado el cuestionario con respecto
+todos los aprendices a quienes se le asignó. La tasa de finalización solo está
+disponible para cuestionarios privados.
 
-**Results by question** [coming soon]\
-This shows you the average score received by all learners on each specific
-question in the quiz.
+**Resultados por pregunta** [próximamente]\
+Esto te muestra la puntuación promedio recibida por todas las personas
+aprendices en una pregunta especifica del cuestionario.
 
-**Results by learner** [coming soon]\
-This shows you the list of registered learners who completed the quiz and their
-score on the quiz. Results by learner are only available for private quizzes.
+**Resultados por aprendiz** [próximamente]\
+Te muestra la lista de personas aprendices registradas que hayan completado el
+cuestionario y su puntuación en el mismo. Los resultados por aprendices solo
+están disponibles para cuestionarios privados.
 
-:::note If there are specific things you'd like to track in Results, [let us
-know](/contact)! :::
+:::nota Si hay elementos específicos que te gustaría monitorear en Resultados,
+¡[déjanos saber](/contact)! :::
