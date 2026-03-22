@@ -17,88 +17,98 @@ En tu Espacio Shira, puedes:
 - [configurar ajustes de privacidad](#privacy)
 - [publicar y despublicar un cuestionario](#publish-unpublish)
 - [editar cuestionarios existentes](#edit-quizzes)
-- [duplicate an existing quiz](#duplicate-quiz)
-- [delete quizzes](#delete-quiz)
+- [duplicar un cuestionario existente](#duplicate-quiz)
+- [eliminar cuestionarios](#delete-quiz)
 
-## Creating quizzes {#create-quizzes}
-When you create a quiz, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+## Crear cuestionarios {#create-quizzes}
+Al crear un cuestionario, debes:
+1. Nombrar tu cuestionario
+2. Establecer la privacidad de tu cuestionario
 
-### Quiz name {#name}
-The name your pick for the quiz helps you and your learners recognize the
-purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc).
-The quiz name is visible to learners:
-- In the email learners receive when you assign them a quiz (exclusively for
-  [private quizzes](#privacy))
-- On the welcome screen when learners take the quiz.
+### Nombre del cuestionario {#name}
+El nombre que elijas para el cuestionario te ayudará a ti y a tus aprendices a
+reconocer el propósito de tu cuestionario (p. ej., "Capacitación del personal
+T4", "Los ataques más comunes de 2026", etc). El nombre del cuestionario es
+visible para aprendices.
+- En el correo que reciben las personas aprendices cuando les asignas un
+  cuestionario (exclusivamente para [cuestionarios privados](#privacy))
+- En la pantalla de bienvenida cuando completan un cuestionario.
 
-### Quiz privacy {#privacy}
-There are two options available for quiz privacy: public and private.
+### Privacidad del cuestionario {#privacy}
+Hay dos opciones disponibles para la privacidad de los cuestionarios: público y
+privado.
 
-**The privacy of a quiz is permanent and cannot be changed**. If you want to
-change the privacy of an existing quiz, you must to duplicate the quiz.
+**La privacidad de un cuestionario es permanente y no se puede cambiar**. Si
+quieres cambiar la privacidad de un cuestionario existente, debes duplicarlo.
 
-**Public quizzes**
-* Anyone with the quiz URL can take a public quiz.
-* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A
-  quiz URL looks like this:
-  `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The
-  quiz URL remains the same even if you publish and unpublish the quiz multiple
-  times.
-* Learners who take public quizzes remain anonymous. This means that in
-  [Results](/results) you cannot identified who those learners are.
+**Cuestionarios públicos**
+* Cualquiera con la URL del cuestionario puede completar un cuestionario
+  público.
+* La URL de un cuestionario es única para cada cuestionario que tus aprendices
+  usan para completarlo. Una URL de cuestionario se como esta:
+  https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. La URL
+  de un cuestionario permanece igual incluso si publicas y despublicas el
+  cuestionario múltiples veces.
+* Las personas aprendices que completen cuestionarios públicos permanecerán en
+  el anonimato. Esto significa que en [Resultados](/results) no puedes
+  identificar quienes son.
 
-**Private quizzes**
-* Only learners who are registered in your space can take the quiz. You can read
-  more about [registered learners here](/learners#registered).
-* When a registered learner is assigned a private quiz, they receive an email
-  with the link to take the quiz. This link is unique to each learner and helps
-  keep track of who takes the quiz and their results.
+**Cuestionarios privados**
+* Solo aprendices que se hayan registrado en tu espacio pueden completar el
+  cuestionario. Puedes leer más sobre [personas registradas
+  aquí](/learners#registered).
+* Cuando se le asigna un cuestionario a una persona aprendiz registrada, recibe
+  un correo con el enlace al cuestionario. Este enlace es único para cada
+  aprendiz y ayuda a mantener un registro de quienes realizan el cuestionario y
+  sus resultados.
 
-## Adding question to your quiz {#questions}
+## Agregar pregunta a tu cuestionario {#questions}
 
-You can add questions to your quiz either by creating them manually or importing
-ready-made templates from the Library. [Learn more about questions
-here](/questions).
+Puedes agregar preguntar a tu cuestionario ya sea creándolas manualmente o
+importando plantillas predefinidas desde la Librería. [Aprende más sobre
+preguntas aquí](/questions).
 
-## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to learners.
+## Publicar y despublicar cuestionarios {#publish-unpublish}
+Publicar un cuestionario significa que haces que sea accesible para aprendices.
 
-You can then unpublish the quiz to make it impossible for learners to take it.
-If the quiz is unpublished, the quiz URL will lead to an error page.
+Luego puedes despublicar el cuestionario para hacer que sea imposible
+completarlo. Si el cuestionario se despublica, la URL llevará a una página de
+error.
 
-:::note If you unpublish a quiz *while* a learner is taking it, the learner will
-see an error message at the end of the quiz when they try to submit their
-answers, and their submission will be lost. :::
+:::note Si despublicas un cuestionario *mientras* está siendo completado por una
+persona, esta verá un mensaje de error al final del cuestionario cuando envíe
+sus respuestas, y estas se perderán. :::
 
-## Editing quizzes {#edit-quizzes}
-You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz.
-- Editing questions that already exist in the quiz.
-- Reording questions: the order of questions that you see in your space is the
-  same order that the questions will be shown to learners when they take the
-  quiz.
-- Deleting questions: once deleted, there is no way of retrieving a question.
+## Editar cuestionarios {#edit-quizzes}
+Puedes editar cualquier cuestionario, esté publicado o no, incluyendo:
+- Agregar nuevas preguntas al cuestionario.
+- Editar preguntas ya existentes en el cuestionario.
+- Reordenar preguntas: el orden de las preguntas que ves en tu espacio es el
+  mismo orden en el que se le mostrará a aprendices cuando completen el
+  cuestionario.
+- Eliminar preguntas: una vez eliminada, no hay manera de recuperar una
+  pregunta.
 
-:::note If some learners have already taken the quiz, editing this quiz may
-affect the reliability of [the quizz's results](/results). :::
+:::note Si alguna persona ya ha completado el cuestionario, editarlo puede
+afectar la fiabilidad de [los resultados del cuestionario](/results). :::
 
-## Duplicating a quiz {#duplicate-quiz}
-Duplicating a quiz means creating an exact copy of an existing quiz.
+## Duplicar cuestionario {#duplicate-quiz}
+Duplicar un cuestionario significa crear una copia exacta de un cuestionario
+existente.
 
-Once duplicated, the original quiz and the new quiz are independent from each
-other: you can edit or delete one, the other will be unaffected. **Results
-associated with the original quizz *will not* be moved to the new copy of the
-quiz**.
+Una vez duplicado, el cuestionario original y el nuevo cuestionario son
+independientes uno del otro: puedes editar o eliminar uno, el otro no será
+afectado. **Los resultados asociados al cuestionario original *no serán* movidos
+a la nueva copia del cuestionario**.
 
-You can set a quiz privacy settings (public or private) at the time of
-duplication.
+Puedes establecer una configuración de privacidad de cuestionario (público o
+privado) en el momento del duplicado.
 
 
-## Deleting a quiz {#delete-quiz}
-Deleting a quiz means that the quiz, all the questions inside the quiz, and any
-[results](/results) associated with this quiz are deleted from your space.
+## Eliminar cuestionario {#delete-quiz}
+Eliminar un cuestionario significa que, todas las preguntas dentro del
+cuestionario, y cualquier [resultado](/results) asociado con el mismo serán
+eliminados de tu espacio.
 
-:::warning Deleting a quiz is permanent: once deleted, a quiz and its results
-cannot be recovered! :::
+:::warning Eliminar un cuestionario es una acción permanente: ¡una vez
+eliminado, el cuestionario y sus resultados no se pueden recuperar! :::
