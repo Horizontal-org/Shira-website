@@ -17,80 +17,83 @@ Cada pregunta está compuesta por varios elementos:
 * [Una app](#app)
 * [El contenido de la pregunta](#content)
 * [Variables](#variables)
-* [Explanations](#explanations)
+* [Explicaciones](#explanations)
 
-## Creating a question {#create}
-To create questions and add them to your quiz, you have two options:
-1. You can create questions from scratch and configureeach of the questions
-   components yourself.
-2. You can pull ready-made questions from the Library. If you pull a question
-   from the Library, you can use it as is or adapt it to your specific context
-   and needs.
+## Crear una pregunta {#create}
+Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
+1. Puedes crear preguntas desde cero y configurar tú cada uno de los componentes
+   de las preguntas.
+2. Puedes importar preguntas predefinidas desde la Biblioteca. Si importas una
+   pregunta de la Biblioteca, puedes usarla tal cual o adaptarla a tu contexto y
+   necesidades especificas.
 
-## Question preferences {#preferences}
-When you create a question, you must:
-- Name the question: this name, like "Invitation to conference" or "Suspicious
-  login notification", helps you recognize the questions you create. A
-  question's name is only visible to space admins; learners never see it when
-  they take a quiz.
-- Tell Shira whether the email or message you're creating is *phishing* or
-  *legitimate*. This will allow Shira to determine whether a user's response is
-  correct.
+## Preferencias de las preguntas {#preferences}
+Al crear una pregunta, debes:
+- Nombrar la pregunta: este nombre, como "Invitación a conferencia" o
+  "Notificación de inicio de sesión sospechoso", te ayuda a reconocer las
+  preguntas que creas. El nombre de una pregunta solo es visible para admins del
+  espacio; nunca es visible para aprendices mientras completan el cuestionario.
+- Dile a Shira si el correo o mensaje que estás creando es **phishing** o
+  **legitimo**. Esto permitirá a Shira determinar si la respuesta de una persona
+  es correcta.
 
-## An app {#app}
-An *app* is an interface that looks exactly like the actual app or platform your
-learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
+## Una aplicación {#app}
+Una *aplicación* es una interfaz que se ve exactamente igual a la aplicación o
+plataforma real que tus aprendices usan cotidianamente: Gmail, Outlook, SMS,
+WhatsApp, etc.
 
-With apps, Shira shows an email or message exactly how it would be in real life.
-This means that when they face a real-life phishing attack, learners will be
-more likely to know where to look for clues that it is phishing.
+Con aplicaciones, Shira muestra un correo o mensaje exactamente como sería en la
+vida real. Esto significa que cuando se enfrenten a un ataque de phishing en la
+realidad, tus aprendices tendrán mas probabilidades de identificar señales que
+indiquen que es phishing.
 
-Currently, Shira supports the following apps:
+Actualmente, Shira admite las siguientes aplicaciones:
 - Gmail
 - Outlook
 - SMS
 - WhatsApp
 - Facebook Messenger
-- Dating App
+- Aplicación de Citas
 
-:::note [Let us know](/contact) if your team relies on apps that aren't in this
-list and that you would like to see in Shira! :::
+:::note ¡[Déjanos saber](/contact) si tu equipo depende de aplicaciones que no
+están en esta lista y que te gustaría ver en Shira! :::
 
-## The question's content {#content}
-A question's content is the actual email or message that you draft to display in
-the quiz question.
+## El contenido de la pregunta {#content}
+El contenido de una pregunta es el correo o mensaje que redactas para mostrar en
+la pregunta del cuestionario.
 
-This can include any elements that are usually part of emails or messages in
-real life: text, images, file attachments, links, etc.
+Esto puede incluir cualquier elemento que normalmente sea parte de correos o
+mensajes en la vida real: texto, imágenes, archivos adjuntos, enlaces, etc.
 
-## Explanations {#explanations}
-Explanations are short snippets of text that you can create to explain to
-learners why the email or message in the question may be a phishing attack or
-not. Explanations will be displayed after a learner answers a question, and
-highlight specific elements in the question.
+## Explicaciones {#explanations}
+La explicaciones son textos breves que puedes crear para explicar a tus
+aprendices por qué el correo o mensaje en la pregunta puede o no ser un ataque
+de phishing. La explicaciones se mostraran después que tus aprendices responden
+a una pregunta, y resaltan un elemento específico en la pregunta.
 
-When you create a question, each explanation must be linked to an element in the
-question, such as:
-- The sender's name
-- The sender's email address or phone number
-- Specific words, sentences, or images inside an email or message
-- Images or file attachments
+Cuando creas una pregunta, cada explicación debe estar enlazada a un elemento en
+la pregunta, como:
+- El nombre del remitente
+- El correo electrónico o número de teléfono del remitente
+- Palabras específicas, oraciones o imágenes dentro de un correo o mensaje.
+- Imágenes o archivos adjuntos
 
-The order of explanations that you see when you create the questions is the same
-order in which the questions are presented to learners during the quiz.
+El orden de la explicación que ves cuándo creas una pregunta es el mismo orden
+en el cual se presentará a aprendices durante el cuestionario.
 
 ## Variables {#variables}
-Variables are placeholders that you can use to insert personalized information
-into a question.
+Las variables son marcadores que puedes utilizar para insertar información
+personalizada dentro del una pregunta.
 
-To add a variable, type the following in the question's content:
-* ``{{name}}`` will display the learner's name
-* ``{{email}}`` will display the learner's email address
+Para añadir una variable, escribe lo siguiente en el contenido de la pregunta:
+* ``{{name}}`` mostrará el nombre de tu aprendiz
+* ``{{email}}`` mostrará el correo electrónico de tu aprendiz
 
-Variables work slightly differently in public and private quizzes:
-* In public quizzes, the name and email address displayed are drawn from what
-  the learner entered or auto-generated during quiz setup.
-* In private quizzes, the name and email address displayed are drawn from the
-  learner's information as they were configured when the learner was invited to
-  the Space.
+Las variables funcionan un poco diferente en cuestionarios públicos y privados:
+* En cuestionarios públicos, el nombre y correo electrónico mostrados son
+  tomados de lo que la persona usuaria introdujo o son auto-generados durante la
+  configuración del cuestionario.
+* En cuestionarios privados, el nombre y correo electrónico mostrados son
+  tomados de la información de aprendiz ya que fueron configurados cuando se le
+  invitó al Espacio.
 
