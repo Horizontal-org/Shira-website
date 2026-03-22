@@ -14,20 +14,22 @@ Hay dos tipos de Estudiantes en Shira:
 * Personas estudiantes anónimas
 * Aprendices en registro
 
-### Anonymous learners {#anonymous}
-Anonymous learners are users who are *not* registered in a Shira space.
-Anonymous learners:
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made).
-* Cannot take [private quizzes](/quizzes#privacy).
-* Cannot be identified in a quiz's [results](/results).
+### Aprendices en anonimato {#anonymous}
+Las personas aprendices anónimas son aquellas que *no* están registradas en un
+Espacio Shira. Las personas aprendices anónimas:
+* Pueden completar [cuestionarios públicos](/quizzes#privacy) o [cuestionarios
+  predefinidos](/ready-made).
+* No pueden completar [cuestionarios privados](/quizzes#privacy).
+* No se pueden identificar en los [resultados](/results) de un cuestionario.
 
-### Registered learners {#registered}
-Registered learners are users who you have invited to join your Space and who
-have accepted your invitation. Registered learners:
-* Can take [private quizzes](/quizzes#privacy).
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made), but their results in those quizzes will not be tied to
-  them (you cannot see how well a registered learner did on a public quiz).
-* Have detailed [results](/results) that let you see how well they've done on
-  the private quizzes they take.
+### Personas aprendices registradas {#registered}
+Las personas aprendices registradas son aquellas que han sido invitadas a unirse
+a tu Espacio Shira y quienes han aceptado tu invitación. Las personas
+registradas:
+* Pueden completar [cuestionarios privados](/quizzes#privacy).
+* Pueden completar [cuestionarios públicos](/quizzes#privacy) o [cuestionarios
+  predefinidos](/ready-made), pero sus resultados en esos cuestionarios no se
+  asociaran con su cuenta (no puedes ver cómo le fue a una persona registrada en
+  un cuestionario público).
+* Disponen de [resultados](/results) detallados que te permiten ver como les ha
+  ido en los cuestionarios privados que hayan completado.
