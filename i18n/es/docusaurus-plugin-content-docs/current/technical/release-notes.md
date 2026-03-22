@@ -19,24 +19,26 @@ Este lanzamiento introduce los cuestionarios privados -- ¡Nuestra función más
 solicitada!
 - Cuestionarios privados: cuestionarios que solo pueden ser completados una vez
   por aprendices con registro en tu espacio.
-- Registered learners: learners who have been invited by an admin to join your
-  space and whose results are tied to their account, allowing you to see how
-  each is doing on your quizzes.
+- Personas registradas: aprendices que han recibido invitación de una cuenta
+  admin para unirse a tu espacio y cuyos resultados están vinculados a su
+  cuenta, permitiéndote ver cómo les va en tus cuestionarios.
 
 ## Shira 2.0-beta4 {#shira-20-beta4}
-*Released on 3 November 2025*
+*Lanzada el 3 de Noviembre de 2025*
 
-With this release, we are getting closer to the full feature set that will be
-included in Shira 2.0. You can already find the following features:
-- Organizational spaces: a place for you to manage quizzes and see results.
-- Customizable quizzes: create as many quizzes as you wish.
-- Customizable quiz questions: create quiz questions tailored to your team's
-  needs and capacity.
-- Explanations: display short texts, directly inside quiz questions, to point
-  learners to specific elements in the question content that suggest that it may
-  be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to
-  what your learners will experience in real life: Gmail, Outlook, WhatsApp,
-  SMS, Facebook Messenger, and Dating App.
-- Results: see how well your learners did on your quizzes.
+Con este lanzamiento, nos acercamos al conjunto completo de funcionalidades que
+se incluirá en Shira 2.0. Ya puedes encontrar las siguientes funciones:
+- Espacios organizacionales: un lugar donde puedes gestionar cuestionarios y ver
+  resultados.
+- Cuestionarios personalizables: crea tantos cuestionarios como desees.
+- Preguntas de cuestionario personalizables: crea preguntas de cuestionario
+  adaptadas a las necesidades y capacidades de tu equipo.
+- Explicaciones: muestra textos cortos, directamente dentro de las preguntas del
+  cuestionario, para señalar a tus aprendices elementos específicos del
+  contenido de la pregunta que sugieren que puede tratarse de un ataque de
+  phishing o que podría ser algo legítimo.
+- Seis aplicaciones para mostrar tus preguntas y hacerlas parecer tanto como sea
+  posible a lo que tus aprendices experimentarán en la vida real: Gmail,
+  Outlook, WhatsApp, SMS, Facebook Messenger, y App de Citas.
+- Resultados: ve qué tan bien les fue a tus aprendices en tus cuestionarios.
 
