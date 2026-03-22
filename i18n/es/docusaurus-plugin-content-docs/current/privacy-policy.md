@@ -32,177 +32,202 @@ de Shira disponible en [https://shira.app](https://shira.app),
 [https://space.shira.app](https://space.shira.app), y
 [https://quiz.shira.app](https://quiz.shira.app).
 
-## 2. Data collected {#data-collected}
-The data that is created in Shira or that is generated when users use Shira can
-be divided into three categories:
-- Account data
-- Functionality data
-- Telemetry
+## 2. Datos recopilados {#data-collected}
+Los datos que se crean en Shira o que son generados cuando las personas usuarias
+utilizan Shira, puede ser divididos en tres categorías:
+- Datos de la cuenta
+- Datos de funcionalidad
+- Telemetría
 
-Shira users can be divided into four groups:
-- Admins, who can log into a Shira "space" to manage their quizzes, users, and
-  results.
-- Anonymous Learners, who are not registered on Shira and can only take public
-  quizzes through the public URL.
-- Registered Learners, who are invited to join Spaces, take private quizzes, and
-  don't have a password to log into Shira.
-- Visitors, who visit the Shira websites but do not take quizzes or interact
-  with Shira functionality.
+Las personas usuarias de Shira pueden ser divididas en cuatro grupos:
+- Admins, quienes pueden iniciar sesión en un "espacio" de Shira para gestionar
+  sus cuestionarios, personas usuarias y resultados.
+- Personas Aprendices Anónimas, quienes no están registradas en Shira y solo
+  pueden completar cuestionarios públicos a través de la URL pública.
+- Personas Aprendices Registradas, quienes son invitadas a unirse a Espacios,
+  completar cuestionarios privados y que no tienen contraseña para iniciar
+  sesión en Shira.
+- Visitantes, personas que visitan el sitio web de Shira pero no completan
+  cuestionarios ni interactúan con la funcionalidad de Shira.
 
-As outlined below, for each of those groups, different data is collected.
+Como se detalla a continuación, se recopilan distintos datos para cada uno de
+estos grupos.
 
-### Account data {#account-data}
-#### What is account data? {#what-is-account-data}
+### Datos de cuenta {#account-data}
+#### ¿Qué son los datos de cuenta? {#what-is-account-data}
 
-Account data is the data that is associated with a user's Shira account.
-- Admins are considered to have a Shira account as soon they have created a
-  space.
-- Registered Learners are considered to have a Shira account as soon they are
-  invited to join a Space.
+Los datos de cuenta son los datos asociados a la cuenta Shira de una persona
+usuaria.
+- Las personas Admins (administradoras) se consideran con cuenta de Shira desde
+  el momento que crean un espacio.
+- Personas Aprendices Registradas, se consideran con cuenta de Shira desde el
+  momento que son invitadas a unirse a un Espacio.
 
-Anonymous Learners and Visitors do not have Shira accounts.
+Las personas Aprendices Anónimas y Visitantes no tienen cuentas de Shira.
 
-#### What account data do we collect? {#what-account-data-do-we-collect}
-This is the account data we collect about Admins:
-- Email address: this is the email address an Admin uses to create a space with
-  and that remains associated with the Admin's account.
-- Date of account creation: an Admin account is considered "created" when an
-  Admin accepts the invitation to create a Space.
-- What Space(s) the Admin is associated with.
+#### ¿Qué datos de la cuenta recopilamos? {#what-account-data-do-we-collect}
+Estos son los datos de cuenta que recopilamos sobre Admins:
+- Dirección de correo electrónico: esta es la dirección de correo electrónico
+  que las personas Admins (administradoras) utilizan para crear un espacio y que
+  permanece relacionada a su cuenta Admin.
+- Fecha de creación de la cuenta: una cuenta Admin se considera "creada" cuando
+  una persona Admin acepta la invitación a crear un Espacio.
+- A qué Espacio(s) está asociada la cuenta Admin.
 
-This is the account data we collect about Registered Learners:
-- Email address: this is the email address a Registered User is invited to join
-  a space with, and that remains associated with the Registered User's account
-  once the account is created.
-- Date of account creation: a Registered Learner's account is considered
-  "created" when an admin sends an invitation to a Registered Learner to join a
-  Space.
-- What Space(s) the Registered Learner is associated with.
+Estos son los datos de cuenta que recopilamos sobre personas Aprendices
+Registradas:
+- Dirección de correo electrónico: esta es la dirección de correo electrónico
+  con la que se invita a una Persona Registrada a unirse a un espacio, y que
+  permanece asociada con la cuenta de la Persona Registrada una vez creada.
+- Fecha de creación de la cuenta: un cuenta de persona Aprendiz Registrada se
+  considera "creada" cuando una persona administradora envía una invitación a
+  una persona Aprendiz Registrada para unirse a un Espacio.
+- A qué Espacio(s) está asociada una persona Aprendiz Registrada.
 
-We do not collect any account data from Anonymous Learners and Visitors.
+No recopilamos ningún dato de cuenta de personas Aprendices Anónimas ni
+Visitantes.
 
-#### How do we collect account data? {#how-do-we-collect-account-data}
-- Email addresses and the list of Spaces a user is associated with are collected
-  when a user fills an invitation form (when an Admin fills the form to create a
-  Space or when an admin fills the information to send an invitation to a
-  Registered Learner to join a space).
-- The date of account creation is collected automatically when the account is
-  created.
+#### ¿Cómo recopilamos los datos? {#how-do-we-collect-account-data}
+- Las direcciones de correo electrónico y la lista de Espacios con los que está
+  asociado una persona usuaria son recopilados cuando la persona llena un
+  formulario de invitación (cuando una persona Admin llena el formulario para
+  crear un Espacio o cuando llena la información para enviar la invitación a
+  personas Aprendices Registradas a unirse a un espacio).
+- La fecha de creación de la cuenta es recopilada automáticamente cuando la
+  cuenta es creada.
 
-#### How do we share or disclose account data? {#how-do-we-share-or-disclose-account-data}
-We will never sell your account data to any third party.
+#### ¿Cómo compartimos o divulgamos los datos de cuenta? {#how-do-we-share-or-disclose-account-data}
+Nunca venderemos los datos de tu cuenta a terceras partes.
 
-We will never intentionally disclose your account data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to process
-  payments).
+Nunca divulgaremos de manera intencional los datos de tu cuenta a terceras
+partes, excepto en los siguientes casos:
+- Si la ley lo requiere (p. ej. si estos datos son requeridos mediante orden
+  judicial).
+- Si son necesarios para operar y ofrecer los servicios de Shira (p. ej. para
+  procesar pagos).
 
-### Functionality data {#functionality-data}
+### Datos de funcionalidad {#functionality-data}
 
-#### What is functionality data? {#what-is-functionality-data}
-Functionality data is the data that is generated when users make use of Shira
-features, such as quizzes, quiz questions, results, and more.
+#### ¿Qué son los datos de funcionalidad? {#what-is-functionality-data}
+Los datos de funcionalidad son los datos generados cuando las personas usuarias
+utilizan las funciones de Shira, como los cuestionarios, preguntas de
+cuestionarios, resultados y más.
 
-#### What functionality data do we collect? {#what-functionality-data-do-we-collect}
-This is the functionality data we collect about Admins:
-- Information about the quizzes created and managed by Admins, including the
-  quiz name and status (published, unpublished, public, private, etc), the list
-  of quiz questions, and the explanations created in each question.
-- When Admins connect and use Shira, including the day and time of each
-  connection.
+#### ¿Qué datos de funcionalidad recopilamos? {#what-functionality-data-do-we-collect}
+Estos son los datos de funcionalidad que recopilamos sobre Admins:
+- Información sobre los cuestionarios creados y gestionados por Admins,
+  incluyendo nombre del cuestionario y estado (publicado, despublicado, público,
+  privado, etc), la lista de preguntas de cuestionario y las explicaciones
+  creadas en cada pregunta.
+- Cuando las personas Admins se conectan y utilizan Shira, incluyendo el día y
+  la hora de cada conexión.
 
-This is the functionality data we collect about Registered Learners:
-- List of quizzes that a Registered Learner is invited to take or has taken.
-- Responses submitted by the Registered Learner when taking a quiz (Results).
-- Date and time a Registered Learner has taken a quiz.
+Estos son los datos de funcionalidad que recopilamos sobre persons Aprendices
+Registradas:
+- Listado de cuestionarios a los que se ha sido invitada o ha completado una
+  persona Aprendiz Registrada.
+- Respuestas enviadas por las personas Aprendices Registradas cuando completan
+  un cuestionario (Resultados).
+- Fecha y hora en la que una persona Aprendiz Registrada ha completado un
+  cuestionario.
 
-This is the functionality data we collect about Anonymous Learners:
-- Responses submitted by the Anonymous Learner when taking a quiz (Results).
-- Date and time an Anonymous Learner has taken a quiz.
+Estos son los datos de funcionalidad que recopilamos sobre personas Aprendices
+Anónimas:
+- Respuestas envidas por las personas Aprendices Anónimas al completar un
+  cuestionario (Resultados).
+- Fecha y hora en la que una persona Aprendiz Anónima completa un cuestionario.
 
-We do not collect functionality data about Visitors.
+No recopilamos datos de funcionalidad sobre Visitantes.
 
-#### How is functionality data collected? {#how-is-functionality-data-collected}
-We collect functionality data automatically from user inputs as they make use of
-Shira features.
+#### ¿Cómo se recopilan los datos de funcionalidad? {#how-is-functionality-data-collected}
+Recopilamos datos de funcionalidad automáticamente a partir de las entradas de
+las personas usuarias a medida que utilizan las funciones de Shira.
 
-#### How do we share or disclose functionality data? {#how-do-we-share-or-disclose-functionality-data}
-We will never sell your functionality data to any third party.
+#### ¿Cómo compartimos o divulgamos los datos de funcionalidad? {#how-do-we-share-or-disclose-functionality-data}
+Nunca venderemos tus datos de funcionalidad a terceras partes.
 
-We will never intentionally disclose your functionality data to any third party,
-except in the following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order).
-- As necessary to operate and provide the services of Shira (e.g. to display
-  Results).
+Nunca divulgaremos intencionalmente tus datos de funcionalidad a terceras
+partes, excepto en los siguientes casos:
+- Si la ley lo requiere (p. ej. si estos datos son requeridos mediante orden
+  judicial).
+- Si son necesarios para operar y ofrecer los servicios de Shira (p. ej. para
+  muestra Resultados).
 
-### Telemetry {#telemetry}
+### Telemetría {#telemetry}
 
-#### What is telemetry? {#what-is-telemetry}
-Telemetry is data about how users make use of Shira features, how often they use
-Shira, and what performance or user experience issues they may be experiencing.
+#### ¿Qué es telemetría? {#what-is-telemetry}
+La telemetría son datos sobre cómo las personas usuarias utilizan las funciones
+de Shira, con que frecuencia lo hacen y que problemas de rendimiento o
+experiencia de usuario pueden estar experimentando.
 
-Telemetry data is used to improve Shira's performance, features, and user
-experience.
+Los datos de telemetría son utilizados para mejorar el rendimiento, funciones y
+experiencia de usuario de Shira.
 
-#### What telemetry do we collect? {#what-telemetry-do-we-collect}
-We collect the following telemetry data:
-- The number of visits to https://quiz.shira.app
-- The number of quizzes started at https://shira.app, including both ready-made
-  quizzes and custom quizzes created by Space admins
-- The number of quizzes completed at https://shira.app, including both
-  ready-made quizzes and custom quizzes created by Space admins
+#### ¿Qué datos de telemetría recopilamos? {#what-telemetry-do-we-collect}
+Recopilamos los siguientes datos de telemetría:
+- El número de visitas a https://quiz.shira.app
+- El número de cuestionarios iniciados en https://shira.app, incluyendo tanto
+  los cuestionarios predefinidos como cuestionarios personalizados creados por
+  admins de Espacios.
+- El número de cuestionarios completados en https://shira.app, incluyendo tanto
+  los cuestionarios predefinidos como cuestionarios personalizados creados por
+  admins de Espacios.
 
-#### How is telemetry collected? {#how-is-telemetry-collected}
-Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a
-privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is
-anonymized to ensure that it reveals no sensitive information or personally
-identifiable information about users.
+#### ¿Cómo se recopilan los datos de telemetría? {#how-is-telemetry-collected}
+Los datos de telemetría son recopilados automáticamente a través de [Divvi
+Up](https://divviup.org/), un servicio de telemetría que respeta la privacidad.
+Gracias a Divvi Up, todo la telemetría es anonimizada para asegurar que no
+revele información sensible o de identificación personal sobre las personas
+usuarias.
 
-This is how we approach the collection of telemetry:
-- All data is anonymous and aggregated: the Divvi Up library splits the data
-  into two anonymized and encrypted shares and uploads each share to different
-  data share processors (one hosted by ISRG, the makers of Divvi Up, and one
-  hosted by us) that do not share data with each other. This way, only partial
-  information about the original data is revealed to either processor.
-- Even if we wanted to, we couldn't get the whole data: It's not possible to
-  construct the whole data with only one share. Each processor aggregates its
-  data shares into a partial sum. The partial sums can then be combined into a
-  final aggregation, permitting useful statistics over the whole body of data
-  while revealing minimal information about individual participants. More
-  information how Divvi Up works can be found here.
-- We collect as little data as possible: Even though all data is anonymized, we
-  always minimize the amount of data we collect.
+Así es como abordamos la recopilación de telemetría:
+- Todos los datos son anónimos y agregados: la librería de Divvi Up divide los
+  datos en dos partes anonimizadas y cifradas y sube cada parte a diferentes
+  procesadores de datos (uno alojado por ISRG, organización creadora de Divvi
+  Up, y uno alojado por Horizontal) que no comparten datos entre si. De esta
+  manera, solo se revela información parcial sobre los datos originales a cada
+  procesador.
+- Incluso si quisiéramos, no podríamos obtener los datos completos: No es
+  posible construir la información completa solo con una parte. Cada procesador
+  agrega sus partes de datos a una suma parcial. Las sumas parciales pueden
+  luego ser combinadas en una agregación final, permitiendo estadísticas utiles
+  sobre el conjunto de datos mientras revela información minima sobre
+  participantes individuales. Puedes encontrar más información sobre cómo
+  funciona Divvi Up aquí.
+- Recopilamos la menor cantidad de datos posible: Aunque todos los datos son
+  anonimizados, siempre minimizamos la cantidad de datos que recopilamos.
 
-#### How do we share or disclose telemetry? {#how-do-we-share-or-disclose-telemetry}
-We will never sell your telemetry data to any third party. We will never
-intentionally disclose your telemetry data to any third party, except in the
-following cases:
-- As required by law (e.g. if this data is subpoenaed as part of a court order)
-- As necessary to operate and provide the services of Shira (e.g. to provide
-  usage data to partners or contractors)
+#### ¿Cómo compartimos o divulgamos los datos de telemetría? {#how-do-we-share-or-disclose-telemetry}
+Nunca venderemos tus datos de telemetría a terceras partes. Nunca divulgaremos
+intencionalmente tus datos de telemetría a terceras partes, excepto en los
+siguientes casos:
+- Si la ley lo requiere (p. ej. si estos datos son requeridos mediante orden
+  judicial).
+- Si son necesarios para operar y ofrecer los servicios de Shira (p. ej. para
+  proporcionar datos de uso a socios o contratistas)
 
-## 3. Data security {#data-security}
-We implement industry standard practices to protect your data from unauthorized
-access, including:
-- Encryption in-transit between your browser and our servers, using the SSL/TLS
-  protocol
-- JSON Web Tokens, which are an open, industry standard RFC 7519 method for
-  representing claims securely between two parties
+## 3. Seguridad de los datos {#data-security}
+Implementamos prácticas estándar de la industria para proteger tus datos del
+acceso no autorizado, incluyendo:
+- Cifrado en transito entre tu navegador y nuestros servidores, utilizando el
+  protocolo SSL/TLS.
+- JSON Web Tokens, que son un método abierto y estándar de la industria (RFC
+  7519) para representar reclamaciones de manera segura entre dos partes.
 
-## 4. Your California Privacy Rights {#california}
-If you are a California resident, California law may provide you with additional
-rights regarding our use of your personal information. To learn more about your
-California privacy rights, visit
+## 4. Tu Derechos de Privacidad en California {#california}
+Si eres residente de California, la ley de California puede otorgarte derechos
+adicionales sobre nuestro uso de tu información personal. Para aprender más
+sobre tus derechos de privacidad de California, visita
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Changes to Our Privacy Policy {#changes}
-We may update or privacy policy from time to time.
+## 5. Cambios a Nuestras Políticas de Privacidad {#changes}
+Es posible que actualicemos nuestra política de privacidad ocasionalmente.
 
-The date the privacy policy was last revised is identified at the top of the
-page. You are responsible for periodically visiting this privacy policy to check
-for any changes.
+La fecha en la que la política de privacidad fue revisada por última vez se
+identifica en la parte superior de la página. Es tu responsabilidad visitar
+periódicamente esta política de privacidad para verificar cualquier cambio.
 
-## 6. Contact Information {#contact}
-To ask questions or comment about this privacy policy and our privacy practices,
-contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
+## 6. Información de Contacto {#contact}
+Para realizar cualquier pregunta o dejar un comentario sobre esta política de
+privacidad y nuestras prácticas de privacidad, contáctanos en
+[contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
