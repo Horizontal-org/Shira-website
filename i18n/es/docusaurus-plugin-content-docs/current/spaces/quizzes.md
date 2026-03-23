@@ -26,10 +26,10 @@ Al crear un cuestionario, debes:
 2. Establecer la privacidad de tu cuestionario
 
 ### Nombre del cuestionario {#name}
-El nombre que elijas para el cuestionario te ayudará a ti y a tus aprendices a
+El nombre que elijas para el cuestionario te ayudará a ti y a tus estudiantes a
 reconocer el propósito de tu cuestionario (p. ej., "Capacitación del personal
 T4", "Los ataques más comunes de 2026", etc). El nombre del cuestionario es
-visible para aprendices.
+visible para estudiantes:
 - En el correo que reciben las personas aprendices cuando les asignas un
   cuestionario (exclusivamente para [cuestionarios privados](#privacy))
 - En la pantalla de bienvenida cuando completan un cuestionario.
@@ -84,15 +84,16 @@ Puedes editar cualquier cuestionario, esté publicado o no, incluyendo:
 - Agregar nuevas preguntas al cuestionario.
 - Editar preguntas ya existentes en el cuestionario.
 - Reordenar preguntas: el orden de las preguntas que ves en tu espacio es el
-  mismo orden en el que se le mostrará a aprendices cuando completen el
+  mismo orden en el que se le mostrará a quienes estudian cuando completen el
   cuestionario.
 - Eliminar preguntas: una vez eliminada, no hay manera de recuperar una
   pregunta.
 
-:::note Si alguna persona ya ha completado el cuestionario, editarlo puede
-afectar la fiabilidad de [los resultados del cuestionario](/results). :::
+:::note Si alguna persona estudiante ya ha completado el cuestionario, editar
+este cuestionario puede afectar la fiabilidad de [los resultados del
+cuestionario](/results). :::
 
-## Duplicar cuestionario {#duplicate-quiz}
+## Duplicar un cuestionario {#duplicate-quiz}
 Duplicar un cuestionario significa crear una copia exacta de un cuestionario
 existente.
 
@@ -105,10 +106,10 @@ Puedes establecer una configuración de privacidad de cuestionario (público o
 privado) en el momento del duplicado.
 
 
-## Eliminar cuestionario {#delete-quiz}
-Eliminar un cuestionario significa que, todas las preguntas dentro del
-cuestionario, y cualquier [resultado](/results) asociado con el mismo serán
-eliminados de tu espacio.
+## Eliminar un cuestionario {#delete-quiz}
+Eliminar un cuestionario significa que el cuestionario, todas las preguntas
+dentro del cuestionario, y cualquier [resultado](/results) asociado con este
+cuestionario serán eliminados de tu espacio.
 
-:::warning Eliminar un cuestionario es una acción permanente: ¡una vez
-eliminado, el cuestionario y sus resultados no se pueden recuperar! :::
+:::warning Eliminar un cuestionario es permanente: ¡una vez eliminado, el
+cuestionario y sus resultados no pueden recuperarse! :::
