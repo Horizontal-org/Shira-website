@@ -180,562 +180,562 @@
         "message": "Control de acceso por roles 🔒"
     },
     "features.list.roles.description": {
-        "message": ""
+        "message": "Diferentes niveles de acceso para admins y aprendices."
     },
     "features.list.realLife.title": {
-        "message": ""
+        "message": "Simulación de Ataque Real ⚡"
     },
     "features.list.realLife.description": {
-        "message": ""
+        "message": "Incluye en tus cuestionarios detalles de ataques de phishing reales que tu organización haya experimentado para preparar de la mejor manera a tu equipo."
     },
     "features.list.email.title": {
-        "message": ""
+        "message": "Simulación de phishing por correo electrónico 📧"
     },
     "features.list.email.description": {
-        "message": ""
+        "message": "Crea cuestionarios que imiten correos de phishing en Gmail y Outlook, incluyendo informción de remitente, asunto, cuerpo del correo, enlaces, imágenes y archivos adjuntos."
     },
     "features.list.sms.title": {
-        "message": ""
+        "message": "Simulación de phishing por SMS"
     },
     "features.list.sms.description": {
-        "message": ""
+        "message": "Crea cuestionarios que imiten intentos de phishing por SMS con mensajes de texto realistas."
     },
     "features.list.messaging.title": {
-        "message": ""
+        "message": "Simulación de phishing por app de mensajería 💬"
     },
     "features.list.messaging.description": {
-        "message": ""
+        "message": "Crea cuestionarios que repliquen el phishing a través de aplicaciones de mensajería populares como WhatsApp y Facebook Messenger."
     },
     "features.list.mobile.title": {
-        "message": ""
+        "message": "Soporte para Móviles 📱"
     },
     "features.list.mobile.description": {
-        "message": ""
+        "message": "A menudo enfrentamos ataques de phishing en nuestros dispositivos móviles. En Shira, la personas usuarias puede completar cuestionarios desde sus dispositivos móviles para prepararse para ataques que enfrentarán en la realidad."
     },
     "features.list.compliance.title": {
-        "message": ""
+        "message": "Cumplimiento ✅"
     },
     "features.list.compliance.description": {
-        "message": ""
+        "message": "Asegura que tu equipo complete realmente los cuestionarios y monitorea su tasa de éxito."
     },
     "features.list.analytics.title": {
-        "message": ""
+        "message": "Analíticas 📈"
     },
     "features.list.analytics.description": {
-        "message": ""
+        "message": "Monitorea el progreso e identifica áreas de mejora, ya sea el tipo de apps en la que tus aprendices son más vulnerables o las personas usuarias especificas que necesitan apoyo extra."
     },
     "features.list.explanations.title": {
-        "message": ""
+        "message": "Explicaciones 📝"
     },
     "features.list.explanations.description": {
-        "message": ""
+        "message": "Integra tus propias explicaciones para indicar a las personas usuarias elementos que sugieren que un email o mensaje parece phishing."
     },
     "features.list.gamification.title": {
-        "message": ""
+        "message": "Gamificación 🕹️"
     },
     "features.list.gamification.description": {
-        "message": ""
+        "message": "Una experiencia de aprendizaje atractiva favorece una mejor retención del conocimiento."
     },
     "features.list.multilingual.title": {
-        "message": ""
+        "message": "Multilingüe 🌐"
     },
     "features.list.multilingual.description": {
-        "message": ""
+        "message": "Shira está disponible completamente en Español, Inglés, Francés, Mandarín, Árabe y Ruso."
     },
     "features.list.library.title": {
-        "message": ""
+        "message": "Biblioteca de preguntas 📚"
     },
     "features.list.library.description": {
-        "message": ""
+        "message": "Crea tus propias preguntas de cuestionarios desde cero o ve a la Biblioteca de Shira para obtener plantillas de preguntas creadas por instructores de seguridad digital."
     },
     "features.needMore.title": {
-        "message": ""
+        "message": "¿Falta una función?"
     },
     "features.needMore.subtitle": {
-        "message": ""
+        "message": "Ponte en contacto. Haremos que suceda."
     },
     "features.needMore.cta": {
-        "message": ""
+        "message": "Contáctanos"
     },
     "homepage.meta.title": {
-        "message": ""
+        "message": "Shira"
     },
     "homepage.meta.description": {
-        "message": ""
+        "message": "Usa Shira para desarrollar la habilidad de tu equipo para detectar y vencer ataques de phishing."
     },
     "homepage.meta.longDescription": {
-        "message": ""
+        "message": "Shira ayuda a personas y organizaciones a aprender a detectar y vencer ataques de phishing a través de cuestionarios interactivos y respetuosos de la privacidad, personalizables para aplicaciones reales como Gmail, SMS y WhatsApp, el contexto y el idioma."
     },
     "homepage.hero.title": {
-        "message": ""
+        "message": "Preparación. Conocimiento. Resiliencia."
     },
     "homepage.hero.subtitle": {
-        "message": ""
+        "message": "Shira desarrolla la habilidad de tu equipo para identificar y vencer ataques de phishing."
     },
     "homepage.learners.title": {
-        "message": ""
+        "message": "Para aprendices"
     },
     "homepage.learners.description": {
-        "message": ""
+        "message": "Empieza ya mismo con uno de nuestros gratuitos cuestionarios predefinidos. Personaliza el cuestionario para aprender a identificar el phishing en apps que usas cotidianamente — Gmail, SMS, WhatsApp, etc — con ejemplos adaptados a tu idioma y área de trabajo."
     },
     "homepage.learners.cta": {
-        "message": ""
+        "message": "Completa un cuestionario"
     },
     "homepage.educators.title": {
-        "message": ""
+        "message": "Para docentes y profesionales de la seguridad"
     },
     "homepage.educators.description": {
-        "message": ""
+        "message": "Cada organización tiene sus propias necesidades y enfrentan sus propias amenazas. Construye cuestionarios sobre phishing adaptados a las necesidades de tu organización y monitorea la tasa de excito de tu equipo — sin escribir código."
     },
     "homepage.educators.cta": {
-        "message": ""
+        "message": "Crea tu propio cuestionario"
     },
     "homepage.context.description": {
-        "message": ""
+        "message": "Por años, el phishing ha sido uno de los ataques más comunes que enfrentan las personas y organizaciones. Aunque al principio solo estaba limitado a emails, ahora el phishing también ocurre via SMS, apps de mensajería y redes sociales. Desarrollar las habilidades de las personas para detectar y contrarrestar ataques de phishing es más necesario que nunca."
     },
     "homepage.context.imageAlt": {
-        "message": ""
+        "message": "imagen decorativa de una lupa"
     },
     "homepage.why.title": {
-        "message": ""
+        "message": "¿Por qué Shira?"
     },
     "homepage.why.intro": {
-        "message": ""
+        "message": "Ya sea que solo estés completando nuestro cuestionario gratuito predefinido o construyendo tus propios cuestionarios para capacitar a tu equipo, Shira es:"
     },
     "homepage.why.easy.title": {
-        "message": ""
+        "message": "Fácil de usar"
     },
     "homepage.why.easy.description": {
-        "message": ""
+        "message": "Creada para comunidades con mayor riesgo de ataques de phishing, incluso con poco conocimiento tecnológico."
     },
     "homepage.why.customizable.title": {
-        "message": ""
+        "message": "Personalizable"
     },
     "homepage.why.customizable.description": {
-        "message": ""
+        "message": "Mensajes de phishing realistas para simular escenarios reales a los que las personas se enfrentan cada día."
     },
     "homepage.why.privacy.title": {
-        "message": ""
+        "message": "Respeta la privacidad"
     },
     "homepage.why.privacy.description": {
-        "message": ""
+        "message": "No recopilamos ni compartimos datos sensibles o de identificación personal de las personas usuarias."
     },
     "phishingQuizzes.meta.title": {
-        "message": ""
+        "message": "Aprende sobre los Cuestionarios de Phishing"
     },
     "phishingQuizzes.meta.description": {
-        "message": ""
+        "message": "Aprende sobre los cuestionarios de Phishing"
     },
     "phishingQuizzes.meta.longDescription": {
-        "message": ""
+        "message": "Aprende por qué los cuestionarios de phishing son más efectivos que las simulaciones."
     },
     "phishingQuizzes.education.title": {
-        "message": ""
+        "message": "Por qué la educación supera la simulación"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": ""
+        "message": "Las simulaciones de phishing se han convertido en un elemento estándar en los programas de capacitación anti-phishing. Estas simulaciones implican el envío de emails al personal que imitan las tácticas utilizadas por cibercriminales para engañar a las personas para que revelen información confidencial o hagan clic en enlaces maliciosos. El personal es evaluado basado en su respuesta a estos correos simulados, particularmente si han hecho clic o proporcionado información sensible."
     },
     "phishingQuizzes.education.paragraph2": {
-        "message": ""
+        "message": "Sim embargo, estate enfoque tiene varias desventajas y no es tan efectivo como proporcionar educación integral en anti-phishing."
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": ""
+        "message": "Artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": ""
+        "message": "Artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
     },
     "phishingQuizzes.problem.title": {
-        "message": ""
+        "message": "El problema con las simulaciones de phishing"
     },
     "phishingQuizzes.problem.intro": {
-        "message": ""
+        "message": "Las simulaciones de phishing, aunque ampliamente usadas, conllevan varios inconvenientes que las organizaciones deben considerar:"
     },
     "phishingQuizzes.problem.anxiety.title": {
-        "message": ""
+        "message": "Generan ansiedad y desconfianza:"
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": ""
+        "message": "Las personas usuarias se pueden volver ansiosas o tener desconfianza en los correos, incluso los legítimos, lo que puede provocar disminución de la productividad y un incremento de estrés."
     },
     "phishingQuizzes.problem.emailFocus.title": {
-        "message": ""
+        "message": "Hiperenfoque en el Correo:"
     },
     "phishingQuizzes.problem.emailFocus.text": {
-        "message": ""
+        "message": "Muchas simulaciones de phishing se enfocan principalmente en amenazas de correo electrónico, subestimando otros canales como SMS, aplicaciones de mensajería o redes sociales."
     },
     "phishingQuizzes.problem.falseSecurity.title": {
-        "message": ""
+        "message": "Falso Sentido de Seguridad:"
     },
     "phishingQuizzes.problem.falseSecurity.text": {
-        "message": ""
+        "message": "Si el personal identifica con éxito ataques de phishing simulados, pueden desarrollar un falso sentido de seguridad."
     },
     "phishingQuizzes.problem.clickRates.title": {
-        "message": ""
+        "message": "Énfasis excesivo en la Tasa de Clics:"
     },
     "phishingQuizzes.problem.clickRates.text": {
-        "message": ""
+        "message": "Enfocarse solamente en si el personal hizo clic en un enlace puede pasar por alto otros aspectos importantes de la concienciación sobre phishing."
     },
     "phishingQuizzes.problem.desensitize.title": {
-        "message": ""
+        "message": "Desensibilizar a las personas usuarias:"
     },
     "phishingQuizzes.problem.desensitize.text": {
-        "message": ""
+        "message": "Enviar repetidamente correos de phishing falsos puede desensibilizar a las personas ante la amenaza."
     },
     "phishingQuizzes.problem.punishment.title": {
-        "message": ""
+        "message": "Enfoque en castigo en lugar de prevención:"
     },
     "phishingQuizzes.problem.punishment.text": {
-        "message": ""
+        "message": "Los correos de phishing simulados pueden crear una cultura de miedo, donde las personas están más enfocadas en evitar el castigo que en aprender."
     },
     "phishingQuizzes.research.text": {
-        "message": ""
+        "message": "Las investigaciones indican que las campañas de simulación de phishing no capacitan de manera eficaz a las personas en la identificación de ataques de phishing."
     },
     "phishingQuizzes.research.link": {
-        "message": ""
+        "message": "Un estudio con 14,000 participantes"
     },
     "phishingQuizzes.research.conclusion": {
-        "message": ""
+        "message": "mostró de hecho un efecto contraproducente de las simulaciones de phishing."
     },
     "phishingQuizzes.quizzes.title": {
-        "message": ""
+        "message": "Un enfoque más eficaz: cuestionarios de phishing."
     },
     "phishingQuizzes.quizzes.description": {
-        "message": ""
+        "message": "Los cuestionarios de phishing ofrecen un entorno de aprendizaje controlado que es más eficaz para el desarrollo de habilidad que las simulaciones de phishing tradicionales."
     },
     "phishingQuizzes.quizzes.benefitsIntro": {
-        "message": ""
+        "message": "Los beneficios incluyen:"
     },
     "phishingQuizzes.benefits.controlled.title": {
-        "message": ""
+        "message": "Entorno de Aprendizaje Controlado:"
     },
     "phishingQuizzes.benefits.controlled.text": {
-        "message": ""
+        "message": "Los cuestionarios de phishing crean un espacio seguro y debajo riesgo para que el personal practique sus habilidades."
     },
     "phishingQuizzes.benefits.interactive.title": {
-        "message": ""
+        "message": "Participación Interactiva:"
     },
     "phishingQuizzes.benefits.interactive.text": {
-        "message": ""
+        "message": "Estos cuestionarios estimulan la participación activa y ofrecen retroalimentación inmediata."
     },
     "phishingQuizzes.benefits.coverage.title": {
-        "message": ""
+        "message": "Cobertura de Diversas Tácticas de Phishing:"
     },
     "phishingQuizzes.benefits.coverage.text": {
-        "message": ""
+        "message": "Los cuestionarios de phishing pueden incorporar escenarios con SMS, redes sociales y phishing por voz (vishing)."
     },
     "phishingQuizzes.benefits.confidence.title": {
-        "message": ""
+        "message": "Desarrollo de Confianza:"
     },
     "phishingQuizzes.benefits.confidence.text": {
-        "message": ""
+        "message": "El personal aprende de los errores en un entorno de apoyo."
     },
     "phishingQuizzes.benefits.tailored.title": {
-        "message": ""
+        "message": "Objetivos de Aprendizaje a Medida:"
     },
     "phishingQuizzes.benefits.tailored.text": {
-        "message": ""
+        "message": "Los cuestionarios puede ser personalizados para enfocarse en habilidades y brechas de conocimiento especificas."
     },
     "phishingQuizzes.cta": {
-        "message": ""
+        "message": "Empieza"
     },
     "phishing.layout.title": {
-        "message": ""
+        "message": "Aprende sobre Phishing"
     },
     "phishing.layout.description": {
-        "message": ""
+        "message": "Aprende qué es el phishing, cómo funciona y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan y las serias consecuencias para las personas y organizaciones."
     },
     "phishing.meta.description": {
-        "message": ""
+        "message": "Aprende qué es el phishing, cómo funciona y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan y las serias consecuencias para las personas y organizaciones."
     },
     "phishing.intro.title": {
-        "message": ""
+        "message": "¿Que es phishing?"
     },
     "phishing.intro.definition": {
-        "message": ""
+        "message": "Phishing es un intento malintencionado de obtener información confidencial como credenciales de inicio de sesión y detalles de tarjetas de crédito, haciéndose pasar por una entidad confiable en comunicaciones electrónicas. El phishing también puede tentarte a descargar software malicioso."
     },
     "phishing.intro.protection": {
-        "message": ""
+        "message": "Comprender el phishing es el primer paso para protegerte a ti y a tu organización."
     },
     "phishing.images.fish.alt": {
-        "message": ""
+        "message": "Ilustración decorativa de un pez"
     },
     "phishing.common.title": {
-        "message": ""
+        "message": "El ataque más común"
     },
     "phishing.common.rank": {
-        "message": ""
+        "message": "El phishing es clasificado constantemente como el ataque más común que experimentan las personas y organizaciones."
     },
     "phishing.common.channels": {
-        "message": ""
+        "message": "Aunque el phishing ha sido asociado tradicionalmente con estafas por correo electrónico, hoy en día ocurre a través de una amplia variedad de medios: email, pero también SMS, aplicaciones de mensajería, plataformas de redes sociales y llamadas telefónicas."
     },
     "phishing.images.bubbles.alt": {
-        "message": ""
+        "message": "Ilustración decorativa de burbujas."
     },
     "phishing.attackers.title": {
-        "message": ""
+        "message": "¿Qué intentan obtener quienes atacan?"
     },
     "phishing.attackers.passwords.label": {
-        "message": ""
+        "message": "Contraseñas:"
     },
     "phishing.attackers.passwords.text": {
-        "message": ""
+        "message": "Quienes atacan buscan robar contraseñas y credenciales de inicio de sesión para acceder a las cuentas en línea de sus víctimas. Con esta información, puede cometer fraude, robar datos o extorsionar víctimas amenazándoles con exponer información confidencial."
     },
     "phishing.attackers.money.label": {
-        "message": ""
+        "message": "Dinero:"
     },
     "phishing.attackers.money.text": {
-        "message": ""
+        "message": "Ganancia financiera es un motivo clave para el phishing. Quienes atacan se hacen pasar por organizaciones legítimas para engañar a las víctimas a que proporcionen detalles de tarjetas de crédito o realicen pagos, a menudo a través de facturas falsas o solicitudes de donaciones."
     },
     "phishing.attackers.confidential.label": {
-        "message": ""
+        "message": "Información confidencial:"
     },
     "phishing.attackers.confidential.text": {
-        "message": ""
+        "message": "El phishing apunta a obtener información confidencial como números de Seguridad Social y datos de empresariales. Esta información puede ser utilizada para robo de identidad, venderse en la dark web o aprovecharse para espionage corporativo."
     },
     "phishing.attackers.malware.label": {
-        "message": ""
+        "message": "Que las víctimas instalen malware:"
     },
     "phishing.attackers.malware.text": {
-        "message": ""
+        "message": "Las personas que realizan ataques de phishing (Phishers), pueden engañar a las víctimas para que descarguen malware a través de enlaces o archivos adjuntos maliciosos. Una vez instalado, el malware puede robar información personal, monitorear la actividad o tomar el control de dispositivos, lo que conlleva a serias brechas de datos."
     },
     "phishing.why.title": {
-        "message": ""
+        "message": "¿Por qué funciona el phishing?"
     },
     "phishing.why.intro": {
-        "message": ""
+        "message": "Las personas Phishers se aprovechan de nuestra:"
     },
     "phishing.why.polite.label": {
-        "message": ""
+        "message": "Necesidad de ser cortés:"
     },
     "phishing.why.polite.text": {
-        "message": ""
+        "message": "Las personas a menudo se sienten la necesidad de responder a mensajes de figuras de autoridad o fuentes de confianza. Las personas que realizan phishing explotan esto utilizando un lenguaje cortés, haciendo que las personas destinatarias tengan más probabilidad de cumplir con solicitudes de información sin cuestionar la legitimidad del mensaje."
     },
     "phishing.why.helpful.label": {
-        "message": ""
+        "message": "Deseo de ser de útiles:"
     },
     "phishing.why.helpful.text": {
-        "message": ""
+        "message": "Muchas personas sienten de manera natural el deseo de ayudar a otras. Las personas phishers crean escenarios que inducen a las víctimas a prestar ayuda, como afirmando que alguna persona cercana se encuentra en problemas. Esta manipulación puede llevar a la gente a proporcionar información personal, creyendo que están siendo solidarias."
     },
     "phishing.why.embarrassed.label": {
-        "message": ""
+        "message": "Miedo a pasar vergüenza:"
     },
     "phishing.why.embarrassed.text": {
-        "message": ""
+        "message": "Los phishers infunden miedo al sugerir a las personas destinatarias que han cometido un error, como no haber realizado un pago. Este miedo puede empujar a las personas a actuar rápidamente, a menudo sin verificar la fuente del mensaje, lo que conlleva a una seguridad comprometida."
     },
     "phishing.why.urgent.label": {
-        "message": ""
+        "message": "Panico sobre mensajes urgentes:"
     },
     "phishing.why.urgent.text": {
-        "message": ""
+        "message": "La urgencia es un fuerte motivador. Los personas phishers elaboran mensajes que crean un falso sentido de urgencia, afirmando que las cuentas serán suspendidas o que hay pagos pendientes. Este pánico puede nublar el juicio, haciendo que las personas ignoren las señales de peligro y actúen de manera impulsiva."
     },
     "phishing.consequences.title": {
-        "message": ""
+        "message": "Los ataques de phishing pueden conllevar consecuencias severas"
     },
     "phishing.consequences.identity.label": {
-        "message": ""
+        "message": "Robo de identidad:"
     },
     "phishing.consequences.identity.text": {
-        "message": ""
+        "message": "Los cibercriminales pueden usar tu información para hacerse pasar por ti."
     },
     "phishing.consequences.financial.label": {
-        "message": ""
+        "message": "Perdida Económica:"
     },
     "phishing.consequences.financial.text": {
-        "message": ""
+        "message": "Las transacciones no autorizadas pueden vaciar tus cuentas."
     },
     "phishing.consequences.data.label": {
-        "message": ""
+        "message": "Brechas de Datos:"
     },
     "phishing.consequences.data.text": {
-        "message": ""
+        "message": "La información sensible de la empresa puede ser expuesta, provocando daño a la reputación."
     },
     "phishing.consequences.operational.label": {
-        "message": ""
+        "message": "Interrupción Operativa:"
     },
     "phishing.consequences.operational.text": {
-        "message": ""
+        "message": "El phishing puede causar interrupciones y perdida de productividad."
     },
     "phishing.images.worm.alt": {
-        "message": ""
+        "message": "Ilustración decorativa de un gusano."
     },
     "phishing.how.title": {
-        "message": ""
+        "message": "Cómo funciona el phishing"
     },
     "phishing.how.intro": {
-        "message": ""
+        "message": "Los ataques de phishing a menudo involucran los siguientes pasos:"
     },
     "phishing.how.deceptive.label": {
-        "message": ""
+        "message": "Comunicación Engañosa:"
     },
     "phishing.how.deceptive.text": {
-        "message": ""
+        "message": "Las personas atacantes envían mensajes que parecen provenir de fuentes legítimas, como bancos, servicios en línea o incluso colegas."
     },
     "phishing.how.urgent.label": {
-        "message": ""
+        "message": "Llamado a Actuar con Urgencia:"
     },
     "phishing.how.urgent.text": {
-        "message": ""
+        "message": "El mensaje normalmente contiene un sentido de urgencia, requiriendo a la persona destinataria que actúe rápidamente — como hacer clic en un enlace o proporcionar información personal."
     },
     "phishing.how.fake.label": {
-        "message": ""
+        "message": "Sitios Web Falsos:"
     },
     "phishing.how.fake.text": {
-        "message": ""
+        "message": "Si la víctima hace clic en un enlace, a menudo se les dirige a un sitio web fraudulento que se ve similar al sitio web legítimo. Aquí, pueden solicitarle introducir información confidencial como su contraseña o información bancaria."
     },
     "phishing.how.data.label": {
-        "message": ""
+        "message": "Robo de Datos:"
     },
     "phishing.how.data.text": {
-        "message": ""
+        "message": "Una vez que la víctima proporciona su información, las personas atacantes pueden utilizarla para robo de identidad, fraude bancario u otros propósitos maliciosos."
     },
     "pricing.layout.title": {
-        "message": ""
+        "message": "Precio de Shira"
     },
     "pricing.layout.description": {
-        "message": ""
+        "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
     },
     "pricing.meta.description": {
-        "message": ""
+        "message": "Explora los planes de precios simples y transparentes de Shira para docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
     },
     "pricing.intro.subtitle": {
-        "message": ""
+        "message": "Planes personalizados para docentes y profesionales de la seguridad."
     },
     "pricing.intro.title": {
-        "message": ""
+        "message": "Precios simples, transparentes y justos"
     },
     "pricing.starter.title": {
-        "message": ""
+        "message": "Inicial"
     },
     "pricing.starter.description": {
-        "message": ""
+        "message": "Para probar y familiarizarse con Shira"
     },
     "pricing.starter.price": {
-        "message": ""
+        "message": "$0"
     },
     "pricing.starter.note": {
-        "message": ""
+        "message": "Gratuito, sin obligaciones"
     },
     "pricing.cta.getStarted": {
-        "message": ""
+        "message": "Empezar"
     },
     "pricing.starter.includes": {
-        "message": ""
+        "message": "El plan Inicial incluye:"
     },
     "pricing.admin.title": {
-        "message": ""
+        "message": "Gestión administrativa"
     },
     "pricing.admin.cloud": {
-        "message": ""
+        "message": "✔️ Cloud"
     },
     "pricing.admin.dashboard": {
-        "message": ""
+        "message": "✔️ Panel de admin"
     },
     "pricing.admin.oneAdmin": {
-        "message": ""
+        "message": "✔️ 1 admin"
     },
     "pricing.customization.title": {
-        "message": ""
+        "message": "Personalización"
     },
     "pricing.customization.questions": {
-        "message": ""
+        "message": "✔️ Preguntas del cuestionario completamente personalizables"
     },
     "pricing.customization.library": {
-        "message": ""
+        "message": "✔️ Acceso a la biblioteca de preguntas"
     },
     "pricing.customization.quizzes": {
-        "message": ""
+        "message": "✔️ Hasta 3 cuestionarios personalizados"
     },
     "pricing.customization.questionsPerQuiz": {
-        "message": ""
+        "message": "✔️ Preguntas de cuestionario ilimitadas"
     },
     "pricing.customization.limit": {
         "message": ""
     },
     "pricing.customization.apps": {
-        "message": ""
+        "message": "✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, App de Citas"
     },
     "pricing.access.title": {
-        "message": ""
+        "message": "Control de acceso"
     },
     "pricing.access.public": {
-        "message": ""
+        "message": "✔️ Cuestionarios públicos, cualquiera puede completar tus cuestionarios a través de una URL fácil de compartir"
     },
     "pricing.pro.title": {
-        "message": ""
+        "message": "Pro"
     },
     "pricing.pro.description": {
-        "message": ""
+        "message": "Todo el poder de Shira"
     },
     "pricing.pro.price": {
-        "message": ""
+        "message": "$39/mes + $1 por cuestionario completado"
     },
     "pricing.pro.billing": {
-        "message": ""
+        "message": " facturado anualmente o $49/mes + $1 por cuestionario completado facturado mensualmente"
     },
     "pricing.pro.includes": {
-        "message": ""
+        "message": "El plan Pro incluye:"
     },
     "pricing.admin.unlimitedSoon": {
-        "message": ""
+        "message": "✔️Cuentas de admin ilimitadas [próximamente]"
     },
     "pricing.pro.unlimitedQuizzes": {
-        "message": ""
+        "message": "✔️ Cuestionarios personalizados ilimitados"
     },
     "pricing.pro.unlimitedQuestions": {
-        "message": ""
+        "message": "✔️ Preguntas de cuestionario ilimitadas"
     },
     "pricing.pro.limit": {
         "message": ""
     },
     "pricing.pro.apps": {
-        "message": ""
+        "message": "✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, App de Citas"
     },
     "pricing.access.private": {
-        "message": ""
+        "message": "✔️ Cuestionarios privados: solo tus aprendices pueden completar tus cuestionarios"
     },
     "pricing.compliance.title": {
-        "message": ""
+        "message": "Cumplimiento"
     },
     "pricing.compliance.track": {
-        "message": ""
+        "message": "✔️Analíticas básicas de resultados a nivel de cuestionario"
     },
     "pricing.compliance.tools": {
-        "message": ""
+        "message": "✔️ Herramientas de análisis y cumplimiento [próximamente]"
     },
     "pricing.pro.note": {
         "message": ""
     },
     "pricing.enterprise.title": {
-        "message": ""
+        "message": "Enterprise"
     },
     "pricing.enterprise.description": {
-        "message": ""
+        "message": "Mejor para organizaciones grandes y proveedores de servicio"
     },
     "pricing.enterprise.price": {
-        "message": ""
+        "message": "Precios personalizados"
     },
     "pricing.enterprise.note": {
-        "message": ""
+        "message": "Tasa adaptada a tus necesidades"
     },
     "pricing.enterprise.includes": {
-        "message": ""
+        "message": "El plan Enterprise incluye:"
     },
     "pricing.enterprise.deployment": {
-        "message": ""
+        "message": "✔️ Cloud o infraestructura propia (on-premise)"
     },
     "pricing.admin.unlimited": {
-        "message": ""
+        "message": "✔️ Cuentas admin ilimitadas"
     },
     "pricing.enterprise.unlimitedQuizzes": {
-        "message": ""
+        "message": "✔️ Cuestionarios personalizados ilimitados"
     },
     "pricing.enterprise.unlimitedQuestions": {
-        "message": ""
+        "message": "✔️ Preguntas de cuestionario ilimitadas"
     },
     "pricing.enterprise.customLimit": {
-        "message": ""
+        "message": "✔️ Cantidad personalizada de cuestionarios completados"
     },
     "pricing.enterprise.support": {
-        "message": ""
+        "message": "Soporte personalizado"
     },
     "pricing.enterprise.training": {
         "message": ""
@@ -1116,5 +1116,8 @@
     },
     "phishingQuizzes.research.final": {
         "message": ""
+    },
+    "pricing.compliance.detailed": {
+        "message": "✔️ Analíticas detalladas de los resultados por aprendices y por preguntas"
     }
 }
