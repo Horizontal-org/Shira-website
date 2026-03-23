@@ -23,16 +23,17 @@ Cada pregunta está compuesta por varios elementos:
 Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
 1. Puedes crear preguntas desde cero y configurar tú cada uno de los componentes
    de las preguntas.
-2. Puedes importar preguntas predefinidas desde la Biblioteca. Si importas una
-   pregunta de la Biblioteca, puedes usarla tal cual o adaptarla a tu contexto y
-   necesidades especificas.
+2. Puedes importar preguntas predefinidas desde la Biblioteca. Si sacas una
+   pregunta de la Biblioteca, puedes usarla tal cual es o adaptarla a tu
+   contexto y necesidades específicas.
 
 ## Preferencias de las preguntas {#preferences}
 Al crear una pregunta, debes:
 - Nombrar la pregunta: este nombre, como "Invitación a conferencia" o
   "Notificación de inicio de sesión sospechoso", te ayuda a reconocer las
-  preguntas que creas. El nombre de una pregunta solo es visible para admins del
-  espacio; nunca es visible para aprendices mientras completan el cuestionario.
+  preguntas que hayas creado. El nombre de una pregunta solo es visible para las
+  personas admins del espacio; quienes estudian nunca lo ven mientras completan
+  un cuestionario.
 - Dile a Shira si el correo o mensaje que estás creando es **phishing** o
   **legitimo**. Esto permitirá a Shira determinar si la respuesta de una persona
   es correcta.
@@ -75,25 +76,26 @@ Cuando creas una pregunta, cada explicación debe estar enlazada a un elemento e
 la pregunta, como:
 - El nombre del remitente
 - El correo electrónico o número de teléfono del remitente
-- Palabras específicas, oraciones o imágenes dentro de un correo o mensaje.
+- Palabras específicas, oraciones, o imágenes dentro de un correo o mensaje.
 - Imágenes o archivos adjuntos
 
-El orden de la explicación que ves cuándo creas una pregunta es el mismo orden
-en el cual se presentará a aprendices durante el cuestionario.
+El orden de las explicaciones que ves cuando creas las preguntas es el mismo
+orden en el cual se presentan las preguntas a quienes estudian durante el
+cuestionario.
 
 ## Variables {#variables}
 Las variables son marcadores que puedes utilizar para insertar información
-personalizada dentro del una pregunta.
+personalizada dentro de una pregunta.
 
 Para añadir una variable, escribe lo siguiente en el contenido de la pregunta:
-* ``{{name}}`` mostrará el nombre de tu aprendiz
-* ``{{email}}`` mostrará el correo electrónico de tu aprendiz
+* ``{{name}}`` mostrará el nombre de quien estudia
+* ``{{email}}`` mostrará el correo electrónico de quien estudia
 
 Las variables funcionan un poco diferente en cuestionarios públicos y privados:
 * En cuestionarios públicos, el nombre y correo electrónico mostrados son
-  tomados de lo que la persona usuaria introdujo o son auto-generados durante la
-  configuración del cuestionario.
+  tomados de lo que la persona estudiante introdujo o son auto-generados durante
+  la configuración del cuestionario.
 * En cuestionarios privados, el nombre y correo electrónico mostrados son
-  tomados de la información de aprendiz ya que fueron configurados cuando se le
-  invitó al Espacio.
+  tomados de la información de quien aprende como fueron configurados cuando se
+  le invitó al Espacio.
 
