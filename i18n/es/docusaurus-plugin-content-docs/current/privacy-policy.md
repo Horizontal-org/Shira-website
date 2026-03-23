@@ -34,14 +34,14 @@ de Shira disponible en [https://shira.app](https://shira.app),
 
 ## 2. Datos recopilados {#data-collected}
 Los datos que se crean en Shira o que son generados cuando las personas usuarias
-utilizan Shira, puede ser divididos en tres categorías:
+utilizan Shira puede ser divididos en tres categorías:
 - Datos de la cuenta
 - Datos de funcionalidad
 - Telemetría
 
 Las personas usuarias de Shira pueden ser divididas en cuatro grupos:
 - Admins, quienes pueden iniciar sesión en un "espacio" de Shira para gestionar
-  sus cuestionarios, personas usuarias y resultados.
+  sus cuestionarios, personas usuarias, y resultados.
 - Personas Aprendices Anónimas, quienes no están registradas en Shira y solo
   pueden completar cuestionarios públicos a través de la URL pública.
 - Personas Aprendices Registradas, quienes son invitadas a unirse a Espacios,
@@ -87,55 +87,56 @@ Registradas:
 No recopilamos ningún dato de cuenta de personas Aprendices Anónimas ni
 Visitantes.
 
-#### ¿Cómo recopilamos los datos? {#how-do-we-collect-account-data}
-- Las direcciones de correo electrónico y la lista de Espacios con los que está
-  asociado una persona usuaria son recopilados cuando la persona llena un
-  formulario de invitación (cuando una persona Admin llena el formulario para
+#### ¿Cómo recopilamos los datos de la cuenta? {#how-do-we-collect-account-data}
+- Las direcciones de correo electrónico y la lista de Espacios con las que está
+  asociada una persona usuaria son recopilados cuando una persona usuaria llena
+  un formulario de invitación (cuando una persona Admin llena el formulario para
   crear un Espacio o cuando llena la información para enviar la invitación a
-  personas Aprendices Registradas a unirse a un espacio).
+  personas Estudiantes Registradas a unirse a un espacio).
 - La fecha de creación de la cuenta es recopilada automáticamente cuando la
   cuenta es creada.
 
-#### ¿Cómo compartimos o divulgamos los datos de cuenta? {#how-do-we-share-or-disclose-account-data}
+#### ¿Cómo compartimos o divulgamos los datos de la cuenta? {#how-do-we-share-or-disclose-account-data}
 Nunca venderemos los datos de tu cuenta a terceras partes.
 
 Nunca divulgaremos de manera intencional los datos de tu cuenta a terceras
 partes, excepto en los siguientes casos:
 - Si la ley lo requiere (p. ej. si estos datos son requeridos mediante orden
   judicial).
-- Si son necesarios para operar y ofrecer los servicios de Shira (p. ej. para
+- Si son necesarios para operar y proveer los servicios de Shira (p. ej. para
   procesar pagos).
 
 ### Datos de funcionalidad {#functionality-data}
 
 #### ¿Qué son los datos de funcionalidad? {#what-is-functionality-data}
 Los datos de funcionalidad son los datos generados cuando las personas usuarias
-utilizan las funciones de Shira, como los cuestionarios, preguntas de
-cuestionarios, resultados y más.
+utilizan las funcionalidades de Shira, como los cuestionarios, preguntas de
+cuestionarios, resultados, y más.
 
 #### ¿Qué datos de funcionalidad recopilamos? {#what-functionality-data-do-we-collect}
 Estos son los datos de funcionalidad que recopilamos sobre Admins:
 - Información sobre los cuestionarios creados y gestionados por Admins,
-  incluyendo nombre del cuestionario y estado (publicado, despublicado, público,
-  privado, etc), la lista de preguntas de cuestionario y las explicaciones
-  creadas en cada pregunta.
+  incluyendo el nombre del cuestionario y estado (publicado, despublicado,
+  público, privado, etc), la lista de preguntas de cuestionario, y las
+  explicaciones creadas en cada pregunta.
 - Cuando las personas Admins se conectan y utilizan Shira, incluyendo el día y
   la hora de cada conexión.
 
-Estos son los datos de funcionalidad que recopilamos sobre persons Aprendices
-Registradas:
-- Listado de cuestionarios a los que se ha sido invitada o ha completado una
-  persona Aprendiz Registrada.
-- Respuestas enviadas por las personas Aprendices Registradas cuando completan
+Estos son los datos de funcionalidad que recopilamos sobre las personas
+Estudiantes Registradas:
+- Listado de cuestionarios a los que una persona Aprendiz Registrada se ha sido
+  invitada o ha completado.
+- Respuestas enviadas por las personas Estudiantes Registradas cuando completan
   un cuestionario (Resultados).
 - Fecha y hora en la que una persona Aprendiz Registrada ha completado un
   cuestionario.
 
-Estos son los datos de funcionalidad que recopilamos sobre personas Aprendices
+Estos son los datos de funcionalidad que recopilamos sobre personas Estudiantes
 Anónimas:
-- Respuestas envidas por las personas Aprendices Anónimas al completar un
+- Respuestas envidas por las personas Estudiantes Anónimas al completar un
   cuestionario (Resultados).
-- Fecha y hora en la que una persona Aprendiz Anónima completa un cuestionario.
+- Fecha y hora en la que una persona Estudiante Anónima ha completado un
+  cuestionario.
 
 No recopilamos datos de funcionalidad sobre Visitantes.
 
