@@ -16,7 +16,7 @@
         "description": "Navbar item with label Learn"
     },
     "item.label.Pricing": {
-        "message": "الأسعار",
+        "message": "الكلفة",
         "description": "Navbar item with label Pricing"
     },
     "item.label.Help": {
