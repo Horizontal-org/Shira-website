@@ -24,19 +24,19 @@ por estudiantes.
 Esta es la puntuación promedio recibida por todas las personas aprendices que
 completaron el cuestionario.
 
-**Tasa de Finalización** [próximamente]\
-Es el porcentaje de aprendices que han enviado el cuestionario con respecto
-todos los aprendices a quienes se le asignó. La tasa de finalización solo está
-disponible para cuestionarios privados.
+**Tasa de finalización** [próximamente]\
+Es el porcentaje de estudiantes que han enviado el cuestionario con respecto la
+totalidad de estudiantes a quienes se le asignó el cuestionario. La tasa de
+finalización solo está disponible para cuestionarios privados.
 
 **Resultados por pregunta** [próximamente]\
 Esto te muestra la puntuación promedio recibida por todas las personas
-aprendices en una pregunta especifica del cuestionario.
+estudiantes en cada pregunta específica del cuestionario.
 
-**Resultados por aprendiz** [próximamente]\
-Te muestra la lista de personas aprendices registradas que hayan completado el
-cuestionario y su puntuación en el mismo. Los resultados por aprendices solo
-están disponibles para cuestionarios privados.
+**Resultados por estudiante** [próximamente]\
+Esto te muestra la lista de personas estudiantes registradas que han completado
+el cuestionario y su puntuación en el cuestionario. Los resultados por
+estudiante solo están disponibles para cuestionarios privados.
 
 :::nota Si hay elementos específicos que te gustaría monitorear en Resultados,
 ¡[déjanos saber](/contact)! :::
