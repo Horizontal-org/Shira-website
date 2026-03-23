@@ -1,0 +1,32 @@
+{
+    "logo.alt": {
+        "message": "Logo Shira"
+    },
+    "item.label.Features": {
+        "message": "Élément de la barre de navigation avec l'étiquette Fonctionnalités"
+    },
+    "item.label.Learn": {
+        "message": "Apprendre"
+    },
+    "item.label.Take a quiz": {
+        "message": "Commencer le quiz"
+    },
+    "item.label.Help": {
+        "message": "Aide"
+    },
+    "item.label.Pricing": {
+        "message": "Tarifs"
+    },
+    "item.label.About": {
+        "message": "À propos"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "S'inscrire / Se connecter"
+    },
+    "item.label.What is Phishing?": {
+        "message": "Qu'est-ce que le phishing ?"
+    },
+    "item.label.Why phishing quizzes?": {
+        "message": "Pourquoi des quiz de phishing ?"
+    }
+}

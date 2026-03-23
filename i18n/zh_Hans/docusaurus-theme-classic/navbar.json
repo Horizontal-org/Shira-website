@@ -1,0 +1,42 @@
+{
+    "logo.alt": {
+        "message": "Shira 标识",
+        "description": "The alt text of navbar logo"
+    },
+    "item.label.Features": {
+        "message": "功能",
+        "description": "Navbar item with label Features"
+    },
+    "item.label.Take a quiz": {
+        "message": "参加测验",
+        "description": "Navbar item with label Take a quiz"
+    },
+    "item.label.Learn": {
+        "message": "了解",
+        "description": "Navbar item with label Learn"
+    },
+    "item.label.Pricing": {
+        "message": "定价",
+        "description": "Navbar item with label Pricing"
+    },
+    "item.label.Help": {
+        "message": "帮助",
+        "description": "Navbar item with label Help"
+    },
+    "item.label.About": {
+        "message": "关于",
+        "description": "Navbar item with label About"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "注册/登录",
+        "description": "Navbar item with label Sign up/Log in"
+    },
+    "item.label.What is Phishing?": {
+        "message": "什么是钓鱼？",
+        "description": "Navbar item with label What is Phishing?"
+    },
+    "item.label.Why phishing quizzes?": {
+        "message": "为何选择钓鱼测验？",
+        "description": "Navbar item with label Why phishing quizzes?"
+    }
+}

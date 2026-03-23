@@ -1,0 +1,1123 @@
+{
+    "about.meta.title": {
+        "message": "Acerca de Shira"
+    },
+    "about.meta.description": {
+        "message": "Aprende sobre Shira y su equipo — un proyecto de Horizontal, una organización sin fines de lucro que crea herramientas de seguridad y privacidad para ayudar a personas y organizaciones a defenderse contra ataques de phishing."
+    },
+    "about.meta.longDescription": {
+        "message": "Aprende sobre Shira y su equipo — un proyecto de Horizontal, una organización sin fines de lucro que crea herramientas de seguridad y privacidad para ayudar a personas y organizaciones a defenderse contra ataques de phishing."
+    },
+    "about.hero.title": {
+        "message": "Shira"
+    },
+    "about.hero.subtitle": {
+        "message": "Ayudando a personas y organizaciones    a construir su resiliencia contra ataques de phishing"
+    },
+    "about.hero.cta": {
+        "message": "Ponte en contacto"
+    },
+    "about.hero.imageAlt": {
+        "message": "Logo de Shira: es una S en colores azul y verde claro"
+    },
+    "about.horizontal.imageAlt": {
+        "message": "Logo de Horizontal"
+    },
+    "about.horizontal.title": {
+        "message": "¿Quién hace Shira?"
+    },
+    "about.horizontal.description": {
+        "message": "Shira es un proyecto de Horizontal, una sin fines de lucro tecnológica que desarrolla tecnología en seguridad y privacidad para ayudar a las personas a estar más seguras en línea."
+    },
+    "about.horizontal.donationText": {
+        "message": "Puedes ayudarnos a mejorar y mantener Shira"
+    },
+    "about.horizontal.donationLink": {
+        "message": "haciendo una donación aquí"
+    },
+    "about.horizontal.translationText": {
+        "message": "Para contribuir a la traducción de Shira a nuevos idiomas, envíanos un email a"
+    },
+    "about.horizontal.cta": {
+        "message": "Aprende sobre Horizontal"
+    },
+    "about.why.imageAlt": {
+        "message": "imagen decorativa del un anzuelo"
+    },
+    "about.why.title": {
+        "message": "¿Por qué Shira?"
+    },
+    "about.why.easy.title": {
+        "message": "1. Facilidad de uso"
+    },
+    "about.why.easy.description": {
+        "message": "Shira fue creada tomando en cuenta comunidades que están en mayor riesgo de ataques de phishing, especialmente personas usuarias con alfabetización tecnológica limitada."
+    },
+    "about.why.customizable.title": {
+        "message": "2. Personalizable"
+    },
+    "about.why.customizable.description": {
+        "message": "Shira muestra emails y mensajes lo más realistas posible para simular lo que las personas experimentan en internet en sus vidas cotidianas y los ataques de phishing que pueden llegar a enfrentar."
+    },
+    "about.why.privacy.title": {
+        "message": "3. Amigable con la privacidad"
+    },
+    "about.why.privacy.description": {
+        "message": "No recopilamos, guardamos, ni compartimos ningún dato sensible ni de identificación personal sobre las personas usuarias que visiten Shira o completen los cuestionarios. Para aprender más, revisa nuestras políticas de privacidad y auditorías de seguridad realizadas por empresas de seguridad independientes."
+    },
+    "about.why.auditCta": {
+        "message": "Auditorías de Seguridad"
+    },
+    "about.why.privacyCta": {
+        "message": "Política de privacidad"
+    },
+    "about.how.title": {
+        "message": "¿Cómo se desarrolla Shira?"
+    },
+    "about.how.opensource": {
+        "message": "Shira es de código abierto y bajo licencia MIT 2.0."
+    },
+    "about.how.design": {
+        "message": "En Horizontal, diseñamos y desarrollamos centrando en las necesidades de personas usuarias enfrentando altos riesgos de ataques digitales."
+    },
+    "about.how.community": {
+        "message": "Shira es multilingüe y co-creada con personas en situación de riesgo."
+    },
+    "about.how.communityLink": {
+        "message": "co-creada con personas en situación de riesgo."
+    },
+    "about.how.green": {
+        "message": "Este sitio web funciona con energía renovable."
+    },
+    "about.how.greenAlt": {
+        "message": "Este sitio web funciona con hosting ecológico - verificado por thegreenwebfoundation.org"
+    },
+    "contact.title": {
+        "message": "Contacta al equipo de Shira"
+    },
+    "contact.description": {
+        "message": "Aprende cómo contactar al equipo de Shira"
+    },
+    "contact.metaDescription": {
+        "message": "Aprende cómo contactar al equipo de Shira"
+    },
+    "contact.heading": {
+        "message": "¡Hablemos!"
+    },
+    "contact.intro.part1": {
+        "message": "¿Tienes preguntas sobre Shira que no tienen respuesta en nuestro"
+    },
+    "contact.intro.helpCenter": {
+        "message": "centro de ayuda"
+    },
+    "contact.intro.part2": {
+        "message": "? ¿Te gustaría explorar una posible asociación? ¿Eres una organización sin fines de lucro o una organización comunitaria y no puedes costear el precio completo de Shira?"
+    },
+    "contact.getInTouch": {
+        "message": "Ponte en contacto:"
+    },
+    "contact.links.emailText": {
+        "message": "Escríbenos a"
+    },
+    "contact.links.github": {
+        "message": "Publica una idea de funcionalidad o vota en solicitudes existentes"
+    },
+    "contact.links.demo": {
+        "message": "Agenda una demo por llamada directamente aquí"
+    },
+    "contact.links.newsletter": {
+        "message": "Suscríbete a nuestro boletín"
+    },
+    "features.meta.title": {
+        "message": "Funciones de Shira"
+    },
+    "features.meta.description": {
+        "message": "Explora las funciones de Shira para docentes y profesionales de seguridad."
+    },
+    "features.meta.longDescription": {
+        "message": "Explora las funciones de Shira para docentes y profesionales de la seguridad — crea cuestionarios de phishing realistas, simula ataques reales, visualiza el progreso del equipo, y desarrolla una conciencia duradera sobre el phishing."
+    },
+    "features.intro.audience": {
+        "message": "Para docentes y profesionales de la seguridad"
+    },
+    "features.intro.title": {
+        "message": "Crea {you1} propios cuestionarios de phishing para que {your2} equipo aborde {your3} amenazas"
+    },
+    "features.intro.your1": {
+        "message": "tus"
+    },
+    "features.intro.your2": {
+        "message": "tu"
+    },
+    "features.intro.your3": {
+        "message": "tus"
+    },
+    "features.intro.pricing": {
+        "message": "Precios"
+    },
+    "features.intro.getStarted": {
+        "message": "Comenzar"
+    },
+    "features.images.fishAlt": {
+        "message": "Ilustración de un pez representado el phishing"
+    },
+    "features.images.bubblesAlt": {
+        "message": "Ilustración de pez con burbujas"
+    },
+    "features.allFeatures.title": {
+        "message": "Todas las funciones que necesitas para mantener a tu equipo seguro"
+    },
+    "features.allFeatures.description": {
+        "message": "Nadie conoce las necesidades de tu equipo mejor que tú. Shira te da control total sobre la creación de experiencias de aprendizaje hechas a medida para las necesidades específicas de tu organización, los ataques que recibes, y el nivel de habilidad de tus colegas."
+    },
+    "features.list.ui.title": {
+        "message": "Interfaz fácil de usar 🎨"
+    },
+    "features.list.ui.description": {
+        "message": "Panel intuitivo para facilidad de navegación y gestión de cuestionarios y de personas usuarias."
+    },
+    "features.list.roles.title": {
+        "message": "Control de acceso por roles 🔒"
+    },
+    "features.list.roles.description": {
+        "message": "Diferentes niveles de acceso para admins y aprendices."
+    },
+    "features.list.realLife.title": {
+        "message": "Simulación de Ataque Real ⚡"
+    },
+    "features.list.realLife.description": {
+        "message": "Incluye en tus cuestionarios detalles de ataques de phishing reales que tu organización haya experimentado para preparar de la mejor manera a tu equipo."
+    },
+    "features.list.email.title": {
+        "message": "Simulación de phishing por correo electrónico 📧"
+    },
+    "features.list.email.description": {
+        "message": "Crea cuestionarios que imiten correos de phishing en Gmail y Outlook, incluyendo informción de remitente, asunto, cuerpo del correo, enlaces, imágenes y archivos adjuntos."
+    },
+    "features.list.sms.title": {
+        "message": "Simulación de phishing por SMS"
+    },
+    "features.list.sms.description": {
+        "message": "Crea cuestionarios que imiten intentos de phishing por SMS con mensajes de texto realistas."
+    },
+    "features.list.messaging.title": {
+        "message": "Simulación de phishing por app de mensajería 💬"
+    },
+    "features.list.messaging.description": {
+        "message": "Crea cuestionarios que repliquen el phishing a través de aplicaciones de mensajería populares como WhatsApp y Facebook Messenger."
+    },
+    "features.list.mobile.title": {
+        "message": "Soporte para Móviles 📱"
+    },
+    "features.list.mobile.description": {
+        "message": "A menudo enfrentamos ataques de phishing en nuestros dispositivos móviles. En Shira, la personas usuarias puede completar cuestionarios desde sus dispositivos móviles para prepararse para ataques que enfrentarán en la realidad."
+    },
+    "features.list.compliance.title": {
+        "message": "Cumplimiento ✅"
+    },
+    "features.list.compliance.description": {
+        "message": "Asegura que tu equipo complete realmente los cuestionarios y monitorea su tasa de éxito."
+    },
+    "features.list.analytics.title": {
+        "message": "Analíticas 📈"
+    },
+    "features.list.analytics.description": {
+        "message": "Monitorea el progreso e identifica áreas de mejora, ya sea el tipo de apps en la que tus aprendices son más vulnerables o las personas usuarias especificas que necesitan apoyo extra."
+    },
+    "features.list.explanations.title": {
+        "message": "Explicaciones 📝"
+    },
+    "features.list.explanations.description": {
+        "message": "Integra tus propias explicaciones para indicar a las personas usuarias elementos que sugieren que un email o mensaje parece phishing."
+    },
+    "features.list.gamification.title": {
+        "message": "Gamificación 🕹️"
+    },
+    "features.list.gamification.description": {
+        "message": "Una experiencia de aprendizaje atractiva favorece una mejor retención del conocimiento."
+    },
+    "features.list.multilingual.title": {
+        "message": "Multilingüe 🌐"
+    },
+    "features.list.multilingual.description": {
+        "message": "Shira está disponible completamente en Español, Inglés, Francés, Mandarín, Árabe y Ruso."
+    },
+    "features.list.library.title": {
+        "message": "Biblioteca de preguntas 📚"
+    },
+    "features.list.library.description": {
+        "message": "Crea tus propias preguntas de cuestionarios desde cero o ve a la Biblioteca de Shira para obtener plantillas de preguntas creadas por instructores de seguridad digital."
+    },
+    "features.needMore.title": {
+        "message": "¿Falta una función?"
+    },
+    "features.needMore.subtitle": {
+        "message": "Ponte en contacto. Haremos que suceda."
+    },
+    "features.needMore.cta": {
+        "message": "Contáctanos"
+    },
+    "homepage.meta.title": {
+        "message": "Shira"
+    },
+    "homepage.meta.description": {
+        "message": "Usa Shira para desarrollar la habilidad de tu equipo para detectar y vencer ataques de phishing."
+    },
+    "homepage.meta.longDescription": {
+        "message": "Shira ayuda a personas y organizaciones a aprender a detectar y vencer ataques de phishing a través de cuestionarios interactivos y respetuosos de la privacidad, personalizables para aplicaciones reales como Gmail, SMS y WhatsApp, el contexto y el idioma."
+    },
+    "homepage.hero.title": {
+        "message": "Preparación. Conocimiento. Resiliencia."
+    },
+    "homepage.hero.subtitle": {
+        "message": "Shira desarrolla la habilidad de tu equipo para identificar y vencer ataques de phishing."
+    },
+    "homepage.learners.title": {
+        "message": "Para aprendices"
+    },
+    "homepage.learners.description": {
+        "message": "Empieza ya mismo con uno de nuestros gratuitos cuestionarios predefinidos. Personaliza el cuestionario para aprender a identificar el phishing en apps que usas cotidianamente — Gmail, SMS, WhatsApp, etc — con ejemplos adaptados a tu idioma y área de trabajo."
+    },
+    "homepage.learners.cta": {
+        "message": "Completa un cuestionario"
+    },
+    "homepage.educators.title": {
+        "message": "Para docentes y profesionales de la seguridad"
+    },
+    "homepage.educators.description": {
+        "message": "Cada organización tiene sus propias necesidades y enfrentan sus propias amenazas. Construye cuestionarios sobre phishing adaptados a las necesidades de tu organización y monitorea la tasa de excito de tu equipo — sin escribir código."
+    },
+    "homepage.educators.cta": {
+        "message": "Crea tu propio cuestionario"
+    },
+    "homepage.context.description": {
+        "message": "Por años, el phishing ha sido uno de los ataques más comunes que enfrentan las personas y organizaciones. Aunque al principio solo estaba limitado a emails, ahora el phishing también ocurre via SMS, apps de mensajería y redes sociales. Desarrollar las habilidades de las personas para detectar y contrarrestar ataques de phishing es más necesario que nunca."
+    },
+    "homepage.context.imageAlt": {
+        "message": "imagen decorativa de una lupa"
+    },
+    "homepage.why.title": {
+        "message": "¿Por qué Shira?"
+    },
+    "homepage.why.intro": {
+        "message": "Ya sea que solo estés completando nuestro cuestionario gratuito predefinido o construyendo tus propios cuestionarios para capacitar a tu equipo, Shira es:"
+    },
+    "homepage.why.easy.title": {
+        "message": "Fácil de usar"
+    },
+    "homepage.why.easy.description": {
+        "message": "Creada para comunidades con mayor riesgo de ataques de phishing, incluso con poco conocimiento tecnológico."
+    },
+    "homepage.why.customizable.title": {
+        "message": "Personalizable"
+    },
+    "homepage.why.customizable.description": {
+        "message": "Mensajes de phishing realistas para simular escenarios reales a los que las personas se enfrentan cada día."
+    },
+    "homepage.why.privacy.title": {
+        "message": "Respeta la privacidad"
+    },
+    "homepage.why.privacy.description": {
+        "message": "No recopilamos ni compartimos datos sensibles o de identificación personal de las personas usuarias."
+    },
+    "phishingQuizzes.meta.title": {
+        "message": "Aprende sobre los Cuestionarios de Phishing"
+    },
+    "phishingQuizzes.meta.description": {
+        "message": "Aprende sobre los cuestionarios de Phishing"
+    },
+    "phishingQuizzes.meta.longDescription": {
+        "message": "Aprende por qué los cuestionarios de phishing son más efectivos que las simulaciones."
+    },
+    "phishingQuizzes.education.title": {
+        "message": "Por qué la educación supera la simulación"
+    },
+    "phishingQuizzes.education.paragraph1": {
+        "message": "Las simulaciones de phishing se han convertido en un elemento estándar en los programas de capacitación anti-phishing. Estas simulaciones implican el envío de emails al personal que imitan las tácticas utilizadas por cibercriminales para engañar a las personas para que revelen información confidencial o hagan clic en enlaces maliciosos. El personal es evaluado basado en su respuesta a estos correos simulados, particularmente si han hecho clic o proporcionado información sensible."
+    },
+    "phishingQuizzes.education.paragraph2": {
+        "message": "Sim embargo, estate enfoque tiene varias desventajas y no es tan efectivo como proporcionar educación integral en anti-phishing."
+    },
+    "phishingQuizzes.education.wsjAltDesktop": {
+        "message": "Artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
+    },
+    "phishingQuizzes.education.wsjAltMobile": {
+        "message": "Artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
+    },
+    "phishingQuizzes.problem.title": {
+        "message": "El problema con las simulaciones de phishing"
+    },
+    "phishingQuizzes.problem.intro": {
+        "message": "Las simulaciones de phishing, aunque ampliamente usadas, conllevan varios inconvenientes que las organizaciones deben considerar:"
+    },
+    "phishingQuizzes.problem.anxiety.title": {
+        "message": "Generan ansiedad y desconfianza:"
+    },
+    "phishingQuizzes.problem.anxiety.text": {
+        "message": "Las personas usuarias se pueden volver ansiosas o tener desconfianza en los correos, incluso los legítimos, lo que puede provocar disminución de la productividad y un incremento de estrés."
+    },
+    "phishingQuizzes.problem.emailFocus.title": {
+        "message": "Hiperenfoque en el Correo:"
+    },
+    "phishingQuizzes.problem.emailFocus.text": {
+        "message": "Muchas simulaciones de phishing se enfocan principalmente en amenazas de correo electrónico, subestimando otros canales como SMS, aplicaciones de mensajería o redes sociales."
+    },
+    "phishingQuizzes.problem.falseSecurity.title": {
+        "message": "Falso Sentido de Seguridad:"
+    },
+    "phishingQuizzes.problem.falseSecurity.text": {
+        "message": "Si el personal identifica con éxito ataques de phishing simulados, pueden desarrollar un falso sentido de seguridad."
+    },
+    "phishingQuizzes.problem.clickRates.title": {
+        "message": "Énfasis excesivo en la Tasa de Clics:"
+    },
+    "phishingQuizzes.problem.clickRates.text": {
+        "message": "Enfocarse solamente en si el personal hizo clic en un enlace puede pasar por alto otros aspectos importantes de la concienciación sobre phishing."
+    },
+    "phishingQuizzes.problem.desensitize.title": {
+        "message": "Desensibilizar a las personas usuarias:"
+    },
+    "phishingQuizzes.problem.desensitize.text": {
+        "message": "Enviar repetidamente correos de phishing falsos puede desensibilizar a las personas ante la amenaza."
+    },
+    "phishingQuizzes.problem.punishment.title": {
+        "message": "Enfoque en castigo en lugar de prevención:"
+    },
+    "phishingQuizzes.problem.punishment.text": {
+        "message": "Los correos de phishing simulados pueden crear una cultura de miedo, donde las personas están más enfocadas en evitar el castigo que en aprender."
+    },
+    "phishingQuizzes.research.text": {
+        "message": "Las investigaciones indican que las campañas de simulación de phishing no capacitan de manera eficaz a las personas en la identificación de ataques de phishing."
+    },
+    "phishingQuizzes.research.link": {
+        "message": "Un estudio con 14,000 participantes"
+    },
+    "phishingQuizzes.research.conclusion": {
+        "message": "mostró de hecho un efecto contraproducente de las simulaciones de phishing."
+    },
+    "phishingQuizzes.quizzes.title": {
+        "message": "Un enfoque más eficaz: cuestionarios de phishing."
+    },
+    "phishingQuizzes.quizzes.description": {
+        "message": "Los cuestionarios de phishing ofrecen un entorno de aprendizaje controlado que es más eficaz para el desarrollo de habilidad que las simulaciones de phishing tradicionales."
+    },
+    "phishingQuizzes.quizzes.benefitsIntro": {
+        "message": "Los beneficios incluyen:"
+    },
+    "phishingQuizzes.benefits.controlled.title": {
+        "message": "Entorno de Aprendizaje Controlado:"
+    },
+    "phishingQuizzes.benefits.controlled.text": {
+        "message": "Los cuestionarios de phishing crean un espacio seguro y debajo riesgo para que el personal practique sus habilidades."
+    },
+    "phishingQuizzes.benefits.interactive.title": {
+        "message": "Participación Interactiva:"
+    },
+    "phishingQuizzes.benefits.interactive.text": {
+        "message": "Estos cuestionarios estimulan la participación activa y ofrecen retroalimentación inmediata."
+    },
+    "phishingQuizzes.benefits.coverage.title": {
+        "message": "Cobertura de Diversas Tácticas de Phishing:"
+    },
+    "phishingQuizzes.benefits.coverage.text": {
+        "message": "Los cuestionarios de phishing pueden incorporar escenarios con SMS, redes sociales y phishing por voz (vishing)."
+    },
+    "phishingQuizzes.benefits.confidence.title": {
+        "message": "Desarrollo de Confianza:"
+    },
+    "phishingQuizzes.benefits.confidence.text": {
+        "message": "El personal aprende de los errores en un entorno de apoyo."
+    },
+    "phishingQuizzes.benefits.tailored.title": {
+        "message": "Objetivos de Aprendizaje a Medida:"
+    },
+    "phishingQuizzes.benefits.tailored.text": {
+        "message": "Los cuestionarios puede ser personalizados para enfocarse en habilidades y brechas de conocimiento especificas."
+    },
+    "phishingQuizzes.cta": {
+        "message": "Empieza"
+    },
+    "phishing.layout.title": {
+        "message": "Aprende sobre Phishing"
+    },
+    "phishing.layout.description": {
+        "message": "Aprende qué es el phishing, cómo funciona y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan y las serias consecuencias para las personas y organizaciones."
+    },
+    "phishing.meta.description": {
+        "message": "Aprende qué es el phishing, cómo funciona y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan y las serias consecuencias para las personas y organizaciones."
+    },
+    "phishing.intro.title": {
+        "message": "¿Que es phishing?"
+    },
+    "phishing.intro.definition": {
+        "message": "Phishing es un intento malintencionado de obtener información confidencial como credenciales de inicio de sesión y detalles de tarjetas de crédito, haciéndose pasar por una entidad confiable en comunicaciones electrónicas. El phishing también puede tentarte a descargar software malicioso."
+    },
+    "phishing.intro.protection": {
+        "message": "Comprender el phishing es el primer paso para protegerte a ti y a tu organización."
+    },
+    "phishing.images.fish.alt": {
+        "message": "Ilustración decorativa de un pez"
+    },
+    "phishing.common.title": {
+        "message": "El ataque más común"
+    },
+    "phishing.common.rank": {
+        "message": "El phishing es clasificado constantemente como el ataque más común que experimentan las personas y organizaciones."
+    },
+    "phishing.common.channels": {
+        "message": "Aunque el phishing ha sido asociado tradicionalmente con estafas por correo electrónico, hoy en día ocurre a través de una amplia variedad de medios: email, pero también SMS, aplicaciones de mensajería, plataformas de redes sociales y llamadas telefónicas."
+    },
+    "phishing.images.bubbles.alt": {
+        "message": "Ilustración decorativa de burbujas."
+    },
+    "phishing.attackers.title": {
+        "message": "¿Qué intentan obtener quienes atacan?"
+    },
+    "phishing.attackers.passwords.label": {
+        "message": "Contraseñas:"
+    },
+    "phishing.attackers.passwords.text": {
+        "message": "Quienes atacan buscan robar contraseñas y credenciales de inicio de sesión para acceder a las cuentas en línea de sus víctimas. Con esta información, puede cometer fraude, robar datos o extorsionar víctimas amenazándoles con exponer información confidencial."
+    },
+    "phishing.attackers.money.label": {
+        "message": "Dinero:"
+    },
+    "phishing.attackers.money.text": {
+        "message": "Ganancia financiera es un motivo clave para el phishing. Quienes atacan se hacen pasar por organizaciones legítimas para engañar a las víctimas a que proporcionen detalles de tarjetas de crédito o realicen pagos, a menudo a través de facturas falsas o solicitudes de donaciones."
+    },
+    "phishing.attackers.confidential.label": {
+        "message": "Información confidencial:"
+    },
+    "phishing.attackers.confidential.text": {
+        "message": "El phishing apunta a obtener información confidencial como números de Seguridad Social y datos de empresariales. Esta información puede ser utilizada para robo de identidad, venderse en la dark web o aprovecharse para espionage corporativo."
+    },
+    "phishing.attackers.malware.label": {
+        "message": "Que las víctimas instalen malware:"
+    },
+    "phishing.attackers.malware.text": {
+        "message": "Las personas que realizan ataques de phishing (Phishers), pueden engañar a las víctimas para que descarguen malware a través de enlaces o archivos adjuntos maliciosos. Una vez instalado, el malware puede robar información personal, monitorear la actividad o tomar el control de dispositivos, lo que conlleva a serias brechas de datos."
+    },
+    "phishing.why.title": {
+        "message": "¿Por qué funciona el phishing?"
+    },
+    "phishing.why.intro": {
+        "message": "Las personas Phishers se aprovechan de nuestra:"
+    },
+    "phishing.why.polite.label": {
+        "message": "Necesidad de ser cortés:"
+    },
+    "phishing.why.polite.text": {
+        "message": "Las personas a menudo se sienten la necesidad de responder a mensajes de figuras de autoridad o fuentes de confianza. Las personas que realizan phishing explotan esto utilizando un lenguaje cortés, haciendo que las personas destinatarias tengan más probabilidad de cumplir con solicitudes de información sin cuestionar la legitimidad del mensaje."
+    },
+    "phishing.why.helpful.label": {
+        "message": "Deseo de ser de útiles:"
+    },
+    "phishing.why.helpful.text": {
+        "message": "Muchas personas sienten de manera natural el deseo de ayudar a otras. Las personas phishers crean escenarios que inducen a las víctimas a prestar ayuda, como afirmando que alguna persona cercana se encuentra en problemas. Esta manipulación puede llevar a la gente a proporcionar información personal, creyendo que están siendo solidarias."
+    },
+    "phishing.why.embarrassed.label": {
+        "message": "Miedo a pasar vergüenza:"
+    },
+    "phishing.why.embarrassed.text": {
+        "message": "Los phishers infunden miedo al sugerir a las personas destinatarias que han cometido un error, como no haber realizado un pago. Este miedo puede empujar a las personas a actuar rápidamente, a menudo sin verificar la fuente del mensaje, lo que conlleva a una seguridad comprometida."
+    },
+    "phishing.why.urgent.label": {
+        "message": "Panico sobre mensajes urgentes:"
+    },
+    "phishing.why.urgent.text": {
+        "message": "La urgencia es un fuerte motivador. Los personas phishers elaboran mensajes que crean un falso sentido de urgencia, afirmando que las cuentas serán suspendidas o que hay pagos pendientes. Este pánico puede nublar el juicio, haciendo que las personas ignoren las señales de peligro y actúen de manera impulsiva."
+    },
+    "phishing.consequences.title": {
+        "message": "Los ataques de phishing pueden conllevar consecuencias severas"
+    },
+    "phishing.consequences.identity.label": {
+        "message": "Robo de identidad:"
+    },
+    "phishing.consequences.identity.text": {
+        "message": "Los cibercriminales pueden usar tu información para hacerse pasar por ti."
+    },
+    "phishing.consequences.financial.label": {
+        "message": "Perdida Económica:"
+    },
+    "phishing.consequences.financial.text": {
+        "message": "Las transacciones no autorizadas pueden vaciar tus cuentas."
+    },
+    "phishing.consequences.data.label": {
+        "message": "Brechas de Datos:"
+    },
+    "phishing.consequences.data.text": {
+        "message": "La información sensible de la empresa puede ser expuesta, provocando daño a la reputación."
+    },
+    "phishing.consequences.operational.label": {
+        "message": "Interrupción Operativa:"
+    },
+    "phishing.consequences.operational.text": {
+        "message": "El phishing puede causar interrupciones y perdida de productividad."
+    },
+    "phishing.images.worm.alt": {
+        "message": "Ilustración decorativa de un gusano."
+    },
+    "phishing.how.title": {
+        "message": "Cómo funciona el phishing"
+    },
+    "phishing.how.intro": {
+        "message": "Los ataques de phishing a menudo involucran los siguientes pasos:"
+    },
+    "phishing.how.deceptive.label": {
+        "message": "Comunicación Engañosa:"
+    },
+    "phishing.how.deceptive.text": {
+        "message": "Las personas atacantes envían mensajes que parecen provenir de fuentes legítimas, como bancos, servicios en línea o incluso colegas."
+    },
+    "phishing.how.urgent.label": {
+        "message": "Llamado a Actuar con Urgencia:"
+    },
+    "phishing.how.urgent.text": {
+        "message": "El mensaje normalmente contiene un sentido de urgencia, requiriendo a la persona destinataria que actúe rápidamente — como hacer clic en un enlace o proporcionar información personal."
+    },
+    "phishing.how.fake.label": {
+        "message": "Sitios Web Falsos:"
+    },
+    "phishing.how.fake.text": {
+        "message": "Si la víctima hace clic en un enlace, a menudo se les dirige a un sitio web fraudulento que se ve similar al sitio web legítimo. Aquí, pueden solicitarle introducir información confidencial como su contraseña o información bancaria."
+    },
+    "phishing.how.data.label": {
+        "message": "Robo de Datos:"
+    },
+    "phishing.how.data.text": {
+        "message": "Una vez que la víctima proporciona su información, las personas atacantes pueden utilizarla para robo de identidad, fraude bancario u otros propósitos maliciosos."
+    },
+    "pricing.layout.title": {
+        "message": "Precio de Shira"
+    },
+    "pricing.layout.description": {
+        "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
+    },
+    "pricing.meta.description": {
+        "message": "Explora los planes de precios simples y transparentes de Shira para docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
+    },
+    "pricing.intro.subtitle": {
+        "message": "Planes personalizados para docentes y profesionales de la seguridad."
+    },
+    "pricing.intro.title": {
+        "message": "Precios simples, transparentes y justos"
+    },
+    "pricing.starter.title": {
+        "message": "Inicial"
+    },
+    "pricing.starter.description": {
+        "message": "Para probar y familiarizarse con Shira"
+    },
+    "pricing.starter.price": {
+        "message": "$0"
+    },
+    "pricing.starter.note": {
+        "message": "Gratuito, sin obligaciones"
+    },
+    "pricing.cta.getStarted": {
+        "message": "Empezar"
+    },
+    "pricing.starter.includes": {
+        "message": "El plan Inicial incluye:"
+    },
+    "pricing.admin.title": {
+        "message": "Gestión administrativa"
+    },
+    "pricing.admin.cloud": {
+        "message": "✔️ Cloud"
+    },
+    "pricing.admin.dashboard": {
+        "message": "✔️ Panel de admin"
+    },
+    "pricing.admin.oneAdmin": {
+        "message": "✔️ 1 admin"
+    },
+    "pricing.customization.title": {
+        "message": "Personalización"
+    },
+    "pricing.customization.questions": {
+        "message": "✔️ Preguntas del cuestionario completamente personalizables"
+    },
+    "pricing.customization.library": {
+        "message": "✔️ Acceso a la biblioteca de preguntas"
+    },
+    "pricing.customization.quizzes": {
+        "message": "✔️ Hasta 3 cuestionarios personalizados"
+    },
+    "pricing.customization.questionsPerQuiz": {
+        "message": "✔️ Preguntas de cuestionario ilimitadas"
+    },
+    "pricing.customization.limit": {
+        "message": ""
+    },
+    "pricing.customization.apps": {
+        "message": "✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, App de Citas"
+    },
+    "pricing.access.title": {
+        "message": "Control de acceso"
+    },
+    "pricing.access.public": {
+        "message": "✔️ Cuestionarios públicos, cualquiera puede completar tus cuestionarios a través de una URL fácil de compartir"
+    },
+    "pricing.pro.title": {
+        "message": "Pro"
+    },
+    "pricing.pro.description": {
+        "message": "Todo el poder de Shira"
+    },
+    "pricing.pro.price": {
+        "message": "$39/mes + $1 por cuestionario completado"
+    },
+    "pricing.pro.billing": {
+        "message": " facturado anualmente o $49/mes + $1 por cuestionario completado facturado mensualmente"
+    },
+    "pricing.pro.includes": {
+        "message": "El plan Pro incluye:"
+    },
+    "pricing.admin.unlimitedSoon": {
+        "message": "✔️Cuentas de admin ilimitadas [próximamente]"
+    },
+    "pricing.pro.unlimitedQuizzes": {
+        "message": "✔️ Cuestionarios personalizados ilimitados"
+    },
+    "pricing.pro.unlimitedQuestions": {
+        "message": "✔️ Preguntas de cuestionario ilimitadas"
+    },
+    "pricing.pro.limit": {
+        "message": ""
+    },
+    "pricing.pro.apps": {
+        "message": "✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, App de Citas"
+    },
+    "pricing.access.private": {
+        "message": "✔️ Cuestionarios privados: solo tus aprendices pueden completar tus cuestionarios"
+    },
+    "pricing.compliance.title": {
+        "message": "Cumplimiento"
+    },
+    "pricing.compliance.track": {
+        "message": "✔️Analíticas básicas de resultados a nivel de cuestionario"
+    },
+    "pricing.compliance.tools": {
+        "message": "✔️ Herramientas de análisis y cumplimiento [próximamente]"
+    },
+    "pricing.pro.note": {
+        "message": ""
+    },
+    "pricing.enterprise.title": {
+        "message": "Enterprise"
+    },
+    "pricing.enterprise.description": {
+        "message": "Mejor para organizaciones grandes y proveedores de servicio"
+    },
+    "pricing.enterprise.price": {
+        "message": "Precios personalizados"
+    },
+    "pricing.enterprise.note": {
+        "message": "Tasa adaptada a tus necesidades"
+    },
+    "pricing.enterprise.includes": {
+        "message": "El plan Enterprise incluye:"
+    },
+    "pricing.enterprise.deployment": {
+        "message": "✔️ Cloud o infraestructura propia (on-premise)"
+    },
+    "pricing.admin.unlimited": {
+        "message": "✔️ Cuentas admin ilimitadas"
+    },
+    "pricing.enterprise.unlimitedQuizzes": {
+        "message": "✔️ Cuestionarios personalizados ilimitados"
+    },
+    "pricing.enterprise.unlimitedQuestions": {
+        "message": "✔️ Preguntas de cuestionario ilimitadas"
+    },
+    "pricing.enterprise.customLimit": {
+        "message": "✔️ Cantidad personalizada de cuestionarios completados"
+    },
+    "pricing.enterprise.support": {
+        "message": "Soporte personalizado"
+    },
+    "pricing.enterprise.training": {
+        "message": ""
+    },
+    "pricing.enterprise.priority": {
+        "message": ""
+    },
+    "theme.ErrorPageContent.title": {
+        "message": "",
+        "description": "The title of the fallback page when the page crashed"
+    },
+    "theme.BackToTopButton.buttonAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the back to top button"
+    },
+    "theme.blog.archive.title": {
+        "message": "",
+        "description": "The page & hero title of the blog archive page"
+    },
+    "theme.blog.archive.description": {
+        "message": "",
+        "description": "The page & hero description of the blog archive page"
+    },
+    "theme.blog.paginator.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the blog pagination"
+    },
+    "theme.blog.paginator.newerEntries": {
+        "message": "",
+        "description": "The label used to navigate to the newer blog posts page (previous page)"
+    },
+    "theme.blog.paginator.olderEntries": {
+        "message": "",
+        "description": "The label used to navigate to the older blog posts page (next page)"
+    },
+    "theme.blog.post.paginator.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the blog posts pagination"
+    },
+    "theme.blog.post.paginator.newerPost": {
+        "message": "",
+        "description": "The blog post button label to navigate to the newer/previous post"
+    },
+    "theme.blog.post.paginator.olderPost": {
+        "message": "",
+        "description": "The blog post button label to navigate to the older/next post"
+    },
+    "theme.tags.tagsPageLink": {
+        "message": "",
+        "description": "The label of the link targeting the tag list page"
+    },
+    "theme.docs.breadcrumbs.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the breadcrumbs"
+    },
+    "theme.colorToggle.ariaLabel.mode.system": {
+        "message": "",
+        "description": "The name for the system color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.light": {
+        "message": "",
+        "description": "The name for the light color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark": {
+        "message": "",
+        "description": "The name for the dark color mode"
+    },
+    "theme.colorToggle.ariaLabel": {
+        "message": "",
+        "description": "The ARIA label for the color mode toggle"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "",
+        "description": "The default description for a category card in the generated index about how many items this category includes"
+    },
+    "theme.docs.paginator.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the docs pagination"
+    },
+    "theme.docs.paginator.previous": {
+        "message": "",
+        "description": "The label used to navigate to the previous doc"
+    },
+    "theme.docs.paginator.next": {
+        "message": "",
+        "description": "The label used to navigate to the next doc"
+    },
+    "theme.docs.tagDocListPageTitle.nDocsTagged": {
+        "message": "",
+        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.tagDocListPageTitle": {
+        "message": "",
+        "description": "The title of the page for a docs tag"
+    },
+    "theme.docs.versionBadge.label": {
+        "message": ""
+    },
+    "theme.docs.versions.unreleasedVersionLabel": {
+        "message": "",
+        "description": "The label used to tell the user that he's browsing an unreleased doc version"
+    },
+    "theme.docs.versions.unmaintainedVersionLabel": {
+        "message": "",
+        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+    },
+    "theme.docs.versions.latestVersionSuggestionLabel": {
+        "message": "",
+        "description": "The label used to tell the user to check the latest version"
+    },
+    "theme.docs.versions.latestVersionLinkLabel": {
+        "message": "",
+        "description": "The label used for the latest version suggestion link label"
+    },
+    "theme.common.editThisPage": {
+        "message": "",
+        "description": "The link label to edit the current page"
+    },
+    "theme.common.headingLinkTitle": {
+        "message": "",
+        "description": "Title for link to heading"
+    },
+    "theme.lastUpdated.atDate": {
+        "message": "",
+        "description": "The words used to describe on which date a page has been last updated"
+    },
+    "theme.lastUpdated.byUser": {
+        "message": "",
+        "description": "The words used to describe by who the page has been last updated"
+    },
+    "theme.lastUpdated.lastUpdatedAtBy": {
+        "message": "",
+        "description": "The sentence used to display when a page has been last updated, and by who"
+    },
+    "theme.NotFound.title": {
+        "message": "",
+        "description": "The title of the 404 page"
+    },
+    "theme.navbar.mobileVersionsDropdown.label": {
+        "message": "",
+        "description": "The label for the navbar versions dropdown on mobile view"
+    },
+    "theme.tags.tagsListLabel": {
+        "message": "",
+        "description": "The label alongside a tag list"
+    },
+    "theme.AnnouncementBar.closeButtonAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for close button of announcement bar"
+    },
+    "theme.admonition.caution": {
+        "message": "",
+        "description": "The default label used for the Caution admonition (:::caution)"
+    },
+    "theme.admonition.danger": {
+        "message": "",
+        "description": "The default label used for the Danger admonition (:::danger)"
+    },
+    "theme.admonition.info": {
+        "message": "",
+        "description": "The default label used for the Info admonition (:::info)"
+    },
+    "theme.admonition.note": {
+        "message": "",
+        "description": "The default label used for the Note admonition (:::note)"
+    },
+    "theme.admonition.tip": {
+        "message": "",
+        "description": "The default label used for the Tip admonition (:::tip)"
+    },
+    "theme.admonition.warning": {
+        "message": "",
+        "description": "The default label used for the Warning admonition (:::warning)"
+    },
+    "theme.blog.sidebar.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for recent posts in the blog sidebar"
+    },
+    "theme.DocSidebarItem.expandCategoryAriaLabel": {
+        "message": "",
+        "description": "The ARIA label to expand the sidebar category"
+    },
+    "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+        "message": "",
+        "description": "The ARIA label to collapse the sidebar category"
+    },
+    "theme.IconExternalLink.ariaLabel": {
+        "message": "",
+        "description": "The ARIA label for the external link icon"
+    },
+    "theme.NavBar.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the main navigation"
+    },
+    "theme.NotFound.p1": {
+        "message": "",
+        "description": "The first paragraph of the 404 page"
+    },
+    "theme.NotFound.p2": {
+        "message": "",
+        "description": "The 2nd paragraph of the 404 page"
+    },
+    "theme.TOCCollapsible.toggleButtonLabel": {
+        "message": "",
+        "description": "The label used by the button on the collapsible TOC component"
+    },
+    "theme.navbar.mobileLanguageDropdown.label": {
+        "message": "",
+        "description": "The label for the mobile language switcher dropdown"
+    },
+    "theme.blog.post.readMore": {
+        "message": "",
+        "description": "The label used in blog post item excerpts to link to full blog posts"
+    },
+    "theme.blog.post.readMoreLabel": {
+        "message": "",
+        "description": "The ARIA label for the link to full blog posts from excerpts"
+    },
+    "theme.blog.post.readingTime.plurals": {
+        "message": "",
+        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.breadcrumbs.home": {
+        "message": "",
+        "description": "The ARIA label for the home page in the breadcrumbs"
+    },
+    "theme.CodeBlock.copy": {
+        "message": "",
+        "description": "The copy button label on code blocks"
+    },
+    "theme.CodeBlock.copied": {
+        "message": "",
+        "description": "The copied button label on code blocks"
+    },
+    "theme.CodeBlock.copyButtonAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for copy code blocks button"
+    },
+    "theme.CodeBlock.wordWrapToggle": {
+        "message": "",
+        "description": "The title attribute for toggle word wrapping button of code block lines"
+    },
+    "theme.docs.sidebar.collapseButtonTitle": {
+        "message": "",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.collapseButtonAriaLabel": {
+        "message": "",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.navAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for the sidebar navigation"
+    },
+    "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for close button of mobile sidebar"
+    },
+    "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+        "message": "",
+        "description": "The ARIA label for hamburger menu button of mobile navigation"
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+        "message": "",
+        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+        "message": "",
+        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+        "message": "",
+        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+    },
+    "theme.docs.sidebar.expandButtonTitle": {
+        "message": "",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.docs.sidebar.expandButtonAriaLabel": {
+        "message": "",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.SearchBar.noResultsText": {
+        "message": ""
+    },
+    "theme.SearchBar.seeAllOutsideContext": {
+        "message": ""
+    },
+    "theme.SearchBar.searchInContext": {
+        "message": ""
+    },
+    "theme.SearchBar.seeAll": {
+        "message": ""
+    },
+    "theme.SearchBar.label": {
+        "message": "",
+        "description": "The ARIA label and placeholder for search button"
+    },
+    "theme.SearchPage.existingResultsTitle": {
+        "message": "",
+        "description": "The search page title for non-empty query"
+    },
+    "theme.SearchPage.emptyResultsTitle": {
+        "message": "",
+        "description": "The search page title for empty query"
+    },
+    "theme.SearchPage.searchContext.everywhere": {
+        "message": ""
+    },
+    "theme.SearchPage.documentsFound.plurals": {
+        "message": "",
+        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.SearchPage.noResultsText": {
+        "message": "",
+        "description": "The paragraph for empty search result"
+    },
+    "theme.blog.post.plurals": {
+        "message": "",
+        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.blog.tagTitle": {
+        "message": "",
+        "description": "The title of the page for a blog tag"
+    },
+    "theme.blog.author.pageTitle": {
+        "message": "",
+        "description": "The title of the page for a blog author"
+    },
+    "theme.blog.authorsList.pageTitle": {
+        "message": "",
+        "description": "The title of the authors page"
+    },
+    "theme.blog.authorsList.viewAll": {
+        "message": "",
+        "description": "The label of the link targeting the blog authors page"
+    },
+    "theme.blog.author.noPosts": {
+        "message": "",
+        "description": "The text for authors with 0 blog post"
+    },
+    "theme.contentVisibility.unlistedBanner.title": {
+        "message": "",
+        "description": "The unlisted content banner title"
+    },
+    "theme.contentVisibility.unlistedBanner.message": {
+        "message": "",
+        "description": "The unlisted content banner message"
+    },
+    "theme.contentVisibility.draftBanner.title": {
+        "message": "",
+        "description": "The draft content banner title"
+    },
+    "theme.contentVisibility.draftBanner.message": {
+        "message": "",
+        "description": "The draft content banner message"
+    },
+    "theme.ErrorPageContent.tryAgain": {
+        "message": "",
+        "description": "The label of the button to try again rendering when the React error boundary captures an error"
+    },
+    "theme.common.skipToMainContent": {
+        "message": "",
+        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+    },
+    "theme.tags.tagsPageTitle": {
+        "message": "",
+        "description": "The title of the tag list page"
+    },
+    "phishingQuizzes.wsj.alt": {
+        "message": ""
+    },
+    "phishingQuizzes.wsjMobile.alt": {
+        "message": ""
+    },
+    "phishingQuizzes.research.emphasis": {
+        "message": ""
+    },
+    "phishingQuizzes.research.final": {
+        "message": ""
+    },
+    "pricing.compliance.detailed": {
+        "message": "✔️ Analíticas detalladas de los resultados por aprendices y por preguntas"
+    }
+}

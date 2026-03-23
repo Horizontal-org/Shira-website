@@ -1,0 +1,59 @@
+---
+id: welcome
+slug: /help
+description: Introduction to Shira, an anti-phishing training tool that helps teams and organizations learn to identify phishing attacks in email, SMS, and messaging apps.
+sidebar_label: Welcome
+sidebar_position: 1 
+pagination_prev: null
+pagination_next: 'ready-made'
+---
+import React from 'react'; import { useDocsSidebar } from
+'@docusaurus/theme-common/internal';
+
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
+DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
+global from '/src/css/custom.module.scss'; import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink';
+
+# مرحباً بكم في مركز مساعدة Shira!
+
+Shira أداة تعليمية لمكافحة التصيد الاحتيالي. يُستخدم Shira لتدريب أي شخص على كشف
+هجمات التصيد المرسلة عبر البريد الإلكتروني، والرسائل النصية، وتطبيقات المراسلة.
+
+يوفر Shira محاكاة تصيد احتيالي تشبه إلى حد كبير ما سيتلقاه فريقك في الحياة
+الواقعية، وذلك في بيئة تعلم متحكم بها. تم بناء Shira على [أبحاث
+أظهرت](/phishing-quizzes) أنه عندما يتعلق الأمر ببناء مهارات مكافحة التصيد
+الاحتيالي، فإن التعليم أكثر فعالية بكثير من رسائل التصيد الاحتيالي المحاكاة
+المرسلة إلى البريد الإلكتروني للمتعلمين.
+
+ستجدون إرشادات في هذا المركز حول كيفية استخدام Shira لتدريب فريقكم أو مجتمعكم.
+إذا لم تتم الإجابة على بعض أسئلتكم هنا، [يُرجى التواصل معنا!](/contact)
+
+### الاختبارات الجاهزة {#ready-made-quizzes}
+تتيح [اختباراتنا الجاهزة](/ready-made) للمستخدمين إجراء اختبار مكون من 10 أسئلة
+مخصصة ليبدو مشابها قدر الإمكان لما سيُختبَرون عليه في الواقع. إنه مجاني ومتاح
+للجميع.
+
+يمكنك [قراءة المزيد عن الاختبارات الجاهزة هنا](/ready-made) أو [تجربة اختبار
+جاهز بأنفسكم!](https://quiz.shira.app/)
+
+
+### فضاء Shira ‏{#shira-space}
+صُمم [فضاء Shira](/spaces) للفرق والمنظمات ويقدم ميزات متقدمة مثل:
+- إنشاء أسئلة اختبار الخاصة، مع محتوى خاص بفريقكم.
+- تعيين خصوصية اختباركم لتكون عمومية (متاحة لأي شخص لديه رابط الاختبار) أو خاصة
+  (متاحة فقط للمتعلمين المسجلين لدى مؤسستكم). الاختبارات الخاصة قادمة قريبا!
+- تتبع نتائج المستخدمين لفهم أين يمكنهم التحسن.
+
+إذا كنتم على استعداد للانطلاق، يمكن <SignupLink>إنشاء فضاء هنا</SignupLink> أو
+قراءة المزيد عن الفضاءات:
+
+<FeaturedDocs />
+
+export function FeaturedDocs() { const category = useCurrentSidebarCategory();
+const spacesItems = category.items.find( (item) => item.type === 'category' &&
+item.items?.some( (child) => child.docId?.startsWith('spaces/') ) ).items;
+
+return ( <div className={classNames(global.shiraDocCards)}>
+{spacesItems.map((item, idx) => ( <DocCard key={idx} item={item} /> ))} </div>
+); }

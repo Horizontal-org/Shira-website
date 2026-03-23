@@ -1,0 +1,68 @@
+---
+id: welcome
+slug: /help
+description: Introduction to Shira, an anti-phishing training tool that helps teams and organizations learn to identify phishing attacks in email, SMS, and messaging apps.
+sidebar_label: Welcome
+sidebar_position: 1 
+pagination_prev: null
+pagination_next: 'ready-made'
+---
+import React from 'react'; import { useDocsSidebar } from
+'@docusaurus/theme-common/internal';
+
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
+DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
+global from '/src/css/custom.module.scss'; import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink';
+
+# ¡Te damos la bienvenida al Centro de Ayuda de Shira!
+
+Shira es una herramienta de educación anti phishing. Usa Shira para capacitar a
+cualquier persona para que identifique ataques de phishing enviados a través de
+correo electrónico, SMS, y aplicaciones de mensajería.
+
+Shira ofrece, en un entorno de aprendizaje controlado, simulaciones de phishing
+que son lo más similares posible a lo que tu equipo recibirá en la vida real.
+Shira se basa en [investigaciones que demostraron](/phishing-quizzes) que cuando
+se trata de desarrollar habilidades contra el phishing, la educación es mucho
+más efectiva que enviar correos de phishing simulados a las bandejas de entrada
+de quienes aprenden.
+
+En este Centro de Ayuda, encontrarás orientación sobre cómo usar Shira para
+capacitar a tu equipo o comunidad. Si algunas de tus preguntas no son
+contestadas aquí, [¡ponte en contacto!](/contact).
+
+### Cuestionarios predefinidos {#ready-made-quizzes}
+Nuestros [cuestionarios predefinidos](/ready-made) permiten que las personas
+completen un cuestionario de 10 preguntas personalizado para verser lo más
+parecido posible a lo que experimentarán en la vida real. Es gratuito y
+accesible para cualquier persona.
+
+Puedes [leer más sobre los cuestionarios predefinidos aquí](/ready-made) o
+[¡probar un cuestionario predefinido!](https://quiz.shira.app/)
+
+
+### Espacio Shira {#shira-space}
+Un [Espacio Shira](/spaces) está diseñado para equipos y organizaciones y ofrece
+funciones avanzadas como:
+- crear tus propias preguntas del cuestionario, con contenido especifico
+  relevante para tu equipo.
+- establecer la privacidad de tus cuestionarios como pública (accesible para
+  cualquiera con la URL del cuestionario) o privada (solo accesible para
+  aprendices con registro en tu organización). ¡Los cuestionarios privados
+  llegarán pronto!
+- monitorear los Resultados de las personas usuarias para entender dónde pueden
+  mejorar.
+
+Si quieres comenzar, puedes <SignupLink>crear tu espacio aquí</SignupLink> o
+leer más sobre Espacios:
+
+<FeaturedDocs />
+
+export function FeaturedDocs() { const category = useCurrentSidebarCategory();
+const spacesItems = category.items.find( (item) => item.type === 'category' &&
+item.items?.some( (child) => child.docId?.startsWith('spaces/') ) ).items;
+
+return ( <div className={classNames(global.shiraDocCards)}>
+{spacesItems.map((item, idx) => ( <DocCard key={idx} item={item} /> ))} </div>
+); }

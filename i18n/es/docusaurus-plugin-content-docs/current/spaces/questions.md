@@ -1,0 +1,99 @@
+---
+id: questions
+slug: /questions
+sidebar_position: 3
+description: Learn how to create and customize quiz questions in Shira — including preferences, apps, content, and explanations — to teach learners how to identify phishing attempts.
+
+---
+
+# Preguntas
+
+Las preguntas de los cuestionarios son donde ocurre el aprendizaje sobre Shira.
+Aquí es donde muestras a tus estudiantes un email o mensaje, y les preguntas:
+¿esto parece phishing?
+
+Cada pregunta está compuesta por varios elementos:
+* [Las preferencias de la pregunta](#preferences)
+* [Una app](#app)
+* [El contenido de la pregunta](#content)
+* [Variables](#variables)
+* [Explicaciones](#explanations)
+
+## Crear una pregunta {#create}
+Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
+1. Puedes crear preguntas desde cero y configurar tú cada uno de los componentes
+   de las preguntas.
+2. Puedes importar preguntas predefinidas desde la Biblioteca. Si importas una
+   pregunta de la Biblioteca, puedes usarla tal cual o adaptarla a tu contexto y
+   necesidades especificas.
+
+## Preferencias de las preguntas {#preferences}
+Al crear una pregunta, debes:
+- Nombrar la pregunta: este nombre, como "Invitación a conferencia" o
+  "Notificación de inicio de sesión sospechoso", te ayuda a reconocer las
+  preguntas que creas. El nombre de una pregunta solo es visible para admins del
+  espacio; nunca es visible para aprendices mientras completan el cuestionario.
+- Dile a Shira si el correo o mensaje que estás creando es **phishing** o
+  **legitimo**. Esto permitirá a Shira determinar si la respuesta de una persona
+  es correcta.
+
+## Una aplicación {#app}
+Una *aplicación* es una interfaz que se ve exactamente igual a la aplicación o
+plataforma real que tus aprendices usan cotidianamente: Gmail, Outlook, SMS,
+WhatsApp, etc.
+
+Con aplicaciones, Shira muestra un correo o mensaje exactamente como sería en la
+vida real. Esto significa que cuando se enfrenten a un ataque de phishing en la
+realidad, tus aprendices tendrán mas probabilidades de identificar señales que
+indiquen que es phishing.
+
+Actualmente, Shira admite las siguientes aplicaciones:
+- Gmail
+- Outlook
+- SMS
+- WhatsApp
+- Facebook Messenger
+- Aplicación de Citas
+
+:::note ¡[Déjanos saber](/contact) si tu equipo depende de aplicaciones que no
+están en esta lista y que te gustaría ver en Shira! :::
+
+## El contenido de la pregunta {#content}
+El contenido de una pregunta es el correo o mensaje que redactas para mostrar en
+la pregunta del cuestionario.
+
+Esto puede incluir cualquier elemento que normalmente sea parte de correos o
+mensajes en la vida real: texto, imágenes, archivos adjuntos, enlaces, etc.
+
+## Explicaciones {#explanations}
+La explicaciones son textos breves que puedes crear para explicar a tus
+aprendices por qué el correo o mensaje en la pregunta puede o no ser un ataque
+de phishing. La explicaciones se mostraran después que tus aprendices responden
+a una pregunta, y resaltan un elemento específico en la pregunta.
+
+Cuando creas una pregunta, cada explicación debe estar enlazada a un elemento en
+la pregunta, como:
+- El nombre del remitente
+- El correo electrónico o número de teléfono del remitente
+- Palabras específicas, oraciones o imágenes dentro de un correo o mensaje.
+- Imágenes o archivos adjuntos
+
+El orden de la explicación que ves cuándo creas una pregunta es el mismo orden
+en el cual se presentará a aprendices durante el cuestionario.
+
+## Variables {#variables}
+Las variables son marcadores que puedes utilizar para insertar información
+personalizada dentro del una pregunta.
+
+Para añadir una variable, escribe lo siguiente en el contenido de la pregunta:
+* ``{{name}}`` mostrará el nombre de tu aprendiz
+* ``{{email}}`` mostrará el correo electrónico de tu aprendiz
+
+Las variables funcionan un poco diferente en cuestionarios públicos y privados:
+* En cuestionarios públicos, el nombre y correo electrónico mostrados son
+  tomados de lo que la persona usuaria introdujo o son auto-generados durante la
+  configuración del cuestionario.
+* En cuestionarios privados, el nombre y correo electrónico mostrados son
+  tomados de la información de aprendiz ya que fueron configurados cuando se le
+  invitó al Espacio.
+
