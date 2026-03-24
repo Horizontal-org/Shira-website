@@ -35,42 +35,41 @@ Al crear una pregunta, debes:
   personas admins del espacio; quienes estudian nunca lo ven mientras completan
   un cuestionario.
 - Dile a Shira si el correo o mensaje que estás creando es **phishing** o
-  **legitimo**. Esto permitirá a Shira determinar si la respuesta de una persona
-  es correcta.
+  **legítimo**. Esto permitirá a Shira determinar si la respuesta de una persona
+  usuaria es correcta.
 
-## Una aplicación {#app}
-Una *aplicación* es una interfaz que se ve exactamente igual a la aplicación o
-plataforma real que tus aprendices usan cotidianamente: Gmail, Outlook, SMS,
-WhatsApp, etc.
+## Una app {#app}
+Una *app* es una interfaz que se ve exactamente igual a la app o plataforma real
+que tus estudiantes usan cotidianamente: Gmail, Outlook, SMS, WhatsApp, etc.
 
-Con aplicaciones, Shira muestra un correo o mensaje exactamente como sería en la
-vida real. Esto significa que cuando se enfrenten a un ataque de phishing en la
-realidad, tus aprendices tendrán mas probabilidades de identificar señales que
-indiquen que es phishing.
+Con apps, Shira muestra un correo o mensaje exactamente como sería en la vida
+real. Esto significa que cuando se enfrenten a un ataque de phishing en la
+realidad, tus estudiantes tendrán más probabilidades de identificar señales de
+que es phishing.
 
-Actualmente, Shira admite las siguientes aplicaciones:
+Actualmente, Shira admite las siguientes apps:
 - Gmail
 - Outlook
 - SMS
 - WhatsApp
 - Facebook Messenger
-- Aplicación de Citas
+- App de Citas
 
-:::note ¡[Déjanos saber](/contact) si tu equipo depende de aplicaciones que no
-están en esta lista y que te gustaría ver en Shira! :::
+:::note ¡[Déjanos saber](/contact) si tu equipo depende de apps que no están en
+esta lista y que te gustaría ver en Shira! :::
 
 ## El contenido de la pregunta {#content}
-El contenido de una pregunta es el correo o mensaje que redactas para mostrar en
-la pregunta del cuestionario.
+El contenido de una pregunta son el correo o mensaje reales que redactas para
+mostrar en la pregunta del cuestionario.
 
 Esto puede incluir cualquier elemento que normalmente sea parte de correos o
 mensajes en la vida real: texto, imágenes, archivos adjuntos, enlaces, etc.
 
 ## Explicaciones {#explanations}
 La explicaciones son textos breves que puedes crear para explicar a tus
-aprendices por qué el correo o mensaje en la pregunta puede o no ser un ataque
-de phishing. La explicaciones se mostraran después que tus aprendices responden
-a una pregunta, y resaltan un elemento específico en la pregunta.
+estudiantes por qué el correo o mensaje en la pregunta puede o no ser un ataque
+de phishing. La explicaciones se mostraran después de que una persona estudiante
+responda a una pregunta, y resaltan elementos específicos en la pregunta.
 
 Cuando creas una pregunta, cada explicación debe estar enlazada a un elemento en
 la pregunta, como:
