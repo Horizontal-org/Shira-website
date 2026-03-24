@@ -40,5 +40,5 @@ se incluirá en Shira 2.0. Ya puedes encontrar las siguientes funcionalidades:
 - Seis apps para mostrar tus preguntas y hacerlas parecer lo más cercano posible
   a lo que tus estudiantes experimentarán en la vida real: Gmail, Outlook,
   WhatsApp, SMS, Facebook Messenger, y App de Citas.
-- Resultados: ve qué tan bien les fue a tus aprendices en tus cuestionarios.
+- Resultados: ve qué tan bien les fue a tus estudiantes en tus cuestionarios.
 
