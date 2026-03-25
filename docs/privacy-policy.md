@@ -136,7 +136,7 @@ We implement industry standard practices to protect your data from unauthorized 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
 ## 5. Changes to Our Privacy Policy {#changes}
-We may update or privacy policy from time to time.
+We may update our privacy policy from time to time.
 
 The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting this privacy policy to check for any changes.
 
