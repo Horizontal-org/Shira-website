@@ -7,7 +7,7 @@ description: View and analyze your team’s quiz performance in Shira — track 
 ---
 # Results
 
-The Results section provides insights into whether people have completed your quiz and how well they've on the quiz.
+The Results section provides insights into whether people have completed your quiz and how well they've done on the quiz.
 
 In Results, you can see the following information:
 **Number of completed quizzes**
