@@ -871,18 +871,6 @@
     {
         "message": "Access control"
     },
-    "pricing.access.title":
-    {
-        "message": "Access control"
-    },
-    "pricing.access.title":
-    {
-        "message": "Access control"
-    },
-    "pricing.access.title":
-    {
-        "message": "Access control"
-    },
     "pricing.access.public":
     {
         "message": "✔️ Public quizzes: anyone can take your quiz through an easy-to-share URL"
@@ -933,11 +921,11 @@
     },
     "pricing.compliance.track":
     {
-        "message": "✔️ Basic analytics to track results the quiz level"
+        "message": "✔️ Basic analytics to track results on the quiz level"
     },
     "pricing.compliance.detailed":
     {
-        "message": "✔️ Detailed analytics to track results the learner and question levels"
+        "message": "✔️ Detailed analytics to track results on the learner and question levels"
     },
     "pricing.compliance.tools":
     {
