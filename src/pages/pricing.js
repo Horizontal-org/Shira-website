@@ -64,7 +64,7 @@ export default function Pricing() {
             </ul>
             <h4>Compliance</h4>
             <ul>
-              <li>✔️ Basic analytics to track results the quiz level</li>
+              <li>✔️ Basic analytics to track results on the quiz level</li>
             </ul>
           </div>
 
@@ -104,8 +104,8 @@ export default function Pricing() {
             </ul>
             <h4>Compliance</h4>
             <ul>
-              <li>✔️ Basic analytics to track results the quiz level</li>
-              <li>✔️ Detailed analytics to track results the learner and question levels</li>
+              <li>✔️ Basic analytics to track results on the quiz level</li>
+              <li>✔️ Detailed analytics to track results on the learner and question levels</li>
               <li>✔️ Analysis and compliance tools [coming soon]</li>
             </ul>
 
@@ -150,8 +150,8 @@ export default function Pricing() {
             </ul>
             <h4>Compliance</h4>
             <ul>
-              <li>✔️ Basic analytics to track results the quiz level</li>
-              <li>✔️ Detailed analytics to track results the learner and question levels</li>
+              <li>✔️ Basic analytics to track results on the quiz level</li>
+              <li>✔️ Detailed analytics to track results on the learner and question levels</li>
               <li>✔️ Analysis and compliance tools [coming soon]</li>
             </ul>
             <h4>Custom support</h4>
