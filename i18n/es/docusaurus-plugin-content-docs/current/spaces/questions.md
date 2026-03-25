@@ -21,8 +21,8 @@ Cada pregunta está compuesta por varios elementos:
 
 ## Crear una pregunta {#create}
 Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
-1. Puedes crear preguntas desde cero y configurar tú cada uno de los componentes
-   de las preguntas.
+1. You can create questions from scratch and configure each of the questions
+   components yourself.
 2. Puedes importar preguntas predefinidas desde la Biblioteca. Si sacas una
    pregunta de la Biblioteca, puedes usarla tal cual es o adaptarla a tu
    contexto y necesidades específicas.

@@ -21,7 +21,8 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 ## إنشاء سؤال {#create}
 لإنشاء أسئلة وإضافتها إلى الاختبار، هناك خياران اثنان:
-1. يمكن إنشاء أسئلة من الصفر وتهيئة كل جزء من مكونات الأسئلة بأنفسكم.
+1. You can create questions from scratch and configure each of the questions
+   components yourself.
 2. يمكن سحب أسئلة جاهزة من المكتبة. إذا أخذتم سؤالا من المكتبة، يمكن استخدامه
    كما هو أو تكييفه حسب السياق وعند الحاجة.
 
