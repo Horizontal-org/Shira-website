@@ -141,7 +141,7 @@ Shira 用户可分为四类：
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa)。
 
 ## 5. 隐私政策变更 {#changes}
-我们可能不定期更新隐私政策。
+We may update our privacy policy from time to time.
 
 在页面顶部显示隐私政策最后修订的日期。您有责任定期访问本隐私政策，以查看任何变更。
 

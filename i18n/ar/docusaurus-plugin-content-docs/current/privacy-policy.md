@@ -181,7 +181,7 @@ import TOCInline from '@theme/TOCInline';
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
 ## 5. تغييرات في سياسة خصوصيتنا {#changes}
-قد نقوم بتحديث سياسة الخصوصية من وقت لآخر.
+We may update our privacy policy from time to time.
 
 يتم تحديد تاريخ آخر تعديل لسياسة الخصوصية في أعلى الصفحة. تقع على عاتقكم مسؤولية
 زيارة سياسة الخصوصية هذه بشكل دوري للتحقق من أي تغييرات.

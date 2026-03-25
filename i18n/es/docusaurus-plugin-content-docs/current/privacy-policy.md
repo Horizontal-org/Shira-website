@@ -223,7 +223,7 @@ sobre tus derechos de privacidad de California, visita
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
 ## 5. Cambios a Nuestras Políticas de Privacidad {#changes}
-Es posible que actualicemos nuestra política de privacidad ocasionalmente.
+We may update our privacy policy from time to time.
 
 La fecha en la que la política de privacidad fue revisada por última vez se
 identifica en la parte superior de la página. Es tu responsabilidad visitar

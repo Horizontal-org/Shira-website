@@ -223,7 +223,7 @@ la vie privée en Californie, consultez
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
 ## 5. Modifications de notre politique de confidentialité {#changes}
-Nous pouvons mettre à jour notre politique de confidentialité de temps à autre.
+We may update our privacy policy from time to time.
 
 La date de la dernière révision de la politique de confidentialité est indiquée
 en haut de la page. Il vous incombe de consulter périodiquement cette politique
