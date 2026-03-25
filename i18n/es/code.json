@@ -354,19 +354,19 @@
         "message": "Generan ansiedad y desconfianza:"
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": "Las personas usuarias se pueden volver ansiosas o tener desconfianza en los correos, incluso los legítimos, lo que puede provocar disminución de la productividad y un incremento de estrés."
+        "message": "Las personas usuarias se pueden volver ansiosas o tener desconfianza de los correos, incluso los legítimos, lo que puede provocar disminución de la productividad y un incremento de estrés."
     },
     "phishingQuizzes.problem.emailFocus.title": {
         "message": "Hiperenfoque en el Correo:"
     },
     "phishingQuizzes.problem.emailFocus.text": {
-        "message": "Muchas simulaciones de phishing se enfocan principalmente en amenazas de correo electrónico, subestimando otros canales como SMS, aplicaciones de mensajería o redes sociales."
+        "message": "Muchas simulaciones de phishing se enfocan principalmente en amenazas de correo electrónico, subestimando otros canales como SMS, apps de mensajería, o redes sociales."
     },
     "phishingQuizzes.problem.falseSecurity.title": {
         "message": "Falso Sentido de Seguridad:"
     },
     "phishingQuizzes.problem.falseSecurity.text": {
-        "message": "Si el personal identifica con éxito ataques de phishing simulados, pueden desarrollar un falso sentido de seguridad."
+        "message": "Si el personal identifica con éxito los intentos de phishing simulados, pueden desarrollar un falso sentido de seguridad."
     },
     "phishingQuizzes.problem.clickRates.title": {
         "message": "Énfasis excesivo en la Tasa de Clics:"
@@ -387,16 +387,16 @@
         "message": "Los correos de phishing simulados pueden crear una cultura de miedo, donde las personas están más enfocadas en evitar el castigo que en aprender."
     },
     "phishingQuizzes.research.text": {
-        "message": "Las investigaciones indican que las campañas de simulación de phishing no capacitan de manera eficaz a las personas en la identificación de ataques de phishing."
+        "message": "Las investigaciones indican que las campañas de simulación de phishing no capacitan efectivamente a las personas en la identificación de ataques de phishing."
     },
     "phishingQuizzes.research.link": {
-        "message": "Un estudio con 14,000 participantes"
+        "message": "Un estudio con 14.000 participantes"
     },
     "phishingQuizzes.research.conclusion": {
         "message": "mostró de hecho un efecto contraproducente de las simulaciones de phishing."
     },
     "phishingQuizzes.quizzes.title": {
-        "message": "Un enfoque más eficaz: cuestionarios de phishing."
+        "message": "Un enfoque más eficaz: cuestionarios de phishing"
     },
     "phishingQuizzes.quizzes.description": {
         "message": "Los cuestionarios de phishing ofrecen un entorno de aprendizaje controlado que es más eficaz para el desarrollo de habilidad que las simulaciones de phishing tradicionales."
@@ -408,7 +408,7 @@
         "message": "Entorno de Aprendizaje Controlado:"
     },
     "phishingQuizzes.benefits.controlled.text": {
-        "message": "Los cuestionarios de phishing crean un espacio seguro y debajo riesgo para que el personal practique sus habilidades."
+        "message": "Los cuestionarios de phishing crean un espacio seguro y de bajo riesgo para que el personal practique sus habilidades."
     },
     "phishingQuizzes.benefits.interactive.title": {
         "message": "Participación Interactiva:"
@@ -420,7 +420,7 @@
         "message": "Cobertura de Diversas Tácticas de Phishing:"
     },
     "phishingQuizzes.benefits.coverage.text": {
-        "message": "Los cuestionarios de phishing pueden incorporar escenarios con SMS, redes sociales y phishing por voz (vishing)."
+        "message": "Los cuestionarios de phishing pueden incorporar escenarios con SMS, redes sociales, y phishing por voz."
     },
     "phishingQuizzes.benefits.confidence.title": {
         "message": "Desarrollo de Confianza:"
@@ -432,25 +432,25 @@
         "message": "Objetivos de Aprendizaje a Medida:"
     },
     "phishingQuizzes.benefits.tailored.text": {
-        "message": "Los cuestionarios puede ser personalizados para enfocarse en habilidades y brechas de conocimiento especificas."
+        "message": "Los cuestionarios puede ser personalizados para enfocarse en habilidades y brechas de conocimiento específicas."
     },
     "phishingQuizzes.cta": {
-        "message": "Empieza"
+        "message": "Comienza"
     },
     "phishing.layout.title": {
         "message": "Aprende sobre Phishing"
     },
     "phishing.layout.description": {
-        "message": "Aprende qué es el phishing, cómo funciona y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan y las serias consecuencias para las personas y organizaciones."
+        "message": "Aprende qué es el phishing, cómo funciona, y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan, y las serias consecuencias para las personas y organizaciones."
     },
     "phishing.meta.description": {
-        "message": "Aprende qué es el phishing, cómo funciona y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan y las serias consecuencias para las personas y organizaciones."
+        "message": "Aprende qué es el phishing, cómo funciona, y por qué es eficaz. Descubre los ataques de phishing más comunes, qué buscan quienes atacan, y las serias consecuencias para las personas y organizaciones."
     },
     "phishing.intro.title": {
-        "message": "¿Que es phishing?"
+        "message": "¿Qué es el phishing?"
     },
     "phishing.intro.definition": {
-        "message": "Phishing es un intento malintencionado de obtener información confidencial como credenciales de inicio de sesión y detalles de tarjetas de crédito, haciéndose pasar por una entidad confiable en comunicaciones electrónicas. El phishing también puede tentarte a descargar software malicioso."
+        "message": "Phishing es un intento malintencionado de obtener información sensible como nombres de personas usuarias, claves, y detalles de tarjetas de crédito haciéndose pasar por una entidad confiable en comunicaciones electrónicas. El phishing también puede tentarte a descargar e instalar software malicioso."
     },
     "phishing.intro.protection": {
         "message": "Comprender el phishing es el primer paso para protegerte a ti y a tu organización."
@@ -465,10 +465,10 @@
         "message": "El phishing es clasificado constantemente como el ataque más común que experimentan las personas y organizaciones."
     },
     "phishing.common.channels": {
-        "message": "Aunque el phishing ha sido asociado tradicionalmente con estafas por correo electrónico, hoy en día ocurre a través de una amplia variedad de medios: email, pero también SMS, aplicaciones de mensajería, plataformas de redes sociales y llamadas telefónicas."
+        "message": "Aunque el phishing ha sido asociado tradicionalmente con estafas por correo electrónico, hoy en día ocurre a través de una amplia variedad de medios: email, pero también SMS, apps de mensajería, plataformas de redes sociales, y llamadas telefónicas."
     },
     "phishing.images.bubbles.alt": {
-        "message": "Ilustración decorativa de burbujas."
+        "message": "Ilustración decorativa de burbujas"
     },
     "phishing.attackers.title": {
         "message": "¿Qué intentan obtener quienes atacan?"
@@ -477,31 +477,31 @@
         "message": "Contraseñas:"
     },
     "phishing.attackers.passwords.text": {
-        "message": "Quienes atacan buscan robar contraseñas y credenciales de inicio de sesión para acceder a las cuentas en línea de sus víctimas. Con esta información, puede cometer fraude, robar datos o extorsionar víctimas amenazándoles con exponer información confidencial."
+        "message": "Quienes atacan buscan robar contraseñas y credenciales de inicio de sesión para acceder a las cuentas en línea de sus víctimas. Con esta información, pueden cometer fraude, robar datos, o extorsionar a víctimas amenazándoles con exponer información sensible."
     },
     "phishing.attackers.money.label": {
         "message": "Dinero:"
     },
     "phishing.attackers.money.text": {
-        "message": "Ganancia financiera es un motivo clave para el phishing. Quienes atacan se hacen pasar por organizaciones legítimas para engañar a las víctimas a que proporcionen detalles de tarjetas de crédito o realicen pagos, a menudo a través de facturas falsas o solicitudes de donaciones."
+        "message": "Ganancia financiera es un motivo clave para el phishing. Quienes atacan se hacen pasar por organizaciones legítimas para engañar a las víctimas a que proporcionen detalles de tarjetas de crédito o a que realicen pagos, a menudo a través de facturas falsas o solicitudes de donaciones."
     },
     "phishing.attackers.confidential.label": {
         "message": "Información confidencial:"
     },
     "phishing.attackers.confidential.text": {
-        "message": "El phishing apunta a obtener información confidencial como números de Seguridad Social y datos de empresariales. Esta información puede ser utilizada para robo de identidad, venderse en la dark web o aprovecharse para espionage corporativo."
+        "message": "El phishing apunta a obtener información confidencial como números de Seguridad Social y datos de empresariales. Esta información puede ser utilizada para robo de identidad, venderse en la dark web, o explotada para espionaje corporativo."
     },
     "phishing.attackers.malware.label": {
-        "message": "Que las víctimas instalen malware:"
+        "message": "Para que las víctimas instalen malware:"
     },
     "phishing.attackers.malware.text": {
-        "message": "Las personas que realizan ataques de phishing (Phishers), pueden engañar a las víctimas para que descarguen malware a través de enlaces o archivos adjuntos maliciosos. Una vez instalado, el malware puede robar información personal, monitorear la actividad o tomar el control de dispositivos, lo que conlleva a serias brechas de datos."
+        "message": "Las personas que realizan ataques de phishing pueden engañar a las víctimas para que descarguen malware a través de enlaces o archivos adjuntos maliciosos. Una vez instalado, el malware puede robar información personal, monitorear la actividad, o tomar el control de dispositivos, conllevando a serias filtraciones de datos."
     },
     "phishing.why.title": {
         "message": "¿Por qué funciona el phishing?"
     },
     "phishing.why.intro": {
-        "message": "Las personas Phishers se aprovechan de nuestra:"
+        "message": "Las personas que realizan phishing capitalizan nuestra:"
     },
     "phishing.why.polite.label": {
         "message": "Necesidad de ser cortés:"
@@ -510,52 +510,52 @@
         "message": "Las personas a menudo se sienten la necesidad de responder a mensajes de figuras de autoridad o fuentes de confianza. Las personas que realizan phishing explotan esto utilizando un lenguaje cortés, haciendo que las personas destinatarias tengan más probabilidad de cumplir con solicitudes de información sin cuestionar la legitimidad del mensaje."
     },
     "phishing.why.helpful.label": {
-        "message": "Deseo de ser de útiles:"
+        "message": "Urgencia por ayudar:"
     },
     "phishing.why.helpful.text": {
-        "message": "Muchas personas sienten de manera natural el deseo de ayudar a otras. Las personas phishers crean escenarios que inducen a las víctimas a prestar ayuda, como afirmando que alguna persona cercana se encuentra en problemas. Esta manipulación puede llevar a la gente a proporcionar información personal, creyendo que están siendo solidarias."
+        "message": "Muchas personas sienten de manera natural el deseo de ayudar a otras. Las personas que realizan phishing crean escenarios que inducen a sus personas destinatarias a prestar ayuda, como afirmando que una persona colega o familiar se encuentra en problemas. Esta manipulación puede llevar a las personas a proporcionar información personal, creyendo que están ayudando."
     },
     "phishing.why.embarrassed.label": {
         "message": "Miedo a pasar vergüenza:"
     },
     "phishing.why.embarrassed.text": {
-        "message": "Los phishers infunden miedo al sugerir a las personas destinatarias que han cometido un error, como no haber realizado un pago. Este miedo puede empujar a las personas a actuar rápidamente, a menudo sin verificar la fuente del mensaje, lo que conlleva a una seguridad comprometida."
+        "message": "Las personas que realizan phishing infunden miedo al sugerir a las personas destinatarias que han cometido un error, como no haber realizado un pago. Este miedo puede empujar a las personas a actuar rápidamente, a menudo sin verificar la fuente del mensaje, conllevando al compromiso de la seguridad."
     },
     "phishing.why.urgent.label": {
-        "message": "Panico sobre mensajes urgentes:"
+        "message": "Pánico sobre mensajes urgentes:"
     },
     "phishing.why.urgent.text": {
-        "message": "La urgencia es un fuerte motivador. Los personas phishers elaboran mensajes que crean un falso sentido de urgencia, afirmando que las cuentas serán suspendidas o que hay pagos pendientes. Este pánico puede nublar el juicio, haciendo que las personas ignoren las señales de peligro y actúen de manera impulsiva."
+        "message": "La urgencia es un fuerte motivador. Los personas que realizan phishing elaboran mensajes que crean un falso sentido de urgencia, afirmando que las cuentas serán suspendidas o que hay pagos pendientes. Este pánico puede nublar el juicio, causando que las personas ignoren las señales de peligro y actúen impulsivamente."
     },
     "phishing.consequences.title": {
         "message": "Los ataques de phishing pueden conllevar consecuencias severas"
     },
     "phishing.consequences.identity.label": {
-        "message": "Robo de identidad:"
+        "message": "Robo de Identidad:"
     },
     "phishing.consequences.identity.text": {
-        "message": "Los cibercriminales pueden usar tu información para hacerse pasar por ti."
+        "message": "Las personas ciber criminales pueden usar tu información para hacerse pasar por ti."
     },
     "phishing.consequences.financial.label": {
-        "message": "Perdida Económica:"
+        "message": "Pérdida Económica:"
     },
     "phishing.consequences.financial.text": {
         "message": "Las transacciones no autorizadas pueden vaciar tus cuentas."
     },
     "phishing.consequences.data.label": {
-        "message": "Brechas de Datos:"
+        "message": "Filtración de Datos:"
     },
     "phishing.consequences.data.text": {
         "message": "La información sensible de la empresa puede ser expuesta, provocando daño a la reputación."
     },
     "phishing.consequences.operational.label": {
-        "message": "Interrupción Operativa:"
+        "message": "Disrupción Operativa:"
     },
     "phishing.consequences.operational.text": {
-        "message": "El phishing puede causar interrupciones y perdida de productividad."
+        "message": "El phishing puede resultar en tiempo de inactividad y pérdida de productividad."
     },
     "phishing.images.worm.alt": {
-        "message": "Ilustración decorativa de un gusano."
+        "message": "Ilustración decorativa de un gusano"
     },
     "phishing.how.title": {
         "message": "Cómo funciona el phishing"
@@ -567,13 +567,13 @@
         "message": "Comunicación Engañosa:"
     },
     "phishing.how.deceptive.text": {
-        "message": "Las personas atacantes envían mensajes que parecen provenir de fuentes legítimas, como bancos, servicios en línea o incluso colegas."
+        "message": "Las personas atacantes envían mensajes que parecen provenir de fuentes legítimas, como bancos, servicios en línea, o incluso colegas."
     },
     "phishing.how.urgent.label": {
-        "message": "Llamado a Actuar con Urgencia:"
+        "message": "Llamado a la Acción Urgente:"
     },
     "phishing.how.urgent.text": {
-        "message": "El mensaje normalmente contiene un sentido de urgencia, requiriendo a la persona destinataria que actúe rápidamente — como hacer clic en un enlace o proporcionar información personal."
+        "message": "El mensaje normalmente contiene un sentido de urgencia, requiriendo a la persona destinataria a que actúe rápidamente — como haciendo clic en un enlace o proporcionando información personal."
     },
     "phishing.how.fake.label": {
         "message": "Sitios Web Falsos:"
@@ -585,10 +585,10 @@
         "message": "Robo de Datos:"
     },
     "phishing.how.data.text": {
-        "message": "Una vez que la víctima proporciona su información, las personas atacantes pueden utilizarla para robo de identidad, fraude bancario u otros propósitos maliciosos."
+        "message": "Una vez que la víctima proporciona su información, las personas atacantes pueden utilizarla para robo de identidad, fraude financiero, u otros propósitos maliciosos."
     },
     "pricing.layout.title": {
-        "message": "Precio de Shira"
+        "message": "Precios de Shira"
     },
     "pricing.layout.description": {
         "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
