@@ -180,7 +180,7 @@
         "message": "Control de acceso por roles 🔒"
     },
     "features.list.roles.description": {
-        "message": "Diferentes niveles de acceso para admins y aprendices."
+        "message": "Diferentes niveles de acceso para admins y estudianes."
     },
     "features.list.realLife.title": {
         "message": "Simulación de Ataque Real ⚡"
@@ -192,43 +192,43 @@
         "message": "Simulación de phishing por correo electrónico 📧"
     },
     "features.list.email.description": {
-        "message": "Crea cuestionarios que imiten correos de phishing en Gmail y Outlook, incluyendo informción de remitente, asunto, cuerpo del correo, enlaces, imágenes y archivos adjuntos."
+        "message": "Crea cuestionarios que imiten correos de phishing en Gmail y Outlook, incluyendo información de remitente, asunto, cuerpo del correo, enlaces, imágenes y archivos adjuntos."
     },
     "features.list.sms.title": {
-        "message": "Simulación de phishing por SMS"
+        "message": "Simulaciones de phishing por SMS 💬"
     },
     "features.list.sms.description": {
         "message": "Crea cuestionarios que imiten intentos de phishing por SMS con mensajes de texto realistas."
     },
     "features.list.messaging.title": {
-        "message": "Simulación de phishing por app de mensajería 💬"
+        "message": "Simulaciones de phishing por app de mensajería 💬"
     },
     "features.list.messaging.description": {
-        "message": "Crea cuestionarios que repliquen el phishing a través de aplicaciones de mensajería populares como WhatsApp y Facebook Messenger."
+        "message": "Crea cuestionarios que repliquen el phishing a través de apps de mensajería populares como WhatsApp o Facebook Messenger."
     },
     "features.list.mobile.title": {
         "message": "Soporte para Móviles 📱"
     },
     "features.list.mobile.description": {
-        "message": "A menudo enfrentamos ataques de phishing en nuestros dispositivos móviles. En Shira, la personas usuarias puede completar cuestionarios desde sus dispositivos móviles para prepararse para ataques que enfrentarán en la realidad."
+        "message": "A menudo enfrentamos ataques de phishing en nuestros dispositivos móviles. En Shira, la personas usuarias pueden completar cuestionarios desde sus dispositivos móviles para prepararse para los ataques que enfrentarán en la vida real."
     },
     "features.list.compliance.title": {
         "message": "Cumplimiento ✅"
     },
     "features.list.compliance.description": {
-        "message": "Asegura que tu equipo complete realmente los cuestionarios y monitorea su tasa de éxito."
+        "message": "Asegura que tu equipo complete realmente tus cuestionarios y monitorea su tasa de éxito."
     },
     "features.list.analytics.title": {
         "message": "Analíticas 📈"
     },
     "features.list.analytics.description": {
-        "message": "Monitorea el progreso e identifica áreas de mejora, ya sea el tipo de apps en la que tus aprendices son más vulnerables o las personas usuarias especificas que necesitan apoyo extra."
+        "message": "Monitorea el progreso e identifica áreas de mejora, ya sea el tipo de apps en la que tus estudiantes son más vulnerables o las personas usuarias específicas que necesitan apoyo extra."
     },
     "features.list.explanations.title": {
         "message": "Explicaciones 📝"
     },
     "features.list.explanations.description": {
-        "message": "Integra tus propias explicaciones para indicar a las personas usuarias elementos que sugieren que un email o mensaje parece phishing."
+        "message": "Integra tus propias explicaciones para indicar a las personas usuarias hacia elementos que sugieren que un email o mensaje parece phishing."
     },
     "features.list.gamification.title": {
         "message": "Gamificación 🕹️"
@@ -240,7 +240,7 @@
         "message": "Multilingüe 🌐"
     },
     "features.list.multilingual.description": {
-        "message": "Shira está disponible completamente en Español, Inglés, Francés, Mandarín, Árabe y Ruso."
+        "message": "Shira está disponible completamente en español, inglés, francés, mandarín, árabe y ruso."
     },
     "features.list.library.title": {
         "message": "Biblioteca de preguntas 📚"
@@ -261,22 +261,22 @@
         "message": "Shira"
     },
     "homepage.meta.description": {
-        "message": "Usa Shira para desarrollar la habilidad de tu equipo para detectar y vencer ataques de phishing."
+        "message": "Usa Shira para desarrollar la habilidad de tu equipo para identificar y vencer ataques de phishing."
     },
     "homepage.meta.longDescription": {
-        "message": "Shira ayuda a personas y organizaciones a aprender a detectar y vencer ataques de phishing a través de cuestionarios interactivos y respetuosos de la privacidad, personalizables para aplicaciones reales como Gmail, SMS y WhatsApp, el contexto y el idioma."
+        "message": "Shira ayuda a personas y organizaciones a aprender a detectar y vencer ataques de phishing a través de cuestionarios interactivos, respetuosos de la privacidad, personalizables para apps del mundo real como Gmail, SMS y WhatsApp, el contexto e idioma."
     },
     "homepage.hero.title": {
         "message": "Preparación. Conocimiento. Resiliencia."
     },
     "homepage.hero.subtitle": {
-        "message": "Shira desarrolla la habilidad de tu equipo para identificar y vencer ataques de phishing."
+        "message": "Shira desarrolla la habilidad de tu equipo para identificar y vencer ataques de phishing"
     },
     "homepage.learners.title": {
-        "message": "Para aprendices"
+        "message": "Para estudiantes"
     },
     "homepage.learners.description": {
-        "message": "Empieza ya mismo con uno de nuestros gratuitos cuestionarios predefinidos. Personaliza el cuestionario para aprender a identificar el phishing en apps que usas cotidianamente — Gmail, SMS, WhatsApp, etc — con ejemplos adaptados a tu idioma y área de trabajo."
+        "message": "Empieza ya mismo con uno de nuestros cuestionarios gratuitos, predefinidos. Personaliza el cuestionario para aprender a identificar el phishing en apps que usas cotidianamente — Gmail, SMS, WhatsApp, etc — con ejemplos adaptados a tu idioma y área de trabajo."
     },
     "homepage.learners.cta": {
         "message": "Completa un cuestionario"
@@ -285,13 +285,13 @@
         "message": "Para docentes y profesionales de la seguridad"
     },
     "homepage.educators.description": {
-        "message": "Cada organización tiene sus propias necesidades y enfrentan sus propias amenazas. Construye cuestionarios sobre phishing adaptados a las necesidades de tu organización y monitorea la tasa de excito de tu equipo — sin escribir código."
+        "message": "Cada organización tiene sus propias necesidades y enfrentan sus propias amenazas. Construye cuestionarios sobre phishing adaptados a las necesidades de tu organización y monitorea la tasa de éxito de tu equipo — sin escribir código."
     },
     "homepage.educators.cta": {
         "message": "Crea tu propio cuestionario"
     },
     "homepage.context.description": {
-        "message": "Por años, el phishing ha sido uno de los ataques más comunes que enfrentan las personas y organizaciones. Aunque al principio solo estaba limitado a emails, ahora el phishing también ocurre via SMS, apps de mensajería y redes sociales. Desarrollar las habilidades de las personas para detectar y contrarrestar ataques de phishing es más necesario que nunca."
+        "message": "Por años, el phishing ha sido uno de los ataques más comunes que enfrentan las personas y organizaciones. Aunque al principio se limitaba a correos electrónicos, ahora el phishing también ocurre vía SMS, apps de mensajería, y redes sociales. Desarrollar las habilidades de las personas usuarias para identificar y derrotar ataques de phishing es más necesario que nunca antes."
     },
     "homepage.context.imageAlt": {
         "message": "imagen decorativa de una lupa"
@@ -300,25 +300,25 @@
         "message": "¿Por qué Shira?"
     },
     "homepage.why.intro": {
-        "message": "Ya sea que solo estés completando nuestro cuestionario gratuito predefinido o construyendo tus propios cuestionarios para capacitar a tu equipo, Shira es:"
+        "message": "Ya sea que solo estés completando nuestros cuestionarios predefinidos, gratuitos, o construyendo tus propios cuestionarios para capacitar a tu equipo, Shira es:"
     },
     "homepage.why.easy.title": {
         "message": "Fácil de usar"
     },
     "homepage.why.easy.description": {
-        "message": "Creada para comunidades con mayor riesgo de ataques de phishing, incluso con poco conocimiento tecnológico."
+        "message": "Creada para comunidades con mayor riesgo de ataques de phishing, incluso con limitada alfabetización tecnológica."
     },
     "homepage.why.customizable.title": {
         "message": "Personalizable"
     },
     "homepage.why.customizable.description": {
-        "message": "Mensajes de phishing realistas para simular escenarios reales a los que las personas se enfrentan cada día."
+        "message": "Mensajes de phishing realistas para simular escenarios reales que las personas usuarias enfrentan cada día."
     },
     "homepage.why.privacy.title": {
         "message": "Respeta la privacidad"
     },
     "homepage.why.privacy.description": {
-        "message": "No recopilamos ni compartimos datos sensibles o de identificación personal de las personas usuarias."
+        "message": "No recopilamos o compartimos datos sensibles o de identificación personal de las personas usuarias."
     },
     "phishingQuizzes.meta.title": {
         "message": "Aprende sobre los Cuestionarios de Phishing"
@@ -333,16 +333,16 @@
         "message": "Por qué la educación supera la simulación"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": "Las simulaciones de phishing se han convertido en un elemento estándar en los programas de capacitación anti-phishing. Estas simulaciones implican el envío de emails al personal que imitan las tácticas utilizadas por cibercriminales para engañar a las personas para que revelen información confidencial o hagan clic en enlaces maliciosos. El personal es evaluado basado en su respuesta a estos correos simulados, particularmente si han hecho clic o proporcionado información sensible."
+        "message": "Las simulaciones de phishing se han convertido en un elemento estándar en los programas de capacitación anti-phishing. Estas simulaciones implican el envío de emails al personal que imitan las tácticas utilizadas por ciber criminales para engañar a las personas para que revelen información confidencial o hagan clic en enlaces maliciosos. El personal es evaluado basado en su respuesta a estos correos simulados, particularmente si han hecho clic o proporcionado información sensible."
     },
     "phishingQuizzes.education.paragraph2": {
-        "message": "Sim embargo, estate enfoque tiene varias desventajas y no es tan efectivo como proporcionar educación integral en anti-phishing."
+        "message": "Sin embargo, estate enfoque tiene varias desventajas y no es tan efectivo como proporcionar educación integral en anti-phishing."
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": "Artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
+        "message": "Artículo de noticia del Wall Street Journal Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas — profesionales de la investigación dicen que los trucos, diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": "Artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
+        "message": "Artículo de noticia del Wall Street Journal Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas — profesionales de la investigación dicen que los trucos, diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan"
     },
     "phishingQuizzes.problem.title": {
         "message": "El problema con las simulaciones de phishing"
