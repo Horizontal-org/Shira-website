@@ -7,7 +7,8 @@ description: View and analyze your team’s quiz performance in Shira — track 
 ---
 # النتائج
 
-يوفر قسم النتائج نظرة شاملة حول مدى إكمال المشاركين للاختبار ومستوى أدائهم فيه.
+The Results section provides insights into whether people have completed your
+quiz and how well they've done on the quiz.
 
 يمكن الاطلاع على المعلومات التالية في قسم النتائج : **عدد الاختبارات المكتملة**
 وهو إجمالي المرات التي أجرى فيها المتعلمون الاختبار.

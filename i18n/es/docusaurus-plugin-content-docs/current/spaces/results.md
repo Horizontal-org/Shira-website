@@ -7,8 +7,8 @@ description: View and analyze your team’s quiz performance in Shira — track 
 ---
 # Resultados
 
-La sección Resultados proporciona métricas sobre si las personas han completado
-tu cuestionario y qué tan bien les fue en el cuestionario.
+The Results section provides insights into whether people have completed your
+quiz and how well they've done on the quiz.
 
 En Resultados, puedes ver la siguiente información: **Número de cuestionarios
 completados** Este es el número de veces que un cuestionario ha sido completado

@@ -7,8 +7,8 @@ description: View and analyze your team’s quiz performance in Shira — track 
 ---
 # Результаты
 
-В разделе «Результаты» представлена информация о том, прошли ли люди ваш тест и
-насколько хорошо они его выполнили.
+The Results section provides insights into whether people have completed your
+quiz and how well they've done on the quiz.
 
 В разделе «Результаты» вы можете увидеть следующую информацию: **Количество
 завершенных тестов** Это количество раз, когда учащиеся прошли тест.

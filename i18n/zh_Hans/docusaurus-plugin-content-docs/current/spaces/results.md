@@ -7,7 +7,8 @@ description: View and analyze your team’s quiz performance in Shira — track 
 ---
 # 结果
 
-结果部分用于了解学员测验完成情况及其测验成绩。
+The Results section provides insights into whether people have completed your
+quiz and how well they've done on the quiz.
 
 结果包含以下信息：**已完成测验的数量** 这是学员参加测验的次数。
 * 对于公开测验，已完成测验的数量未必等于参加测验的学员人数，这是因为匿名成员可多次参加测验。
