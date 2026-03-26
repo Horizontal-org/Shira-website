@@ -591,16 +591,16 @@
         "message": "Precios de Shira"
     },
     "pricing.layout.description": {
-        "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
+        "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad, y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
     },
     "pricing.meta.description": {
         "message": "Explora los planes de precios simples y transparentes de Shira para docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
     },
     "pricing.intro.subtitle": {
-        "message": "Planes personalizados para docentes y profesionales de la seguridad."
+        "message": "Planes personalizados para docentes y profesionales de la seguridad"
     },
     "pricing.intro.title": {
-        "message": "Precios simples, transparentes y justos"
+        "message": "Precios simples, transparentes, y justos"
     },
     "pricing.starter.title": {
         "message": "Inicial"
@@ -657,7 +657,7 @@
         "message": "Control de acceso"
     },
     "pricing.access.public": {
-        "message": "✔️ Cuestionarios públicos, cualquiera puede completar tus cuestionarios a través de una URL fácil de compartir"
+        "message": "✔️ Cuestionarios públicos: cualquiera puede completar tus cuestionarios a través de una URL fácil de compartir"
     },
     "pricing.pro.title": {
         "message": "Pro"
@@ -675,7 +675,7 @@
         "message": "El plan Pro incluye:"
     },
     "pricing.admin.unlimitedSoon": {
-        "message": "✔️Cuentas de admin ilimitadas [próximamente]"
+        "message": "✔️ Cuentas de admin ilimitadas [próximamente]"
     },
     "pricing.pro.unlimitedQuizzes": {
         "message": "✔️ Cuestionarios personalizados ilimitados"
@@ -690,7 +690,7 @@
         "message": "✔️ 6 apps: Gmail, Outlook, SMS, WhatsApp, Messenger, App de Citas"
     },
     "pricing.access.private": {
-        "message": "✔️ Cuestionarios privados: solo tus aprendices pueden completar tus cuestionarios"
+        "message": "✔️ Cuestionarios privados: solo tus estudiantes pueden completar tus cuestionarios"
     },
     "pricing.compliance.title": {
         "message": "Cumplimiento"
@@ -720,10 +720,10 @@
         "message": "El plan Enterprise incluye:"
     },
     "pricing.enterprise.deployment": {
-        "message": "✔️ Cloud o infraestructura propia (on-premise)"
+        "message": "✔️ Cloud o en infraestructura propia"
     },
     "pricing.admin.unlimited": {
-        "message": "✔️ Cuentas admin ilimitadas"
+        "message": "✔️ Admins ilimitadas"
     },
     "pricing.enterprise.unlimitedQuizzes": {
         "message": "✔️ Cuestionarios personalizados ilimitados"
@@ -738,7 +738,7 @@
         "message": "Soporte personalizado"
     },
     "pricing.enterprise.training": {
-        "message": "✔️ Capacitación personalizada"
+        "message": "✔️ Capacitación personalizada de personas usuarias"
     },
     "pricing.enterprise.priority": {
         "message": "✔️ Soporte prioritario"
@@ -760,7 +760,7 @@
         "description": "The page & hero description of the blog archive page"
     },
     "theme.blog.paginator.navAriaLabel": {
-        "message": "Navegación del listado del blog",
+        "message": "Navegación de página de la lista del blog",
         "description": "The ARIA label for the blog pagination"
     },
     "theme.blog.paginator.newerEntries": {
@@ -772,11 +772,11 @@
         "description": "The label used to navigate to the older blog posts page (next page)"
     },
     "theme.blog.post.paginator.navAriaLabel": {
-        "message": "Navegación de la página del artículo",
+        "message": "Navegación de la página de publicaciones del blog",
         "description": "The ARIA label for the blog posts pagination"
     },
     "theme.blog.post.paginator.newerPost": {
-        "message": "Artículo más reciente",
+        "message": "Publicación más reciente",
         "description": "The blog post button label to navigate to the newer/previous post"
     },
     "theme.blog.post.paginator.olderPost": {
@@ -792,7 +792,7 @@
         "description": "The ARIA label for the breadcrumbs"
     },
     "theme.colorToggle.ariaLabel.mode.system": {
-        "message": "Modo del sistema",
+        "message": "modo del sistema",
         "description": "The name for the system color mode"
     },
     "theme.colorToggle.ariaLabel.mode.light": {
@@ -804,7 +804,7 @@
         "description": "The name for the dark color mode"
     },
     "theme.colorToggle.ariaLabel": {
-        "message": "Cambia entre el modo claro y oscuro (actualmente {mode})",
+        "message": "Cambia entre el modo oscuro y claro (actualmente {mode})",
         "description": "The ARIA label for the color mode toggle"
     },
     "theme.docs.DocCard.categoryDescription.plurals": {
@@ -839,7 +839,7 @@
         "description": "The label used to tell the user that he's browsing an unreleased doc version"
     },
     "theme.docs.versions.unmaintainedVersionLabel": {
-        "message": "Esta es la documentación de {siteTitle} {versionLabel}, que ya no recibe mantenimiento activo.",
+        "message": "Esta es la documentación de {siteTitle} {versionLabel}, que ya no se mantiene activamente.",
         "description": "The label used to tell the user that he's browsing an unmaintained doc version"
     },
     "theme.docs.versions.latestVersionSuggestionLabel": {
@@ -847,7 +847,7 @@
         "description": "The label used to tell the user to check the latest version"
     },
     "theme.docs.versions.latestVersionLinkLabel": {
-        "message": "Última versión",
+        "message": "última versión",
         "description": "The label used for the latest version suggestion link label"
     },
     "theme.common.editThisPage": {
@@ -935,7 +935,7 @@
         "description": "The first paragraph of the 404 page"
     },
     "theme.NotFound.p2": {
-        "message": "Por favor, contacta a la persona responsable del sitio web que te enlazó a la URL original e infórmale que el enlace está roto.",
+        "message": "Por favor contacta a la persona dueña del sitio web que te conectó a la URL original e infórmale que el enlace está roto.",
         "description": "The 2nd paragraph of the 404 page"
     },
     "theme.TOCCollapsible.toggleButtonLabel": {
@@ -971,7 +971,7 @@
         "description": "The copied button label on code blocks"
     },
     "theme.CodeBlock.copyButtonAriaLabel": {
-        "message": "Copiar codio al portapapeles",
+        "message": "Copiar código al portapapeles",
         "description": "The ARIA label for copy code blocks button"
     },
     "theme.CodeBlock.wordWrapToggle": {
@@ -1039,7 +1039,7 @@
         "description": "The search page title for non-empty query"
     },
     "theme.SearchPage.emptyResultsTitle": {
-        "message": "Buscar en la documentación",
+        "message": "Buscar la documentación",
         "description": "The search page title for empty query"
     },
     "theme.SearchPage.searchContext.everywhere": {
@@ -1050,7 +1050,7 @@
         "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.SearchPage.noResultsText": {
-        "message": "No se encontró ningún documento",
+        "message": "No se encontraron documentos",
         "description": "The paragraph for empty search result"
     },
     "theme.blog.post.plurals": {
@@ -1074,7 +1074,7 @@
         "description": "The label of the link targeting the blog authors page"
     },
     "theme.blog.author.noPosts": {
-        "message": "Esta persona aún no ha escrito ningún artículo.",
+        "message": "Esta persona no ha escrito ningún artículo aún.",
         "description": "The text for authors with 0 blog post"
     },
     "theme.contentVisibility.unlistedBanner.title": {
@@ -1082,7 +1082,7 @@
         "description": "The unlisted content banner title"
     },
     "theme.contentVisibility.unlistedBanner.message": {
-        "message": "Esta página no está listada. Los motores de búsqueda no la indexarán y solo las personas con un enlace directo podrán acceder a ella.",
+        "message": "Página no está listada. Los motores de búsqueda no la indexarán, y solo las personas usuarias con un enlace directo podrán acceder a ella.",
         "description": "The unlisted content banner message"
     },
     "theme.contentVisibility.draftBanner.title": {
@@ -1115,7 +1115,7 @@
         "message": "contraproducente"
     },
     "phishingQuizzes.research.final": {
-        "message": "efecto de las simulaciones de phishing: las personas que están expuestas constantemente a simulaciones de phishing son más propensas a hacer clic en enlaces peligrosos."
+        "message": "efecto de las simulaciones de phishing: las personas usuarias que están expuestas continuamente a simulaciones de phishing son más propensas a hacer clic en enlaces peligrosos."
     },
     "pricing.compliance.detailed": {
         "message": "✔️ Analíticas detalladas de los resultados por aprendices y por preguntas"
