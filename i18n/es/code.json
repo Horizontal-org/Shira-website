@@ -591,10 +591,10 @@
         "message": "Precios de Shira"
     },
     "pricing.layout.description": {
-        "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad, y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
+        "message": "Explora los planes de precios simples y transparentes de Shira docentes, profesionales de la seguridad, y organizaciones. Elige entre las opciones Gratuito (\"Free\"), Profesional (\"Pro\"), o Empresa (\"Enterprise\") con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
     },
     "pricing.meta.description": {
-        "message": "Explora los planes de precios simples y transparentes de Shira para docentes, profesionales de la seguridad y organizaciones. Elige entre las opciones Gratuito, Pro o Enterprise con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
+        "message": "Explora los planes de precios simples y transparentes de Shira para docentes, profesionales de la seguridad, y organizaciones. Elige entre las opciones Gratuito (\"Free\"), Profesional (\"Pro\"), o Empresa (\"Enterprise\") con cuestionarios de phishing personalizables y herramientas de gestión respetuosas de la privacidad."
     },
     "pricing.intro.subtitle": {
         "message": "Planes personalizados para docentes y profesionales de la seguridad"
@@ -660,7 +660,7 @@
         "message": "✔️ Cuestionarios públicos: cualquiera puede completar tus cuestionarios a través de una URL fácil de compartir"
     },
     "pricing.pro.title": {
-        "message": "Pro"
+        "message": "Profesional (\"Pro\")"
     },
     "pricing.pro.description": {
         "message": "Todo el poder de Shira"
@@ -672,7 +672,7 @@
         "message": " facturado anualmente o $49/mes + $1 por cuestionario completado facturado mensualmente"
     },
     "pricing.pro.includes": {
-        "message": "El plan Pro incluye:"
+        "message": "El plan Profesional (\"Pro\") incluye:"
     },
     "pricing.admin.unlimitedSoon": {
         "message": "✔️ Cuentas de admin ilimitadas [próximamente]"
@@ -705,7 +705,7 @@
         "message": ""
     },
     "pricing.enterprise.title": {
-        "message": "Enterprise"
+        "message": "Empresa (\"Enterprise\")"
     },
     "pricing.enterprise.description": {
         "message": "Mejor para organizaciones grandes y proveedores de servicio"
@@ -717,7 +717,7 @@
         "message": "Tasa adaptada a tus necesidades"
     },
     "pricing.enterprise.includes": {
-        "message": "El plan Enterprise incluye:"
+        "message": "El plan Empresa (\"Enterprise\") incluye:"
     },
     "pricing.enterprise.deployment": {
         "message": "✔️ Cloud o en infraestructura propia"
