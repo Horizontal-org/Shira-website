@@ -174,7 +174,7 @@
         "message": "用户友好的界面 🎨"
     },
     "features.list.ui.description": {
-        "message": "直观的控制面板，轻松浏览并管理测验和用户。"
+        "message": "直观的仪表板，轻松浏览并管理测验和用户。"
     },
     "features.list.roles.title": {
         "message": "基于角色的访问控制 🔒"
@@ -204,7 +204,7 @@
         "message": "即时通讯应用钓鱼模拟 💬"
     },
     "features.list.messaging.description": {
-        "message": "创建测试，模拟 WhatsApp 或 Facebook Messenger 等流行即时通讯应用中出现的钓鱼攻击。"
+        "message": "创建测验，模拟 WhatsApp 或 Facebook Messenger 等流行即时通讯应用中出现的钓鱼攻击。"
     },
     "features.list.mobile.title": {
         "message": "移动端支持 📱"
@@ -339,10 +339,10 @@
         "message": "但是这种方法存在一些缺点，并且效果不如全面的反钓鱼教育。"
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.problem.title": {
         "message": "钓鱼模拟的问题"
@@ -627,7 +627,7 @@
         "message": "✔️ 云端服务"
     },
     "pricing.admin.dashboard": {
-        "message": "✔️ 管理员面板"
+        "message": "✔️ 管理员仪表板"
     },
     "pricing.admin.oneAdmin": {
         "message": "✔️ 1 位管理员"
@@ -1106,10 +1106,10 @@
         "description": "The title of the tag list page"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": "华尔街日报新闻文章：网络钓鱼测试，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
     },
     "phishingQuizzes.research.emphasis": {
         "message": "钓鱼模拟"
