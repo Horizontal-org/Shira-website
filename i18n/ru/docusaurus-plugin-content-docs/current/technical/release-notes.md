@@ -12,7 +12,7 @@ description: Stay up to date with the latest Shira features and improvements, in
 улучшениях в Shira. Если чего-то не хватает, вы можете [предложить новые функции
 или улучшения здесь](https://github.com/Horizontal-org/shira/discussions). :::
 
-## Shira 2.0-beta5 {#shira-20-beta5}
+## Shira  версия 2.0-beta5 {#shira-20-beta5}
 *Выпущено 29 января 2026 года*
 
 В этом выпуске представлены частные викторины — наша самая востребованная
@@ -24,7 +24,7 @@ description: Stay up to date with the latest Shira features and improvements, in
   записи, что позволяет вам видеть, как каждый из них справляется с вашими
   тестами.
 
-## Shira 2.0-beta4 {#shira-20-beta4}
+## Shira версия 2.0-beta4 {#shira-20-beta4}
 *Выпущено 3 ноября 2025 года*
 
 С этим выпуском мы приближаемся к полному набору функций, который будет включен
