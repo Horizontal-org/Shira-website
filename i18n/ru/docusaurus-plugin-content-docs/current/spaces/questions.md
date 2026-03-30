@@ -21,8 +21,8 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 
 ## Создание вопроса {#create}
 Чтобы создать вопросы и добавить их в тест, у вас есть два варианта:
-1. You can create questions from scratch and configure each of the questions
-   components yourself.
+1. Вы можете создавать вопросы с нуля и самостоятельно настраивать каждый из их
+   компонентов.
 2. Вы можете взять готовые вопросы из библиотеки. Если вы берете вопрос из
    библиотеки, вы можете использовать его как есть или адаптировать его к своему
    конкретному контексту и потребностям.
@@ -50,7 +50,7 @@ Outlook, SMS, WhatsApp и т. д.
 В настоящее время Shira поддерживает следующие приложения:
 - Gmail
 - Outlook
-- SMS
+- СМС
 - WhatsApp
 - Facebook Messenger
 - Приложение для знакомств
