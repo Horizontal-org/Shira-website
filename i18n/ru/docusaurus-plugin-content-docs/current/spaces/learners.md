@@ -6,28 +6,30 @@ description: Learn about Shira learners — anonymous participants who take quiz
 
 ---
 
-# Learners
+# Учащиеся
 
-A learner is anyone who takes a quiz.
+Учащимся считается любой, кто проходит тест.
 
-There are two types of learners in Shira:
-* Anonymous learners
-* Registered learners
+В Shira есть два типа учащихся:
+* Анонимные учащиеся
+* Зарегистрированные учащиеся
 
-### Anonymous learners {#anonymous}
-Anonymous learners are users who are *not* registered in a Shira space.
-Anonymous learners:
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made).
-* Cannot take [private quizzes](/quizzes#privacy).
-* Cannot be identified in a quiz's [results](/results).
+### Анонимные учащиеся {#anonymous}
+Анонимные учащиеся — это пользователи, которые *не* зарегистрированы в
+пространстве Shira. Анонимные учащиеся:
+* Можно пройти [открытые тесты](/quizzes#privacy) или [готовые
+  тесты](/ready-made).
+* Невозможно пройти [закрытые тесты](/quizzes#privacy).
+* Не удается определить в [результатах](/results) теста.
 
-### Registered learners {#registered}
-Registered learners are users who you have invited to join your Space and who
-have accepted your invitation. Registered learners:
-* Can take [private quizzes](/quizzes#privacy).
-* Can take [public quizzes](/quizzes#privacy) or [ready-made
-  quizzes](/ready-made), but their results in those quizzes will not be tied to
-  them (you cannot see how well a registered learner did on a public quiz).
-* Have detailed [results](/results) that let you see how well they've done on
-  the private quizzes they take.
+### Зарегистрированные учащиеся {#registered}
+Зарегистрированные учащиеся — это пользователи, которых вы пригласили
+присоединиться к вашему пространству и которые приняли ваше приглашение.
+Зарегистрированные учащиеся:
+* Можно пройти [закрытые тесты](/quizzes#privacy).
+* Можно проходить [открытые тесты](/quizzes#privacy) или [готовые
+  тесты](/ready-made), но их результаты не будут привязаны к ним (вы не сможете
+  увидеть, насколько хорошо зарегистрированный учащийся справился с открытым
+  тестом).
+* У вас есть подробные [результаты](/results), которые позволяют увидеть,
+  насколько успешно учащиеся справились с промежуточными тестами.
