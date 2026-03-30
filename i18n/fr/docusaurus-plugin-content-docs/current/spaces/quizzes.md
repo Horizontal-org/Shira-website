@@ -5,7 +5,7 @@ sidebar_position: 2
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---
-# Questionnaires
+# Les quiz
 
 Dans Shira, le quiz est l'élément central d'une campagne ou d'un programme de
 sensibilisation au phishing. Shira vous permet de créer vos propres quiz pour
