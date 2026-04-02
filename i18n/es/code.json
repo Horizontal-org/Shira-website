@@ -696,7 +696,7 @@
         "message": "Cumplimiento"
     },
     "pricing.compliance.track": {
-        "message": "✔️Analíticas básicas de resultados a nivel de cuestionario"
+        "message": "✔️Analíticas básicas para dar seguimiento a los resultados a nivel de cuestionario"
     },
     "pricing.compliance.tools": {
         "message": "✔️ Herramientas de análisis y cumplimiento [próximamente]"
@@ -1106,10 +1106,10 @@
         "description": "The title of the tag list page"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": "artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
+        "message": "artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos, diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": "artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
+        "message": "artículo de noticia del Wall Street Journal \"Las Pruebas de Phishing, La Pesadilla de la Vida Laboral, Se Vuelven Más Agresivas\" — profesionales de la investigación dicen que los trucos, diseñados para enseñar al personal crédulo sobre los peligros que acechan en línea, ni siquiera funcionan."
     },
     "phishingQuizzes.research.emphasis": {
         "message": "contraproducente"
