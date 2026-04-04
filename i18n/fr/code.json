@@ -657,7 +657,7 @@
         "message": "✔️ Quiz publics : n'importe qui peut participer à votre quiz via une URL facile à partager"
     },
     "pricing.pro.title": {
-        "message": "Pro"
+        "message": "Professionnel (« Pro »)"
     },
     "pricing.pro.description": {
         "message": "Toute la puissance de Shira"
@@ -690,10 +690,10 @@
         "message": "Conformité"
     },
     "pricing.compliance.track": {
-        "message": "✔️ Statistiques de base pour suivre les résultats au niveau du quiz"
+        "message": "✔️ Statistiques élémentaires sur les résultats de chaque quiz"
     },
     "pricing.compliance.detailed": {
-        "message": "✔️ Statistiques détaillées pour suivre les résultats par apprenant et par question"
+        "message": "✔️ Statistiques détaillées permettant de suivre les résultats au niveau des apprenants et apprenantes/questions"
     },
     "pricing.compliance.tools": {
         "message": "✔️ Outils d'analyse et de conformité [bientôt disponible]"
