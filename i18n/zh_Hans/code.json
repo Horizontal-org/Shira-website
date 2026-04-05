@@ -3,10 +3,10 @@
         "message": "关于 Shira"
     },
     "about.meta.description": {
-        "message": "了解 Shira 及其背后的团队：该项目由非营利组织 Horizontal 打造，该组织致力于创建安全和隐私工具，帮助个人和组织抵御钓鱼攻击。"
+        "message": "了解 Shira 及其背后的团队：该项目由 Horizontal 开发。Horizontal 是一家非营利组织，致力于开发安全与隐私工具，帮助个人和组织抵御钓鱼攻击。"
     },
     "about.meta.longDescription": {
-        "message": "了解 Shira 及其背后的团队：该项目由非营利组织 Horizontal 打造，该组织致力于创建安全和隐私工具，帮助个人和组织抵御钓鱼攻击。"
+        "message": "了解 Shira 及其背后的团队：该项目由Horizontal 开发。Horizontal 是一家非营利组织，致力于开发安全与隐私工具，帮助个人和组织抵御钓鱼攻击。"
     },
     "about.hero.title": {
         "message": "Shira"
@@ -24,13 +24,13 @@
         "message": "Horizontal 标志"
     },
     "about.horizontal.title": {
-        "message": "谁打造了 Shira？"
+        "message": "Shira 由谁开发？"
     },
     "about.horizontal.description": {
-        "message": "Shira 是由 Horizontal 打造的项目。这是一家非营利科技组织，致力于构建安全和隐私技术，帮助人们在网络世界中更加安全。"
+        "message": "Shira 是由 Horizontal 开发的项目。这是一家科技非营利组织，致力于构建安全和隐私技术，帮助人们在网络世界中更加安全。"
     },
     "about.horizontal.donationText": {
-        "message": "您可以帮助我们改善和维护 Shira："
+        "message": "帮助我们改善和维护 Shira："
     },
     "about.horizontal.donationLink": {
         "message": "请在这里捐赠"
@@ -51,10 +51,10 @@
         "message": "1. 简单易用"
     },
     "about.why.easy.description": {
-        "message": "Shira 在创建时已考虑到高风险人群，他们面临大量钓鱼攻击，而技术能力有限。"
+        "message": "Shira 在设计时重点考虑了最容易遭受钓鱼攻击的人群，尤其是技术素养有限的用户。"
     },
     "about.why.customizable.title": {
-        "message": "2. 可自定义"
+        "message": "2. 可定制"
     },
     "about.why.customizable.description": {
         "message": "Shira 展示最接近真实场景的邮件和消息， 模拟日常网络使用时用户实际遇到的情况以及可能面临的钓鱼攻击。"
@@ -90,7 +90,7 @@
         "message": "本网站使用绿色能源运行。"
     },
     "about.how.greenAlt": {
-        "message": "本网站使用绿色主机服务，已通过 thegreenwebfoundation.org 验证"
+        "message": "本网站使用绿色主机服务，已通过 thegreenwebfoundation.org 认证"
     },
     "contact.title": {
         "message": "联系 Shira 团队"
@@ -132,13 +132,13 @@
         "message": "Shira 功能"
     },
     "features.meta.description": {
-        "message": "探索 Shira 为教育工作者和安全专业人员提供的功能。"
+        "message": "探索 Shira 为教育工作者和安全专业人士提供的功能。"
     },
     "features.meta.longDescription": {
-        "message": "探索 Shira 为教育工作者和安全专业人员提供的功能：创建逼真的钓鱼测验、模拟真实攻击、追踪团队进展，并建立持久的钓鱼防范意识。"
+        "message": "探索 Shira 为教育工作者和安全专业人士提供的功能：创建逼真的钓鱼测验，模拟真实攻击，追踪团队进展，以及建立持久的钓鱼防范意识。"
     },
     "features.intro.audience": {
-        "message": "面向教育工作者和安全专业人员"
+        "message": "面向教育工作者和安全专业人士"
     },
     "features.intro.title": {
         "message": "针对{your3}面临的威胁，为{your2}团队定制{your1}专属的网络钓鱼测验"
@@ -186,7 +186,7 @@
         "message": "真实攻击模拟 ⚡"
     },
     "features.list.realLife.description": {
-        "message": "测验提供公司真实遭受的钓鱼攻击细节，帮助团队做好最充足的准备。"
+        "message": "测验提供公司遭受的真实钓鱼攻击细节，帮助团队做好最充足的准备。"
     },
     "features.list.email.title": {
         "message": "邮件钓鱼模拟 📧"
@@ -240,7 +240,7 @@
         "message": "多语言 🌐"
     },
     "features.list.multilingual.description": {
-        "message": "Shira 对英语、西班牙语、法语、中文、阿拉伯语和俄语提供完整支持。"
+        "message": "Shira 完整支持英语、西班牙语、法语、中文、阿拉伯语和俄语。"
     },
     "features.list.library.title": {
         "message": "题库 📚"
@@ -249,7 +249,7 @@
         "message": "从无到有创建测验题目，也可通过 Shira 题库，使用数字安全培训师创建的题目模板。"
     },
     "features.needMore.title": {
-        "message": "确实某个功能？"
+        "message": "缺失某个功能？"
     },
     "features.needMore.subtitle": {
         "message": "请和我们联系。我们将会满足您的需求。"
@@ -276,13 +276,13 @@
         "message": "面向学员"
     },
     "homepage.learners.description": {
-        "message": "免费的现成测验，即可开始学习。自定义测验，学习日常应用中钓鱼攻击，包括Gmail、短信、WhatsApp 等，同时，根据您的语言和行业，可对内容进行量身定制。"
+        "message": "免费的现成测验，即刻开始学习。自定义测验，学习日常应用中钓鱼攻击，包括 Gmail、短信、WhatsApp 等。同时，根据您的语言和行业，可对内容进行量身定制。"
     },
     "homepage.learners.cta": {
         "message": "参加测验"
     },
     "homepage.educators.title": {
-        "message": "面向教育工作者和安全专业人员"
+        "message": "面向教育工作者和安全专业人士"
     },
     "homepage.educators.description": {
         "message": "组织的需求和风险各有不同。量身定制的钓鱼测验，可满足组织需求并监控团队的成功率，并且无需任何编程。"
@@ -291,7 +291,7 @@
         "message": "创建您自己的测验"
     },
     "homepage.context.description": {
-        "message": "多年来，钓鱼一直是个人和组织面临的最常见攻击之一。钓鱼攻击最初仅限于电子邮件，但现在也出现在短信、即时通讯应用和社交媒体。培养用户技能，识别和抵御钓鱼攻击，当前比以往任何时候都更加重要。"
+        "message": "多年来，钓鱼一直是个人和组织面临的最常见攻击之一。钓鱼攻击最初仅限于电子邮件，但现在也出现在短信、即时通讯应用和社交媒体中。培养用户技能，识别和抵御钓鱼攻击，当前比以往任何时候都更加重要。"
     },
     "homepage.context.imageAlt": {
         "message": "放大镜装饰图"
@@ -300,7 +300,7 @@
         "message": "为什么选择 Shira？"
     },
     "homepage.why.intro": {
-        "message": "无论参加免费的现成测验，还是自定义团队所需的测验，Shira 都具备以下特点："
+        "message": "无论免费的现成测验，还是根据团队所需的定制测验，Shira 都具备以下特点："
     },
     "homepage.why.easy.title": {
         "message": "简单易用"
@@ -309,7 +309,7 @@
         "message": "针对最高钓鱼攻击风险而设计，即使技术能力有限也可轻松使用。"
     },
     "homepage.why.customizable.title": {
-        "message": "量身定制"
+        "message": "可定制"
     },
     "homepage.why.customizable.description": {
         "message": "逼真的钓鱼消息，模拟用户日常面临的真实场景。"
@@ -333,16 +333,16 @@
         "message": "为什么教育优于模拟"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": "钓鱼模拟已成为反钓鱼培训项目的标准组成部分。这些模拟向员工发送电子邮件，模仿网络犯罪分子使用的策略，诱骗个人泄露敏感信息或点击恶意链接。根据员工对这些模拟邮件的反应，对其进行评估，尤其是，是否点击链接或提供任何敏感信息。"
+        "message": "钓鱼模拟已成为防钓鱼培训项目的标准组成部分。这些模拟向员工发送电子邮件，模仿网络犯罪分子使用的策略，诱骗个人泄露敏感信息或点击恶意链接。根据员工对这些模拟邮件的反应，对其进行评估，尤其是，他们是否点击链接或提供任何敏感信息。"
     },
     "phishingQuizzes.education.paragraph2": {
-        "message": "但是这种方法存在一些缺点，并且效果不如全面的反钓鱼教育。"
+        "message": "但是这种方法存在一些缺点，并且效果不如全面的防钓鱼培训。"
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "《华尔街日报》新闻文章：职场之痛，钓鱼测试正变得愈发刻薄。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "《华尔街日报》新闻文章：职场之痛，钓鱼测试正变得愈发刻薄。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
     },
     "phishingQuizzes.problem.title": {
         "message": "钓鱼模拟的问题"
@@ -450,7 +450,7 @@
         "message": "什么是钓鱼？"
     },
     "phishing.intro.definition": {
-        "message": "钓鱼指一种恶意企图，通过在电子通信中伪装成可信实体，来获取用户名、密码和信用卡详情等敏感信息。钓鱼也可能诱使您下载和安装恶意软件。"
+        "message": "钓鱼是一种获取敏感信息的恶意行为。在电子通信中伪装成可信实体，攻击者可获取用户名、密码和信用卡详情等数据。钓鱼攻击也可诱使用户下载和安装恶意软件。"
     },
     "phishing.intro.protection": {
         "message": "理解钓鱼是保护自己和组织的第一步。"
@@ -507,25 +507,25 @@
         "message": "礼貌冲动："
     },
     "phishing.why.polite.text": {
-        "message": "当消息来自权威人士或可信来源时，人们常常感到不得不回复。利用这一心理，钓鱼者使用礼貌的语言，可使收件人更可能满足提供敏感信息的请求，同时不去质疑消息是否可信。"
+        "message": "当消息来自权威人士或可信来源时，人们常常感到必须回复。利用这一心理，钓鱼者使用礼貌的语言，可使收件人更可能满足提供敏感信息的请求，同时不去质疑消息是否可信。"
     },
     "phishing.why.helpful.label": {
         "message": "助人冲动："
     },
     "phishing.why.helpful.text": {
-        "message": "我们许多人天生以助人为乐。钓鱼者虚构某些场景，比如声称同事或亲戚遇到麻烦，诱使收件人提供帮助。这种操纵手段会导致人们在自以为乐于助人的情况下，泄露个人信息。"
+        "message": "许多人天生以助人为乐。钓鱼者虚构某些场景，比如声称同事或亲戚遇到麻烦，诱使收件人提供帮助。这种操纵手段可导致人们在自以为提供协助的情况下，泄露个人信息。"
     },
     "phishing.why.embarrassed.label": {
         "message": "避免尴尬："
     },
     "phishing.why.embarrassed.text": {
-        "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，在其心中制造恐慌。这种恐慌促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
+        "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，以此制造恐慌，从而促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
     },
     "phishing.why.urgent.label": {
         "message": "紧急消息引发恐慌："
     },
     "phishing.why.urgent.text": {
-        "message": "紧迫感是一种强大的驱动力。钓鱼者捏造虚假消息，声称账户将被暂停或付款已逾期，以此制造紧迫感。恐慌会蒙蔽判断力，使人仓促行动而无视警告信号。"
+        "message": "紧迫感是一种强大的驱动力。钓鱼者捏造虚假消息，声称账户将被暂停或付款已逾期，以此制造紧迫感。恐慌蒙蔽判断力，使人仓促行动而无视警告信号。"
     },
     "phishing.consequences.title": {
         "message": "钓鱼攻击可导致严重后果"
@@ -546,13 +546,13 @@
         "message": "数据泄露："
     },
     "phishing.consequences.data.text": {
-        "message": "公司敏感信息泄露，导致声誉受损。"
+        "message": "泄露公司敏感信息，导致声誉受损。"
     },
     "phishing.consequences.operational.label": {
         "message": "运营中断："
     },
     "phishing.consequences.operational.text": {
-        "message": "钓鱼可导致停机和生产力损失。"
+        "message": "钓鱼可导致停机和工作效率下降。"
     },
     "phishing.images.worm.alt": {
         "message": "虫子装饰插图"
@@ -591,13 +591,13 @@
         "message": "Shira 定价"
     },
     "pricing.layout.description": {
-        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人员和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
+        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人士和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
     },
     "pricing.meta.description": {
-        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人员和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
+        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人士和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
     },
     "pricing.intro.subtitle": {
-        "message": "可定制方案，面向教育工作者和安全专业人员"
+        "message": "可定制方案，面向教育工作者和安全专业人士"
     },
     "pricing.intro.title": {
         "message": "定价简单、透明、公平"
@@ -666,10 +666,10 @@
         "message": "Shira 完整功能"
     },
     "pricing.pro.price": {
-        "message": "39 美元/月 + 每次测验 1 美元"
+        "message": "39 美元/月 + 每完成一次测验 1 美元"
     },
     "pricing.pro.billing": {
-        "message": " （按年计费），或 49 美元/月 + 每次测验 1 美元（按月计费）"
+        "message": " （按年计费），或 49 美元/月 + 每完成一次测验 1 美元（按月计费）"
     },
     "pricing.pro.includes": {
         "message": "专业版包含："
@@ -690,7 +690,7 @@
         "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、约会应用"
     },
     "pricing.access.private": {
-        "message": "✔️ 私有测验：只有您的用户才能参加您的测验"
+        "message": "✔️ 私有测验：只有您的用户才能参加测验"
     },
     "pricing.compliance.title": {
         "message": "合规管理"
@@ -711,7 +711,7 @@
         "message": "最适合大型组织和服务提供商"
     },
     "pricing.enterprise.price": {
-        "message": "自定义定价"
+        "message": "定制定价"
     },
     "pricing.enterprise.note": {
         "message": "价格量身定做，满足您的需求"
@@ -729,13 +729,13 @@
         "message": "✔️ 不限量定制测验"
     },
     "pricing.enterprise.unlimitedQuestions": {
-        "message": "✔️ 测验题目不限量"
+        "message": "✔️ 不限量测验题目"
     },
     "pricing.enterprise.customLimit": {
-        "message": "✔️ 自定义测验参加次数"
+        "message": "✔️ 自定义完成测验的数量"
     },
     "pricing.enterprise.support": {
-        "message": "定制化支持"
+        "message": "定制支持"
     },
     "pricing.enterprise.training": {
         "message": "✔️ 量身定制的用户培训"
@@ -1022,10 +1022,10 @@
         "message": "无结果"
     },
     "theme.SearchBar.seeAllOutsideContext": {
-        "message": "查看\"{context}\"之外所有结果"
+        "message": "查看“{context}”之外的所有结果"
     },
     "theme.SearchBar.searchInContext": {
-        "message": "查看\"{context}\"之内所有结果"
+        "message": "查看“{context}”之外的所有结果"
     },
     "theme.SearchBar.seeAll": {
         "message": "查看所有结果"
@@ -1035,7 +1035,7 @@
         "description": "The ARIA label and placeholder for search button"
     },
     "theme.SearchPage.existingResultsTitle": {
-        "message": "\"{query}\" 的搜索结果",
+        "message": "“{query}”搜索结果",
         "description": "The search page title for non-empty query"
     },
     "theme.SearchPage.emptyResultsTitle": {
@@ -1106,10 +1106,10 @@
         "description": "The title of the tag list page"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "《华尔街日报》新闻文章：职场之痛，钓鱼测试正变得愈发刻薄。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": "华尔街日报新闻文章：网络钓鱼测验，职场生活的噩梦，正变得越来越难。研究人员表示，这些旨在教育容易上当的员工认识网络潜在危险的骗局，实际上根本不起作用"
+        "message": "《华尔街日报》新闻文章：职场之痛，钓鱼测试正变得愈发刻薄。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
     },
     "phishingQuizzes.research.emphasis": {
         "message": "钓鱼模拟"
