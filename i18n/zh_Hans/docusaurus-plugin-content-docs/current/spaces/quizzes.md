@@ -7,7 +7,7 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 ---
 # 测验
 
-在 Shira 中，测验是钓鱼教育活动或项目的核心组件。通过 Shira，您可根据受众的特定需求、背景和威胁，来创建自己的测验。
+在 Shira 中，测验是钓鱼培训活动或项目的核心组件。Shira 可根据受众的特定需求、背景和威胁，让用户创建自己的测验。
 
 在 Shira 空间中，您可以：
 - [创建测验](#create-quizzes)
