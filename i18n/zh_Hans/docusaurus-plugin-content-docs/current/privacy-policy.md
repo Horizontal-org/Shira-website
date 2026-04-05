@@ -16,9 +16,9 @@ import TOCInline from '@theme/TOCInline';
 
 
 ## 1. 引言 {#intro}
-Horizontal 是开发 Shira 的组织，坚定致力于保护用户隐私和数据。
+Horizontal 是开发 Shira 的组织，高度重视保护用户隐私和数据。
 
-作为专注于隐私权利的非营利组织，我们在设计产品时力求尽量减少对用户信息的收集；同时，对于已收集的信息，我们尽力进行匿名化处理，并确保用户在知情同意的前提下授权我们收集这些数据。
+作为专注于隐私权利的非营利组织，我们在设计产品时力求尽量减少对用户信息的收集；同时，对于已收集的信息，我们尽力进行匿名处理，并确保用户在知情同意的前提下授权我们收集这些数据。
 
 以下声明仅适用于 Shira
 Cloud，即通过以下方式提供的版本：[https://shira.app](https://shira.app)、[https://space.shira.app](https://space.shira.app)
