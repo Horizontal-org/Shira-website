@@ -32,7 +32,7 @@
         "description": "The label of footer link with label=Explore Shira features linking to /features"
     },
     "link.item.label.Build a custom quiz": {
-        "message": "定制测验",
+        "message": "自定义测验",
         "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started"
     },
     "link.item.label.Visit our help center": {
@@ -52,11 +52,11 @@
         "description": "The label of footer link with label=Shira is open source linking to https://github.com/Horizontal-org/shira/"
     },
     "copyright": {
-        "message": "Shira 是 <a href=\"http://www.wearehorizontal.org\">Horizontal</a> 开发的一款产品。该组织为非盈利技术机构，致力于让所有人都能获得在线安全和隐私保护。</br>基于 MIT 2.0 许可协议。 </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
+        "message": "Shira 是 <a href=\"http://www.wearehorizontal.org\">Horizontal</a> 开发的一款产品。该组织是一家技术非营利组织，致力于让网络安全与隐私保护惠及每一个人。</br>基于 MIT 2.0 许可协议。 </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
         "description": "The footer copyright"
     },
     "logo.alt": {
-        "message": "Shira 标识",
+        "message": "Shira 标志",
         "description": "The alt text of footer logo"
     }
 }
