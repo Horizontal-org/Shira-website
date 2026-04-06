@@ -20,7 +20,7 @@ espace Shira. Les apprenants anonymes :
 * Peuvent participer aux [quiz publics](/quizzes#privacy) ou aux [quiz prêts à
   l'emploi](/ready-made).
 * Ne peuvent pas participer aux [quiz privés](/quizzes#privacy).
-* Ne peuvent pas être identifiés dans les [résultats(/results) d'un quiz.
+* Ne peuvent pas être identifiés dans les [résultats](/results) d'un quiz.
 
 ### Apprenants inscrits {#registered}
 Les apprenants inscrits sont des utilisateurs que vous avez invités à rejoindre
