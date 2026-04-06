@@ -489,7 +489,7 @@
         "message": "机密信息："
     },
     "phishing.attackers.confidential.text": {
-        "message": "钓鱼针对机密信息，如社会安全号码和商业数据。这些信息可在暗网出售，或用于身份盗窃以及企业间谍活动。"
+        "message": "钓鱼的目标是社会保障号码和商业数据等机密信息。这些信息可用于身份窃取、在暗网上出售，或用于企业间谍活动。"
     },
     "phishing.attackers.malware.label": {
         "message": "诱使受害者安装恶意软件："
@@ -498,7 +498,7 @@
         "message": "通过恶意链接或附件，钓鱼者诱骗受害者下载恶意软件。一旦安装，恶意软件可窃取个人信息、监控活动或控制设备，这将导致严重的数据泄露。"
     },
     "phishing.why.title": {
-        "message": "钓鱼为何奏效？"
+        "message": "钓鱼为何如此有效？"
     },
     "phishing.why.intro": {
         "message": "钓鱼者利用以下心理："
@@ -531,7 +531,7 @@
         "message": "钓鱼攻击可导致严重后果"
     },
     "phishing.consequences.identity.label": {
-        "message": "身份盗窃："
+        "message": "身份窃取："
     },
     "phishing.consequences.identity.text": {
         "message": "网络犯罪分子利用个人信息假冒他人。"
@@ -579,13 +579,13 @@
         "message": "虚假网站："
     },
     "phishing.how.fake.text": {
-        "message": "受害者点击链接之后，将打开欺诈网站，但看似正规网站。在这里，他们可能被要求输入密码或银行信息等敏感信息。"
+        "message": "受害者点击链接之后，将打开看似正规的欺诈网站。在这里，他们可能被要求输入密码或银行信息等敏感信息。"
     },
     "phishing.how.data.label": {
         "message": "数据窃取："
     },
     "phishing.how.data.text": {
-        "message": "一旦受害者提供他们的信息，攻击者即可用来进行身份盗窃、金融欺诈或其他恶意行为。"
+        "message": "一旦受害者提供他们的信息，攻击者即可以此进行身份窃取、金融欺诈或其他恶意行为。"
     },
     "pricing.layout.title": {
         "message": "Shira 定价"
@@ -612,7 +612,7 @@
         "message": "0 美元"
     },
     "pricing.starter.note": {
-        "message": "免费，无额外消费"
+        "message": "免费，无附加条款"
     },
     "pricing.cta.getStarted": {
         "message": "开始使用"
@@ -867,7 +867,7 @@
         "description": "The words used to describe by who the page has been last updated"
     },
     "theme.lastUpdated.lastUpdatedAtBy": {
-        "message": "最后更新{atDate}{byUser}",
+        "message": "最后更新：{atDate}{byUser}",
         "description": "The sentence used to display when a page has been last updated, and by who"
     },
     "theme.NotFound.title": {
@@ -915,11 +915,11 @@
         "description": "The ARIA label for recent posts in the blog sidebar"
     },
     "theme.DocSidebarItem.expandCategoryAriaLabel": {
-        "message": "展开侧边栏分类 '{label}'",
+        "message": "展开侧边栏分类“{label}”",
         "description": "The ARIA label to expand the sidebar category"
     },
     "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-        "message": "收起侧边栏分类 '{label}'",
+        "message": "收起侧边栏分类“{label}”",
         "description": "The ARIA label to collapse the sidebar category"
     },
     "theme.IconExternalLink.ariaLabel": {
@@ -1058,11 +1058,11 @@
         "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.blog.tagTitle": {
-        "message": "{nPosts} 标记为\"{tagName}\"",
+        "message": "标签“{tagName}”下的 {nPosts} 篇内容",
         "description": "The title of the page for a blog tag"
     },
     "theme.blog.author.pageTitle": {
-        "message": "{authorName} - {nPosts}",
+        "message": "{authorName} - {nPosts} 篇内容",
         "description": "The title of the page for a blog author"
     },
     "theme.blog.authorsList.pageTitle": {
