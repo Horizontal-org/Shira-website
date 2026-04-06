@@ -141,7 +141,7 @@
         "message": "Para docentes y profesionales de la seguridad"
     },
     "features.intro.title": {
-        "message": "Crea {you1} propios cuestionarios de phishing para que {your2} equipo aborde {your3} amenazas"
+        "message": "Crea {your1} propios cuestionarios de phishing para que {your2} equipo aborde {your3} amenazas"
     },
     "features.intro.your1": {
         "message": "tus"
