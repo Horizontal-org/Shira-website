@@ -10,7 +10,7 @@ import TOCInline from '@theme/TOCInline';
 # 隐私政策 {#privacy-policy}
 
 
-<TOCInline toc={toc.filter((node) => node.level === 2)} />
+<tocinline toc="{toc.filter((node)" ==""> node.level === 2)} /></tocinline>
 
 本隐私政策最后更新于 2026 年 2 月 9 日。
 
