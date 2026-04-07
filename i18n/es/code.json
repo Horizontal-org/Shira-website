@@ -1118,6 +1118,6 @@
         "message": "efecto de las simulaciones de phishing: las personas usuarias que están expuestas continuamente a simulaciones de phishing son más propensas a hacer clic en enlaces peligrosos."
     },
     "pricing.compliance.detailed": {
-        "message": "✔️ Analíticas detalladas de los resultados por aprendices y por preguntas"
+        "message": "✔️ Analíticas detalladas para dar seguimiento a resultados por la persona estudiante y por niveles de pregunta"
     }
 }
