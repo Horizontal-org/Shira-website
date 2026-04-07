@@ -8,17 +8,19 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 # Notas de Lanzamiento
 
-:::tip Aquí está todo lo que necesitas saber sobre las últimas funcionalidades y
+:::tip\
+Aquí está todo lo que necesitas saber sobre las últimas funcionalidades y
 mejoras en Shira. Si falta algo, puedes [sugerir nuevas funciones o mejoras
-aquí](https://github.com/Horizontal-org/shira/discussions). :::
+aquí](https://github.com/Horizontal-org/shira/discussions).\
+:::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}
 *Lanzada el 29 de Enero de 2026*
 
 Este lanzamiento introduce los cuestionarios privados -- ¡Nuestra función más
 solicitada!
-- Cuestionarios privados: cuestionarios que solo pueden ser completados una vez
-  por aprendices con registro en tu espacio.
+- Cuestionarios privados: cuestionarios que solo pueden ser completados por
+  estudiantes con registro en tu espacio.
 - Estudiantes en registro: estudiantes que han recibido invitación de una cuenta
   admin para unirse a tu espacio y cuyos resultados están vinculados a su
   cuenta, permitiéndote ver cómo les va en tus cuestionarios.
