@@ -21,7 +21,7 @@ por estudiantes.
   el cuestionario una vez.
 
 **Puntuación promedio**\
-Esta es la puntuación promedio recibida por todas las personas aprendices que
+Esta es la puntuación promedio recibida por todas las personas estudiantes que
 completaron el cuestionario.
 
 **Tasa de finalización** [próximamente]\
@@ -38,5 +38,7 @@ Esto te muestra la lista de personas estudiantes registradas que han completado
 el cuestionario y su puntuación en el cuestionario. Los resultados por
 estudiante solo están disponibles para cuestionarios privados.
 
-:::nota Si hay elementos específicos que te gustaría monitorear en Resultados,
-¡[déjanos saber](/contact)! :::
+:::note\
+Si hay elementos específicos que te gustaría monitorear en Resultados, ¡[déjanos
+saber](/contact)!\
+:::
