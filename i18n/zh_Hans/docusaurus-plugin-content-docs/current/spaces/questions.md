@@ -38,7 +38,7 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 - 短信（SMS）
 - WhatsApp
 - Facebook Messenger
-- 约会应用
+- 交友应用
 
 :::备注 如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！ :::
 
