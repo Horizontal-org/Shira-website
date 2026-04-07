@@ -12,7 +12,7 @@ Estudiante es cualquier persona que inicia un cuestionario.
 
 Hay dos tipos de Estudiantes en Shira:
 * Personas estudiantes anónimas
-* Aprendices en registro
+* Estudiantes con registro
 
 ### Estudiantes en anonimato {#anonymous}
 Quienes aprenden de manera anónima son las personas usuarias que *no* están
