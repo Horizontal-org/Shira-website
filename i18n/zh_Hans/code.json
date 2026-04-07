@@ -27,7 +27,7 @@
         "message": "Shira 由谁开发？"
     },
     "about.horizontal.description": {
-        "message": "Shira 是由 Horizontal 开发的项目。这是一家科技非营利组织，致力于构建安全和隐私技术，帮助人们在网络世界中更加安全。"
+        "message": "Shira 是由 Horizontal 开发的项目。Horizontal 是一家科技非营利组织，致力于开发安全与隐私技术，帮助人们更安全地使用网络。"
     },
     "about.horizontal.donationText": {
         "message": "帮助我们改善和维护 Shira："
@@ -483,7 +483,7 @@
         "message": "金钱："
     },
     "phishing.attackers.money.text": {
-        "message": "经济利益是钓鱼的关键动机。攻击者冒充合法组织，通常借助捐款请求或虚假发票，诱骗受害者付款或提供信用卡详细信息。"
+        "message": "经济利益是钓鱼的关键动机。攻击者冒充正规组织，通常借助捐款请求或虚假发票，诱骗受害者付款或提供信用卡详细信息。"
     },
     "phishing.attackers.confidential.label": {
         "message": "机密信息："
@@ -639,7 +639,7 @@
         "message": "✔️ 测验题目全面可定制"
     },
     "pricing.customization.library": {
-        "message": "✔️ 题库可用"
+        "message": "✔️ 访问题库"
     },
     "pricing.customization.quizzes": {
         "message": "✔️ 最多 3 个定制测验"
@@ -651,7 +651,7 @@
         "message": ""
     },
     "pricing.customization.apps": {
-        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、约会应用"
+        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、交友应用"
     },
     "pricing.access.title": {
         "message": "访问控制"
@@ -687,7 +687,7 @@
         "message": ""
     },
     "pricing.pro.apps": {
-        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、约会应用"
+        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、交友应用"
     },
     "pricing.access.private": {
         "message": "✔️ 私有测验：只有您的用户才能参加测验"
