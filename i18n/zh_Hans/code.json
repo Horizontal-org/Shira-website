@@ -354,7 +354,7 @@
         "message": "制造焦虑和不信任："
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": "用户可能对邮件产生焦虑或不信任感，即使正常邮件也是如此，这可能导致生产力下降和压力增加。"
+        "message": "用户可能对邮件产生焦虑或不信任感，即使正规邮件也是如此，这可能导致生产力下降和压力增加。"
     },
     "phishingQuizzes.problem.emailFocus.title": {
         "message": "过度关注电子邮件："
@@ -519,7 +519,7 @@
         "message": "避免尴尬："
     },
     "phishing.why.embarrassed.text": {
-        "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，以此制造恐慌，从而促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
+        "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，以此制造恐慌，促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
     },
     "phishing.why.urgent.label": {
         "message": "紧急消息引发恐慌："
