@@ -9,6 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const signupBaseURL = process.env.SPACE_URL || 'https://alpha.space.shira.app';
 const signupFormUrl = `${signupBaseURL}/get-started`;
 
+const quizBaseURL = process.env.QUIZ_URL || 'https://alpha.quiz.shira.app';
+
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -73,6 +75,7 @@ const config = {
 
   customFields: {
     signupFormUrl: signupFormUrl,
+    quizBaseURL: quizBaseURL,
   },
 
 
@@ -129,7 +132,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://quiz.shira.app/',
+            to: quizBaseURL,
             sidebarId: 'takeQuizSidebar',
             position: 'left',
             label: 'Take a quiz',
@@ -209,7 +212,7 @@ const config = {
             items: [
               {
                 label: 'Take a ready-made quiz',
-                href: 'https://quiz.shira.app/',
+                href: quizBaseURL,
               },
               {
                 label: 'Explore Shira features',

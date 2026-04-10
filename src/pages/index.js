@@ -63,7 +63,7 @@ export default function Home() {
                   your language and field of work.
                 </Translate>
               </p>
-              <Link className={global.buttonDark} to="https://quiz.shira.app/">
+              <Link className={global.buttonDark} to={siteConfig.customFields.quizBaseURL}>
                 <Translate id="homepage.learners.cta">Take a quiz</Translate>
               </Link>
             </div>
