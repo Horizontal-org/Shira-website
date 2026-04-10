@@ -6,17 +6,16 @@ description: Try Shira’s free ready-made quizzes to practice phishing detectio
 
 ---
 import Link from '@docusaurus/Link'; import global from
-'/src/css/custom.module.scss'; import classNames from 'classnames';
+'/src/css/custom.module.scss'; import classNames from 'classnames'; import
+QuizLink from '@site/src/components/QuizLink';
 
 # Quiz prêts à l'emploi
 
 N'importe qui peut utiliser gratuitement les quiz prêts à l'emploi de Shira pour
 renforcer ses compétences contre le phishing :
 
-<Link 
-  className={classNames(global.buttonDark)} 
-  to="https://quiz.shira.app/"
->Try a ready-made quiz now</Link>
+<QuizLink className={classNames(global.buttonDark)}>Try a ready-made quiz
+now</QuizLink>
 
 Les quiz prêts à l'emploi offrent un niveau de personnalisation de base,
 permettant notamment aux utilisateurs de :
