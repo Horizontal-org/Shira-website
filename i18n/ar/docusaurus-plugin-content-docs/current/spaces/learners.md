@@ -10,7 +10,7 @@ description: Learn about Shira learners — anonymous participants who take quiz
 
 المتعلم هو أي شخص يُجري اختبارا.
 
-تنقسم فئات المتعلمين في Shira إلى نوعين:
+هناك فئتان من المتعلمين في Shira:
 * المتعلمون المجهولون
 * المتعلمون المسجلون
 
