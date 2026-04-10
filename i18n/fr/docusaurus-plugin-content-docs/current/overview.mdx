@@ -13,7 +13,8 @@ import React from 'react'; import { useDocsSidebar } from
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
 DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
 global from '/src/css/custom.module.scss'; import classNames from 'classnames';
-import SignupLink from '@site/src/components/SignupLink';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
 
 # Bienvenue au Centre d'aide Shira !
 
@@ -37,8 +38,8 @@ Nos [quiz prêts à l'emploi](/ready-made) permettent aux utilisateurs de répon
 à un quiz de 10 questions, personnalisé pour ressembler le plus possible à ce
 qu'ils vivront dans la réalité. C'est gratuit et accessible à tous.
 
-Vous pouvez [en savoir plus sur les quiz prêts à l'emploi ici](/ready-made) ou
-[essayer vous-même un quiz prêt à l'emploi !](https://quiz.shira.app/)
+You can [read more about ready-made quizzes here](/ready-made) or <QuizLink>try
+a ready-made quiz yourself!</QuizLink>
 
 
 ### Espace Shira {#shira-space}

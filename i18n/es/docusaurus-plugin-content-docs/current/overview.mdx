@@ -13,7 +13,8 @@ import React from 'react'; import { useDocsSidebar } from
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
 DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
 global from '/src/css/custom.module.scss'; import classNames from 'classnames';
-import SignupLink from '@site/src/components/SignupLink';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
 
 # ¡Te damos la bienvenida al Centro de Ayuda de Shira!
 
@@ -38,8 +39,8 @@ usuarias completen un cuestionario de 10 preguntas personalizado para verse lo
 más parecido posible a lo que experimentarán en la vida real. Es gratuito y
 accesible para cualquier persona.
 
-¡Puedes [leer más sobre los cuestionarios predefinidos aquí](/ready-made) o
-[probar un cuestionario predefinido!](https://quiz.shira.app/)
+You can [read more about ready-made quizzes here](/ready-made) or <QuizLink>try
+a ready-made quiz yourself!</QuizLink>
 
 
 ### Espacio Shira {#shira-space}

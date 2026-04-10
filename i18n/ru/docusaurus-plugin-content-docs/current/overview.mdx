@@ -13,7 +13,8 @@ import React from 'react'; import { useDocsSidebar } from
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
 DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
 global from '/src/css/custom.module.scss'; import classNames from 'classnames';
-import SignupLink from '@site/src/components/SignupLink';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
 
 # Добро пожаловать в справочный центр Shira!
 
@@ -37,8 +38,8 @@ Shira предлагает симуляции фишинговых атак, в 
 вопросов, оформленный так, чтобы максимально соответствовать тому, с чем им
 придётся столкнуться в реальной жизни. Это бесплатно и доступно для всех.
 
-Вы можете [узнать больше о готовых викторинах здесь](/ready-made) или
-[самостоятельно попробовать готовую викторину!](https://quiz.shira.app/)
+You can [read more about ready-made quizzes here](/ready-made) or <QuizLink>try
+a ready-made quiz yourself!</QuizLink>
 
 
 ### Пространство Shira {#shira-space}

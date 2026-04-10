@@ -13,7 +13,8 @@ import React from 'react'; import { useDocsSidebar } from
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
 DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
 global from '/src/css/custom.module.scss'; import classNames from 'classnames';
-import SignupLink from '@site/src/components/SignupLink';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
 
 # مرحباً بكم في مركز مساعدة Shira!
 
@@ -34,8 +35,8 @@ Shira أداة تعليمية لمكافحة التصيد الاحتيالي. ي
 مخصصة ليبدو مشابها قدر الإمكان لما سيُختبَرون عليه في الواقع. إنه مجاني ومتاح
 للجميع.
 
-يمكنك [قراءة المزيد عن الاختبارات الجاهزة هنا](/ready-made) أو [تجربة اختبار
-جاهز بأنفسكم!](https://quiz.shira.app/)
+You can [read more about ready-made quizzes here](/ready-made) or <QuizLink>try
+a ready-made quiz yourself!</QuizLink>
 
 
 ### مساحة Shira ‏{#shira-space}

@@ -13,7 +13,8 @@ import React from 'react'; import { useDocsSidebar } from
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
 DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
 global from '/src/css/custom.module.scss'; import classNames from 'classnames';
-import SignupLink from '@site/src/components/SignupLink';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
 
 # 欢迎来到 Shira 帮助中心！
 
@@ -28,7 +29,8 @@ Shira
 ### 现成测验 {#ready-made-quizzes}
 [现成测验](/ready-made)为参加用户提供 10 道题目，测验内容经过定制，尽可能模拟现实生活中可能出现的情况。这些测验完全免费，并且对所有人开放。
 
-可[在这里查看更多关于现成测验的信息](/ready-made)，或者[亲自试用现成测验！](https://quiz.shira.app/)
+You can [read more about ready-made quizzes here](/ready-made) or <QuizLink>try
+a ready-made quiz yourself!</QuizLink>
 
 
 ### Shira 空间 {#shira-space}
