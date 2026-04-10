@@ -5,7 +5,7 @@ sidebar_position: 2
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---
-# اختبارات
+# الاختبارات
 
 في Shira، يُعد الاختبار المكون المركزي لأي برنامج أو حملة تعليمية ضد التصيد
 الاحتيالي. يمنحك Shira المرونة الكاملة لبناء اختباراتكم الخاصة بما يتناسب مع
