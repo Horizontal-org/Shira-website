@@ -116,5 +116,7 @@ Eliminar un cuestionario significa que el cuestionario, todas las preguntas
 dentro del cuestionario, y cualquier [resultado](/results) asociado con este
 cuestionario serán eliminados de tu espacio.
 
-:::warning Eliminar un cuestionario es permanente: ¡una vez eliminado, el
-cuestionario y sus resultados no pueden recuperarse! :::
+:::warning \
+Eliminar un cuestionario es permanente: ¡una vez eliminado, el cuestionario y
+sus resultados no pueden recuperarse!\
+:::
