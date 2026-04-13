@@ -76,9 +76,11 @@ Luego puedes despublicar el cuestionario para hacer que sea imposible para
 quienes estudian completarlo. Si el cuestionario se despublica, la URL del
 cuestionario llevará a una página de error.
 
-:::note Si despublicas un cuestionario *mientras* está siendo completado por una
-persona estudiante, quien estudia verá un mensaje de error al final del
-cuestionario cuando intente enviar sus respuestas, y estas se perderán. :::
+:::note \
+Si despublicas un cuestionario *mientras* está siendo completado por una persona
+estudiante, quien estudia verá un mensaje de error al final del cuestionario
+cuando intente enviar sus respuestas, y estas se perderán. \
+:::
 
 ## Editar cuestionarios {#edit-quizzes}
 Puedes editar cualquier cuestionario, esté publicado o despublicado, incluyendo:
@@ -90,9 +92,11 @@ Puedes editar cualquier cuestionario, esté publicado o despublicado, incluyendo
 - Eliminar preguntas: una vez eliminada, no hay manera de recuperar una
   pregunta.
 
-:::note Si alguna persona estudiante ya ha completado el cuestionario, editar
-este cuestionario puede afectar la fiabilidad de [los resultados del
-cuestionario](/results). :::
+:::note \
+Si alguna persona estudiante ya ha completado el cuestionario, editar este
+cuestionario puede afectar la fiabilidad de [los resultados del
+cuestionario](/results). \
+:::
 
 ## Duplicar un cuestionario {#duplicate-quiz}
 Duplicar un cuestionario significa crear una copia exacta de un cuestionario
