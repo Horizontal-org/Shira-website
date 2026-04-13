@@ -12,7 +12,7 @@ import TOCInline from '@theme/TOCInline';
 
 <tocinline toc="{toc.filter((node)" ==""> node.level === 2)} /></tocinline>
 
-آخر تحديث لسياسة الخصوصية هذه كان في 9 فبراير 2026.
+آخر تحديث لسياسة الخصوصية هذه كان بتاريخ 9 فبراير 2026.
 
 
 ## 1. مقدمة {#intro}
