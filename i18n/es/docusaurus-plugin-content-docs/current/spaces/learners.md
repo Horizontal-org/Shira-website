@@ -16,7 +16,7 @@ Hay dos tipos de Estudiantes en Shira:
 
 ### Estudiantes en anonimato {#anonymous}
 Quienes aprenden de manera anónima son las personas usuarias que *no* están
-registradas en un espacio Shira. Las personas aprendices anónimas:
+registradas en un espacio Shira. Las personas estudiantes anónimas:
 * Pueden completar [cuestionarios públicos](/quizzes#privacy) o [cuestionarios
   predefinidos](/ready-made).
 * No pueden realizar [cuestionarios privados](/quizzes#privacy).
