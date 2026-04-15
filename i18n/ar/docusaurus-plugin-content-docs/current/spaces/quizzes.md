@@ -2,7 +2,7 @@
 id: quizzes
 slug: /quizzes
 sidebar_position: 2
-description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
+description: تعلُّم كيفية إنشاء الاختبارات وإدارتها وتخصيصها في Shira لتدريب فريق العمل على التوعية بالتصيد الاحتيالي، بما في ذلك نشر وتحرير ونسخ وحذف الاختبارات.
 
 ---
 # الاختبارات
@@ -63,7 +63,7 @@ description: Learn how to create, manage, and customize quizzes in Shira to trai
 نشر اختبار يعني أنكم تتيحون للمتعلمين إمكانية الوصول إليه.
 
 يمكنكم بعد ذلك إلغاء نشر الاختبار لمنع المتعلمين من إجرائه. وفي حال إلغاء نشر
-الاختبار، فإن رابط الاختبار سيُظهر صفحة خطأ.
+الاختبار، فإن رابط الاختبار سيُظهر صفحة الخطأ.
 
 :::note إذا ألغيتم نشر اختبار ما *أثناء إجراء* المتعلم له، سيرى المتعلم رسالة
 خطأ في نهاية الاختبار عند محاولته تقديم إجاباته، وسيفقد حينها تقديمه. :::
