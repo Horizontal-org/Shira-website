@@ -2,7 +2,7 @@
 id: privacy-policy
 slug: /privacy-policy
 sidebar_position: 11
-description: Learn how Shira and Horizontal collect, use, and protect user data, including account data, functionality data, telemetry, and privacy rights.
+description: 了解 Shira 和 Horizontal 如何收集、使用和保护用户数据，包括账号数据、功能数据、遥测数据以及隐私权利。
 ---
 import TOCInline from '@theme/TOCInline';
 
@@ -10,7 +10,7 @@ import TOCInline from '@theme/TOCInline';
 # 隐私政策 {#privacy-policy}
 
 
-<tocinline toc="{toc.filter((node)" ==""> node.level === 2)} /></tocinline>
+<TOCInline toc={toc.filter((node) => node.level === 2)} />
 
 本隐私政策最后更新于 2026 年 2 月 9 日。
 
