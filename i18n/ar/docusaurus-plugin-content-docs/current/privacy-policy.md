@@ -2,7 +2,7 @@
 id: privacy-policy
 slug: /privacy-policy
 sidebar_position: 11
-description: Learn how Shira and Horizontal collect, use, and protect user data, including account data, functionality data, telemetry, and privacy rights.
+description: تعرف على كيفية قيام Shira وHorizontal بجمع بيانات المستخدم واستخدامها وحمايتها، بما في ذلك بيانات الحساب، وبيانات التشغيل، والقياس عن بُعد، وحقوق الخصوصية.
 ---
 import TOCInline from '@theme/TOCInline';
 
