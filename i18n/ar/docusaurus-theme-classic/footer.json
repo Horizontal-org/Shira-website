@@ -40,7 +40,7 @@
         "description": "The label of footer link with label=Visit our help center linking to /help"
     },
     "link.item.label.Contact us": {
-        "message": "للتواصل",
+        "message": "تواصلوا معنا",
         "description": "The label of footer link with label=Contact us linking to /contact"
     },
     "link.item.label.Learn about the Shira team": {
@@ -52,7 +52,7 @@
         "description": "The label of footer link with label=Shira is open source linking to https://github.com/Horizontal-org/shira/"
     },
     "copyright": {
-        "message": "Shira هو منتج من <a href=\"http://www.wearehorizontal.org\">Horizontal</a>، وهي منظمة تكنولوجية غير ربحية مكرسة لجعل الأمن والخصوصية عبر الإنترنت متاحين للجميع. </br> مرخص بموجب رخصة MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
+        "message": "Shira هو منتج من <a href=\"http://www.wearehorizontal.org\">Horizontal</a>، وهي منظمة تكنولوجية غير ربحية مكرسة لجعل الأمن والخصوصية عبر الانترنت متاحين للجميع. </br> مرخص بموجب رخصة MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
         "description": "The footer copyright"
     },
     "logo.alt": {
