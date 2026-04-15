@@ -2,7 +2,7 @@
 id: results
 slug: /results
 sidebar_position: 5
-description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
+description: عرض وتحليل أداء الفريق في اختبارات Shira. يمكن تتبع الاختبارات المكتملة، ومتوسط الدرجات، وتحديد الجوانب التي تتطلب تحسين التوعية بالتصيد الاحتيالي.
 
 ---
 # النتائج
@@ -24,7 +24,7 @@ description: View and analyze your team’s quiz performance in Shira — track 
 فيه. تتوفر هذه الميزة في الاختبارات الخاصة فقط.
 
 **النتائج حسب السؤال** [قريبا]\
-هذا يعرض لكم متوسط الدرجات التي حصل عليها جميع المتعلمين في كل سؤال محدد في
+هذا يعرض لكم متوسط الدرجات التي حصل عليها جميع المتعلمين لكل سؤال محدد في
 الاختبار.
 
 **النتائج حسب المتعلم** [قريبا]\
