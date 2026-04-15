@@ -2,7 +2,7 @@
 id: release-notes
 slug: /release-notes
 sidebar_position: 1
-description: Stay up to date with the latest Shira features and improvements, including Spaces, customizable quizzes and questions, explanations, multi-app support, and learner results.
+description: البقاء على اطلاع بأحدث ميزات وتحسينات Shira، بما في ذلك المساحات، والاختبارات والأسئلة القابلة للتخصيص، والتفسيرات، ودعم التطبيقات المتعددة، ونتائج المتعلمين.
 
 ---
 
