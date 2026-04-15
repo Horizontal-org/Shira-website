@@ -2,7 +2,7 @@
 id: questions
 slug: /questions
 sidebar_position: 3
-description: Learn how to create and customize quiz questions in Shira — including preferences, apps, content, and explanations — to teach learners how to identify phishing attempts.
+description: التعرف على كيفية إنشاء أسئلة الاختبارات وتخصيصها في Shira. بما في ذلك التفضيلات، والتطبيقات، والمحتوى، والتفسيرات. لتلقين المتعلمين كيفية تحديد محاولات التصيد الاحتيالي.
 
 ---
 
@@ -47,7 +47,7 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 - Gmail
 - Outlook
 - الرسائل النصية
-- WhatsApp
+- واتساب
 - Facebook Messenger
 - تطبيقات المواعدة
 
@@ -58,8 +58,8 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 محتوى السؤال هو نص البريد الإلكتروني أو الرسالة الفعلية التي تقومون بصياغتها
 لتظهر ضمن سؤال الاختبار.
 
-يمكن أن يشمل ذلك أي عناصر تكون عادةً جزءاً من رسائل البريد الإلكتروني أو الرسائل
-في الحياة الواقعية: النصوص، الصور، ملفات المرفقات، الروابط، وغيرها.
+يمكن أن يشمل ذلك أي عناصر تكون عادةً جزءاً من رسائل البريد الإلكتروني أو رسائل
+من الحياة الواقعية: النصوص، الصور، ملفات المرفقات، الروابط، وغيرها.
 
 ## التفسيرات {#explanations}
 التفسيرات هي مقتطفات قصيرة من النص يمكنكم إنشاؤها لشرح طبيعة البريد الإلكتروني
