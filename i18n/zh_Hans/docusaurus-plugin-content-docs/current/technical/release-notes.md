@@ -2,13 +2,13 @@
 id: release-notes
 slug: /release-notes
 sidebar_position: 1
-description: Stay up to date with the latest Shira features and improvements, including Spaces, customizable quizzes and questions, explanations, multi-app support, and learner results.
+description: 及时了解 Shira 最新功能和改进，包括空间、可定制测验和题目、解析、多应用支持以及学员结果。
 
 ---
 
 # 发布说明
 
-:::提示 这里包含关于 Shira
+:::tip 这里包含关于 Shira
 最新功能与改进的所有重要信息。如有遗漏，请[在此处提交建议新功能或改进意见](https://github.com/Horizontal-org/shira/discussions)。
 :::
 
