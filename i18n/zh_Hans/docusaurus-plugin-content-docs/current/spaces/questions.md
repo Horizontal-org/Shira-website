@@ -2,7 +2,7 @@
 id: questions
 slug: /questions
 sidebar_position: 3
-description: Learn how to create and customize quiz questions in Shira — including preferences, apps, content, and explanations — to teach learners how to identify phishing attempts.
+description: 了解如何在 Shira 中创建和自定义测验题目，包括偏好设置、应用、内容和解析，以此培训学员如何识别钓鱼攻击。
 
 ---
 
@@ -40,7 +40,7 @@ description: Learn how to create and customize quiz questions in Shira — inclu
 - Facebook Messenger
 - 交友应用
 
-:::备注 如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！ :::
+:::note 如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！ :::
 
 ## 题目内容{#content}
 题目内容指您为测验题目编写的实际邮件或消息。
