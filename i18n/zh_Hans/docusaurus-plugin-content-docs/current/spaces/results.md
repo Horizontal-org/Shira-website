@@ -2,7 +2,7 @@
 id: results
 slug: /results
 sidebar_position: 5
-description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
+description: 在 Shira 中查看和分析团队的测验表现：追踪完成的测验、平均分数，以及在钓鱼防范意识方面可提升的领域。
 
 ---
 # 结果
@@ -25,4 +25,4 @@ description: View and analyze your team’s quiz performance in Shira — track 
 **学员结果** [即将推出]\
 完成测验的注册学员列表及其测验分数。学员结果仅适用于私有测验。
 
-:::备注 如果想要在结果中追踪特定内容，[请告诉我们](/contact)! :::
+:::note 如果想要在结果中追踪特定内容，[请告诉我们](/contact)! :::
