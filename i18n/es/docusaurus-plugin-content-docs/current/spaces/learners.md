@@ -1,7 +1,7 @@
 ---
 id: learners
 slug: /learners
-sidebar_position:4
+sidebar_position: 4
 description: Aprende sobre estudiantes de Shira — personas participantes anónimas que completan los cuestionarios para probar la conciencia en torno al phishing o personas estudiantes registradas para seguimiento privado de cuestionario.
 
 ---
