@@ -1,8 +1,8 @@
 ---
-id: questions
+id: вопросы
 slug: /questions
 sidebar_position: 3
-description: Learn how to create and customize quiz questions in Shira — including preferences, apps, content, and explanations — to teach learners how to identify phishing attempts.
+description: Узнайте, как создавать и настраивать вопросы викторины в Shira — включая настройки, приложения, контент и обьяснения — чтобы научить учащихся распознавать попытки фишинга.
 
 ---
 
@@ -55,8 +55,10 @@ Outlook, SMS, WhatsApp и т. д.
 - Facebook Messenger
 - Приложение для знакомств
 
-:::note [Сообщите нам](/contact), если ваша команда использует приложения,
-которых нет в этом списке, и которые вы хотели бы видеть в Shira! :::
+:::note\
+[Сообщите нам](/contact), если ваша команда использует приложения, которых нет в
+этом списке, и которые вы хотели бы видеть в Shira! \
+:::
 
 ## Содержание вопроса {#content}
 Содержимое вопроса — это фактическое электронное письмо или сообщение, которое
