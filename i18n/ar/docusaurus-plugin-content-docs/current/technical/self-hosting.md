@@ -2,7 +2,7 @@
 id: self-hosting
 slug: /self-hosting
 sidebar_position: 2
-description: Learn how to self-host Shira, the open-source phishing training platform, with upcoming guidance for setting up your own instance and managing quizzes independently.
+description: التعرف على كيفية استضافة Shira، منصة التدريب مفتوحة المصدر لمكافحة التصيد الاحتيالي، مع إرشادات قادمة حول كيفية إعداد نسختكم وإدارة الاختبارات بشكل مستقل.
 
 ---
 # الاستضافة الذاتية
