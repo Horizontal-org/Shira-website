@@ -2,7 +2,7 @@
 id: results
 slug: /results
 sidebar_position: 5
-description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
+description: Dans Shira, consultez et analysez les performances de votre équipe aux quiz— suivez les quiz complétés, les scores moyens et identifiez les points à améliorer en matière de sensibilisation au phishing .
 
 ---
 # Résultats
@@ -37,5 +37,7 @@ Vous trouverez ici la liste des apprenants inscrits ayant répondu au quiz, ains
 que leur score. Les résultats par apprenant ne sont disponibles que pour les
 quiz privés.
 
-:::note Si vous souhaitez suivre des éléments spécifiques dans les résultats,
-[faites-le nous savoir](/contact)! :::
+:::note\
+Si vous souhaitez suivre des éléments spécifiques dans les résultats, [faites-le
+nous savoir](/contact)! \
+:::
