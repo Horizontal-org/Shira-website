@@ -2,15 +2,17 @@
 id: release-notes
 slug: /release-notes
 sidebar_position: 1
-description: Stay up to date with the latest Shira features and improvements, including Spaces, customizable quizzes and questions, explanations, multi-app support, and learner results.
+description: Будьте в курсе последних новостей о функциях и улучшениях Shira, включая Spaces, настраиваемые викторины и вопросы, обьяснения, поддержку нескольких приложений и результаты учащихся.
 
 ---
 
 # Примечания к релизу
 
-::: tip Здесь вы найдете всю необходимую информацию о последних функциях и
-улучшениях в Shira. Если чего-то не хватает, вы можете [предложить новые функции
-или улучшения здесь](https://github.com/Horizontal-org/shira/discussions). :::
+:::tip\
+Здесь вы найдете всю необходимую информацию о последних функциях и улучшениях в
+Shira. Если чего-то не хватает, вы можете [предложить новые функции или
+улучшения здесь](https://github.com/Horizontal-org/shira/discussions). \
+:::
 
 ## Shira  версия 2.0-beta5 {#shira-20-beta5}
 *Выпущено 29 января 2026 года*
