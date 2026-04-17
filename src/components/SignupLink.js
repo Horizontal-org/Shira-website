@@ -1,11 +1,11 @@
 import React from 'react';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useSignupUrl from '@site/src/hooks/useSignupUrl';
 
-export default function SignupLink({ children }) {
-  const { siteConfig } = useDocusaurusContext();
+export default function SignupLink({ children, plan = 'starter' }) {
+  const getSignupUrl = useSignupUrl();
 
   return (
-    <a href={siteConfig.customFields.signupFormUrl}>
+    <a href={getSignupUrl(plan)}>
       {children}
     </a>
   );

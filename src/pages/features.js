@@ -4,15 +4,14 @@ import Link from '@docusaurus/Link';
 import styles from './features.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Translate, { translate } from '@docusaurus/Translate';
+import useSignupUrl from '@site/src/hooks/useSignupUrl';
 import FishImage from "@site/static/img/fish.png"
 import BubblesImage from"@site/static/img/fish-bubbles.png"
 
 
 export default function Features() {
-  const { siteConfig } = useDocusaurusContext();
-  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+  const getSignupUrl = useSignupUrl();
 
   return (
     <Layout
@@ -61,7 +60,7 @@ export default function Features() {
               <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">
                 <Translate id="features.intro.pricing">Pricing</Translate>
               </Link>
-              <Link className={classNames(styles.button, global.buttonDark)} to={signupFormUrl}>
+              <Link className={classNames(styles.button, global.buttonDark)} to={getSignupUrl()}>
                 <Translate id="features.intro.getStarted">Get Started</Translate>
               </Link>
             </div>
