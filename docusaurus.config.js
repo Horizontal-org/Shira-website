@@ -64,6 +64,7 @@ const config = {
       },
       'zh-Hans': {
         label: '中文（简体）',
+        path: 'zh_Hans',
       },
       ru: {
         label: 'Русский',
