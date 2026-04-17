@@ -260,7 +260,7 @@ export default function Pricing() {
             </h4>
             <ul>
               <li>
-                <Translate id="pricing.pro.track">
+                <Translate id="pricing.compliance.track">
                   ✔️ Basic analytics to track results on the quiz level
                 </Translate>
               </li>
