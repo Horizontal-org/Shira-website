@@ -4,15 +4,15 @@
         "description": "The alt text of navbar logo"
     },
     "item.label.Features": {
-        "message": "Особенности",
+        "message": "Возможности",
         "description": "Navbar item with label Features"
     },
     "item.label.Take a quiz": {
-        "message": "Пройдите тест",
+        "message": "Пройти тест",
         "description": "Navbar item with label Take a quiz"
     },
     "item.label.Learn": {
-        "message": "Узнать",
+        "message": "Подробнее",
         "description": "Navbar item with label Learn"
     },
     "item.label.Pricing": {
@@ -28,7 +28,7 @@
         "description": "Navbar item with label About"
     },
     "item.label.Sign up/Log in": {
-        "message": "Зарегистрироваться/Войти",
+        "message": "Регистрация/Вход",
         "description": "Navbar item with label Sign up/Log in"
     },
     "item.label.What is Phishing?": {
@@ -36,7 +36,7 @@
         "description": "Navbar item with label What is Phishing?"
     },
     "item.label.Why phishing quizzes?": {
-        "message": "Зачем нужны фишинговые викторины?",
+        "message": "Зачем нужны тесты по фишингу?",
         "description": "Navbar item with label Why phishing quizzes?"
     }
 }
