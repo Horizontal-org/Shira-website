@@ -176,7 +176,7 @@ const config = {
           },
 
           {
-            to: `${signupFormUrl}`,
+            to: `${signupFormUrl}?plan=starter`,
             label: 'Sign up/Log in',
             position: 'right',
             className: 'button',
@@ -221,7 +221,7 @@ const config = {
               },
               {
                 label: 'Build a custom quiz',
-                href: signupFormUrl,
+                href: `${signupFormUrl}?plan=starter`,
               },
             ],
           },

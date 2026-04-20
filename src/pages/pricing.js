@@ -4,12 +4,11 @@ import Link from '@docusaurus/Link';
 import styles from './pricing.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Translate, { translate } from '@docusaurus/Translate';
+import useSignupUrl from '@site/src/hooks/useSignupUrl';
 
 export default function Pricing() {
-  const { siteConfig } = useDocusaurusContext();
-  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+  const getSignupUrl = useSignupUrl();
 
   return (
     <Layout
@@ -68,7 +67,7 @@ export default function Pricing() {
               </Translate>
             </p>
 
-            <Link className={global.buttonDark} to={signupFormUrl}>
+            <Link className={global.buttonDark} to={getSignupUrl('starter')}>
               <Translate id="pricing.cta.getStarted">Get started</Translate>
             </Link>
 
@@ -175,7 +174,7 @@ export default function Pricing() {
               </span>
             </p>
 
-            <Link className={global.buttonDark} to={signupFormUrl}>
+            <Link className={global.buttonDark} to={getSignupUrl('pro')}>
               <Translate id="pricing.cta.getStarted">Get started</Translate>
             </Link>
 
@@ -299,7 +298,7 @@ export default function Pricing() {
               </Translate>
             </p>
 
-            <Link className={global.buttonDark} to={signupFormUrl}>
+            <Link className={global.buttonDark} to={getSignupUrl('enterprise')}>
               <Translate id="pricing.cta.getStarted">Get started</Translate>
             </Link>
 
