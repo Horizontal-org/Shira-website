@@ -342,7 +342,7 @@
         "message": "Статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": "Статья из «Уолл-стрит джорнал»: «Фишинговые тесты, проклятие рабочей жизни, становятся всё более изощрёнными» — Исследователи утверждают, что эти уловки, призванные научить доверчивых сотрудников опасаться угроз, таящихся в Интернете, на самом деле не дают никакого эффекта"
+        "message": "Статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
     },
     "phishingQuizzes.problem.title": {
         "message": "Что не так с симуляциями фишинга"
@@ -808,7 +808,7 @@
         "description": "The ARIA label for the color mode toggle"
     },
     "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "1 наименование | {count} наименований",
+        "message": "1 объект | Объектов: {count}",
         "description": "The default description for a category card in the generated index about how many items this category includes"
     },
     "theme.docs.paginator.navAriaLabel": {
@@ -816,15 +816,15 @@
         "description": "The ARIA label for the docs pagination"
     },
     "theme.docs.paginator.previous": {
-        "message": "Предыдущий",
+        "message": "Пред.",
         "description": "The label used to navigate to the previous doc"
     },
     "theme.docs.paginator.next": {
-        "message": "Далее",
+        "message": "След.",
         "description": "The label used to navigate to the next doc"
     },
     "theme.docs.tagDocListPageTitle.nDocsTagged": {
-        "message": "Один документ с тегом | {count} документов с тегом",
+        "message": "Один документ с тегом|Документов с тегом: {count}",
         "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.docs.tagDocListPageTitle": {
@@ -859,11 +859,11 @@
         "description": "Title for link to heading"
     },
     "theme.lastUpdated.atDate": {
-        "message": " на {date}",
+        "message": " версия от {date}",
         "description": "The words used to describe on which date a page has been last updated"
     },
     "theme.lastUpdated.byUser": {
-        "message": " автор: {user}",
+        "message": " от {user}",
         "description": "The words used to describe by who the page has been last updated"
     },
     "theme.lastUpdated.lastUpdatedAtBy": {
@@ -887,7 +887,7 @@
         "description": "The ARIA label for close button of announcement bar"
     },
     "theme.admonition.caution": {
-        "message": "предупреждение",
+        "message": "внимание",
         "description": "The default label used for the Caution admonition (:::caution)"
     },
     "theme.admonition.danger": {
@@ -999,7 +999,7 @@
         "description": "The ARIA label for hamburger menu button of mobile navigation"
     },
     "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-        "message": "← Вернуться в главное меню",
+        "message": "← В главное меню",
         "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
     },
     "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
@@ -1022,13 +1022,13 @@
         "message": "Результатов нет"
     },
     "theme.SearchBar.seeAllOutsideContext": {
-        "message": "Показать все результаты за пределами «{context}»"
+        "message": "Все результаты за пределами «{context}»"
     },
     "theme.SearchBar.searchInContext": {
-        "message": "Посмотреть все результаты по запросу «{context}»"
+        "message": "Все результаты по запросу «{context}»"
     },
     "theme.SearchBar.seeAll": {
-        "message": "Посмотреть все результаты"
+        "message": "Все результаты"
     },
     "theme.SearchBar.label": {
         "message": "Поиск",
@@ -1046,7 +1046,7 @@
         "message": "Везде"
     },
     "theme.SearchPage.documentsFound.plurals": {
-        "message": "Найдено 1 документ|{count} документов найдено",
+        "message": "Найден 1 документ|Документов найдено: {count}",
         "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.SearchPage.noResultsText": {
@@ -1054,7 +1054,7 @@
         "description": "The paragraph for empty search result"
     },
     "theme.blog.post.plurals": {
-        "message": "Один пост|{count} постов",
+        "message": "Одна публикация|Публикаций: {count}",
         "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
     },
     "theme.blog.tagTitle": {
@@ -1074,27 +1074,27 @@
         "description": "The label of the link targeting the blog authors page"
     },
     "theme.blog.author.noPosts": {
-        "message": "Этот автор пока не публиковал никаких сообщений.",
+        "message": "У этого автора пока нет публикаций.",
         "description": "The text for authors with 0 blog post"
     },
     "theme.contentVisibility.unlistedBanner.title": {
-        "message": "Страница, не включённая в список",
+        "message": "Неиндексированная страница",
         "description": "The unlisted content banner title"
     },
     "theme.contentVisibility.unlistedBanner.message": {
-        "message": "Эта страница закрыта для общего доступа. Поисковые системы не будут её индексировать, и доступ к ней имеют только пользователи, у которых есть прямая ссылка.",
+        "message": "Это неиндексированная страница. Поисковые системы не будут её учитывать. Доступ к ней имеют только те, у кого есть прямая ссылка.",
         "description": "The unlisted content banner message"
     },
     "theme.contentVisibility.draftBanner.title": {
-        "message": "Черновая страница",
+        "message": "Черновик",
         "description": "The draft content banner title"
     },
     "theme.contentVisibility.draftBanner.message": {
-        "message": "Эта страница является черновиком. Она будет доступна только в тестовой среде и не войдет в финальную версию.",
+        "message": "Эта страница — черновик. Она будет доступна только для разработчиков и не войдёт в финальную версию.",
         "description": "The draft content banner message"
     },
     "theme.ErrorPageContent.tryAgain": {
-        "message": "Попробуй ещё раз",
+        "message": "Попробуйте снова",
         "description": "The label of the button to try again rendering when the React error boundary captures an error"
     },
     "theme.common.skipToMainContent": {
@@ -1106,16 +1106,16 @@
         "description": "The title of the tag list page"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": "статья из «Уолл-стрит джорнал»: «Фишинговые тесты, проклятие рабочей жизни, становятся всё более изощрёнными» — Исследователи утверждают, что эти уловки, призванные научить доверчивых сотрудников опасаться угроз, таящихся в Интернете, даже не работают"
+        "message": "статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": "статья из «Уолл-стрит джорнал»: «Фишинговые тесты, проклятие рабочей жизни, становятся всё более изощрёнными» — Исследователи утверждают, что эти уловки, призванные научить доверчивых сотрудников опасаться угроз, таящихся в Интернете, даже не работают"
+        "message": "статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
     },
     "phishingQuizzes.research.emphasis": {
         "message": "контрпродуктивный"
     },
     "phishingQuizzes.research.final": {
-        "message": "Результаты симуляций фишинговых атак: пользователи, которые постоянно сталкиваются с симуляциями фишинговых атак, с большей вероятностью переходят по опасным ссылкам."
+        "message": "эффект от симуляций фишинговых атак: пользователи, которые постоянно сталкиваются с симуляциями фишинговых атак, скорее переходят по опасным ссылкам."
     },
     "pricing.compliance.detailed": {
         "message": "✔️ Подробная аналитика для контроля результатов учащихся и уровня сложности вопросов"
