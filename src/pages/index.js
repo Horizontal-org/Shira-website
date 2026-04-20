@@ -8,11 +8,13 @@ import Translate, { translate } from '@docusaurus/Translate';
 import ContextImage from "@site/static/img/context.png"
 
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import useSignupUrl from '@site/src/hooks/useSignupUrl';
 
 
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
+  const getSignupUrl = useSignupUrl();
 
   return (
     <Layout
@@ -83,7 +85,7 @@ export default function Home() {
                   monitor your team’s success rates — all without technical skills.
                 </Translate>
               </p>
-              <Link className={global.buttonLight} to={siteConfig.customFields.signupFormUrl}>
+              <Link className={global.buttonLight} to={getSignupUrl()}>
                 <Translate id="homepage.educators.cta">Create your own quiz</Translate>
               </Link>
             </div>

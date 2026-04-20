@@ -5,15 +5,14 @@ import styles from './phishing-quizzes.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Iframe from 'react-iframe';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Translate, { translate } from '@docusaurus/Translate';
+import useSignupUrl from '@site/src/hooks/useSignupUrl';
 
 import WsjImage from '@site/static/img/wsj.png';
 import WsjMobileImage from '@site/static/img/wsj_mobile.jpg';
 
 export default function PhishingQuizzes() {
-  const { siteConfig } = useDocusaurusContext();
-  const signupFormUrl = siteConfig.customFields.signupFormUrl;
+  const getSignupUrl = useSignupUrl();
 
   return (
     <Layout
@@ -287,7 +286,7 @@ export default function PhishingQuizzes() {
           </p>
 
           <div className={styles.alignedCenter}>
-            <Link className={global.buttonDark} to={signupFormUrl}>
+            <Link className={global.buttonDark} to={getSignupUrl()}>
               <Translate id="phishingQuizzes.cta">
                 Get started
               </Translate>
