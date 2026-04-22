@@ -38,7 +38,7 @@ Esto te muestra la lista de personas estudiantes registradas que han completado
 el cuestionario y su puntuación en el cuestionario. Los resultados por
 estudiante solo están disponibles para cuestionarios privados.
 
-:::note
+:::note\
 Si hay elementos específicos que te gustaría monitorear en Resultados, ¡[déjanos
-saber](/contact)!
+saber](/contact)!\
 :::

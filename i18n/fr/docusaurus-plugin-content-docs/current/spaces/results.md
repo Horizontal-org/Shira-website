@@ -37,7 +37,7 @@ Vous trouverez ici la liste des apprenants inscrits ayant répondu au quiz, ains
 que leur score. Les résultats par apprenant ne sont disponibles que pour les
 quiz privés.
 
-:::note
+:::note\
 Si vous souhaitez suivre des éléments spécifiques dans les résultats, [faites-le
-nous savoir](/contact)!
+nous savoir](/contact)! \
 :::
