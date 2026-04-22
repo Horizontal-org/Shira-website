@@ -1,0 +1,60 @@
+---
+id: welcome
+slug: /help
+description: مقدمة عن Shira، أداة تدريب لمكافحة التصيد الاحتيالي، تساعد الفرق والمؤسسات على تعلم كيفية تحديد هجمات التصيد الاحتيالي بالبريد الإلكتروني والرسائل القصيرة وتطبيقات المراسلة.
+sidebar_label: Welcome
+sidebar_position: 1 
+pagination_prev: null
+pagination_next: 'ready-made'
+---
+import React from 'react'; import { useDocsSidebar } from
+'@docusaurus/theme-common/internal';
+
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
+DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
+global from '/src/css/custom.module.scss'; import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
+
+# مرحباً بكم في مركز مساعدة Shira!
+
+Shira أداة تعليمية لمكافحة التصيد الاحتيالي. يُستخدم Shira لتدريب أي شخص على كشف
+هجمات التصيد المرسلة عبر البريد الإلكتروني، والرسائل النصية، وتطبيقات المراسلة.
+
+يوفر Shira محاكاة تصيد احتيالي تشبه إلى حد كبير ما سيتلقاه فريقك في الحياة
+الواقعية، وذلك في بيئة تعلم متحكم بها. تم بناء Shira وفق [أبحاث
+أظهرت](/phishing-quizzes) أنه عندما يتعلق الأمر ببناء مهارات مكافحة التصيد
+الاحتيالي، فإن التعليم أكثر فعالية بكثير من الرسائل المحاكية للتصيد الاحتيالي
+المُرسلَة إلى البريد الإلكتروني للمتعلمين.
+
+ستجدون إرشادات في هذا المركز حول كيفية استخدام Shira لتدريب فريقكم أو مجتمعكم.
+إذا لم تتم الإجابة على بعض أسئلتكم هنا، [يُرجى التواصل معنا!](/contact)
+
+### الاختبارات الجاهزة {#ready-made-quizzes}
+تتيح [اختباراتنا الجاهزة](/ready-made) للمستخدمين إجراء اختبار مكون من 10 أسئلة
+مخصصة ليبدو مشابها قدر الإمكان لما سيُختبَرون عليه في الواقع. إنه مجاني ومتاح
+للجميع.
+
+يمكنكم [قراءة المزيد عن الاختبارات الجاهزة هنا](/ready-made) أو <QuizLink>تجربة
+اختبار جاهز بأنفسكم!</QuizLink>
+
+
+### مساحة Shira ‏{#shira-space}
+صُممت [مساحة Shira](/spaces) للفرق والمنظمات وتقدم ميزات متقدمة مثل:
+- إنشاء أسئلة اختبار الخاصة، مع محتوى خاص بفريقكم.
+- تعيين خصوصية اختباركم لتكون عمومية (متاحة لأي شخص لديه رابط الاختبار) أو خاصة
+  (متاحة فقط للمتعلمين المسجلين لدى مؤسستكم). الاختبارات الخاصة قادمة قريبا!
+- تتبُّع نتائج المستخدمين لفهم أين يمكنهم التحسن.
+
+إذا كنتم على استعداد للانطلاق، يمكن <SignupLink>إنشاء مساحة هنا</SignupLink> أو
+قراءة المزيد عن المساحات:
+
+<FeaturedDocs />
+
+export function FeaturedDocs() { const category = useCurrentSidebarCategory();
+const spacesItems = category.items.find( (item) => item.type === 'category' &&
+item.items?.some( (child) => child.docId?.startsWith('spaces/') ) ).items;
+
+return ( <div className={classNames(global.shiraDocCards)}>
+{spacesItems.map((item, idx) => ( <DocCard key={idx} item={item} /> ))} </div>
+); }

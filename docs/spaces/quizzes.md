@@ -1,13 +1,13 @@
 ---
 id: quizzes
 slug: /quizzes
-sidebar_position: 3
+sidebar_position: 2
 description: Learn how to create, manage, and customize quizzes in Shira to train your team on phishing awareness, including publishing, editing, duplicating, and deleting quizzes.
 
 ---
 # Quizzes
 
-In Shira, a quiz is the central component where you build your education campaigns or programs. Shira lets you build your own quizzes to match your audience's specific needs, context, and threats.
+In Shira, a quiz is the central component of a phishing education campaign or program. Shira lets you build your own quizzes to match your audience's specific needs, context, and threats.
 
 In your Shira Space, you can:
 - [create quizzes](#create-quizzes)
@@ -18,44 +18,48 @@ In your Shira Space, you can:
 - [delete quizzes](#delete-quiz)
 
 ## Creating quizzes {#create-quizzes}
-In your Shira space, you can create your quizzes. The amount of quizzes and the amount of questions each quiz can have depends on your [Shira plan](/pricing). 
+When you create a quiz, you must:
+1. Name your quiz
+2. Set the privacy of your quiz
 
-## Quiz privacy settings {#privacy}
-You can choose the privacy settings of your quiz (public or private) in the moment of creation.
-* **Public quizzes**: Anyone with the quiz URL can take the quiz.
-* **Private quizzes**: Only invited learners from your space can take the quiz.
+### Quiz name {#name}
+The name your pick for the quiz helps you and your learners recognize the purpose of your quiz (eg. "Q4 staff training", "2026 most common attacks", etc). The quiz name is visible to learners:
+- In the email learners receive when you assign them a quiz (exclusively for [private quizzes](#privacy))
+- On the welcome screen when learners take the quiz.
 
-This setting is permanent and cannot be changed. If you want to change it later, you will have to duplicate this quiz.
+### Quiz privacy {#privacy}
+There are two options available for quiz privacy: public and private.
+
+**The privacy of a quiz is permanent and cannot be changed**. If you want to change the privacy of an existing quiz, you must to duplicate the quiz.
+
+**Public quizzes**
+* Anyone with the quiz URL can take a public quiz.
+* The quiz URL is a URL unique to each quiz that learners use to take a quiz. A quiz URL looks like this: `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. The quiz URL remains the same even if you publish and unpublish the quiz multiple times.
+* Learners who take public quizzes remain anonymous. This means that in [Results](/results) you cannot identified who those learners are. 
+
+**Private quizzes**
+* Only learners who are registered in your space can take the quiz. You can read more about [registered learners here](/learners#registered).
+* When a registered learner is assigned a private quiz, they receive an email with the link to take the quiz. This link is unique to each learner and helps keep track of who takes the quiz and their results.  
 
 ## Adding question to your quiz {#questions}
 
 You can add questions to your quiz either by creating them manually or importing ready-made templates from the Library. [Learn more about questions here](/questions).
 
-## Quiz URL {#quiz-url}
-The quiz URL is a URL unique to each quiz that learners use to take a quiz. A quiz URL looks like this: `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68`
-
-The quiz URL remains the same even if you publish and unpublish the quiz multiple times. 
-For public quizzes, the URL is and all learners use the same one. For private quizzes, the URL is unique to each learner and it's used to track their progress.
-
 ## Publishing and unpublishing quizzes {#publish-unpublish}
-Publishing a quiz means that you are making it accessible to anyone with the quiz URL. 
+Publishing a quiz means that you are making it accessible to learners. 
 
 You can then unpublish the quiz to make it impossible for learners to take it. If the quiz is unpublished, the quiz URL will lead to an error page. 
 
 :::note
-If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their answers will be lost. 
+If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost. 
 :::
 
 ## Editing quizzes {#edit-quizzes}
 You can edit any quiz, whether it is published or unpublished, including:
-- Adding new questions to the quiz
-- Editing questions that already exist in the quiz
-- Reording questions. The order of questions that you see in your space is the same order that the questions will be shown to learners when they take the quiz.
-- Deleting questions. Once deleted, there is no way of retrieving a question. 
-
-:::info
-The amount of questions you can add to your quiz depends on your [Shira plan](/pricing).
-:::
+- Adding new questions to the quiz.
+- Editing questions that already exist in the quiz.
+- Reording questions: the order of questions that you see in your space is the same order that the questions will be shown to learners when they take the quiz.
+- Deleting questions: once deleted, there is no way of retrieving a question. 
 
 :::note
 If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
@@ -64,9 +68,9 @@ If some learners have already taken the quiz, editing this quiz may affect the r
 ## Duplicating a quiz {#duplicate-quiz}
 Duplicating a quiz means creating an exact copy of an existing quiz. 
 
-Once duplicated, the original quiz and the new quiz are independent from each other: you can edit or delete one, the other will be unaffected.  Results associated with the original quizz **won't** be moved to the copy.
+Once duplicated, the original quiz and the new quiz are independent from each other: you can edit or delete one, the other will be unaffected.  **Results associated with the original quizz *will not* be moved to the new copy of the quiz**.
 
-You can set a quiz privacy settings (public or private) in the moment of duplication.
+You can set a quiz privacy settings (public or private) at the time of duplication.
 
 
 ## Deleting a quiz {#delete-quiz}

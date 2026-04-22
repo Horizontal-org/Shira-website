@@ -46,8 +46,9 @@ set -e
 
 set -a
 source .env
-echo "space url used:"
+echo "env variables used:"
 echo $SPACE_URL
+echo $QUIZ_URL
 set +a
 
 
@@ -60,6 +61,8 @@ else
       git fetch --all 
 
       git reset --hard origin/$Branch
+
+      rm yarn.lock
 
       npm install
 

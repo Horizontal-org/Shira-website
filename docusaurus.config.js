@@ -9,6 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const signupBaseURL = process.env.SPACE_URL || 'https://alpha.space.shira.app';
 const signupFormUrl = `${signupBaseURL}/get-started`;
 
+const quizBaseURL = process.env.QUIZ_URL || 'https://alpha.quiz.shira.app';
+
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -23,7 +25,7 @@ const config = {
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
+   },
 
   // Set the production url of your site here
   url: 'https://shira.app',
@@ -33,10 +35,8 @@ const config = {
 
 
   markdown: {
-
     hooks: {
       onBrokenMarkdownLinks: 'throw',
-      onBrokenMarkdownImages: 'throw',
     },
   },
 
@@ -45,13 +45,36 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'fr', 'ar', 'zh-Hans', 'ru'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      es: {
+        label: 'Español',
+      },
+      fr: {
+        label: 'Français',
+      },
+      ar: {
+        label: 'العربية',
+        direction: 'rtl',
+      },
+      'zh-Hans': {
+        label: '中文（简体）',
+        path: 'zh_Hans',
+      },
+      ru: {
+        label: 'Русский',
+      },
+    },
   },
 
   plugins: ['docusaurus-plugin-sass'],
 
   customFields: {
     signupFormUrl: signupFormUrl,
+    quizBaseURL: quizBaseURL,
   },
 
 
@@ -108,7 +131,7 @@ const config = {
             position: 'left',
           },
           {
-            to: 'https://quiz.shira.app/',
+            to: quizBaseURL,
             sidebarId: 'takeQuizSidebar',
             position: 'left',
             label: 'Take a quiz',
@@ -145,8 +168,13 @@ const config = {
             position: 'left',
           },
 
+          /* {
+            type: 'localeDropdown',
+            position: 'right',
+          },*/
+
           {
-            to: `${signupFormUrl}`,
+            to: `${signupFormUrl}?plan=starter`,
             label: 'Sign up/Log in',
             position: 'right',
             className: 'button',
@@ -183,7 +211,7 @@ const config = {
             items: [
               {
                 label: 'Take a ready-made quiz',
-                href: 'https://quiz.shira.app/',
+                href: quizBaseURL,
               },
               {
                 label: 'Explore Shira features',
@@ -191,7 +219,7 @@ const config = {
               },
               {
                 label: 'Build a custom quiz',
-                href: signupFormUrl,
+                href: `${signupFormUrl}?plan=starter`,
               },
             ],
           },

@@ -4,41 +4,97 @@ import Link from '@docusaurus/Link';
 import styles from './contact.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-
+import Translate, { translate } from '@docusaurus/Translate';
 
 export default function Contact() {
   return (
     <Layout
-        title="Contact the Shira team"
-      description="Learn about how to contact the Shira team"
+      title={translate({
+        id: 'contact.title',
+        message: 'Contact the Shira team'
+      })}
+      description={translate({
+        id: 'contact.description',
+        message: 'Learn about how to contact the Shira team'
+      })}
     >
       <main className="main">
-        <meta name="description" content="Learn about how to contact the Shira team" />
+        <meta
+          name="description"
+          content={translate({
+            id: 'contact.metaDescription',
+            message: 'Learn about how to contact the Shira team'
+             })}
+        />
 
-        <section className={classNames(global.column, global.backgroundLight, styles.contactShira)}>
-          <div className={classNames(global.center,styles.contactShiraText )}>
-            <h1>Let’s talk!</h1>
+        <section
+          className={classNames(
+            global.column,
+            global.backgroundLight,
+            styles.contactShira
+          )}
+        >
+          <div className={classNames(global.center, styles.contactShiraText)}>
+            <h1>
+              <Translate id="contact.heading">
+                Let’s talk!
+              </Translate>
+            </h1>
 
             <p>
-              Do you have questions about shira (that's not answered in our <a href="/help">help center</a>)?
-              Would you like to explore a possible partnership?
-              Are you a part of a grassroot organization and cannot afforrd the full cost of Shira?
+              <Translate id="contact.intro.part1">
+                Do you have questions about Shira (that are not answered in our
+              </Translate>{' '}
+              <Link to="/help">
+                <Translate id="contact.intro.helpCenter">
+                  help center
+                </Translate>
+              </Link>
+              <Translate id="contact.intro.part2">
+                )? Would you like to explore a possible partnership? Are you a part of a grassroots organization and cannot afford the full cost of Shira?
+              </Translate>
             </p>
 
-            <h4>Get in touch:</h4>
-              <ul>
-                <li>Write to us to <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>.</li>
-                <li><a href="https://github.com/Horizontal-org/shira/discussions">Post a feature idea or vote on the community needs</a>.</li>
-                <li><a href="https://calendly.com/raphael-mimoun/shira-demo">Schedule a demo call directly here</a>.</li>
-                <li><a href="https://blog.wearehorizontal.org/tag/shira/">Subscribe to our newsletter</a>.</li>
-              </ul>
+            <h4>
+              <Translate id="contact.getInTouch">
+                Get in touch:
+              </Translate>
+            </h4>
+
+            <ul>
+              <li>
+                <Translate id="contact.links.emailText">
+                  Write to us at
+                </Translate>{' '}
+                <a href="mailto:contact@wearehorizontal.org">
+                  contact@wearehorizontal.org
+                </a>.
+              </li>
+              <li>
+                <a href="https://github.com/Horizontal-org/shira/discussions">
+                  <Translate id="contact.links.github">
+                    Post a feature idea or vote on the community needs
+                  </Translate>
+                </a>.
+              </li>
+              <li>
+                <a href="https://calendly.com/raphael-mimoun/shira-demo">
+                  <Translate id="contact.links.demo">
+                    Schedule a demo call directly here
+                  </Translate>
+                </a>.
+              </li>
+              <li>
+                <a href="https://blog.wearehorizontal.org/tag/shira/">
+                  <Translate id="contact.links.newsletter">
+                    Subscribe to our newsletter
+                  </Translate>
+                </a>.
+              </li>
+            </ul>
           </div>
         </section>
-
       </main>
     </Layout>
   );
 }
-
-

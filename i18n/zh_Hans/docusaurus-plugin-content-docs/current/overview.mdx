@@ -1,0 +1,51 @@
+---
+id: welcome
+slug: /help
+description: Shira 简介，一款防钓鱼培训工具，帮助团队和组织学习如何识别来自电子邮件、短信和即时通讯应用的钓鱼攻击。
+sidebar_label: Welcome
+sidebar_position: 1 
+pagination_prev: null
+pagination_next: 'ready-made'
+---
+import React from 'react'; import { useDocsSidebar } from
+'@docusaurus/theme-common/internal';
+
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
+DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
+global from '/src/css/custom.module.scss'; import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
+
+# 欢迎来到 Shira 帮助中心！
+
+Shira 是一款防钓鱼培训工具。任何人都可以借助 Shira 培训，识别来自电子邮件、短信和即时通讯应用的钓鱼攻击。
+
+Shira
+提供在可控学习环境中的钓鱼模拟，尽可能贴近团队面临的真实攻击。[研究表明](/phishing-quizzes)，在防钓鱼技能培养方面，培训比向学员收件箱发送模拟钓鱼邮件更为有效。Shira
+的构建正是基于这一理念。
+
+在帮助中心，可查找如何使用 Shira 培训团队或社区的指南。如果仍有问题，[请联系我们！](/contact)
+
+### 现成测验 {#ready-made-quizzes}
+[现成测验](/ready-made)为参加用户提供 10 道题目，测验内容经过定制，尽可能模拟现实生活中可能出现的情况。这些测验完全免费，并且对所有人开放。
+
+可在[此处参阅更多有关现成测验的信息](/ready-made)或<QuizLink>亲自试用现成测验！</QuizLink>
+
+
+### Shira 空间 {#shira-space}
+[Shira 空间](/spaces)专为团队和组织设计，可提供以下高级功能：
+- 自建测验题目，为您的团队量身定制内容。
+- 可将测验设置为公开，通过测验链接即可访问，或者设置为私有，仅限组织注册学员访问。私有测验即将推出！
+- 追踪用户结果，了解用户在哪些方面可以提升。
+
+如果您准备深入体验，请<SignupLink>在这里创建您的空间</SignupLink>，或者查阅更多有关空间的信息：
+
+<FeaturedDocs />
+
+export function FeaturedDocs() { const category = useCurrentSidebarCategory();
+const spacesItems = category.items.find( (item) => item.type === 'category' &&
+item.items?.some( (child) => child.docId?.startsWith('spaces/') ) ).items;
+
+return ( <div className={classNames(global.shiraDocCards)}>
+{spacesItems.map((item, idx) => ( <DocCard key={idx} item={item} /> ))} </div>
+); }
