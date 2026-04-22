@@ -298,8 +298,8 @@ export default function Pricing() {
               </Translate>
             </p>
 
-            <Link className={global.buttonDark} to={getSignupUrl('enterprise')}>
-              <Translate id="pricing.cta.getStarted">Get started</Translate>
+            <Link className={global.buttonDark} to="/contact">
+              <Translate id="features.needMore.cta">Contact Us</Translate>
             </Link>
 
             <hr />
