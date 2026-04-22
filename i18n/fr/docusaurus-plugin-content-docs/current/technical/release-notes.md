@@ -1,18 +1,18 @@
 ---
-id : release-notes
-slug : /release-notes
-sidebar_position : 1
-description : Restez informé des dernières fonctionnalités et améliorations de Shira, notamment Spaces, les quiz et questions personnalisables, les explications, la prise en charge multi-applications et les résultats des apprenants.
+id: release-notes
+slug: /release-notes
+sidebar_position: 1
+description: Restez informé des dernières fonctionnalités et améliorations de Shira, notamment Spaces, les quiz et questions personnalisables, les explications, la prise en charge multi-applications et les résultats des apprenants.
 
 ---
 
 # Notes de version
 
-:::tip\
+:::tip
 Voici tout ce que vous devez savoir sur les dernières fonctionnalités et
 améliorations de Shira. S'il manque quelque chose, vous pouvez [suggérer de
 nouvelles fonctionnalités ou améliorations
-ici](https://github.com/Horizontal-org/shira/discussions). \
+ici](https://github.com/Horizontal-org/shira/discussions).
 :::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}

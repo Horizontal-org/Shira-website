@@ -1,8 +1,8 @@
 --- 
-id : privacy-policy
-slug : /privacy-policy
-sidebar_position : 11
-description  : Découvrez comment Shira et Horizontal collectent, utilisent et protègent les données des utilisateurs et utilisatrices, notamment les données relatives à leur comptes, celles en relation avec les fonctionnalités, la télémétrie et les droits à la vie privée.
+id: privacy-policy
+slug: /privacy-policy
+sidebar_position: 11
+description: Découvrez comment Shira et Horizontal collectent, utilisent et protègent les données des utilisateurs et utilisatrices, notamment les données relatives à leur comptes, celles en relation avec les fonctionnalités, la télémétrie et les droits à la vie privée.
 ---
 import TOCInline from '@theme/TOCInline';
 

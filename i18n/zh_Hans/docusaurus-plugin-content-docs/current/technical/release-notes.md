@@ -8,9 +8,9 @@ description: 及时了解 Shira 最新功能和改进，包括空间、可定制
 
 # 发布说明
 
-:::tip\
+:::tip
 这里包含关于 Shira
-最新功能与改进的所有重要信息。如有遗漏，请[在此处提交建议新功能或改进意见](https://github.com/Horizontal-org/shira/discussions)。\
+最新功能与改进的所有重要信息。如有遗漏，请[在此处提交建议新功能或改进意见](https://github.com/Horizontal-org/shira/discussions)。
 :::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}

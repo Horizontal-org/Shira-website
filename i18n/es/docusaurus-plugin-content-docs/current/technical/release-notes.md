@@ -8,10 +8,10 @@ description: Mantente al día con las últimas  funciones y mejoras de Shira, in
 
 # Notas de Lanzamiento
 
-:::tip\
+:::tip
 Aquí está todo lo que necesitas saber sobre las últimas funcionalidades y
 mejoras en Shira. Si falta algo, puedes [sugerir nuevas funciones o mejoras
-aquí](https://github.com/Horizontal-org/shira/discussions).\
+aquí](https://github.com/Horizontal-org/shira/discussions).
 :::
 
 ## Shira 2.0-beta5 {#shira-20-beta5}

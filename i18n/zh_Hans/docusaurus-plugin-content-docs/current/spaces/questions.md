@@ -40,8 +40,8 @@ description: 了解如何在 Shira 中创建和自定义测验题目，包括偏
 - Facebook Messenger
 - 交友应用
 
-:::note\
-如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！ \
+:::note
+如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！
 :::
 
 ## 题目内容{#content}
