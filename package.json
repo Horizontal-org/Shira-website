@@ -47,7 +47,10 @@
     "engines": {
         "node": ">=18.0"
     },
+    "overrides": {
+        "webpackbar": "^7.0.0"
+    },
     "resolutions": {
-        "webpackbar": "5.105.0"
+        "webpackbar": "^7.0.0"
     }
 }
