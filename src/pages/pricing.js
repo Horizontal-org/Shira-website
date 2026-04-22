@@ -19,7 +19,7 @@ export default function Pricing() {
       description={translate({
         id: 'pricing.layout.description',
         message:
-          'Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools.',
+          "Explore Shira's simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools.",
       })}
     >
       <main className={global.main}>
@@ -28,7 +28,7 @@ export default function Pricing() {
           content={translate({
             id: 'pricing.meta.description',
             message:
-              'Explore Shira’s simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools.',
+              "Explore Shira's simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools.",
           })}
         />
 
@@ -151,7 +151,7 @@ export default function Pricing() {
             </ul>
           </div>
 
-          
+
 
           {/* Pro */}
           <div className={classNames(global.backgroundLight, styles.plan)}>
@@ -165,12 +165,7 @@ export default function Pricing() {
             </p>
             <p>
               <span className={styles.price}>
-                <Translate id="pricing.pro.price">$39/month + $1 per quiz taken</Translate>
-              </span>
-              <span className={styles.p}>
-                <Translate id="pricing.pro.billing">
-                  when billed annually or $49/month + $1 per quiz taken when billed monthly
-                </Translate>
+                <Translate id="pricing.pro.price">$50/month + $1 per quiz taken</Translate>
               </span>
             </p>
 
