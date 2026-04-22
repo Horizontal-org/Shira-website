@@ -333,7 +333,7 @@
         "message": "Por qué la educación supera la simulación"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": "Las simulaciones de phishing se han convertido en un elemento estándar en los programas de capacitación anti-phishing. Estas simulaciones implican el envío de emails al personal que imitan las tácticas utilizadas por ciber criminales para engañar a las personas para que revelen información confidencial o hagan clic en enlaces maliciosos. El personal es evaluado basado en su respuesta a estos correos simulados, particularmente si han hecho clic o proporcionado información sensible."
+        "message": "Las simulaciones de phishing se han convertido en un elemento estándar en los programas de capacitación anti-phishing. Estas simulaciones implican el envío de emails al personal que imitan las tácticas utilizadas por ciber criminales para engañar a las personas para que revelen información confidencial o hagan clic en enlaces maliciosos. El personal es evaluado en base a su respuesta a estos correos simulados, particularmente si han hecho clic o proporcionado información sensible."
     },
     "phishingQuizzes.education.paragraph2": {
         "message": "Sin embargo, estate enfoque tiene varias desventajas y no es tan efectivo como proporcionar educación integral en anti-phishing."
@@ -381,7 +381,7 @@
         "message": "Enviar repetidamente correos de phishing falsos puede desensibilizar a las personas ante la amenaza."
     },
     "phishingQuizzes.problem.punishment.title": {
-        "message": "Enfoque en castigo en lugar de prevención:"
+        "message": "Enfoque en el castigo en lugar de la prevención:"
     },
     "phishingQuizzes.problem.punishment.text": {
         "message": "Los correos de phishing simulados pueden crear una cultura de miedo, donde las personas están más enfocadas en evitar el castigo que en aprender."
@@ -477,19 +477,19 @@
         "message": "Contraseñas:"
     },
     "phishing.attackers.passwords.text": {
-        "message": "Quienes atacan buscan robar contraseñas y credenciales de inicio de sesión para acceder a las cuentas en línea de sus víctimas. Con esta información, pueden cometer fraude, robar datos, o extorsionar a víctimas amenazándoles con exponer información sensible."
+        "message": "Quienes atacan buscan robar contraseñas y credenciales de inicio de sesión para acceder a las cuentas en línea de sus victimas. Con esta información, pueden cometer fraude, robar datos, o extorsionar a víctimas amenazándoles con exponer información sensible."
     },
     "phishing.attackers.money.label": {
         "message": "Dinero:"
     },
     "phishing.attackers.money.text": {
-        "message": "Ganancia financiera es un motivo clave para el phishing. Quienes atacan se hacen pasar por organizaciones legítimas para engañar a las víctimas a que proporcionen detalles de tarjetas de crédito o a que realicen pagos, a menudo a través de facturas falsas o solicitudes de donaciones."
+        "message": "La ganancia financiera es un motivo clave para el phishing. Quienes atacan se hacen pasar por organizaciones legítimas para engañar a las víctimas para que proporcionen detalles de tarjetas de crédito o a que realicen pagos, a menudo a través de facturas falsas o solicitudes de donaciones."
     },
     "phishing.attackers.confidential.label": {
         "message": "Información confidencial:"
     },
     "phishing.attackers.confidential.text": {
-        "message": "El phishing apunta a obtener información confidencial como números de Seguridad Social y datos de empresariales. Esta información puede ser utilizada para robo de identidad, venderse en la dark web, o explotada para espionaje corporativo."
+        "message": "El phishing apunta a obtener información confidencial como números de Seguridad Social y datos de empresariales. Esta información puede ser utilizada para robo de identidad, vendida en la dark web, o explotada para espionaje corporativo."
     },
     "phishing.attackers.malware.label": {
         "message": "Para que las víctimas instalen malware:"
