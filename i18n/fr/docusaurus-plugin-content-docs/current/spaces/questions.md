@@ -1,8 +1,8 @@
 ---
-id: questions
-slug: /questions
-sidebar_position: 3
-description: Décrouvrez comment créer et personnaliser des questions de quiz dans Shira — y compris les préférences, les applications, le contenu et les explications  — pour enseigner aux apprenants comment identifier les tentatives d'hameçonnage.
+id : questions
+slug : /questions
+sidebar_position : 3
+description : Décrouvrez comment créer et personnaliser des questions de quiz dans Shira — y compris les préférences, les applications, le contenu et les explications  — pour enseigner aux apprenants comment identifier les tentatives d'hameçonnage.
 
 ---
 
@@ -57,10 +57,10 @@ Actuellement, Shira prend en charge les applications suivantes :
 - Facebook Messenger
 - Application de rencontre
 
-:::note
+:::note\
 [Informez-nous](/contact) si votre équipe utilise des applications qui ne
 figurent pas dans cette liste et que vous souhaiteriez voir intégrées à Shira !
-
+\
 :::
 
 ## Contenu de la question {#content}
