@@ -1,0 +1,17 @@
+{
+    "sidebar.HelpSidebar.category.Spaces": {
+        "message": "المساحات"
+    },
+    "sidebar.HelpSidebar.link.Contact & Support": {
+        "message": "الاتصال والدعم"
+    },
+    "sidebar.HelpSidebar.category.Technical Stuff": {
+        "message": "أمور تقنية"
+    },
+    "sidebar.HelpSidebar.category.Shira Help Center": {
+        "message": "مركز مساعدة Shira"
+    },
+    "version.label": {
+        "message": "التالي"
+    }
+}
