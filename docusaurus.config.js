@@ -168,10 +168,10 @@ const config = {
             position: 'left',
           },
 
-          {
+          /* {
             type: 'localeDropdown',
             position: 'right',
-          },
+          },*/
 
           {
             to: `${signupFormUrl}?plan=starter`,
