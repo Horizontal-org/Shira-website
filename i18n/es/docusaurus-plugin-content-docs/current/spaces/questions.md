@@ -2,7 +2,7 @@
 id: questions
 slug: /questions
 sidebar_position: 3
-description: Aprende cómo crear y personalizar cuestionarios en Shira — incluyendo preferencias, aplicaciones, contenido, y explicaciones — para enseñar a estudiantes como identificar intentos de phishing.
+description: Aprende cómo crear y personalizar cuestionarios en Shira — incluyendo preferencias, aplicaciones, contenido, y explicaciones — para enseñar a estudiantes cómo identificar intentos de phishing.
 
 ---
 
@@ -41,7 +41,7 @@ Al crear una pregunta, debes:
 Una *app* es una interfaz que se ve exactamente igual a la app o plataforma real
 que tus estudiantes usan cotidianamente: Gmail, Outlook, SMS, WhatsApp, etc.
 
-Con apps, Shira muestra un correo o mensaje exactamente como sería en la vida
+Con apps, Shira muestra un correo o mensaje exactamente cómo sería en la vida
 real. Esto significa que cuando se enfrenten a un ataque de phishing en la
 realidad, tus estudiantes tendrán más probabilidades de identificar señales de
 que es phishing.
