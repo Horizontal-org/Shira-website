@@ -1,8 +1,8 @@
 ---
-id: self-hosting
-slug: /self-hosting
-sidebar_position: 2
-description: Apprenez à héberger vous-même Shira, la plateforme de formation open source contre le phishing, grâce à des instructions à venir pour configurer votre propre instance et gérer les quiz de manière indépendante.
+id : self-hosting
+slug : /self-hosting
+sidebar_position : 2
+description : Apprenez à héberger vous-même Shira, la plateforme de formation open source contre le phishing, grâce à des instructions à venir pour configurer votre propre instance et gérer les quiz de manière indépendante.
 
 ---
 # Auto-hébergement
