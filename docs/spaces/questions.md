@@ -21,7 +21,7 @@ Each question is made up of several components:
 ## Creating a question {#create}
 To create questions and add them to your quiz, you have two options:
 1. You can create questions from scratch and configure each of the questions components yourself. 
-2. You can pull ready-made questions from the Library. If you pull a question from the Library, you can use it as is or adapt it to your specific context and needs.
+2. You can pull ready-made questions from [the Library](/docs/spaces/library.md). If you pull a question from the Library, you can use it as is or adapt it to your specific context and needs.
 
 ## Question preferences {#preferences}
 When you create a question, you must: 
