@@ -15,6 +15,12 @@ A Space is the central place in Shira to build your phishing education campaigns
 - **Someone who takes a quiz is called a [Learner](/learners)**. There are Registered Learners (who can need to join your Space in order to take private quizzes) and Anonymous Learners (anyone who takes a public quiz using the quiz URL).
 - After learners take a quiz, **the [Results section](/results) shows how they did on the quiz**.
 
+## Space settings (#settings)
+In your Space settings, you can:
+* update the email address associated with your account
+* update your password
+* manage [your plan, subscription, and payment information](/docs/plans.md)
+
 ## Permissions {#permissions}
 * Currently, only one admin user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
 * Only admins can access your Space dashboard. Learners never have access to the Space dashboard, quizzes, or Results.
