@@ -41,7 +41,7 @@ There are two options available for quiz privacy: public and private.
 * Only learners who are registered in your space can take the quiz. You can read more about [registered learners here](/learners#registered).
 * When a registered learner is assigned a private quiz, they receive an email with the link to take the quiz. This link is unique to each learner and helps keep track of who takes the quiz and their results.  
 
-## Adding question to your quiz {#questions}
+## Adding questions to your quiz {#questions}
 
 You can add questions to your quiz either by creating them manually or importing ready-made templates from the Library. [Learn more about questions here](/questions).
 

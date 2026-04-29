@@ -18,13 +18,13 @@ This is the number of times a quiz has been taken by learners.
 **Average score**  
 This is the average score received by all learners who took the quiz.
 
-**Completion rate** [coming soon]  
+**Completion rate**
 This is the percentage of learners who have submitted the quiz out of all the learners assigned this quiz. Completion rate is only available for private quizzes.
 
-**Results by question** [coming soon]  
+**Results by question**
 This shows you the average score received by all learners on each specific question in the quiz.
 
-**Results by learner** [coming soon]  
+**Results by learner**
 This shows you the list of registered learners who completed the quiz and their score on the quiz. Results by learner are only available for private quizzes.
 
 :::note
