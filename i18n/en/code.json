@@ -1452,5 +1452,190 @@
     "phishingQuizzes.research.final":
     {
         "message": "effect of phishing simulations: users who are continuously exposed to phishing simulations are more likely to click on dangerous links."
-    }
+    },
+  "view_plans.title": {
+    "message": "Available plans"
+  },
+  "view_plans.modal_title": {
+    "message": "Shira plans and pricing"
+  },
+
+  "view_plans.actions.current_plan": {
+    "message": "Current plan"
+  },
+  "view_plans.actions.downgrade": {
+    "message": "Downgrade"
+  },
+  "view_plans.actions.learn_more": {
+    "message": "Learn more about Shira plans"
+  },
+
+  "view_plans.comparison.title": {
+    "message": "What's included?"
+  },
+  "view_plans.comparison.admin_management": {
+    "message": "Admin management"
+  },
+  "view_plans.comparison.customization": {
+    "message": "Customization"
+  },
+  "view_plans.comparison.access_control": {
+    "message": "Access control"
+  },
+  "view_plans.comparison.compliance": {
+    "message": "Compliance"
+  },
+  "view_plans.comparison.custom_support": {
+    "message": "Custom support"
+  },
+
+  "view_plans.comparison.rows.hosting": {
+    "message": "Hosting"
+  },
+  "view_plans.comparison.rows.admin_dashboard": {
+    "message": "Admin dashboard"
+  },
+  "view_plans.comparison.rows.number_of_admins": {
+    "message": "Number of admins"
+  },
+  "view_plans.comparison.rows.customizable_questions": {
+    "message": "Fully customizable quiz questions"
+  },
+  "view_plans.comparison.rows.question_library": {
+    "message": "Access to the question's library"
+  },
+  "view_plans.comparison.rows.custom_quizzes": {
+    "message": "Number of custom quizzes"
+  },
+  "view_plans.comparison.rows.apps_available": {
+    "message": "Apps available"
+  },
+  "view_plans.comparison.rows.public_quizzes": {
+    "message": "Public quizzes"
+  },
+  "view_plans.comparison.rows.private_quizzes": {
+    "message": "Private quizzes"
+  },
+  "view_plans.comparison.rows.basic_analytics": {
+    "message": "Basic analytics"
+  },
+  "view_plans.comparison.rows.detailed_analytics": {
+    "message": "Detailed analytics"
+  },
+  "view_plans.comparison.rows.analysis_tools": {
+    "message": "Analysis and compliance tools"
+  },
+  "view_plans.comparison.rows.tailor_made_training": {
+    "message": "Tailor-made user training"
+  },
+  "view_plans.comparison.rows.priority_support": {
+    "message": "Priority support"
+  },
+
+  "view_plans.comparison.values.cloud": {
+    "message": "Cloud"
+  },
+  "view_plans.comparison.values.cloud_on_premise": {
+    "message": "Cloud & on-premise"
+  },
+  "view_plans.comparison.values.one_admin": {
+    "message": "1 admin"
+  },
+  "view_plans.comparison.values.unlimited": {
+    "message": "Unlimited"
+  },
+  "view_plans.comparison.values.up_to_three_custom_quizzes": {
+    "message": "Up to 3 custom quizzes"
+  },
+  "view_plans.comparison.values.available_upon_request": {
+    "message": "Available upon request"
+  },
+  "view_plans.comparison.values.three_business_day_response_time": {
+    "message": "3-business-day response time"
+  },
+  "view_plans.comparison.values.one_business_day_response_time": {
+    "message": "Up to 1-business day-response time"
+  },
+
+  "view_plans.comparison.tooltips.hosting": {
+    "message": "Let the Shira team host and maintain your Shira (cloud) or install it on your servers (on-premise)"
+  },
+  "view_plans.comparison.tooltips.admin_dashboard": {
+    "message": "A central place to manage your phishing education campaigns"
+  },
+  "view_plans.comparison.tooltips.number_of_admins": {
+    "message": "Admins are users who can create and manage phishing education campaigns"
+  },
+  "view_plans.comparison.tooltips.customizable_questions": {
+    "message": "Create quiz questions adapted to the needs of your learners"
+  },
+  "view_plans.comparison.tooltips.question_library": {
+    "message": "Access dozens of ready-made question templates"
+  },
+  "view_plans.comparison.tooltips.custom_quizzes": {
+    "message": "The number of quizzes you can create in your Space"
+  },
+  "view_plans.comparison.tooltips.apps_available": {
+    "message": "Create quiz questions using interfaces that look exactly like actual apps your learners use"
+  },
+  "view_plans.comparison.tooltips.public_quizzes": {
+    "message": "Anyone can take your quiz through an easy-to-share URL"
+  },
+  "view_plans.comparison.tooltips.private_quizzes": {
+    "message": "Only learners registered in your space can take your quizzes"
+  },
+  "view_plans.comparison.tooltips.basic_analytics": {
+    "message": "Track results at the quiz level"
+  },
+  "view_plans.comparison.tooltips.detailed_analytics": {
+    "message": "Track results at the learner and question levels"
+  },
+  "view_plans.comparison.tooltips.analysis_tools": {
+    "message": "Export your team's results into CSV or PDF reports"
+  },
+  "view_plans.comparison.tooltips.tailor_made_training": {
+    "message": "Skill-building workshops customized by the Shira team for your organization"
+  },
+  "view_plans.comparison.tooltips.priority_support": {
+    "message": "Quick response time to ensure a smooth experience"
+  },
+
+  "view_plans.plans.starter.title": {
+    "message": "Starter"
+  },
+  "view_plans.plans.starter.description": {
+    "message": "To try things out and get familiar with Shira"
+  },
+  "view_plans.plans.starter.price": {
+    "message": "Free"
+  },
+  "view_plans.plans.starter.cta": {
+    "message": "Get started"
+  },
+
+  "view_plans.plans.pro.title": {
+    "message": "Pro"
+  },
+  "view_plans.plans.pro.description": {
+    "message": "Experience the full power of Shira"
+  },
+  "view_plans.plans.pro.price": {
+    "message": "$50/month + $1 per quiz taken"
+  },
+  "view_plans.plans.pro.cta": {
+    "message": "Start 14-day free trial"
+  },
+
+  "view_plans.plans.enterprise.title": {
+    "message": "Enterprise"
+  },
+  "view_plans.plans.enterprise.description": {
+    "message": "Tailor Shira for large organizations and service providers"
+  },
+  "view_plans.plans.enterprise.price": {
+    "message": "Custom pricing"
+  },
+  "view_plans.plans.enterprise.cta": {
+    "message": "Contact us"
+  }
 }
