@@ -1,31 +1,31 @@
----
-id : questions
-slug : /questions
-sidebar_position : 3
-description : Décrouvrez comment créer et personnaliser des questions de quiz dans Shira — y compris les préférences, les applications, le contenu et les explications  — pour enseigner aux apprenants comment identifier les tentatives d'hameçonnage.
+--
+id: questions
+slug: /questions
+sidebar_position: 3
+description: Apprenez à créer et à personnaliser des questions pour les quiz dans Shira — en incluant vos préférences, des applications, du contenu et des explications — pour apprendre aux apprenants à repérer les tentatives d'hameçonnage.
 
 ---
 
 # Questions
 
-Les questions de quiz sont le cœur de l'apprentissage dans Shira. C'est ici que
-vous présentez un e-mail ou un message à vos apprenants et que vous leur
-demandez : cela ressemble-t-il à du phishing ?
+C'est grâce aux questions types quiz que l'apprentissage se fait sur Shira. Vous
+montrez à vos apprenants et apprenantes un e-mail ou un message, et vous leur
+demandez : S'agit-il d'une tentative d'hameçonnage ?
 
 Chaque question est composée de plusieurs éléments :
 * [Les préférences de la question](#preferences)
 * [Une application](#app)
-* [Le contenu de la question](#content)
+* [Contenu de la question](#content)
 * [Variables](#variables)
 * [Explications](#explanations)
 
-## Créer une question {#create}
-Pour créer des questions et les ajouter à votre quiz, deux options s'offrent à
-vous :
+## Formuler une question {#create}
+Pour créer des questions et les ajouter à votre quiz, deux options vous sont
+proposées :
 1. Il est possible de personnaliser vos questions dans leur intégralité et de
    définir vous-même l'ensemble de leurs composantes.
-2. Vous pouvez importer des questions prêtes à l'emploi depuis la Bibliothèque.
-   Si vous importez une question depuis la Bibliothèque, vous pouvez l'utiliser
+2. Vous pouvez importer des questions prédefinies depuis la Bibliothèque. Si
+   vous importez une question depuis la Bibliothèque, vous pouvez l'utiliser
    telle quelle ou l'adapter à votre contexte et à vos besoins spécifiques.
 
 ## Préférences de la question {#preferences}
@@ -33,21 +33,22 @@ Lorsque vous créez une question, vous devez :
 - Nommer la question : ce nom, comme "Invitation à une conférence" ou
   "Notification de connexion suspecte", vous aide à reconnaître les questions
   que vous créez. Le nom d'une question est uniquement visible par les
-  administrateurs de l'espace ; les apprenants ne le voient jamais lorsqu'ils
-  participent à un quiz.
-- Indiquez à Shira si l'email ou le message que vous créez est *du phishing* ou
-  s'il est *légitime*. Cela permettra à Shira de déterminer si la réponse d'un
-  utilisateur est correcte.
+  administrateurs et administratrices de l'espace ; les apprenants et
+  apprenantes ne le voient jamais lorsqu'ils participent à un quiz.
+- Indiquez à Shira si l'email ou le message que vous créez est *de
+  l'hameçonnage* ou s'il est *légitime*. Cela permettra à Shira de déterminer si
+  la réponse d'un utilisateur ou d'une utilisatrice est correcte.
 
-## Une application {#app}
-Une *application* est une interface qui ressemble exactement à l'application ou
-à la plateforme réelle que vos apprenants utilisent au quotidien : Gmail,
-Outlook, SMS, WhatsApp, etc.
+## Une appli {#app}
+Une *appli* est une interface qui ressemble exactement à l'application ou à la
+plateforme réelle que vos apprenants ou apprenantes utilisent au quotidien :
+Gmail, Outlook, SMS, WhatsApp, etc.
 
-Avec les applications, Shira affiche un email ou un message exactement tel qu'il
+Avec les appli, Shira affiche un email ou un message exactement tel qu'il
 apparaîtrait dans la vie réelle. Cela signifie que lorsqu'ils seront confrontés
-à une véritable attaque de phishing, les apprenants seront plus susceptibles de
-savoir où chercher les indices prouvant qu'il s'agit d'un hameçonnage.
+à une véritable attaque de phishing, les apprenants et apprenantes seront plus
+susceptibles de savoir où chercher les indices prouvant qu'il s'agit d'un
+hameçonnage.
 
 Actuellement, Shira prend en charge les applications suivantes :
 - Gmail
