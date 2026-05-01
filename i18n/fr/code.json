@@ -3,43 +3,43 @@
         "message": "À propos de Shira"
     },
     "about.meta.description": {
-        "message": "Découvrez Shira et l'équipe qui en est à l'origine — un projet de Horizontal, une organisation à but non lucratif qui crée des outils de sécurité et de confidentialité pour aider les individus et les organisations à se défendre contre les attaques de phishing."
+        "message": "Découvrez Shira et l'équipe qui se cache derrière ce projet — une initiative d'Horizontal, association à but non lucratif qui développe des outils destinés à protéger la sécurité et la vie privée, pour aider particuliers et organisations à se défendre contre les attaques d'hameçonnage."
     },
     "about.hero.title": {
         "message": "Shira"
     },
     "about.meta.longDescription": {
-        "message": "Découvrez Shira et l'équipe qui en est à l'origine — un projet de Horizontal, une organisation à but non lucratif qui crée des outils de sécurité et de confidentialité pour aider les individus et les organisations à se défendre contre les attaques de phishing."
+        "message": "Découvrez Shira et l'équipe qui se cache derrière ce projet — une initiative d'Horizontal, association à but non lucratif qui développe des outils destinés à protéger la sécurité et la vie privée, pour aider particuliers et organisations à se défendre contre les attaques d'hameçonnage."
     },
     "about.hero.subtitle": {
-        "message": "Aider les individus et les organisations   à renforcer leur résilience face aux attaques de phishing"
+        "message": "Aider les individus et les organisations   à renforcer leur résilience face aux attaques d'hameçonnage"
     },
     "about.hero.cta": {
-        "message": "Contactez-nous"
+        "message": "Prendre contact"
     },
     "about.hero.imageAlt": {
-        "message": "logo shira : il s'agit d'un S de couleur bleue et vert clair"
+        "message": "logo shira: il s'agit d'un S de couleur bleue et vert clair"
     },
     "about.horizontal.imageAlt": {
-        "message": "logo Horizontal"
+        "message": "Logo d'Horizontal"
     },
     "about.horizontal.title": {
-        "message": "Qui a créé Shira ?"
+        "message": "Qui est derrière Shira ?"
     },
     "about.horizontal.description": {
-        "message": "Shira est un projet de Horizontal, une organisation technologique à but non lucratif qui développe des technologies de sécurité et de confidentialité pour aider les personnes à être plus en sécurité en ligne."
+        "message": "Shira est une initiative d'Horizontal, association à but non lucratif qui développe des outils de sécurité et de protection de la vie privée afin d'aider les internautes à mieux se protéger en ligne."
     },
     "about.horizontal.donationText": {
-        "message": "Vous pouvez nous aider à améliorer et à pérenniser Shira en"
+        "message": "Vous pouvez nous aider à améliorer et à maintenir Shira en"
     },
     "about.horizontal.donationLink": {
         "message": "faisant un don ici"
     },
     "about.horizontal.translationText": {
-        "message": "Pour contribuer à la traduction de Shira dans de nouvelles langues, contactez-nous par email à"
+        "message": "Pour contribué à la traduction de Shira dans de nouvelles langues, envoie-nous un email à"
     },
     "about.horizontal.cta": {
-        "message": "En savoir plus sur Horizontal"
+        "message": "A propos d'Horizontal"
     },
     "about.why.imageAlt": {
         "message": "image décorative d'un hameçon"
@@ -51,19 +51,19 @@
         "message": "1. Facile à utiliser"
     },
     "about.why.easy.description": {
-        "message": "Shira a été conçu en tenant compte des communautés les plus exposées aux attaques de phishing, en particulier les utilisateurs ayant des compétences techniques limitées."
+        "message": "Shira a été créée en tenant compte des communautés les plus à risque d’attaques d’hameçonnage, en particulier les utilisateurs et utilisatrices ayant une connaissance limitée de la technologie."
     },
     "about.why.customizable.title": {
         "message": "2. Personnalisable"
     },
     "about.why.customizable.description": {
-        "message": "Shira affiche des courriels et des messages aussi réalistes que possible pour simuler l'expérience réelle des internautes au quotidien et les attaques de phishing auxquelles ils sont susceptibles d'être confrontés."
+        "message": "Shira affiche des emails et des messages aussi réalistes que possible pour simuler l'expérience réelle des internautes au quotidien et les attaques d'hameçonnage auxquelles ils sont susceptibles d'être confrontés."
     },
     "about.why.privacy.title": {
         "message": "3. Respectueux de la vie privée"
     },
     "about.why.privacy.description": {
-        "message": "Nous ne collectons, n'enregistrons, ni ne partageons aucune donnée sensible ou personnellement identifiable sur les utilisateurs qui visitent Shira ou passent des quiz. Pour en savoir plus, consultez notre politique de confidentialité et les audits de sécurité réalisés par des cabinets de sécurité indépendants."
+        "message": "Nous ne collectons, n'enregistrons, ni ne partageons aucune donnée sensible ou personnellement identifiable sur les utilisateurs et utilisatrices qui visitent Shira ou passent des quiz. Pour en savoir plus, consultez notre politique de confidentialité et les audits de sécurité réalisés par des cabinets de sécurité indépendants."
     },
     "about.why.auditCta": {
         "message": "Audits de sécurité"
