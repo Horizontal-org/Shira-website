@@ -18,15 +18,15 @@ février 2026.
 
 ## 1. Introduction {#intro}
 Horizontal est l'entreprise qui développe Shira. Horizontal est profondément
-attachée au respect de la vie privée des utilisateurs et à la protection de
-leurs données.
+attachée au respect de la vie privée des utilisateurs et utilisatrices et à la
+protection de leurs données.
 
 En tant qu'organisme à but non lucratif voué à la défense des droits à la vie
-privée, nous concevons nos produits de manière à collecter le minimum
-d'informations nécessaires sur nos utilisateurs ; et quelles que soient les
-informations que nous collectons, nous faisons de notre mieux pour les
-anonymiser et/ou nous assurer que les utilisateurs nous donnent leur
-consentement éclairé pour la collecte de ces données.
+privée, nous développons nos produits de manière à collecter le minimum
+d'informations nécessaires sur nos utilisateurs et utilisatrices ; quelles que
+soient les informations que nous collectons, nous faisons de notre mieux pour
+les anonymiser et/ou nous assurer que les utilisateurs et utilisatrices nous
+accordent leur consentement éclairé pour la collecte de ces données.
 
 La déclaration ci-dessous s'applique exclusivement à Shira Cloud, c'est-à-dire à
 la version de Shira disponible sur [https://shira.app](https://shira.app),
@@ -34,32 +34,35 @@ la version de Shira disponible sur [https://shira.app](https://shira.app),
 [https://quiz.shira.app](https://quiz.shira.app).
 
 ## 2. Données collectées {#data-collected}
-Les données créées dans Shira ou générées lorsque les utilisateurs utilisent
-Shira peuvent être divisées en trois catégories :
+Les données créées dans Shira ou générées lorsque les utilisateurs et
+utilisatrices utilisent Shira peuvent être divisées en trois catégories :
 - Données du compte
 - Données de fonctionnalité
 - Télémétrie
 
-Les utilisateurs de Shira peuvent être divisés en quatre groupes :
-- Administrateurs, qui peuvent se connecter à un "espace" Shira pour gérer leurs
-  quiz, leurs utilisateurs et leurs résultats.
-- Apprenants anonymes : non inscrits sur Shira, ils peuvent uniquement
-  participer aux quiz publics via l’URL publique.
-- Apprenants inscrits : invités à rejoindre des Espaces, ils participent à des
-  quiz privés et n’ont pas de mot de passe pour se connecter à Shira.
-- Visiteurs, ils consultent les sites web de Shira mais ne participent pas aux
-  quiz et n’utilisent pas les fonctionnalités de Shira.
+Les utilisateurs et utilisatrices de Shira peuvent être catégorisés en quatre
+groupes :
+- Administrateurs ou administratrices, qui peuvent se connecter à un "espace"
+  Shira pour gérer leurs quiz, leurs utilisateurs et utilisatrices et leurs
+  scores.
+- Apprenants et apprenantes anonymes : non inscrits sur Shira, ils peuvent
+  uniquement participer aux quiz publics via l’URL publique.
+- Apprenants et apprenantes inscrits : invités à rejoindre les Espaces, ils
+  participent à des quiz privés et n’ont pas besoin de mot de passe pour se
+  connecter à Shira.
+- Visiteurs, et visiteuses ils consultent les sites web de Shira mais ne
+  participent pas aux quiz et n’utilisent pas les fonctionnalités de Shira.
 
 Comme indiqué ci-dessous, pour chacun de ces groupes, différentes données sont
 collectées.
 
 ### Données de compte {#account-data}
-#### Que sont les données de compte ? {#what-is-account-data}
+#### Que sont les données de compte ? {#what-is-account-data}
 
 Les données de compte sont les données associées au compte Shira d’un
-utilisateur.
-- Les administrateurs sont considérés comme ayant un compte Shira dès qu'ils ont
-  créé un espace.
+utilisateur ou utilisatrice.
+- Les administrateurs ou administratrices sont considérés comme ayant un compte
+  Shira du moment qu'ils créént un espace.
 - Les apprenants inscrits sont considérés comme ayant un compte Shira dès qu'ils
   sont invités à rejoindre un espace.
 
