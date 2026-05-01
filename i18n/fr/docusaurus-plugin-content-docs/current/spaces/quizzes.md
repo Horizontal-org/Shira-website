@@ -1,17 +1,17 @@
 ---
 id : quizzes
-slug : /quizzes
-sidebar_position : 2
-Description : Apprenez à créer, gérer et personnaliser des questionnaires dans Shira pour former votre équipe à être sensible au phishing, et ce en publiant, modifiant, dupliquant et supprimant des questionnaires .
+slug: /quizzes
+sidebar_position: 2
+description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
 
----
+…
 # Les quiz
 
-Dans Shira, le quiz est l'élément central d'une campagne ou d'un programme de
-sensibilisation au phishing. Shira vous permet de créer vos propres quiz pour
-répondre aux besoins, au contexte et aux menaces spécifiques de votre public.
+Shira place les quiz au cœur de toute campagne ou programme de sensibilisation à
+l'hameçonnage. Avec Shira, vous pouvez créer des quiz adaptés aux besoins, à
+l'environnement et aux menaces propres à votre public.
 
-Dans votre espace Shira, vous pouvez :
+Depuis votre espace dédié sur Shira, vous pouvez :
 - [créer des quiz](#create-quizzes)
 - [configurer les paramètres de confidentialité] (#privacy)
 - [publier et dépublier un quiz](#publish-unpublish)
@@ -25,25 +25,27 @@ Lorsque vous créez un quiz, vous devez :
 2. Définir les paramètres de confidentialité de votre quiz
 
 ### Nom du quiz {#name}
-Le nom que vous choisissez pour le quiz vous aide, ainsi que vos apprenants, à
-en identifier l'objectif (ex. : "Formation du personnel T4", "Attaques les plus
-courantes de 2026", etc.). Le nom du quiz est visible par les apprenants :
-- Dans l'email que les apprenants reçoivent lorsque vous leur attribuez un quiz
-  (exclusivement pour les [quiz privés](#privacy))
-- Sur l'écran d'accueil lorsque les apprenants commencent le quiz.
+Le nom que vous choisissez pour le quiz vous aide, ainsi que vos apprenants et
+apprenantes, à en identifier l'objectif (ex. : "Formation du personnel T4",
+"Attaques les plus courantes de 2026", etc.). Le nom du quiz est visible pour
+les apprenants et apprenantes :
+- Dans l'email que les apprenants et apprenantes reçoivent lorsque vous leur
+  attribuez un quiz (exclusivement pour les [quiz privés](#privacy))
+- Sur l'écran d'accueil lorsque les apprenants et apprenantes commencent le
+  quiz.
 
 ### Confidentialité du quiz {#privacy}
 Deux options de confidentialité sont disponibles pour les quiz : public et
 privé.
 
 **La confidentialité d'un quiz est permanente et ne peut pas être modifiée.**.
-Si vous souhaitez changer la confidentialité d'un quiz existant, vous devez
-dupliquer le quiz.
+Si vous souhaitez changer la confidentialité d'un quiz existant, vous devez le
+dupliquer.
 
 **Quiz publics**
 * Toute personne disposant de l'URL du quiz peut y participer.
-* L'URL du quiz est une adresse unique à chaque quiz que les apprenants
-  utilisent pour y participer. Une URL de quiz ressemble à ceci :
+* L'URL du quiz est une adresse unique à chaque quiz que les apprenants et
+  apprenantes utilisent pour y participer. Une URL de quiz ressemble à ceci :
   `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. L'URL
   du quiz reste la même, même si vous publiez et dépubliez le quiz plusieurs
   fois.
