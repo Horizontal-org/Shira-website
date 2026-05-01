@@ -2,42 +2,41 @@
 id: results
 slug: /results
 sidebar_position: 5
-description: Dans Shira, consultez et analysez les performances de votre équipe aux quiz— suivez les quiz complétés, les scores moyens et identifiez les points à améliorer en matière de sensibilisation au phishing .
+description: Consultez et analysez les scores de votre équipe aux quiz sur Shira : consultez les quiz complétés, les notes moyennes et identifiez les points à améliorer en matière de sensibilisation à l'hameçonnage.
 
 ---
-# Résultats
+# Scores
 
-La section « Résultats » indique si les participants ont complété ou non votre
-quiz et, le cas échéant, leur score.
+La section « Résultats » indique si les participants et participants ont
+complété ou non votre quiz et, le cas échéant, leur score.
 
-Dans Résultats, vous pouvez consulter les informations suivantes : **Nombre de
-quiz terminés** Il s'agit du nombre de fois où un quiz a été passé par des
-apprenants.
-* Dans les quiz publics, le nombre de quiz terminés n'est pas toujours égal au
-  nombre d'apprenants ayant passé le quiz (les apprenants étant anonymes, un
-  apprenant peut passer un même quiz plusieurs fois).
-* Dans les quiz privés, les apprenants inscrits ne peuvent passer un quiz qu'une
-  seule fois.
+Dans Scores, vous pouvez consulter les informations suivantes : **Nombre de quiz
+complétés** Il s'agit du nombre de fois où un quiz a été passé par des
+apprenants et apprenantes.
+* Dans les quiz publics, le nombre de quiz complétés n'est pas toujours égal au
+  nombre d'apprenants t d'apprenantes ayant passé le quiz (les participants et
+  participantes étant anonymes, une même personne peut passer le même quiz
+  plusieurs fois).
+* Dans les quiz privés, les apprenants et apprenantes inscrits ne peuvent passer
+  un quiz qu'une seule fois.
 
-**Average score**\
-Il s'agit du score moyen obtenu par l'ensemble des apprenants ayant participé au
-quiz.
+**Score Moyen**\
+Il s'agit du score moyen obtenu par l'ensemble des apprenants et apprenantes
+ayant participé au quiz.
 
-**Completion rate** [bientôt disponible]\
-Il s'agit du pourcentage d'apprenants ayant envoyé leur quiz par rapport au
-nombre total d'apprenants auxquels ce quiz a été attribué. Le taux de complétion
-est uniquement disponible pour les quiz privés.
+**Taux de réalisation** [bientôt disponible]\
+Il s'agit du pourcentage d'apprenants et d'apprenantes ayant complété le quiz
+comparé au nombre total d'apprenants et d'apprenantes auquel il était destiné.
+Le taux de participation n'est disponible que pour les quiz privés.
 
-**Results by question** [bientôt disponible]\
-Ceci vous indique le score moyen obtenu par tous les apprenants à chaque
-question spécifique du quiz.
+**Score par question** [bientôt disponible]\
+Vous indique le score moyen obtenu par tous les apprenants et apprenantes à
+chaque question.
 
-**Results by learner** [bientôt disponible]\
-Vous trouverez ici la liste des apprenants inscrits ayant répondu au quiz, ainsi
-que leur score. Les résultats par apprenant ne sont disponibles que pour les
-quiz privés.
+**Score by apprenant/e** [bientôt disponible]\
+Vous trouverez ici la liste des apprenants et apprenantes inscrits ayant
+complété le quiz, ainsi que leur score. Les scores par apprenant/e ne sont
+disponibles que pour les quiz privés.
 
-:::note\
-Si vous souhaitez suivre des éléments spécifiques dans les résultats, [faites-le
-nous savoir](/contact)! \
-:::
+:::note, S'il y a des éléments précis que vous souhaitez consulter dans les
+scores [faites-le nous savoir](/contact)! :::
