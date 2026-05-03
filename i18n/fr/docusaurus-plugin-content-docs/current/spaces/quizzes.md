@@ -49,70 +49,67 @@ dupliquer.
   `https://quiz.shira.app/quiz/e57e406fdf46546786rru04676352bf0aff1c04f68. L'URL
   du quiz reste la même, même si vous publiez et dépubliez le quiz plusieurs
   fois.
-* Les apprenants qui participent à des quiz publics restent anonymes. Cela
-  signifie que dans les [Résultats](/results), vous ne pouvez pas identifier qui
-  sont ces apprenants.
+* Les apprenants et apprenantes qui participent à des quiz publics restent
+  anonymes. Cela signifie que dans les [Scores](/results), vous ne pouvez pas
+  identifier qui ils sont.
 
 **Quiz privés**
-* Seuls les apprenants inscrits dans votre espace peuvent participer au quiz.
-  Vous pouvez en savoir plus sur les [apprenants inscrits
-  ici](/learners#registered).
-* Lorsqu'un quiz privé est attribué à un apprenant inscrit, celui-ci reçoit un
-  email contenant le lien pour participer au quiz. Ce lien est unique à chaque
-  apprenant et permet de suivre qui participe au quiz ainsi que leurs résultats.
+* Seuls les apprenants et apprenanes inscrits dans votre espace peuvent
+  participer au quiz. Pour en savoir plus sur les [apprenants et apprenantes
+  inscrits ici](/learners#registered).
+* Lorsqu'un quiz privé est attribué à un apprenant ou une apprenante inscrit,
+  celui-ci reçoit un email avec le lien pour y participer. Ce lien est unique à
+  chaque apprenant et apprenante et permet de suivre qui participe au quiz ainsi
+  que leurs scores.
 
 ## Ajouter des questions à votre quiz {#questions}
 
 Vous pouvez ajouter des questions à votre quiz soit en les créant manuellement,
-soit en important des modèles prêts à l'emploi depuis la Bibliothèque. [En
-savoir plus sur les questions ici](/questions).
+soit en important des modèles prédéfinis depuis la Bibliothèque. [En savoir plus
+sur les questions ici](/questions).
 
 ## Publier et dépublier des quiz {#publish-unpublish}
-Publier un quiz signifie que vous le rendez accessible aux apprenants.
+Publier un quiz signifie que vous le rendez accessible aux apprenants et
+apprenantes.
 
 Vous pouvez ensuite dépublier le quiz pour qu'il soit impossible pour les
-apprenants d'y participer. Si le quiz est dépublié, l'URL du quiz mènera à une
-page d'erreur.
+apprenants et apprenantes d'y participer. Si le quiz est dépublié, l'URL du quiz
+mènera à une page d'erreur.
 
-:::note\
-Si vous dépubliez un quiz *pendant* qu'un apprenant y participe, l'apprenant
-verra un message d'erreur à la fin du quiz lorsqu'il tentera d'envoyer ses
-réponses, et sa participation sera perdue . \
-:::
+:::note Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
+l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
+d'envoyer ses réponses, et sa participation sera perdue .:::
 
 ## Modifier des quiz {#edit-quizzes}
 Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié,
 notamment pour :
-- Ajouter de nouvelles questions au quiz.
-- Modifier des questions déjà existantes dans le quiz.
+- Ajouter des nouvelles questions au quiz.
+- Modifier des questions déjà existantes.
 - Réorganiser les questions : l'ordre des questions que vous voyez dans votre
   espace est le même que celui dans lequel les questions seront présentées aux
-  apprenants lorsqu'ils feront le quiz.
+  apprenants et apprenantes lorsqu'ils feront le quiz.
 - Supprimer des questions : une fois supprimée, il n'y a aucun moyen de
   récupérer une question.
 
-:::note\
-Si des apprenants ont déjà participé au quiz, la modification de celui-ci peut
-affecter la fiabilité [des résultats du quiz](/results). \
-:::
+:::note Si des apprenants ou apprenantes ont déjà participé au quiz, la
+modification de celui-ci peut affecter la fiabilité [des résultats du
+quiz](/results).:::
 
 ## Dupliquer un quiz {#duplicate-quiz}
 Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
 
-Une fois dupliqués, le quiz original et le nouveau quiz sont indépendants l'un
-de l'autre : vous pouvez modifier ou supprimer l'un sans que l'autre ne soit
-affecté. **Les résultats associés au quiz original *ne seront pas* transférés
-vers la nouvelle copie du quiz**.
+Une fois dupliqués, le quiz original et le nouveau sont indépendants l'un de
+l'autre : vous pouvez modifier ou supprimer l'un sans que l'autre ne soit
+affecté. **Les scores associés au quiz original *ne seront pas* transférés vers
+la nouvelle copie**.
 
 Vous pouvez définir les paramètres de confidentialité (public ou privé) au
 moment de la duplication.
 
 
 ## Supprimer un quiz {#delete-quiz}
-Supprimer un quiz signifie que le quiz, toutes les questions qu'il contient et
-tous les [résultats](/results)associés à ce quiz sont supprimés de votre espace.
+Supprimer un quiz signifie que le quiz, toutes ses questions et tous les
+[scores](/results)associés seront supprimés de votre espace.
 
-:::warning\
-La suppression d'un quiz est permanente : une fois supprimés, un quiz et ses
-résultats ne peuvent pas être récupérés ! \
-:::
+:::warning La suppression d'un quiz est permanente : une fois supprimés, un quiz
+et ses scores ne peuvent pas être récupérés ! :::
