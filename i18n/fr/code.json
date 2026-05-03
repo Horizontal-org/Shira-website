@@ -354,7 +354,7 @@
         "message": "Susciter l'angoisse et la méfiance :"
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": "Les utilisateurs ou utilisatrices peuvent devenir anxieux ou méfiants envers les emails, même légitimes, ce qui peut entraîner une baisse de productivité et une augmentation du stress."
+        "message": "Les utilisateurs peuvent développer une certaine anxiété ou se méfier des e-mails, même légitimes, ce qui peut entraîner une baisse de leur productivité et accroître leur stress."
     },
     "phishingQuizzes.problem.emailFocus.title": {
         "message": "Concentration exclusive sur l'email :"
@@ -393,7 +393,7 @@
         "message": "Une étude portant sur 14 000 participants et participantes"
     },
     "phishingQuizzes.research.conclusion": {
-        "message": "a en réalité révélé un effet contre-productif."
+        "message": "a en réalité révélé un effet contre-productif des simulations d'hameçonnage."
     },
     "phishingQuizzes.quizzes.title": {
         "message": "Une approche plus efficace : les quiz sur l'hameçonnage"
@@ -408,7 +408,7 @@
         "message": "Environnement d'apprentissage contrôlé :"
     },
     "phishingQuizzes.benefits.controlled.text": {
-        "message": "Les quiz sur l'hameçonnage créent un espace sécurisé et sans enjeu majeur où les employés peuvent mettre en pratique leurs compétences."
+        "message": "Les quiz sur l'hameçonnage créent un espace sécurisé et sans enjeu majeur où les employé.e.s peuvent mettre en pratique leurs compétences."
     },
     "phishingQuizzes.benefits.interactive.title": {
         "message": "Engagement interactif :"
@@ -435,25 +435,25 @@
         "message": "Les quiz peuvent être personnalisés pour cibler des compétences spécifiques et combler les lacunes en matière de connaissances."
     },
     "phishingQuizzes.cta": {
-        "message": "Commencez"
+        "message": "Lancez-vous"
     },
     "phishing.layout.title": {
-        "message": "En savoir plus sur le phishing"
+        "message": "En savoir plus sur l'hameçonnage"
     },
     "phishing.layout.description": {
-        "message": "Apprenez ce qu'est le phishing, comment il fonctionne et pourquoi il est efficace. Découvrez les attaques de phishing les plus courantes, ce que recherchent les attaquants et les conséquences graves pour les individus et les organisations."
+        "message": "Découvrez ce qu’est l’hameçonnage, quel est son fonctionnement et pourquoi il est efficace. Apprenez-en davantage sur les attaques d’hameçonnage les plus courantes, l’objectif des pirates et les graves conséquences de l'hameçonnage pour les particuliers et les entreprises."
     },
     "phishing.meta.description": {
-        "message": "Apprenez ce qu'est le phishing, comment il fonctionne et pourquoi il est efficace. Découvrez les attaques de phishing les plus courantes, ce que recherchent les attaquants et les conséquences graves pour les individus et les organisations."
+        "message": "Découvrez ce qu’est l’hameçonnage, quel est son fonctionnement et pourquoi il est efficace. Apprenez-en davantage sur les attaques d’hameçonnage les plus courantes, l’objectif des pirates et les graves conséquences de l'hameçonnage pour les particuliers et les entreprises."
     },
     "phishing.intro.title": {
-        "message": "Qu'est-ce que le phishing ?"
+        "message": "Qu'est-ce que l'hameçonnage ?"
     },
     "phishing.intro.definition": {
-        "message": "Le phishing est une tentative malveillante visant à obtenir des informations sensibles, telles que des noms d'utilisateur, des mots de passe et des coordonnées de cartes de crédit, en se faisant passer pour une entité de confiance dans les communications électroniques. Le phishing peut également vous inciter à télécharger et à installer des logiciels malveillants."
+        "message": "L'hameçonnage est une tentative malveillante visant à obtenir des informations sensibles, telles que des identifiants, des mots de passe et des données de carte de crédit, en se faisant passer pour une entité de confiance dans le cadre de communications électroniques. L'hameçonnage peut également vous inciter à télécharger et à installer des logiciels malveillants."
     },
     "phishing.intro.protection": {
-        "message": "Comprendre le phishing est la première étape pour vous protéger, vous et votre organisation."
+        "message": "Comprendre l'hameçonnage est la première étape pour vous protéger, et protéger votre organisation."
     },
     "phishing.images.fish.alt": {
         "message": "Illustration décorative d'un poisson"
@@ -462,67 +462,67 @@
         "message": "L'attaque la plus courante"
     },
     "phishing.common.rank": {
-        "message": "Le phishing est régulièrement classé comme l'attaque la plus fréquente subie par les individus et les organisations."
+        "message": "L'hameçonnage est régulièrement classé comme l'attaque la plus fréquente subie par les individus et les organisations."
     },
     "phishing.common.channels": {
-        "message": "Alors que le phishing était traditionnellement associé aux escroqueries par email, il se déroule aujourd'hui sur une grande variété de supports : l'email, mais aussi les SMS, les applications de messagerie, les réseaux sociaux et les appels téléphoniques."
+        "message": "Si l'hameçonnage était autrefois principalement associé aux arnaques par e-mail ou email frauduleux, il existe désormais sur une grande variété de supports : les e-mails, mais aussi les SMS, les applications de messagerie, les réseaux sociaux et les appels téléphoniques."
     },
     "phishing.images.bubbles.alt": {
         "message": "Illustration décorative de bulles"
     },
     "phishing.attackers.title": {
-        "message": "Que cherchent à obtenir les attaquants ?"
+        "message": "Que cherchent à obtenir les attaquants ?"
     },
     "phishing.attackers.passwords.label": {
-        "message": "Mots de passe :"
+        "message": "Mots de passe :"
     },
     "phishing.attackers.passwords.text": {
         "message": "Les attaquants cherchent à voler les mots de passe et les identifiants de connexion pour accéder aux comptes en ligne des victimes. Avec ces informations, ils peuvent commettre des fraudes, voler des données ou faire chanter les victimes en menaçant d'exposer des informations sensibles."
     },
     "phishing.attackers.money.label": {
-        "message": "Argent :"
+        "message": "L'argent :"
     },
     "phishing.attackers.money.text": {
-        "message": "Le gain financier est un motif clé du phishing. Les attaquants usurpent l'identité d'organisations légitimes pour inciter les victimes à fournir leurs coordonnées bancaires ou à effectuer des paiements, souvent via de fausses factures ou des demandes de dons."
+        "message": "Le gain financier est un motif clé de l'hameçonnage. Les attaquants usurpent l'identité d'organisations légitimes pour inciter les victimes à fournir leurs coordonnées bancaires ou à effectuer des paiements, souvent via de fausses factures ou des demandes de dons."
     },
     "phishing.attackers.confidential.label": {
-        "message": "Informations confidentielles :"
+        "message": "Informations confidentielles :"
     },
     "phishing.attackers.confidential.text": {
-        "message": "Le phishing cible des informations confidentielles telles que les numéros de sécurité sociale et les données d'entreprise. Ces informations peuvent être utilisées pour le vol d'identité, vendues sur le dark web ou exploitées à des fins d'espionnage industriel."
+        "message": "L'hameçonnage cible des informations confidentielles telles que les numéros de sécurité sociale et les données d'entreprise. Ces informations peuvent être utilisées pour le vol d'identité, vendues sur le dark web ou exploitées à des fins d'espionnage industriel."
     },
     "phishing.attackers.malware.label": {
-        "message": "Pour inciter les victimes à installer des logiciels malveillants :"
+        "message": "Pour inciter les victimes à installer des logiciels malveillants :"
     },
     "phishing.attackers.malware.text": {
         "message": "Les fraudeurs peuvent piéger les victimes en leur faisant télécharger des logiciels malveillants via des liens ou des pièces jointes malveillants. Une fois installés, ces logiciels peuvent voler des informations personnelles, surveiller l'activité ou prendre le contrôle des appareils, entraînant de graves violations de données."
     },
     "phishing.why.title": {
-        "message": "Pourquoi le phishing fonctionne-t-il ?"
+        "message": "Pourquoi le phishing fonctionne-t-il ?"
     },
     "phishing.why.intro": {
-        "message": "Les fraudeurs capitalisent sur notre :"
+        "message": "Les fraudeurs capitalisent sur notre :"
     },
     "phishing.why.polite.label": {
-        "message": "Besoin d'être poli :"
+        "message": "Besoin d'être poli :"
     },
     "phishing.why.polite.text": {
         "message": "On se sent souvent obligé de répondre aux messages provenant de figures d'autorité ou de sources de confiance. Les fraudeurs exploitent cela en utilisant un langage poli, rendant les destinataires plus enclins à satisfaire aux demandes d'informations sensibles sans remettre en question la légitimité du message."
     },
     "phishing.why.helpful.label": {
-        "message": "Désir d'être utile :"
+        "message": "Désir d'être utile :"
     },
     "phishing.why.helpful.text": {
         "message": "Beaucoup d'entre nous souhaitent naturellement aider les autres. Les fraudeurs créent des scénarios qui incitent les destinataires à porter assistance, par exemple en prétendant qu'un collègue ou un proche est en difficulté. Cette manipulation peut amener des individus à fournir des informations personnelles, croyant apporter leur soutien."
     },
     "phishing.why.embarrassed.label": {
-        "message": "Peur d'être embarrassé :"
+        "message": "Peur d'être embarrassé :"
     },
     "phishing.why.embarrassed.text": {
         "message": "Les fraudeurs instillent la peur en suggérant que le destinataire a commis une erreur, comme un défaut de paiement. Cette crainte peut pousser les individus à agir rapidement, souvent sans vérifier la source du message, ce qui compromet leur sécurité."
     },
     "phishing.why.urgent.label": {
-        "message": "Panique face aux messages urgents :"
+        "message": "Panique face aux messages urgents :"
     },
     "phishing.why.urgent.text": {
         "message": "L'urgence est un puissant moteur. Les fraudeurs conçoivent des messages qui créent un faux sentiment d'urgence, affirmant que des comptes vont être suspendus ou que des paiements sont en retard. Cette panique peut troubler le jugement, amenant les individus à ignorer les signes d'alerte et à agir de manière impulsive."
@@ -531,58 +531,58 @@
         "message": "Les attaques de phishing peuvent avoir de lourdes conséquences"
     },
     "phishing.consequences.identity.label": {
-        "message": "Vol d'identité :"
+        "message": "Vol d'identité :"
     },
     "phishing.consequences.identity.text": {
         "message": "Les cybercriminels peuvent utiliser vos informations personnelles pour usurper votre identité."
     },
     "phishing.consequences.financial.label": {
-        "message": "Pertes financières :"
+        "message": "Pertes financières :"
     },
     "phishing.consequences.financial.text": {
         "message": "Des transactions non autorisées peuvent vider vos comptes."
     },
     "phishing.consequences.data.label": {
-        "message": "Violations de données :"
+        "message": "Violations de données :"
     },
     "phishing.consequences.data.text": {
-        "message": "Des informations sensibles de l'entreprise peuvent être exposées, entraînant une atteinte à la réputation."
+        "message": "Des informations sensibles de l'entreprise peuvent être exposées, entraînant une atteinte à la réputation de celle ci."
     },
     "phishing.consequences.operational.label": {
-        "message": "Interruption des activités :"
+        "message": "Interruption des activités :"
     },
     "phishing.consequences.operational.text": {
-        "message": "Le phishing peut provoquer des temps d'arrêt et une perte de productivité."
+        "message": "L'hameçonnage peut provoquer des temps d'arrêt et une perte de productivité."
     },
     "phishing.images.worm.alt": {
         "message": "Illustration décorative d'un ver"
     },
     "phishing.how.title": {
-        "message": "Comment fonctionne le phishing"
+        "message": "Comment fonctionne l'hameçonnage"
     },
     "phishing.how.intro": {
-        "message": "Les attaques de phishing suivent souvent les étapes suivantes :"
+        "message": "Les attaques d'hameçconnage suivent souvent les étapes suivantes :"
     },
     "phishing.how.deceptive.label": {
-        "message": "Communication trompeuse :"
+        "message": "Communication trompeuse :"
     },
     "phishing.how.deceptive.text": {
         "message": "Les attaquants envoient des messages qui semblent provenir de sources légitimes, telles que des banques, des services en ligne ou même des collègues."
     },
     "phishing.how.urgent.label": {
-        "message": "Appel à l'action urgent :"
+        "message": "Appel à l'action urgent :"
     },
     "phishing.how.urgent.text": {
         "message": "Le message contient généralement un sentiment d'urgence, incitant le destinataire à agir rapidement — par exemple, en cliquant sur un lien ou en fournissant des informations personnelles."
     },
     "phishing.how.fake.label": {
-        "message": "Sites web frauduleux :"
+        "message": "Sites web frauduleux :"
     },
     "phishing.how.fake.text": {
         "message": "Si la victime clique sur un lien, elle est souvent dirigée vers un site web frauduleux qui ressemble au site légitime. Là, il peut lui être demandé de saisir des informations sensibles comme son mot de passe ou ses coordonnées bancaires."
     },
     "phishing.how.data.label": {
-        "message": "Vol de données :"
+        "message": "Vol de données :"
     },
     "phishing.how.data.text": {
         "message": "Une fois que la victime a fourni ses informations, les attaquants peuvent les utiliser pour l'usurpation d'identité, la fraude financière ou d'autres fins malveillantes."
@@ -591,13 +591,13 @@
         "message": "Les tarifs de Shira"
     },
     "pricing.layout.description": {
-        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs, les professionnels de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz de phishing personnalisables et des outils de gestion respectueux de la vie privée."
+        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs/ éducatrices, les professionnels/ professionnelles de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz de phishing personnalisables et des outils de gestion respectueux de la vie privée."
     },
     "pricing.meta.description": {
-        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs, les professionnels de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz de phishing personnalisables et des outils de gestion respectueux de la vie privée."
+        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs/ éducatrices, les professionnels/ professionnelles de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz personnalisables sur l'hameçonnage et des outils de gestion respectueux de la vie privée."
     },
     "pricing.intro.subtitle": {
-        "message": "Des plans sur mesure pour les éducateurs et les professionnels de la sécurité"
+        "message": "Des plans sur mesure pour les éducateurs/ éducatrices et les professionnels / professionnelles de la sécurité"
     },
     "pricing.intro.title": {
         "message": "Une tarification simple, transparente et équitable"
@@ -615,13 +615,13 @@
         "message": "Gratuit, sans engagement"
     },
     "pricing.cta.getStarted": {
-        "message": "Commencez"
+        "message": "Lancez-vous"
     },
     "pricing.starter.includes": {
-        "message": "Le plan Initial comprend :"
+        "message": "Le plan Initial comprend :"
     },
     "pricing.admin.title": {
-        "message": "Gestion administrative"
+        "message": "La gestion administrative"
     },
     "pricing.admin.cloud": {
         "message": "✔️ Cloud"
@@ -630,7 +630,7 @@
         "message": "✔️ Tableau de bord administrateur"
     },
     "pricing.admin.oneAdmin": {
-        "message": "✔️ 1 administrateur"
+        "message": "✔️ 1 administrateur / trice"
     },
     "pricing.customization.title": {
         "message": "Personnalisation"
@@ -648,13 +648,13 @@
         "message": "✔️ Nombre de questions illimité"
     },
     "pricing.customization.apps": {
-        "message": "✔️ 6 applications : Gmail, Outlook, SMS, WhatsApp, Messenger, App de rencontre"
+        "message": "✔️ 6 applications : Gmail, Outlook, SMS, WhatsApp, Messenger, App de rencontre"
     },
     "pricing.access.title": {
         "message": "Contrôle d'accès"
     },
     "pricing.access.public": {
-        "message": "✔️ Quiz publics : n'importe qui peut participer à votre quiz via une URL facile à partager"
+        "message": "✔️ Quiz publics : n'importe qui peut participer à votre quiz via une URL facile à partager"
     },
     "pricing.pro.title": {
         "message": "Professionnel (« Pro »)"
@@ -669,10 +669,10 @@
         "message": " . en facturation annuelle, ou 49 $/mois + 1 $ par quiz effectué en facturation mensuelle"
     },
     "pricing.pro.includes": {
-        "message": "Le plan Pro comprend :"
+        "message": "Le plan Pro comprend :"
     },
     "pricing.admin.unlimitedSoon": {
-        "message": "✔️ Administrateurs illimités [bientôt disponible]"
+        "message": "✔️ Administrateurs / trices illimités [bientôt disponible]"
     },
     "pricing.pro.unlimitedQuizzes": {
         "message": "✔️ Quiz personnalisés illimités"
@@ -681,10 +681,10 @@
         "message": "✔️ Nombre de questions illimité"
     },
     "pricing.pro.apps": {
-        "message": "✔️ 6 applications : Gmail, Outlook, SMS, WhatsApp, Messenger, App de rencontre"
+        "message": "✔️ 6 applications : Gmail, Outlook, SMS, WhatsApp, Messenger, App de rencontre"
     },
     "pricing.access.private": {
-        "message": "✔️ Quiz privés : seuls vos utilisateurs peuvent participer à vos quiz"
+        "message": "✔️ Quiz privés : seuls vos utilisateurs et utilisatrices peuvent y participer"
     },
     "pricing.compliance.title": {
         "message": "Conformité"
@@ -711,13 +711,13 @@
         "message": "Des tarifs adaptés à vos besoins"
     },
     "pricing.enterprise.includes": {
-        "message": "Le plan Entreprise comprend :"
+        "message": "Le plan Entreprise comprend :"
     },
     "pricing.enterprise.deployment": {
         "message": "✔️ Cloud ou sur site (on-premise)"
     },
     "pricing.admin.unlimited": {
-        "message": "✔️ Administrateurs illimités"
+        "message": "✔️ Administrateurs/trices illimités"
     },
     "pricing.enterprise.unlimitedQuizzes": {
         "message": "✔️ Quiz personnalisés illimités"
@@ -762,7 +762,7 @@
         "message": "Navigation de l'article"
     },
     "theme.blog.post.paginator.newerPost": {
-        "message": "Article plus récent"
+        "message": "Article le plus récent"
     },
     "theme.blog.post.paginator.olderPost": {
         "message": "Article précédent"
@@ -840,7 +840,7 @@
         "message": "Versions"
     },
     "theme.tags.tagsListLabel": {
-        "message": "Mots-clés :"
+        "message": "Mots-clés :"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
         "message": "Fermer"
@@ -882,7 +882,7 @@
         "message": "Nous n'avons pas trouvé ce que vous cherchiez."
     },
     "theme.NotFound.p2": {
-        "message": "Veuillez contacter le propriétaire du site qui vous a redirigé vers l'URL d'origine pour l'informer que son lien est rompu."
+        "message": "Contactez le propriétaire du site qui vous a redirigé vers l'URL d'origine pour l'informer que son lien est rompu."
     },
     "theme.TOCCollapsible.toggleButtonLabel": {
         "message": "Sur cette page"
@@ -891,7 +891,7 @@
         "message": "Langues"
     },
     "theme.blog.post.readMore": {
-        "message": "Lire davantage"
+        "message": "En savoir d'avantage"
     },
     "theme.blog.post.readMoreLabel": {
         "message": "En savoir plus sur {title}"
@@ -954,7 +954,7 @@
         "message": "Voir tous les résultats dans \"{context}\""
     },
     "theme.SearchBar.seeAll": {
-        "message": "Voir tous les résultats"
+        "message": "Voir tous les scores"
     },
     "theme.SearchBar.label": {
         "message": "Recherche"
@@ -984,19 +984,19 @@
         "message": "{authorName} - {nPosts}"
     },
     "theme.blog.authorsList.pageTitle": {
-        "message": "Auteurs"
+        "message": "Auteurs et autrices"
     },
     "theme.blog.authorsList.viewAll": {
-        "message": "Voir tous les auteurs"
+        "message": "Voir tous les auteurs et autrices"
     },
     "theme.blog.author.noPosts": {
-        "message": "L ' auteur n ' a encore écrit aucun article."
+        "message": "L 'auteur / autrice n 'a encore écrit aucun article."
     },
     "theme.contentVisibility.unlistedBanner.title": {
         "message": "Page non inscrite"
     },
     "theme.contentVisibility.unlistedBanner.message": {
-        "message": "Cette page n'est pas répertoriée. Les moteurs de recherche ne l'indexeront pas et seuls les utilisateurs disposant d'un lien direct pourront y accéder."
+        "message": "Cette page n'est pas répertoriée. Les moteurs de recherche ne l'indexeront pas et seuls les utilisateurs ou utilisatrices disposant d'un lien direct pourront y accéder."
     },
     "theme.contentVisibility.draftBanner.title": {
         "message": "Page en cours de rédaction"
@@ -1014,15 +1014,15 @@
         "message": "Mots-clés"
     },
     "phishingQuizzes.wsj.alt": {
-        "message": "Article du Wall Street Journal : 'Les tests de phishing, bêtes noires du monde du travail, deviennent de plus en plus vicieux' – Selon des chercheurs, ces ruses destinées à sensibiliser les employés crédules aux dangers d'Internet ne fonctionnent même pas"
+        "message": "Article du Wall Street Journal : 'Les tests sur l'hameçonnage, bêtes noires du monde du travail, deviennent de plus en plus vicieux' – Selon des chercheurs/ chercheuses, ces ruses destinées à sensibiliser les employé.e.s crédules aux dangers d'Internet ne fonctionnent même pas"
     },
     "phishingQuizzes.wsjMobile.alt": {
-        "message": "Article du Wall Street Journal : 'Les tests de phishing, bêtes noires du monde du travail, deviennent de plus en plus vicieux' – Selon des chercheurs, ces ruses destinées à sensibiliser les employés crédules aux dangers d'Internet ne fonctionnent même pas"
+        "message": "Article du Wall Street Journal : 'Les tests sur l'hameçonnage, bêtes noires du monde du travail, deviennent de plus en plus vicieux' – Selon des chercheurs/ chercheuses, ces ruses destinées à sensibiliser les employé.e.s crédules aux dangers d'Internet ne fonctionnent même pas"
     },
     "phishingQuizzes.research.emphasis": {
         "message": "contre-productif"
     },
     "phishingQuizzes.research.final": {
-        "message": "Effet des simulations de phishing : les utilisateurs exposés en permanence à des simulations de phishing sont plus susceptibles de cliquer sur des liens dangereux."
+        "message": "Effet des simulations d'hameçonnage : les utilisateurs ou utilisatrices exposés en permanence à des simulations d'hameçonnage sont plus susceptibles de cliquer sur des liens dangereux."
     }
 }
