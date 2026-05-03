@@ -59,35 +59,34 @@ Actuellement, Shira prend en charge les applications suivantes :
 - Application de rencontre
 
 :::note\
-[Informez-nous](/contact) si votre équipe utilise des applications qui ne
-figurent pas dans cette liste et que vous souhaiteriez voir intégrées à Shira !
-\
+[Dites nous](/contact) si votre équipe utilise des applications qui ne figurent
+pas dans cette liste et que vous souhaiteriez voir intégrées à Shira ! \
 :::
 
 ## Contenu de la question {#content}
-Le contenu d'une question correspond à l'email ou au message que vous rédigez
-pour l'afficher dans le quiz.
+Le contenu d'une question correspond au texte de l'e-mail ou du message que vous
+rédigez pour l'afficher dans le questionnaire.
 
 Il peut s'agir de tous les éléments habituellement présents dans les emails et
 les messages : texte, images, pièces jointes, liens, etc.
 
 ## Explications {#explanations}
-Les explications sont de courts extraits de texte permettant d'expliquer aux
-apprenants pourquoi l'e-mail ou le message de la question pourrait être une
-tentative d'hameçonnage. Les explications s'affichent après la réponse de
-l'apprenant et mettent en évidence des éléments spécifiques de la question.
+Les explications sont de courts extraits de texte permettant d'expliquer
+pourquoi l'e-mail ou le message de la question pourrait être une tentative
+d'hameçonnage. Les explications s'affichent après la réponse de l'apprenant ou
+l'apprenante et mettent en évidence des éléments spécifiques de la question.
 
 Lorsque vous créez une question, chaque explication doit être liée à un élément
 de la question, tel que :
-- Le nom de l’expéditeur
-- L’adresse courriel ou le numéro de téléphone de l’expéditeur
-- Des mots, phrases ou images spécifiques contenus dans un courriel ou un
+- Nom de l’expéditeur
+- L'email ou le numéro de téléphone de l’expéditeur ou de l'expéditrice
+- Des mots, des phrases ou des images spécifiques figurant dans un e-mail ou un
   message
 - Des images ou des pièces jointes
 
 L’ordre d’affichage des explications lors de la création des questions
-correspond à l’ordre dans lequel elles sont présentées aux apprenants pendant le
-quiz.
+correspond à l’ordre dans lequel elles sont présentées aux apprenants et
+apprenantes pendant le quiz.
 
 ## Variables {#variables}
 Les variables sont des espaces réservés permettant d’insérer des informations
@@ -95,14 +94,15 @@ personnalisées dans une question.
 
 Pour ajouter une variable, saisissez le texte suivant dans le contenu de la
 question :
-* ``{{name}}`` affichera le nom de l'apprenant
-* ``{{email}}`` affichera l'adresse e-mail de l'apprenant
+* ``{{name}}`` affichera le nom de l'apprenant ou de l'apprenante
+* ``{{email}}`` affichera l'adresse e-mail de l'apprenant ou de l'apprenante
 
 Le fonctionnement des variables diffère légèrement selon qu'il s'agit d'un quiz
 public ou privé :
 * Dans un quiz public, le nom et l'adresse email affichés sont ceux saisis par
-  l'apprenant ou générés automatiquement lors de la configuration du quiz.
-* Dans les quiz privés, le nom et l'adresse électronique affichés sont tirés des
-  informations de l'apprenant telles qu'elles ont été configurées lors de son
+  l'apprenant ou l'apprenante ou générés automatiquement lors de la
+  configuration du quiz.
+* Dans les quiz privés, le nom et l'email affichés sont tirés des informations
+  de l'apprenant ou apprenante telles qu'elles ont été configurées lors de son
   invitation à l'Espace.
 
