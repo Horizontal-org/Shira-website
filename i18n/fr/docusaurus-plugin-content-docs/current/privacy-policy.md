@@ -37,7 +37,7 @@ la version de Shira disponible sur [https://shira.app](https://shira.app),
 Les données créées dans Shira ou générées lorsque les utilisateurs et
 utilisatrices utilisent Shira peuvent être divisées en trois catégories :
 - Données du compte
-- Données de fonctionnalité
+- Données fonctionnelles
 - Télémétrie
 
 Les utilisateurs et utilisatrices de Shira peuvent être catégorisés en quatre
@@ -63,91 +63,100 @@ Les données de compte sont les données associées au compte Shira d’un
 utilisateur ou utilisatrice.
 - Les administrateurs ou administratrices sont considérés comme ayant un compte
   Shira du moment qu'ils créént un espace.
-- Les apprenants inscrits sont considérés comme ayant un compte Shira dès qu'ils
-  sont invités à rejoindre un espace.
+- Les apprenants et apprenantes inscrits sont considérés comme ayant un compte
+  Shira du moment qu'ils sont invités à rejoindre un espace.
 
-Les apprenants anonymes et les visiteurs n'ont pas de compte Shira.
+Les apprenants et apprenantes anonymes et les visiteurs n'ont pas de compte
+Shira.
 
-#### Quelles données de compte collectons-nous ? {#what-account-data-do-we-collect}
+#### Quelles données de compte collectons-nous ? {#what-account-data-do-we-collect}
 Voici les données de compte que nous collectons concernant les administrateurs :
-- Adresse électronique : il s’agit de l’adresse électronique utilisée par un
-  administrateur pour créer un espace et qui reste associée au compte de
-  l’administrateur.
+- Email : il s’agit de l’adresse électronique utilisée par un administrateur ou
+  administratrice pour créer un espace et qui reste associée au compte de celui
+  ci.
 - Date de création du compte : un compte administrateur est considéré comme
-  "créé" lorsqu’un administrateur accepte l’invitation à créer un espace.
-- À quel(s) espace(s) l'administrateur est associé(s).
+  "créé" lorsqu’un administrateur ou une administratrice accepte l’invitation à
+  créer un espace.
+- À quel(s) espace(s) l'administrateur ou administratrice est-il associé.
 
-Voici les données de compte que nous recueillons sur les apprenants inscrits :
-- Adresse électronique : il s’agit de l’adresse électronique avec laquelle un
-  utilisateur enregistré est invité à rejoindre un espace, et qui reste associée
-  au compte de l’utilisateur enregistré une fois celui-ci créé.
-- Date de création du compte : le compte d’un apprenant inscrit est considéré
-  comme "créé" lorsqu’un administrateur envoie une invitation à cet apprenant
-  pour rejoindre un espace.
-- À quel(s) espace(s) l'apprenant inscrit est associé.
+Voici les données de compte que nous recueillons sur les apprenants et
+apprenantes inscrits :
+- Email : il s’agit de l’adresse électronique avec laquelle un utilisateur ou
+  une utilisatrice inscrit est invité à rejoindre un espace, et qui reste
+  associée à son compte une fois celui-ci créé.
+- Date de création du compte : le compte d’un apprenant ou d'une inscrite
+  inscrit est considéré comme "créé" lorsqu’un administrateur ou une
+  administratrice lui envoie une invitation pour rejoindre un espace.
+- À quel(s) espace(s) l'apprenant ou apprenante inscrit est-il associé.
 
-Nous ne collectons aucune donnée de compte auprès des apprenants et visiteurs
-anonymes.
+Nous ne collectons aucune donnée de compte auprès des apprenants et apprenantes
+et visiteurs anonymes.
 
-#### Comment collectons-nous les données de compte ? {#how-do-we-collect-account-data}
-- Les adresses électroniques et la liste des espaces auxquels un utilisateur est
-  associé sont collectées lorsqu'un utilisateur remplit un formulaire
-  d'invitation (lorsqu'un administrateur remplit le formulaire pour créer un
-  espace ou lorsqu'un administrateur renseigne les informations pour envoyer une
-  invitation à un apprenant inscrit pour rejoindre un espace).
-- La date de création du compte est collectée automatiquement lors de la
-  création du compte.
+#### Comment collectons-nous les données de compte ? {#how-do-we-collect-account-data}
+- Les emails et la liste des espaces auxquels un utilisateur ou une utilisatrice
+  est associé sont collectées lorsqu'il ou elle remplit un formulaire
+  d'invitation (lorsqu'un administrateur ou administratrice remplit le
+  formulaire pour créer un espace ou lorsqu'il ou elle renseigne les
+  informations pour envoyer une invitation à un apprenant ou une apprenante
+  inscrit pour rejoindre un espace).
+- La date de création du compte est collectée automatiquement lors de sa
+  création.
 
-#### Comment partageons-nous ou divulguons-nous les données de compte ? {#how-do-we-share-or-disclose-account-data}
-Nous ne vendrons jamais les données de votre compte à des tiers.
+#### Comment partageons-nous ou divulguons-nous les données de compte ? {#how-do-we-share-or-disclose-account-data}
+Nous ne vendrons jamais les données rekatives à votre compte à des tiers.
 
-Nous ne divulguerons jamais intentionnellement les données de votre compte à des
-tiers, sauf dans les cas suivants :
+Nous ne divulguerons jamais intentionnellement les données relatives à votre
+compte à des tiers, sauf dans les cas suivants :
 - Conformément à la loi (par exemple, si ces données sont requises dans le cadre
   d'une ordonnance judiciaire).
 - Selon les besoins nécessaires au fonctionnement et à la fourniture des
   services de Shira (par exemple pour traiter les paiements).
 
-### Données de fonctionnalité {#functionality-data}
+### Données relatives aux fonctionnalité {#functionality-data}
 
-#### Que sont les données de fonctionnalité ? {#what-is-functionality-data}
-Les données de fonctionnalité sont les données générées lorsque les utilisateurs
-utilisent les fonctionnalités de Shira, telles que les quiz, les questions de
-quiz, les résultats, et plus encore.
+#### Que sont les données relative à la fonctionnalité ? {#what-is-functionality-data}
+Les données fonctionnelles sont les données générées lorsque les utilisateurs et
+utilisatrices emploient les fonctionnalités de Shira, telles que les quiz, les
+questions de quiz, les scores, etc.
 
-#### Quelles données de fonctionnalité collectons-nous ? {#what-functionality-data-do-we-collect}
-Voici les données de fonctionnalité que nous recueillons sur les administrateurs
-:
-- Les informations relatives aux quiz créés et gérés par les Administrateurs, y
-  compris le nom et le statut du quiz (publié, non publié, public, privé, etc.),
-  la liste des questions du quiz, ainsi que les explications créées pour chaque
-  question.
-- Lorsque les administrateurs se connectent et utilisent Shira, y compris la
-  date et l'heure de chaque connexion.
+#### Quelles données fonctionnelles collectons-nous ? {#what-functionality-data-do-we-collect}
+Voici les données fonctionnelles que nous recueillons sur les administrateurs ou
+administratrices :
+- Les informations relatives aux quiz créés et gérés par les Administrateurs, ou
+  administratrices y compris le nom et le statut du quiz (publié, non publié,
+  public, privé, etc.), la liste des questions du quiz, ainsi que les
+  explications créées pour chaque question.
+- Lorsque les administrateurs ou administratrices se connectent et utilisent
+  Shira, y compris la date et l'heure de chaque connexion.
 
-Voici les données de fonctionnalité que nous recueillons sur les apprenants
-inscrits :
-- Liste des questionnaires auxquels un apprenant inscrit est invité à participer
-  ou qu'il a déjà passés.
-- Réponses soumises par l'apprenant inscrit lors d'un quiz (Résultats).
-- Date et heure auxquelles un apprenant inscrit a passé un quiz.
+Voici les données fonctionnelles que nous recueillons sur les apprenants et
+apprenantes inscrits :
+- Liste des quiz auxquels un apprenant ou une apprenante inscrit est invité à
+  participer ou qu'il a déjà passés.
+- Réponses soumises par l'apprenant ou apprenante inscrit lors d'un quiz
+  (Scores).
+- Date et heure auxquelles un apprenant ou apprenante inscrit a passé un quiz.
 
-Voici les données de fonctionnalité que nous recueillons sur les apprenants
-anonymes :
-- Réponses soumises par l'apprenant anonyme lors d'un quiz (Résultats).
-- Date et heure auxquelles un apprenant anonyme a passé un quiz.
+Voici les données fonctionnelles que nous recueillons sur les apprenants et
+apprenantes anonymes :
+- Réponses soumises par l'apprenant ou apprenante anonyme lors d'un quiz
+  (Scores).
+- Date et heure auxquelles un apprenant ou une apprenante anonyme a passé un
+  quiz.
 
-Nous ne collectons pas de données de fonctionnalité concernant les visiteurs.
+Nous ne collectons pas de données fonctionnelles sur les visiteurs et visiteuses
+de Shira.
 
-#### Comment les données de fonctionnalité sont-elles collectées ? {#how-is-functionality-data-collected}
-Nous collectons automatiquement des données de fonctionnalité à partir des
-saisies des utilisateurs lorqu'ils utilisent les fonctionnalités de Shira.
+#### Comment les données fonctionnelles sont-elles collectées ? {#how-is-functionality-data-collected}
+Nous collectons automatiquement des données fonctionnelles à partir des saisies
+des utilisateurs ou utilisatrices lorqu'ils utilisent les fonctionnalités de
+Shira.
 
-#### Comment partegeons-nous ou divulguons-nous les données de fonctionnalité ? {#how-do-we-share-or-disclose-functionality-data}
-Nous ne vendrons jamais vos données de fonctionnalité à des tiers.
+#### Comment partegeons-nous ou divulguons-nous les données fonctionnelles ? {#how-do-we-share-or-disclose-functionality-data}
+Nous ne vendrons jamais vos données fonctionnelles à des tiers.
 
-Nous ne divulguerons jamais intentionnellement vos données de fonctionnalité à
-des tiers, sauf dans les cas suivants :
+Sauf dans les cas suivants, nous ne divulguerons jamais intentionnellement vos
+données fonctionnelles à des tiers :
 - Conformément à la loi (par exemple, si ces données sont requises dans le cadre
   d'une ordonnance judiciaire).
 - Selon les besoins pour faire fonctionner et fournir les services de Shira (par
@@ -155,33 +164,33 @@ des tiers, sauf dans les cas suivants :
 
 ### Télémétrie {#telemetry}
 
-#### Qu'est-ce que la télémétrie ? {#what-is-telemetry}
+#### Qu'est-ce que la télémétrie ? {#what-is-telemetry}
 La télémétrie désigne les données relatives à la manière dont les utilisateurs
-utilisent les fonctionnalités de Shira, à la fréquence d'utilisation de Shira et
-aux problèmes de performance ou d'expérience utilisateur qu'ils peuvent
-rencontrer.
+et utilisatrices interagissent avec les fonctionnalités de Shira, à la fréquence
+à laquelle ils le font, ainsi qu'aux éventuels problèmes de performance ou
+d'expérience client qu'ils pourraient rencontrer.
 
 Les données de télémétrie sont utilisées pour améliorer les performances, les
 fonctionnalités et l'expérience utilisateur de Shira.
 
-#### Quelles données télémétriques collectons-nous ? {#what-telemetry-do-we-collect}
+#### Quelles données télémétriques collectons-nous ? {#what-telemetry-do-we-collect}
 Nous collectons les données de télémétrie suivantes :
 - Le nombre de visites sur https://quiz.shira.app
 - Le nombre de quiz lancés sur https://shira.app, incluant à la fois les quiz
-  prêts à l'emploi et les quiz personnalisés crées par les administrateurs de
-  l'espace
+  prédéfinis ainsi que les quiz personnalisés crées par les administrateurs et
+  administratrices de l'espace
 - Le nombre de questionnaires complétés sur https://shira.app, incluant les
   questionnaires prédéfinis et les questionnaires personnalisés crées par les
-  administrateurs de l'espace
+  administrateurs et administratrices de l'espace
 
-#### Comment les données de télémétrie sont-elles collectées ? {#how-is-telemetry-collected}
+#### Comment les données de télémétrie sont-elles collectées ? {#how-is-telemetry-collected}
 La télémétrie est collectée automatiquement via [Divvi
 Up](https://divviup.org/), un service de télémétrie respectueux de la vie
 privée. Grâce à Divvi Up, toutes les données de télémétrie sont anonymisées pour
 garantir qu'elles ne révèlent aucune information sensible ou donnée
-personnellement identifiable sur les utilisateurs.
+personnellement identifiable.
 
-Voici comment nous abordons la collecte de télémétrie :
+Voici comment nous nous y prenons pour collecter les données de télémétrie :
 - Toutes les données sont anonymes et agrégées : la bibliothèque Divvi Up divise
   les données en deux parts anonymisées et chiffrées, puis télécharge chaque
   part vers différents processeurs de partage de données (l'un hébergé par ISRG,
@@ -199,7 +208,7 @@ Voici comment nous abordons la collecte de télémétrie :
   soient anonymisées, nous minimisons systématiquement la quantité de données
   que nous collectons.
 
-#### Comment partageons-nous ou divulguons-nous les données de télémétrie ? {#how-do-we-share-or-disclose-telemetry}
+#### Comment partageons-nous ou divulguons-nous les données de télémétrie ? {#how-do-we-share-or-disclose-telemetry}
 Nous ne vendrons jamais vos données de télémétrie à des tiers. Nous ne
 divulguerons jamais intentionnellement vos données de télémétrie à des tiers,
 sauf dans les cas suivants :
@@ -221,20 +230,19 @@ données contre tout accès non autorisé, notamment :
 ## 4. Vos droits à la protection de la vie privée en Californie {#california}
 Si vous résidez en Californie, la loi californienne peut vous accorder des
 droits supplémentaires concernant l'utilisation que nous faisons de vos
-informations personnelles. Pour en savoir plus sur vos droits à la protection de
-la vie privée en Californie, consultez
+informations personnelles. Pour en savoir plus, consultez
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
 ## 5. Modifications de notre politique de confidentialité {#changes}
 De temps à autre, il se peut que l'on actualise notre politique de
 confidentialité.
 
-La date de la dernière révision de la politique de confidentialité est indiquée
-en haut de la page. Il vous incombe de consulter périodiquement cette politique
-de confidentialité pour vérifier tout changement.
+La date de la dernière mise à jour de la politique de confidentialité est
+indiquée en haut de la page. Il est de votre responsabilité de consulter
+régulièrement cette politique de confidentialité pour vérifier si des
+modifications y ont été apportées.
 
 ## 6. Informations de contact {#contact}
-Pour poser des questions ou émettre des commentaires sur cette politique de
-confidentialité et nos pratiques en matière de protection de la vie privée,
-contactez-nous à l'adresse
-[contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
+Pour toute question ou remarque concernant la politique de confidentialité ainsi
+que nos pratiques en matière de protection des données, contactez-nous à
+l'adresse [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
