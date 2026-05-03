@@ -36,7 +36,7 @@
         "message": "faisant un don ici"
     },
     "about.horizontal.translationText": {
-        "message": "Pour contribué à la traduction de Shira dans de nouvelles langues, envoie-nous un email à"
+        "message": "Pour contribuer à la traduction de Shira dans de nouvelles langues, envoie-nous un email à"
     },
     "about.horizontal.cta": {
         "message": "A propos d'Horizontal"
@@ -72,19 +72,19 @@
         "message": "Politique de confidentialité"
     },
     "about.how.title": {
-        "message": "Comment Shira est-il développé ?"
+        "message": "Comment Shira a-t-il été élaboré ?"
     },
     "about.how.opensource": {
-        "message": "Shira est open-source et sous licence MIT 2.0."
+        "message": "Shira est un logiciel ouvert et sous licence MIT 2.0."
     },
     "about.how.design": {
-        "message": "Chez Horizontal, nous concevons et développons nos outils en plaçant au centre les besoins des utilisateurs confrontés à des risques élevés d'attaques numériques."
+        "message": "Chez Horizontal, les besoins des utilisateurs exposés à un risque élevé d’attaques informatiques sont au cœur de notre démarche de conception et de développement."
     },
     "about.how.community": {
-        "message": "Shira est multilingue et co-créé avec des utilisateurs à risque."
+        "message": "Shira est multilingue et a été conçue en collaboration avec des utilisateurs et utilisatrices en situation de risque."
     },
     "about.how.communityLink": {
-        "message": "Co-créé avec des utilisateurs à risque"
+        "message": "Co-créé avec des utilisateurs et utilsatrices en situation de risque"
     },
     "about.how.green": {
         "message": "Ce site web fonctionne à l'énergie verte."
@@ -93,7 +93,7 @@
         "message": "Ce site est hébergé de manière écologique - vérifié par thegreenwebfoundation.org"
     },
     "contact.title": {
-        "message": "Contacter l'équipe Shira"
+        "message": "Contacter l'équipe de Shira"
     },
     "contact.description": {
         "message": "Découvrez comment contacter l'équipe Shira"
@@ -102,22 +102,22 @@
         "message": "Découvrez comment contacter l'équipe Shira"
     },
     "contact.heading": {
-        "message": "Discutons !"
+        "message": "Parlons-en !"
     },
     "contact.intro.part1": {
-        "message": "Avez-vous des questions sur Shira qui ne trouvent pas de réponse dans notre"
+        "message": "Avez-vous des questions concernant Shira auxquelles vous ne trouvez pas de réponse dans notre"
     },
     "contact.intro.helpCenter": {
-        "message": "centre d'aide"
+        "message": "centre d'assistance"
     },
     "contact.intro.part2": {
-        "message": "? Souhaitez-vous explorer un éventuel partenariat ? Vous êtes une association ou une organisation citoyenne et vous ne pouvez pas assumer le coût total de Shira ?"
+        "message": "? Souhaitez-vous explorer un éventuel partenariat ? Vous êtes une association ou une organisation citoyenne et vous ne pouvez pas assumer le coût de Shira ?"
     },
     "contact.getInTouch": {
-        "message": "Contactez-nous :"
+        "message": "Contactez-nous :"
     },
     "contact.links.emailText": {
-        "message": "Écrivez-nous à"
+        "message": "Envoyez-nous un message à"
     },
     "contact.links.github": {
         "message": "Proposez une idée de fonctionnalité ou votez pour les demandes existantes"
@@ -132,16 +132,16 @@
         "message": "Fonctionnalités de Shira"
     },
     "features.meta.description": {
-        "message": "Explorez les fonctionnalités de Shira pour les formateurs et les professionnels de la sécurité."
+        "message": "Explorez les fonctionnalités de Shira destinées aux formateurs/ formatrices et les professionnels / professionnelles de la sécurité."
     },
     "features.meta.longDescription": {
-        "message": "Explorez les fonctionnalités de Shira pour les formateurs et les professionnels de la sécurité — créez des quiz de phishing réalistes, simulez des attaques réelles, suivez les progrès de votre équipe et développez une sensibilisation durable au phishing."
+        "message": "Explorez les fonctionnalités de Shira destinées aux les formateurs/ formatrices et les professionnels / professionnelles de la sécurité — créez des quiz réalistes sur l'hameçonnage, simulez des attaques réelles, suivez les progrès de votre équipe et développez une sensibilisation durable à l'hameçonnage."
     },
     "features.intro.audience": {
-        "message": "Pour les formateurs et les professionnels de la sécurité"
+        "message": "Pour les formateurs/formatrices et les professionnels /professionnelles de la sécurité"
     },
     "features.intro.title": {
-        "message": "Créez {your1} propres quiz de phishing pour {your2} équipe afin de faire face à {your3} menaces"
+        "message": "Créez {your1} propres quiz sur l'hameçonnage pour {your2} équipe afin de faire face à {your3} menaces"
     },
     "features.intro.your1": {
         "message": "vos"
@@ -159,7 +159,7 @@
         "message": "Commencer"
     },
     "features.images.fishAlt": {
-        "message": "Illustration d'un poisson représentant le phishing"
+        "message": "Illustration d'un poisson représentant l'hameçonnage"
     },
     "features.images.bubblesAlt": {
         "message": "Illustration d'un poisson avec des bulles"
@@ -174,61 +174,61 @@
         "message": "Interface intuitive 🎨"
     },
     "features.list.ui.description": {
-        "message": "Tableau de bord intuitif pour une navigation et une gestion simplifiée des quiz et des utilisateurs."
+        "message": "Tableau de bord intuitif pour une navigation et une gestion simplifiée des quiz et des utilisateurs et utilisatrices."
     },
     "features.list.roles.title": {
         "message": "Contrôle d'accès basé sur les rôles 🔒"
     },
     "features.list.roles.description": {
-        "message": "Différents niveaux d'accès pour les administrateurs et les apprenants."
+        "message": "Différents niveaux d'accès pour les administrateurs/ administratrices et les apprenants / apprenantes."
     },
     "features.list.realLife.title": {
         "message": "Simulation d'attaques réelles ⚡"
     },
     "features.list.realLife.description": {
-        "message": "Incluez dans vos quiz des détails provenant d'attaques de phishing réelles subies par l'entreprise afin de préparer au mieux votre équipe."
+        "message": "Incluez dans vos quiz des détails provenant d'attaques d'hameçonnage réelles subies par l'entreprise afin de préparer au mieux votre équipe."
     },
     "features.list.email.title": {
-        "message": "Simulations de phishing par email 📧"
+        "message": "Simulations d'hameçonnage par email 📧"
     },
     "features.list.email.description": {
-        "message": "Créez des quiz qui imitent les emails de phishing sur Gmail et Outlook, incluant les informations sur l'expéditeur, l'objet, le corps de l'e-mail, les liens, les images et les pièces jointes."
+        "message": "Créez des quiz qui imitent les emails d'hameçonnage sur Gmail et Outlook, incluant les informations sur l'expéditeur, l'objet, le corps de l'e-mail, les liens, les images et les pièces jointes."
     },
     "features.list.sms.title": {
-        "message": "Simulations de phishing par SMS 💬"
+        "message": "Simulations d'hameçonnage par SMS 💬"
     },
     "features.list.sms.description": {
-        "message": "Créez des quiz qui simulent des tentatives de phishing par SMS avec des messages texte réalistes."
+        "message": "Créez des quiz qui simulent des tentatives d'hameçonnage par SMS avec des messages texte réalistes."
     },
     "features.list.messaging.title": {
-        "message": "Simulations de phishing sur applications de messagerie 💬"
+        "message": "Simulations d'hameçonnage sur applications de messagerie 💬"
     },
     "features.list.messaging.description": {
-        "message": "Créez des quiz qui reproduisent le phishing via des applications de messagerie populaires comme WhatsApp ou Facebook Messenger."
+        "message": "Créez des quiz qui reproduisent l'hameçonnage via des applications de messagerie populaires comme WhatsApp ou Facebook Messenger."
     },
     "features.list.mobile.title": {
-        "message": "Compatibilité mobile 📱"
+        "message": "Support mobile 📱"
     },
     "features.list.mobile.description": {
-        "message": "Nous sommes souvent confrontés à des attaques de phishing depuis nos appareils mobiles. Dans Shira, les utilisateurs peuvent passer des quiz sur leur mobile pour se préparer aux attaques qu'ils rencontreront dans la vie réelle."
+        "message": "Nous sommes souvent confrontés à des attaques d'hameçonnage depuis nos appareils mobiles. Dans Shira, les utilisateurs et utilisatrices peuvent passer des quiz sur leur mobile pour se préparer aux attaques qu'ils rencontreront dans la vie réelle."
     },
     "features.list.compliance.title": {
         "message": "Conformité ✅"
     },
     "features.list.compliance.description": {
-        "message": "Assurez-vous que votre équipe termine effectivement vos quiz et surveillez les taux de réussite."
+        "message": "Assurez-vous que votre équipe complète vos quiz et surveillez ses taux de réussite."
     },
     "features.list.analytics.title": {
         "message": "Analyses 📈"
     },
     "features.list.analytics.description": {
-        "message": "Suivez la progression des utilisateurs et identifiez les points à améliorer, qu'il s'agisse du type d'applications sur lesquelles vos utilisateurs sont les plus vulnérables ou des utilisateurs spécifiques qui ont besoin d'un soutien supplémentaire."
+        "message": "Suivez la progression des utilisateurs et utilisatrices et identifiez les points à améliorer, qu'il s'agisse du type d'applications sur lesquelles ils sont les plus vulnérables ou des utilisateurs et utilisatrices spécifiques ayant besoin d'un soutien supplémentaire."
     },
     "features.list.explanations.title": {
         "message": "Explications 📝"
     },
     "features.list.explanations.description": {
-        "message": "Intégrez vos propres explications pour signaler aux utilisateurs les éléments suggérant qu'un e-mail ou un message ressemble à du phishing."
+        "message": "Intégrez vos propres explications pour signaler aux utilisateurs et utilisatrices les éléments suggérant qu'un e-mail ou un message ressemble à l'hameçonnage."
     },
     "features.list.gamification.title": {
         "message": "Ludification 🕹️"
@@ -246,13 +246,13 @@
         "message": "Bibliothèque de questions 📚"
     },
     "features.list.library.description": {
-        "message": "Créez vos questions de quiz de toutes pièces ou rendez-vous dans la bibliothèque Shira pour utiliser des modèles de questions créés par des formateurs en sécurité numérique."
+        "message": "Créez vos questions de quiz de toutes pièces ou rendez-vous dans la bibliothèque Shira pour utiliser des modèles de questions créés par des formateurs et formatrices en sécurité numérique."
     },
     "features.needMore.title": {
-        "message": "Une fonctionnalité vous manque ?"
+        "message": "Vous cherchez une fonctionnalité qui n'est pas disponible ?"
     },
     "features.needMore.subtitle": {
-        "message": "Contactez-nous. Nous la réaliserons."
+        "message": "Contactez-nous. Nous concrétiserons votre demande."
     },
     "features.needMore.cta": {
         "message": "Contactez-nous"
@@ -261,37 +261,37 @@
         "message": "Shira"
     },
     "homepage.meta.description": {
-        "message": "Utilisez Shira pour renforcer la capacité de votre équipe à identifier et à déjouer les attaques de phishing."
+        "message": "Utilisez Shira pour renforcer la capacité de votre équipe à identifier et à déjouer les attaques d'hameçonnage."
     },
     "homepage.meta.longDescription": {
-        "message": "Shira aide les individus et les organisations à apprendre à repérer et à déjouer les attaques de phishing grâce à des quiz interactifs et respectueux de la vie privée, personnalisables selon les applications réelles comme Gmail, SMS et WhatsApp, le contexte et la langue."
+        "message": "Shira aide les individus et les organisations à apprendre à repérer et à déjouer les attaques d'hameçonnage grâce à des quiz interactifs et respectueux de la vie privée, personnalisables selon les applications réelles comme Gmail, SMS et WhatsApp, le contexte et la langue."
     },
     "homepage.hero.title": {
         "message": "Préparation. Savoir. Résilience."
     },
     "homepage.hero.subtitle": {
-        "message": "Shira renforce la capacité de votre équipe à identifier et à déjouer les attaques de phishing"
+        "message": "Shira renforce la capacité de votre équipe à identifier et à déjouer les attaques d'hameçonnage"
     },
     "homepage.learners.title": {
-        "message": "Pour les apprenants"
+        "message": "Pour les apprenants et apprenantes"
     },
     "homepage.learners.description": {
-        "message": "Commencez dès maintenant avec l'un de nos quiz gratuits et prêts à l'emploi. Personnalisez le quiz pour apprendre à identifier le phishing dans les applications que vous utilisez au quotidien — Gmail, SMS, WhatsApp, etc. — avec des exemples adaptés à votre langue et à votre domaine d'activité."
+        "message": "Commencez dès maintenant avec l'un de nos quiz gratuits et prêts à l'emploi. Personnalisez le quiz pour apprendre à identifier l'hameçonnage dans les applications que vous utilisez au quotidien — Gmail, SMS, WhatsApp, etc. — avec des exemples adaptés à votre langue et à votre domaine d'activité."
     },
     "homepage.learners.cta": {
         "message": "Commencer le quiz"
     },
     "homepage.educators.title": {
-        "message": "Pour les formateurs et les professionnels de la sécurité"
+        "message": "Pour les formateurs/formatrices et les professionnels /professionnelles de la sécurité"
     },
     "homepage.educators.description": {
-        "message": "Chaque organisation a ses propres besoins et fait face à ses propres menaces. Créez des quiz de phishing adaptés aux besoins de votre organisation et suivez les taux de réussite de votre équipe — le tout sans aucune programmation."
+        "message": "Chaque organisation a ses propres besoins et fait face à ses propres menaces. Créez des quiz sur l'hameçonnage adaptés aux besoins de votre organisation et suivez les taux de réussite de votre équipe — le tout sans aucune programmation."
     },
     "homepage.educators.cta": {
         "message": "Créez votre propre quiz"
     },
     "homepage.context.description": {
-        "message": "Depuis des années, le phishing est l'une des attaques les plus courantes visant les individus et les organisations. Alors qu'il se limitait initialement aux e-mails, le phishing se manifeste désormais aussi par SMS, via les applications de messagerie et sur les réseaux sociaux. Renforcer les compétences des utilisateurs pour identifier et déjouer les attaques de phishing est plus nécessaire que jamais."
+        "message": "Depuis des années, l'hameçonnage est l'une des attaques les plus courantes visant les individus et les organisations. Alors qu'il se limitait initialement aux e-mails, l'hameçonnage se manifeste désormais aussi par SMS, via les applications de messagerie et sur les réseaux sociaux. Renforcer les compétences des utilisateurs pour identifier et déjouer les attaques d'hameçonnage est plus nécessaire que jamais."
     },
     "homepage.context.imageAlt": {
         "message": "image décorative d'une loupe"
@@ -300,136 +300,136 @@
         "message": "Pourquoi Shira ?"
     },
     "homepage.why.intro": {
-        "message": "Que vous utilisiez simplement nos quiz gratuits et prêts à l'emploi, ou que vous créiez vos propres quiz personnalisés pour former votre équipe, Shira est :"
+        "message": "Que vous utilisiez simplement nos quiz gratuits prédéfinis ou que vous créiez vos propres quiz personnalisés pour former votre équipe, Shira est :"
     },
     "homepage.why.easy.title": {
         "message": "Facile à utiliser"
     },
     "homepage.why.easy.description": {
-        "message": "Conçu pour les communautés les plus exposées aux attaques de phishing, même avec des compétences techniques limitées."
+        "message": "Conçu pour les communautés les plus exposées aux attaques d'hameçonnage, même avec des compétences techniques limitées."
     },
     "homepage.why.customizable.title": {
         "message": "Personnalisable"
     },
     "homepage.why.customizable.description": {
-        "message": "Des messages de phishing réalistes pour simuler les scénarios réels auxquels les utilisateurs sont confrontés quotidiennement."
+        "message": "Des messages d'hameçonnage réalistes pour simuler les scénarios réels auxquels les utilisateurs et utilisatrices sont confrontés quotidiennement."
     },
     "homepage.why.privacy.title": {
-        "message": "Respectueux de la vie privée"
+        "message": "Respecte la vie privée"
     },
     "homepage.why.privacy.description": {
         "message": "Nous ne collectons ni ne partageons aucune donnée utilisateur sensible ou personnellement identifiable."
     },
     "phishingQuizzes.meta.title": {
-        "message": "En savoir plus sur les quiz de phishing"
+        "message": "En savoir plus sur les quiz d'hameçonnage"
     },
     "phishingQuizzes.meta.description": {
-        "message": "En savoir plus sur les quiz de phishing"
+        "message": "En savoir plus sur les quiz d'hameçonnage"
     },
     "phishingQuizzes.meta.longDescription": {
-        "message": "Découvrez pourquoi les quizz de phishing sont plus efficaces que les simulations."
+        "message": "Découvrez pourquoi les quizz sur l'hameçonnage sont plus efficaces que les simulations."
     },
     "phishingQuizzes.education.title": {
         "message": "Pourquoi l'éducation bat la simulation"
     },
     "phishingQuizzes.education.paragraph1": {
-        "message": "Les simulations de phishing sont devenues un élément standard des programmes de formation anti-phishing. Ces simulations consistent à envoyer aux employés des courriels reproduisant les tactiques utilisées par les cybercriminels pour inciter les individus à divulguer des informations sensibles ou à cliquer sur des liens malveillants. Les employés sont évalués en fonction de leurs réactions à ces courriels simulés, notamment s'ils ont cliqué sur un lien ou fourni des informations sensibles."
+        "message": "Les simulations d'hameçonnage sont devenues un élément standard des programmes de formation anti-hameçonnage. Ces simulations consistent à envoyer aux employé.e.s des courriels reproduisant les tactiques utilisées par les cybercriminels pour inciter les individus à divulguer des informations sensibles ou à cliquer sur des liens malveillants. Les employé.e.s sont évalués en fonction de leurs réactions à ces courriels simulés, notamment s'ils ont cliqué sur un lien ou fourni des informations sensibles."
     },
     "phishingQuizzes.education.paragraph2": {
-        "message": "Cependant, cette approche présente plusieurs inconvénients et n'est pas aussi efficace qu'une formation complète contre le phishing."
+        "message": "Cependant, cette approche présente plusieurs inconvénients et n'est pas aussi efficace qu'une formation complète contre l'hameçonnage."
     },
     "phishingQuizzes.education.wsjAltDesktop": {
-        "message": "Article de presse du Wall Street Journal : Les tests de phishing, fléau de la vie professionnelle, deviennent de plus en plus cruels — Selon des chercheurs, ces ruses destinées à éduquer les employés crédules sur les dangers qui rôdent en ligne ne fonctionnent même pas"
+        "message": "Article de presse du Wall Street Journal : Les tests sur l'hameçonnage, fléau de la vie professionnelle, deviennent de plus en plus cruels — Selon des chercheurs/ euses, ces ruses destinées à éduquer les employé.e.s crédules sur les dangers qui rôdent en ligne ne fonctionnent même pas"
     },
     "phishingQuizzes.education.wsjAltMobile": {
-        "message": "Article de presse du Wall Street Journal : Les tests de phishing, fléau de la vie professionnelle, deviennent de plus en plus cruels — Selon des chercheurs, ces ruses destinées à éduquer les employés crédules sur les dangers qui rôdent en ligne ne fonctionnent même pas"
+        "message": "Article de presse du Wall Street Journal : Les tests de phishing, fléau de la vie professionnelle, deviennent de plus en plus cruels — Selon des chercheurs, ces ruses destinées à éduquer les employés crédules sur les dangers qui rôdent en ligne ne fonctionnent même pas"
     },
     "phishingQuizzes.problem.title": {
-        "message": "Le problème des simulations de phishing"
+        "message": "Le problème des simulations d'hameçonnage"
     },
     "phishingQuizzes.problem.intro": {
-        "message": "Les simulations de phishing, bien que largement utilisées, présentent plusieurs problèmes que les organisations devraient prendre en compte :"
+        "message": "Les simulations d'hameçonnage, bien que largement utilisées, présentent plusieurs problèmes que les organisations devraient prendre en compte :"
     },
     "phishingQuizzes.problem.anxiety.title": {
-        "message": "Créer de l'anxiété et de la méfiance :"
+        "message": "Susciter l'angoisse et la méfiance :"
     },
     "phishingQuizzes.problem.anxiety.text": {
-        "message": "Les utilisateurs peuvent devenir anxieux ou méfiants envers les emails, même légitimes, ce qui peut entraîner une baisse de productivité et une augmentation du stress."
+        "message": "Les utilisateurs ou utilisatrices peuvent devenir anxieux ou méfiants envers les emails, même légitimes, ce qui peut entraîner une baisse de productivité et une augmentation du stress."
     },
     "phishingQuizzes.problem.emailFocus.title": {
-        "message": "Concentration exclusive sur l'email :"
+        "message": "Concentration exclusive sur l'email :"
     },
     "phishingQuizzes.problem.emailFocus.text": {
-        "message": "De nombreuses simulations de phishing ciblent principalement les menaces par email, négligeant d'autres canaux comme les SMS, les applications de messagerie ou les réseaux sociaux."
+        "message": "De nombreuses simulations d'hameçonnage ciblent principalement les menaces par email, négligeant d'autres canaux comme les SMS, les applications de messagerie ou les réseaux sociaux."
     },
     "phishingQuizzes.problem.falseSecurity.title": {
-        "message": "Fausse impression de sécurité :"
+        "message": "Fausse impression de sécurité :"
     },
     "phishingQuizzes.problem.falseSecurity.text": {
-        "message": "Si les employés parviennent à identifier les simulations de phishing, ils peuvent développer un faux sentiment de sécurité."
+        "message": "Si les employé.e.s parviennent à identifier les simulations d'hameçonnage, ils peuvent développer un faux sentiment de sécurité."
     },
     "phishingQuizzes.problem.clickRates.title": {
         "message": "Surévaluation des taux de clic:"
     },
     "phishingQuizzes.problem.clickRates.text": {
-        "message": "Se concentrer uniquement sur le fait que les employés aient cliqué ou non sur un lien peut conduire à négliger d'autres aspects importants de la sensibilisation au phishing."
+        "message": "Se concentrer uniquement sur le fait que les employé.e. s aient cliqué ou non sur un lien peut conduire à négliger d'autres aspects importants de la sensibilisation à l'hameçonnage."
     },
     "phishingQuizzes.problem.desensitize.title": {
-        "message": "Désensibiliser les utilisateurs :"
+        "message": "Désensibiliser les utilisateurs/ utilisatrices :"
     },
     "phishingQuizzes.problem.desensitize.text": {
-        "message": "L'envoi répété de faux courriels de phishing peut désensibiliser les utilisateurs à la menace."
+        "message": "L'envoi répété de faux courriels d'hameçonnage peut rendre les utilisateurs et utilisatrices insensibles à la menace."
     },
     "phishingQuizzes.problem.punishment.title": {
         "message": "Priorité à la sanction plutôt qu'à la prévention :"
     },
     "phishingQuizzes.problem.punishment.text": {
-        "message": "Les simulations de phishing par email peuvent instaurer une culture de la peur, où les utilisateurs se préoccupent davantage d'éviter une sanction que d'apprendre."
+        "message": "Les simulations d'hameçonnage par email peuvent instaurer une culture de la peur, où les utilisateurs et utilisatrices se préoccupent davantage d'éviter une sanction que d'apprendre."
     },
     "phishingQuizzes.research.text": {
-        "message": "Les recherches démontrent que les campagnes de simulation de phishing ne forment pas efficacement les individus à l'identification des attaques."
+        "message": "Les recherches démontrent que les campagnes de simulation d'hameçonnage ne forment pas efficacement les individus à l'identification des attaques."
     },
     "phishingQuizzes.research.link": {
-        "message": "Une étude portant sur 14 000 participants"
+        "message": "Une étude portant sur 14 000 participants et participantes"
     },
     "phishingQuizzes.research.conclusion": {
-        "message": "ont en réalité révélé qu'elles avaient un effet contre-productif."
+        "message": "a en réalité révélé un effet contre-productif."
     },
     "phishingQuizzes.quizzes.title": {
-        "message": "Une approche plus efficace : les quiz de phishing"
+        "message": "Une approche plus efficace : les quiz sur l'hameçonnage"
     },
     "phishingQuizzes.quizzes.description": {
-        "message": "Les quiz de phishing offrent un environnement d'apprentissage contrôlé, bien plus efficace pour le développement des compétences que les simulations traditionnelles."
+        "message": "Les quiz sur l'hameçonnage offrent un environnement d'apprentissage contrôlé, bien plus efficace pour le développement des compétences que les simulations traditionnelles."
     },
     "phishingQuizzes.quizzes.benefitsIntro": {
-        "message": "Les avantages incluent :"
+        "message": "Les avantages incluent :"
     },
     "phishingQuizzes.benefits.controlled.title": {
-        "message": "Environnement d'apprentissage contrôlé :"
+        "message": "Environnement d'apprentissage contrôlé :"
     },
     "phishingQuizzes.benefits.controlled.text": {
-        "message": "Les quiz de phishing créent un espace sécurisé et sans enjeu majeur où les employés peuvent mettre en pratique leurs compétences."
+        "message": "Les quiz sur l'hameçonnage créent un espace sécurisé et sans enjeu majeur où les employés peuvent mettre en pratique leurs compétences."
     },
     "phishingQuizzes.benefits.interactive.title": {
-        "message": "Engagement interactif :"
+        "message": "Engagement interactif :"
     },
     "phishingQuizzes.benefits.interactive.text": {
         "message": "Ces quiz encouragent la participation active et fournissent un feedback immédiat."
     },
     "phishingQuizzes.benefits.coverage.title": {
-        "message": "Couverture de diverses tactiques de phishing :"
+        "message": "Présentation des différentes techniques employées pour l'hameçonnage :"
     },
     "phishingQuizzes.benefits.coverage.text": {
-        "message": "Les quiz de phishing peuvent intégrer des scénarios de phishing par SMS, sur les réseaux sociaux ou par messagerie vocale vishing."
+        "message": "Les quiz sur l'hameçonnage peuvent inclure des scénarios d'hameçonnage par SMS, sur les réseaux sociaux et par voie audio."
     },
     "phishingQuizzes.benefits.confidence.title": {
-        "message": "Renforcement de la confiance :"
+        "message": "Renforcement de la confiance :"
     },
     "phishingQuizzes.benefits.confidence.text": {
-        "message": "Les employés apprennent de leurs erreurs dans un environnement bienveillant."
+        "message": "Les employé.e.s apprennent de leurs erreurs dans un environnement bienveillant."
     },
     "phishingQuizzes.benefits.tailored.title": {
-        "message": "Objectifs d'apprentissage sur mesure :"
+        "message": "Objectifs éducatifs personnalisés :"
     },
     "phishingQuizzes.benefits.tailored.text": {
         "message": "Les quiz peuvent être personnalisés pour cibler des compétences spécifiques et combler les lacunes en matière de connaissances."
