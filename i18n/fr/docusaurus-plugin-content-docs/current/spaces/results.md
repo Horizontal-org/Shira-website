@@ -7,8 +7,8 @@ description: Consultez et analysez les scores de votre équipe aux quiz sur Shir
 ---
 # Scores
 
-La section « Résultats » indique si les participants et participants ont
-complété ou non votre quiz et, le cas échéant, leur score.
+La section « Scores » indique si les participants et participants ont complété
+ou non votre quiz et, le cas échéant, leur score.
 
 Dans Scores, vous pouvez consulter les informations suivantes : **Nombre de quiz
 complétés** Il s'agit du nombre de fois où un quiz a été passé par des
