@@ -46,7 +46,7 @@ Gmail, Outlook, SMS, WhatsApp, etc.
 
 Avec les appli, Shira affiche un email ou un message exactement tel qu'il
 apparaîtrait dans la vie réelle. Cela signifie que lorsqu'ils seront confrontés
-à une véritable attaque de phishing, les apprenants et apprenantes seront plus
+à une véritable attaque d'hameçonnage, les apprenants et apprenantes seront plus
 susceptibles de savoir où chercher les indices prouvant qu'il s'agit d'un
 hameçonnage.
 
