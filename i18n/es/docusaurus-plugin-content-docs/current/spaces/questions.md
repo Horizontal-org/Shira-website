@@ -54,9 +54,9 @@ Actualmente, Shira admite las siguientes apps:
 - Facebook Messenger
 - App de Citas
 
-:::note
+:::note\
 ¡[Déjanos saber](/contact) si tu equipo depende de apps que no están en esta
-lista y que te gustaría ver en Shira!
+lista y que te gustaría ver en Shira!\
 :::
 
 ## El contenido de la pregunta {#content}
