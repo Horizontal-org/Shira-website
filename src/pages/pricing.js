@@ -1,10 +1,6 @@
-import React from 'react';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import styles from './pricing.module.css';
 import global from '../css/custom.module.scss';
-import classNames from 'classnames';
-import Translate, { translate } from '@docusaurus/Translate';
+import { translate } from '@docusaurus/Translate';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
 import { 
   PricingTable,
@@ -382,7 +378,11 @@ export default function Pricing() {
 
         <Wrapper>
           <PricingTable 
-              learnMoreText={"Learn more"}
+              learnMoreText={translate({
+                id: 'view_plans.learn_more',
+                message:
+                  "Learn more",
+              })}
               onLearnMoreClick={() => {}}
               plans={plans}
               sections={sections}
