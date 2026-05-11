@@ -2,6 +2,8 @@ import Layout from '@theme/Layout';
 import global from '../css/custom.module.scss';
 import { translate } from '@docusaurus/Translate';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import { useHistory } from '@docusaurus/router';
 import { 
   PricingTable,
   defaultTheme,
@@ -16,6 +18,9 @@ import {
 
 export default function Pricing() {
   const getSignupUrl = useSignupUrl();
+  const { i18n: { currentLocale, defaultLocale } } = useDocusaurusContext();
+  const history = useHistory();
+  const localePath = (path) => currentLocale === defaultLocale ? path : `/${currentLocale}${path}`;
 
   const appsIcons = (
     <AppsIconRow>
@@ -94,9 +99,7 @@ export default function Pricing() {
       }),
       buttonType: "outline",
       isCurrentPlan: false,
-      onClick: () => {
-        window.open("https://shira.app/contact");
-      },
+      onClick: () => { history.push(localePath('/contact')); },
     },
   ];
 
