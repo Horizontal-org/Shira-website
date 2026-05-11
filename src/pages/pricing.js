@@ -386,7 +386,7 @@ export default function Pricing() {
                 message:
                   "Learn more",
               })}
-              onLearnMoreClick={() => {}}
+              onLearnMoreClick={() => { history.push(localePath('/plans')); }}
               plans={plans}
               sections={sections}
           />
