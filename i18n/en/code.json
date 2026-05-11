@@ -12,7 +12,7 @@
     "message": "Shira"
   },
   "about.hero.subtitle": {
-    "message": "Helping individuals and organizations to build their defense against phishing attacks"
+    "message": "Helping individuals and organizations build their resilience against phishing attacks"
   },
   "about.hero.cta": {
     "message": "Get in touch"
@@ -57,25 +57,25 @@
     "message": "2. Customizable"
   },
   "about.why.customizable.description": {
-    "message": "We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face."
+    "message": "Shira shows emails and messages that are as realistic as possible to simulate what internet users actually experience in their daily lives and the phishing attacks they are likely to face."
   },
   "about.why.privacy.title": {
     "message": "3. Privacy-friendly"
   },
   "about.why.privacy.description": {
-    "message": "We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm."
+    "message": "We do not collect, save, or share any sensitive or personally-identifiable data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and security audits performed by independent security firms."
   },
   "about.why.auditCta": {
-    "message": "Security Audit"
+    "message": "Security Audits"
   },
   "about.why.privacyCta": {
     "message": "Privacy policy"
   },
   "about.how.title": {
-    "message": "How is Shira built?"
+    "message": "How is Shira developed?"
   },
   "about.how.opensource": {
-    "message": "Shira is Open Source, and licencesed under MIT 2.0."
+    "message": "Shira is open-source and licensed under MIT 2.0."
   },
   "about.how.design": {
     "message": "At Horizontal, we design and develop centering the needs of the community."
