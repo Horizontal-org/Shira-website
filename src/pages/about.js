@@ -41,7 +41,7 @@ export default function About() {
               </h1>
               <h4>
                 <Translate id="about.hero.subtitle">
-                  Helping individuals and organizations to build their defense against phishing attacks
+                  Helping individuals and organizations  build their resilience against phishing attacks
                 </Translate>
               </h4>
               <Link
@@ -147,7 +147,7 @@ export default function About() {
                 </h3>
                 <p>
                   <Translate id="about.why.customizable.description">
-                    We try to make phishing messages look as realistic as possible, to simulate what internet users actually face in their daily lives and the phishing attacks they are likely to face.
+                    Shira shows emails and messages that are as realistic as possible to simulate what internet users actually experience in their daily lives and the phishing attacks they are likely to face.
                   </Translate>
                 </p>
               </div>
@@ -158,7 +158,7 @@ export default function About() {
                 </h3>
                 <p>
                   <Translate id="about.why.privacy.description">
-                    We do not collect, save, or share any data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and a recent security audit performed by an independent security firm.
+                    We do not collect, save, or share any sensitive or personally-identifiable data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and security audits performed by independent security firms.
                   </Translate>
                 </p>
               </div>
@@ -169,7 +169,7 @@ export default function About() {
                 className={classNames(styles.button, global.buttonDark)}
                 href={useBaseUrl('assets/shira-final.pdf')}
               >
-                <Translate id="about.why.auditCta">Security Audit</Translate>
+                <Translate id="about.why.auditCta">Security Audits</Translate>
               </a>
 
               <Link
@@ -185,7 +185,7 @@ export default function About() {
         <div className={classNames(styles.flexAndCenter)}>
           <section className={classNames(global.row, styles.howItIsMade, global.sectionMaxWidth)}>
             <h2>
-              <Translate id="about.how.title">How is Shira built?</Translate>
+              <Translate id="about.how.title">How is Shira developed?</Translate>
             </h2>
 
             <div className={classNames(global.center, styles.howItIsMadeText)}>
@@ -193,7 +193,7 @@ export default function About() {
                 <li>
                   <Link to="https://github.com/Horizontal-org/shira">
                     <Translate id="about.how.opensource">
-                      Shira is Open Source, and licencesed under MIT 2.0.
+                      Shira is open-source and licensed under MIT 2.0.
                     </Translate>
                   </Link>
                 </li>
