@@ -15,7 +15,7 @@ A Space is the central place in Shira to build your phishing education campaigns
 - **Someone who takes a quiz is called a [Learner](/learners)**. There are Registered Learners (who can need to join your Space in order to take private quizzes) and Anonymous Learners (anyone who takes a public quiz using the quiz URL).
 - After learners take a quiz, **the [Results section](/results) shows how they did on the quiz**.
 
-## Space settings (#settings)
+## Space settings (#settings) {#space-settings-settings}
 In your Space settings, you can:
 * update the email address associated with your account
 * update your password
