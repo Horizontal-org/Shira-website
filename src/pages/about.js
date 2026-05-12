@@ -200,14 +200,14 @@ export default function About() {
 
                 <li>
                   <Translate id="about.how.design">
-                    At Horizontal, we design and develop centering the needs of the community.
+                    At Horizontal, we design and develop centering the needs of users facing high risks of digital attacks.
                   </Translate>
                 </li>
 
                 <li>
                   <Link to="/contact">
                     <Translate id="about.how.community">
-                      Shira is multilingual, co-created with users and centering security and privacy.
+                      Shira is multilingual and co-created with at-risk users.
                     </Translate>
                   </Link>
                 </li>

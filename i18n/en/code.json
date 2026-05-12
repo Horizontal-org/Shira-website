@@ -78,10 +78,10 @@
     "message": "Shira is open-source and licensed under MIT 2.0."
   },
   "about.how.design": {
-    "message": "At Horizontal, we design and develop centering the needs of the community."
+    "message": "At Horizontal, we design and develop centering the needs of users facing high risks of digital attacks."
   },
   "about.how.community": {
-    "message": "Shira is multilingual, co-created with users and centering security and privacy."
+    "message": "Shira is multilingual and co-created with at-risk users."
   },
   "about.how.green": {
     "message": "This website runs on green energy."
@@ -102,13 +102,13 @@
     "message": "Let’s talk!"
   },
   "contact.intro.part1": {
-    "message": "Do you have questions about Shira (that are not answered in our"
+    "message": "Do you have questions about Shira that are not answered in our"
   },
   "contact.intro.helpCenter": {
     "message": "help center"
   },
   "contact.intro.part2": {
-    "message": ")? Would you like to explore a possible partnership? Are you a part of a grassroots organization and cannot afford the full cost of Shira?"
+    "message": "? Would you like to explore a possible partnership? Are you a non-profit or a grassroots organization and cannot afford the full cost of Shira?"
   },
   "contact.getInTouch": {
     "message": "Get in touch:"
@@ -117,7 +117,7 @@
     "message": "Write to us at"
   },
   "contact.links.github": {
-    "message": "Post a feature idea or vote on the community needs"
+    "message": "Post a feature idea or vote on existing requests"
   },
   "contact.links.demo": {
     "message": "Schedule a demo call directly here"
@@ -171,43 +171,43 @@
     "message": "User-friendly interface 🎨"
   },
   "features.list.ui.description": {
-    "message": "Intuitive dashboard for easy navigation and management of quizzes and user data."
+    "message": "Intuitive dashboard for easy navigation and management of quizzes and users."
   },
   "features.list.roles.title": {
     "message": "Role-based access control 🔒"
   },
   "features.list.roles.description": {
-    "message": "Different access levels for admins, managers, and employees."
+    "message": "Different access levels for admins and learners."
   },
   "features.list.realLife.title": {
     "message": "Real-Life Attack Simulation ⚡"
   },
   "features.list.realLife.description": {
-    "message": "Ability to input details from actual phishing attacks the company has experienced."
+    "message": "Include in your quizzes details from actual phishing attacks the company has experienced to best prepare your team."
   },
   "features.list.email.title": {
     "message": "Email phishing simulations 📧"
   },
   "features.list.email.description": {
-    "message": "Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments."
+    "message": "Create quizzes that mimic phishing emails on Gmail and Outlook, including sender information, subject line, email body, links, images and file attachments."
   },
   "features.list.sms.title": {
     "message": "SMS phishing simulations 💬"
   },
   "features.list.sms.description": {
-    "message": "Design quizzes that simulate SMS phishing attempts with realistic text messages."
+    "message": "Create quizzes that simulate SMS phishing attempts with realistic text messages."
   },
   "features.list.messaging.title": {
     "message": "Messaging app phishing simulations 💬"
   },
   "features.list.messaging.description": {
-    "message": "Include quizzes that replicate phishing through WhatsApp, Messenger, etc."
+    "message": "Create quizzes that replicate phishing through popular messaging apps like WhatsApp or Facebook Messenger."
   },
   "features.list.mobile.title": {
     "message": "Mobile support 📱"
   },
   "features.list.mobile.description": {
-    "message": "Users can take Shira quizzes on mobile devices to simulate real-life scenarios."
+    "message": "We often face phishing attacks from our mobile devices. In Shira, users can take quizzes from their mobile devices to prepare for attacks they will face in real life."
   },
   "features.list.compliance.title": {
     "message": "Compliance ✅"
@@ -219,19 +219,19 @@
     "message": "Analytics 📈"
   },
   "features.list.analytics.description": {
-    "message": "Track user progress and identify areas for improvement."
+    "message": "Track user progress and identify areas for improvement, whether it's the type of apps your users are most vulnerable on or the specific users who need extra support."
   },
   "features.list.explanations.title": {
     "message": "Explanations 📝"
   },
   "features.list.explanations.description": {
-    "message": "Embed your own explanations on why an email or message looks like phishing."
+    "message": "Embed your own explanations to point users to elements that suggest that an email or message looks like phishing."
   },
   "features.list.gamification.title": {
     "message": "Gamification 🕹️"
   },
   "features.list.gamification.description": {
-    "message": "An entertaining learning experience promotes better knowledge retention."
+    "message": "An engaging learning experience promotes better knowledge retention."
   },
   "features.list.multilingual.title": {
     "message": "Multilingual 🌐"
@@ -243,7 +243,7 @@
     "message": "Question library 📚"
   },
   "features.list.library.description": {
-    "message": "Pull from Shira's question library to start your trainings from templates created by digital security trainers."
+    "message": "Create your quiz questions from scratch or head to the Shira Library to pull question templates created by digital security trainers."
   },
   "features.needMore.title": {
     "message": "Missing a feature?"
@@ -258,7 +258,7 @@
     "message": "Shira"
   },
   "homepage.meta.description": {
-    "message": "Shira builds your team's ability to identify and defeat phishing attacks."
+    "message": "Use Shira to build your team's ability to identify and defeat phishing attacks."
   },
   "homepage.meta.longDescription": {
     "message": "Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
@@ -273,7 +273,7 @@
     "message": "For learners"
   },
   "homepage.learners.description": {
-    "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use in real life — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
+    "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use every day — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
   },
   "homepage.learners.cta": {
     "message": "Take a quiz"
@@ -282,13 +282,13 @@
     "message": "For educators and security professionals"
   },
   "homepage.educators.description": {
-    "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — all without technical skills."
+    "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — without any coding."
   },
   "homepage.educators.cta": {
     "message": "Create your own quiz"
   },
   "homepage.context.description": {
-    "message": "For years, phishing has been one of the most common types of attacks facing individuals and organizations. While it has been traditionally limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
+    "message": "For years, phishing has been one of the most common attacks facing individuals and organizations. While it was initially limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
   },
   "homepage.context.imageAlt": {
     "message": "decorative image of a magnifier glass"
@@ -297,7 +297,7 @@
     "message": "Why Shira?"
   },
   "homepage.why.intro": {
-    "message": "Whether you’re just taking our ready-made, free quizzes, or you’re taking the time to build your own custom quizzes, Shira is:"
+    "message": "Whether you’re just taking our ready-made, free quizzes, or you’re building your own custom quizzes to train your team, Shira is:"
   },
   "homepage.why.easy.title": {
     "message": "Easy to use"
@@ -315,13 +315,13 @@
     "message": "Privacy-friendly"
   },
   "homepage.why.privacy.description": {
-    "message": "We do not collect or share any user data."
+    "message": "We do not collect or share any sensitive or personally-identifiable user data."
   },
   "phishingQuizzes.meta.title": {
-    "message": "Learn about Phishing quizzes"
+    "message": "Learn about Phishing Quizzes"
   },
   "phishingQuizzes.meta.description": {
-    "message": "Learn why phishing quizzes are more effective than simulations. Shira offers safe, interactive training to build real phishing detection skills without stress or punishment."
+    "message": "Learn about Phishing quizzes"
   },
   "phishingQuizzes.education.title": {
     "message": "Why education beats simulation"
@@ -333,10 +333,10 @@
     "message": "However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."
   },
   "phishingQuizzes.wsj.alt": {
-    "message": "news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
+    "message": "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
   },
   "phishingQuizzes.wsjMobile.alt": {
-    "message": "news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
+    "message": "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
   },
   "phishingQuizzes.problem.title": {
     "message": "The problem with phishing simulations"
@@ -354,31 +354,31 @@
     "message": "Narrow Focus on Email:"
   },
   "phishingQuizzes.problem.emailFocus.text": {
-    "message": "Many phishing simulations primarily target email threats, overlooking other channels like SMS, messaging apps, or social media. This limited focus can leave employees unprepared to recognize and respond to phishing attempts outside their email inbox."
+    "message": "Many phishing simulations primarily target email threats, overlooking other channels like SMS, messaging apps, or social media."
   },
   "phishingQuizzes.problem.falseSecurity.title": {
     "message": "False Sense of Security:"
   },
   "phishingQuizzes.problem.falseSecurity.text": {
-    "message": "If employees successfully identify simulated phishing attempts, they may develop a false sense of security, believing they are fully equipped to handle real threats, which can lead to complacency."
+    "message": "If employees successfully identify simulated phishing attempts, they may develop a false sense of security."
   },
   "phishingQuizzes.problem.clickRates.title": {
     "message": "Overemphasis on Click Rates:"
   },
   "phishingQuizzes.problem.clickRates.text": {
-    "message": "Focusing solely on whether employees clicked on a link can overlook other important aspects of phishing awareness, such as recognizing social engineering tactics or reporting suspicious emails."
+    "message": "Focusing solely on whether employees clicked on a link can overlook other important aspects of phishing awareness."
   },
   "phishingQuizzes.problem.desensitize.title": {
     "message": "Desensitize users:"
   },
   "phishingQuizzes.problem.desensitize.text": {
-    "message": "Repeatedly sending fake phishing emails can desensitize users to the threat, making them less likely to take real phishing attempts seriously."
+    "message": "Repeatedly sending fake phishing emails can desensitize users to the threat."
   },
   "phishingQuizzes.problem.punishment.title": {
     "message": "Focus on punishment rather than prevention:"
   },
   "phishingQuizzes.problem.punishment.text": {
-    "message": "Simulated phishing emails can create a culture of fear, where users are more focused on avoiding punishment than on learning how to prevent phishing attacks."
+    "message": "Simulated phishing emails can create a culture of fear, where users are more focused on avoiding punishment than on learning."
   },
   "phishingQuizzes.research.text": {
     "message": "Research finds that phishing simulation campaigns do not effectively train people in identifying phishing attacks."
@@ -393,13 +393,13 @@
     "message": "counterproductive"
   },
   "phishingQuizzes.research.final": {
-    "message": "effect of phishing simulations: users who are continuously exposed to phishing simulations are more likely to click on dangerous links."
+    "message": "effect of phishing simulations."
   },
   "phishingQuizzes.quizzes.title": {
     "message": "A more effective approach: phishing quizzes"
   },
   "phishingQuizzes.quizzes.description": {
-    "message": "Phishing quizzes provide a controlled learning environment that is more effective for skill-building than traditional phishing simulations. Unlike simulations, which can be stressful and punitive, quizzes offer a safe and interactive space for employees to practice their phishing detection skills. Designed to mimic real-world scenarios without actual risk, these quizzes encourage active learning and allow participants to receive immediate feedback. This helps employees learn from their mistakes, build confidence, and understand why certain emails are phishing attempts."
+    "message": "Phishing quizzes provide a controlled learning environment that is more effective for skill-building than traditional phishing simulations."
   },
   "phishingQuizzes.quizzes.benefitsIntro": {
     "message": "Benefits include:"
@@ -408,31 +408,31 @@
     "message": "Controlled Learning Environment:"
   },
   "phishingQuizzes.benefits.controlled.text": {
-    "message": "Phishing quizzes create a safe and low-stakes space for employees to practice their skills, reducing the stress and anxiety often associated with traditional phishing simulations."
+    "message": "Phishing quizzes create a safe and low-stakes space for employees to practice their skills."
   },
   "phishingQuizzes.benefits.interactive.title": {
     "message": "Interactive Engagement:"
   },
   "phishingQuizzes.benefits.interactive.text": {
-    "message": "These quizzes encourage active participation by allowing employees to engage with various phishing scenarios, while also providing immediate feedback on what elements indicate that an email or message may be a phishing attack."
+    "message": "These quizzes encourage active participation and provide immediate feedback."
   },
   "phishingQuizzes.benefits.coverage.title": {
     "message": "Coverage of Diverse Phishing Tactics:"
   },
   "phishingQuizzes.benefits.coverage.text": {
-    "message": "Phishing quizzes can incorporate questions about various types of phishing attacks, such as SMS (smishing), social media, and voice calls (vishing), broadening employees' awareness and preparedness for threats beyond just email."
+    "message": "Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios."
   },
   "phishingQuizzes.benefits.confidence.title": {
     "message": "Confidence Building:"
   },
   "phishingQuizzes.benefits.confidence.text": {
-    "message": "By allowing employees to learn from their mistakes in a supportive environment, phishing quizzes help build their confidence in identifying and responding to phishing attempts effectively."
+    "message": "Employees learn from mistakes in a supportive environment."
   },
   "phishingQuizzes.benefits.tailored.title": {
     "message": "Tailored Learning Objectives:"
   },
   "phishingQuizzes.benefits.tailored.text": {
-    "message": "Quizzes can be customized to focus on specific skills and knowledge gaps, ensuring that employees receive targeted training that effectively equips them to prevent phishing attacks in their daily work."
+    "message": "Quizzes can be customized to focus on specific skills and knowledge gaps."
   },
   "phishingQuizzes.cta": {
     "message": "Get started"
