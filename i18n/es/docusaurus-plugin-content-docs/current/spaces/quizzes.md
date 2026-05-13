@@ -20,12 +20,12 @@ En tu Espacio Shira, puedes:
 - [duplicar un cuestionario existente](#duplicate-quiz)
 - [eliminar cuestionarios](#delete-quiz)
 
-## Crear cuestionarios {#create-quizzes}
+## Creating quizzes {/* #create-quizzes */}
 Al crear un cuestionario, debes:
 1. Nombrar tu cuestionario
 2. Establecer la privacidad de tu cuestionario
 
-### Nombre del cuestionario {#name}
+### Quiz name {/* #name */}
 El nombre que elijas para el cuestionario te ayudará a ti y a tus estudiantes a
 reconocer el propósito de tu cuestionario (p. ej., "Capacitación del personal
 T4", "Los ataques más comunes de 2026", etc). El nombre del cuestionario es
@@ -35,7 +35,7 @@ visible para estudiantes:
 - En la pantalla de bienvenida cuando quienes estudian completan un
   cuestionario.
 
-### Privacidad del cuestionario {#privacy}
+### Quiz privacy {/* #privacy */}
 Hay dos opciones disponibles para la privacidad de los cuestionarios: público y
 privado.
 
@@ -63,13 +63,13 @@ quieres cambiar la privacidad de un cuestionario existente, debes duplicarlo.
   estudiante y ayuda a mantener un registro de quienes realizan el cuestionario
   y sus resultados.
 
-## Agregar pregunta a tu cuestionario {#questions}
+## Adding questions to your quiz {/* #questions */}
 
 Puedes agregar preguntas a tu cuestionario ya sea creándolas manualmente o
 importando plantillas listas para usar desde la Biblioteca. [Aprende más sobre
 preguntas aquí](/questions).
 
-## Publicar y despublicar cuestionarios {#publish-unpublish}
+## Publishing and unpublishing quizzes {/* #publish-unpublish */}
 Publicar un cuestionario significa que lo haces accesible para estudiantes.
 
 Luego puedes despublicar el cuestionario para hacer que sea imposible para
@@ -82,7 +82,7 @@ estudiante, quien estudia verá un mensaje de error al final del cuestionario
 cuando intente enviar sus respuestas, y estas se perderán. \
 :::
 
-## Editar cuestionarios {#edit-quizzes}
+## Editing quizzes {/* #edit-quizzes */}
 Puedes editar cualquier cuestionario, esté publicado o despublicado, incluyendo:
 - Agregar nuevas preguntas al cuestionario.
 - Editar preguntas ya existentes en el cuestionario.
@@ -98,7 +98,7 @@ cuestionario puede afectar la fiabilidad de [los resultados del
 cuestionario](/results). \
 :::
 
-## Duplicar un cuestionario {#duplicate-quiz}
+## Duplicating a quiz {/* #duplicate-quiz */}
 Duplicar un cuestionario significa crear una copia exacta de un cuestionario
 existente.
 
@@ -111,7 +111,7 @@ Puedes establecer una configuración de privacidad de cuestionario (público o
 privado) en el momento del duplicado.
 
 
-## Eliminar un cuestionario {#delete-quiz}
+## Deleting a quiz {/* #delete-quiz */}
 Eliminar un cuestionario significa que el cuestionario, todas las preguntas
 dentro del cuestionario, y cualquier [resultado](/results) asociado con este
 cuestionario serán eliminados de tu espacio.

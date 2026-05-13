@@ -17,17 +17,17 @@ description: 学习如何在 Shira 中创建、管理和自定义测验，培训
 - [复制现有测验](#duplicate-quiz)
 - [删除测验](#delete-quiz)
 
-## 创建测验 {#create-quizzes}
+## Creating quizzes {/* #create-quizzes */}
 在创建测验时，必须：
 1. 命名测验
 2. 设置测验隐私
 
-### 测验名称{#name}
+### Quiz name {/* #name */}
 测验名称应表明测验目的（例如，“第四季度员工培训”、“2026 年最常见攻击”等）。测验名称对学员可见：
 - 在学员收到的分配测验邮件中（仅适用于[私有测验](#privacy)）
 - 在学员参加测验时的欢迎界面上。
 
-### 测验隐私{#privacy}
+### Quiz privacy {/* #privacy */}
 测验隐私有两种选项：公开和私有。
 
 **测验的隐私设置是永久性的，无法更改**。如果想要更改现有测验的隐私设置，必须复制该测验。
@@ -42,11 +42,11 @@ description: 学习如何在 Shira 中创建、管理和自定义测验，培训
 * 只有空间的注册学员才能参加测验。关于注册学员的更多信息，可在[这里查看](/learners#registered)。
 * 分配私有测验之后，注册学员将收到一封包含测验链接的邮件。该链接对每位学员是唯一的，以便追踪测验参加情况及其结果。
 
-## 添加测验题目 {#questions}
+## Adding questions to your quiz {/* #questions */}
 
 可手动创建题目，或从题库导入现成模板来添加题目。[可在这里了解更多关于题目的信息](/questions)。
 
-## 发布和取消发布测验{#publish-unpublish}
+## Publishing and unpublishing quizzes {/* #publish-unpublish */}
 发布测验表示将其开放给学员访问。
 
 取消发布测验之后，学员将无法参加该测验，测验链接将导向错误页面。
@@ -55,7 +55,7 @@ description: 学习如何在 Shira 中创建、管理和自定义测验，培训
 在取消发布该测验时，如果学员*正在*参加测验，那么测验结束提交答案后，将在结束中显示错误消息，并且提交内容将丢失。 \
 :::
 
-## 编辑测验{#edit-quizzes}
+## Editing quizzes {/* #edit-quizzes */}
 无论是否发布，都可对测验进行编辑，包括：
 - 为测验添加新题目。
 - 编辑测验中的现有题目。
@@ -66,7 +66,7 @@ description: 学习如何在 Shira 中创建、管理和自定义测验，培训
 如果已有学员参加过测验，编辑该测验可能会影响[测验结果](/results)。 \
 :::
 
-## 复制测验{#duplicate-quiz}
+## Duplicating a quiz {/* #duplicate-quiz */}
 复制测验指为现有测验创建一个完全相同的副本。
 
 复制测验后，原测验和新测验将彼此独立：编辑或删除一个测验，另一个不受影响。**与原测验关联的*结果不会*迁移到新测验**。
@@ -74,7 +74,7 @@ description: 学习如何在 Shira 中创建、管理和自定义测验，培训
 在复制时，可设置测验隐私为公开或私有。
 
 
-## 删除测验{#delete-quiz}
+## Deleting a quiz {/* #delete-quiz */}
 删除测验意味着，在您的空间中删除测验及其所有题目以及该测验关联的所有[结果](/results)。
 
 :::warning\
