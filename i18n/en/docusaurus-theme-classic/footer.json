@@ -25,7 +25,7 @@
   },
   "link.item.label.Take a ready-made quiz": {
     "message": "Take a ready-made quiz",
-    "description": "The label of footer link with label=Take a ready-made quiz linking to https://quiz.shira.app/"
+    "description": "The label of footer link with label=Take a ready-made quiz linking to https://alpha.quiz.shira.app"
   },
   "link.item.label.Explore Shira features": {
     "message": "Explore Shira features",
@@ -33,7 +33,7 @@
   },
   "link.item.label.Build a custom quiz": {
     "message": "Build a custom quiz",
-    "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started"
+    "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started?plan=starter"
   },
   "link.item.label.Visit our help center": {
     "message": "Visit our help center",

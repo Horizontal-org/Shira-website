@@ -103,37 +103,37 @@ export default function Features() {
         <section className={classNames(styles.feauturesBox)}>
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.ui.title">User-friendly interface 🎨</Translate></h3>
-            <p><Translate id="features.list.ui.description">Intuitive dashboard for easy navigation and management of quizzes and user data.</Translate></p>
+            <p><Translate id="features.list.ui.description">Intuitive dashboard for easy navigation and management of quizzes and users.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.roles.title">Role-based access control 🔒</Translate></h3>
-            <p><Translate id="features.list.roles.description">Different access levels for admins, managers, and employees.</Translate></p>
+            <p><Translate id="features.list.roles.description">Different access levels for admins and learners.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.realLife.title">Real-Life Attack Simulation ⚡</Translate></h3>
-            <p><Translate id="features.list.realLife.description">Ability to input details from actual phishing attacks the company has experienced.</Translate></p>
+            <p><Translate id="features.list.realLife.description">Include in your quizzes details from actual phishing attacks the company has experienced to best prepare your team.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.email.title">Email phishing simulations 📧</Translate></h3>
-            <p><Translate id="features.list.email.description">Create quizzes that mimic phishing emails on Gmail and Outlook, including headers, body, images and attachments.</Translate></p>
+            <p><Translate id="features.list.email.description">Create quizzes that mimic phishing emails on Gmail and Outlook, including sender information, subject line, email body, links, images and file attachments.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.sms.title">SMS phishing simulations 💬</Translate></h3>
-            <p><Translate id="features.list.sms.description">Design quizzes that simulate SMS phishing attempts with realistic text messages.</Translate></p>
+            <p><Translate id="features.list.sms.description">Create quizzes that simulate SMS phishing attempts with realistic text messages.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.messaging.title">Messaging app phishing simulations 💬</Translate></h3>
-            <p><Translate id="features.list.messaging.description">Include quizzes that replicate phishing through WhatsApp, Messenger, etc.</Translate></p>
+            <p><Translate id="features.list.messaging.description">Create quizzes that replicate phishing through popular messaging apps like WhatsApp or Facebook Messenger.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.mobile.title">Mobile support 📱</Translate></h3>
-            <p><Translate id="features.list.mobile.description">Users can take Shira quizzes on mobile devices to simulate real-life scenarios.</Translate></p>
+            <p><Translate id="features.list.mobile.description">We often face phishing attacks from our mobile devices. In Shira, users can take quizzes from their mobile devices to prepare for attacks they will face in real life.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
@@ -143,17 +143,17 @@ export default function Features() {
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.analytics.title">Analytics 📈</Translate></h3>
-            <p><Translate id="features.list.analytics.description">Track user progress and identify areas for improvement.</Translate></p>
+            <p><Translate id="features.list.analytics.description">Track user progress and identify areas for improvement, whether it's the type of apps your users are most vulnerable on or the specific users who need extra support.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.explanations.title">Explanations 📝</Translate></h3>
-            <p><Translate id="features.list.explanations.description">Embed your own explanations on why an email or message looks like phishing.</Translate></p>
+            <p><Translate id="features.list.explanations.description">Embed your own explanations to point users to elements that suggest that an email or message looks like phishing.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.gamification.title">Gamification 🕹️</Translate></h3>
-            <p><Translate id="features.list.gamification.description">An entertaining learning experience promotes better knowledge retention.</Translate></p>
+            <p><Translate id="features.list.gamification.description">An engaging learning experience promotes better knowledge retention.</Translate></p>
           </div>
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
@@ -163,7 +163,7 @@ export default function Features() {
 
           <div className={classNames(styles.featureElement, global.backgroundLight)}>
             <h3><Translate id="features.list.library.title">Question library 📚</Translate></h3>
-            <p><Translate id="features.list.library.description">Pull from Shira's question library to start your trainings from templates created by digital security trainers.</Translate></p>
+            <p><Translate id="features.list.library.description">Create your quiz questions from scratch or head to the Shira Library to pull question templates created by digital security trainers.</Translate></p>
           </div>
         </section>
 
