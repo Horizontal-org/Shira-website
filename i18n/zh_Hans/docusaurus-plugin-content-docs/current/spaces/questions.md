@@ -17,17 +17,19 @@ description: 了解如何在 Shira 中创建和自定义测验题目，包括偏
 * [变量](#variables)
 * [解析](#explanations)
 
-## 创建题目 {#create}
+## Creating a question {/* #create */}
 可通过两种方式，来创建题目并将其添加到测验：
 1. 您可以从零创建题目，并自行配置每个题目组件。
-2. 使用题库中的现成题目。可直接使用这些题目，也可根据具体使用场景和需求进行调整。
+2. You can pull ready-made questions from [the Library](/library). If you pull a
+   question from the Library, you can use it as is or adapt it to your specific
+   context and needs.
 
-## 题目偏好 {#preferences}
+## Question preferences {/* #preferences */}
 创建题目时，必须：
 - 命名题目：该名称应便于识别您的题目，如“会议邀请”或“可疑登录通知”。题目名称仅对空间管理员可见，测验学员看不到。
 - 对于正在创建的邮件或消息，指定是*钓鱼*或*正规*，以便 Shira 判断用户的回答是否正确。
 
-## 应用 {#app}
+## An app {/* #app */}
 *应用*指界面所模拟的应用，其外观与学员实际使用的日常应用或平台完全一致，可以是：Gmail、Outlook、短信、WhatsApp 等。
 
 通过“应用”设置，Shira 可使用与实际界面相同的方式展示邮件或消息。当面临真实的钓鱼攻击时，学员更有可能知道在哪里寻找线索来判断是否为钓鱼。
@@ -44,12 +46,12 @@ description: 了解如何在 Shira 中创建和自定义测验题目，包括偏
 如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！ \
 :::
 
-## 题目内容{#content}
+## The question's content {/* #content */}
 题目内容指您为测验题目编写的实际邮件或消息。
 
 可包括真实邮件或消息中常见的各种元素：文本、图片、文件附件、链接等。
 
-## 解析{#explanations}
+## Explanations {/* #explanations */}
 解析指您创建的简短文本，用来解释题目中的邮件或消息为什么是或不是钓鱼攻击。解析会在学员回答完问题后显示，并突出显示题目中的特定元素。
 
 创建题目时，每条解析必须关联题目中的元素，例如：
@@ -60,7 +62,7 @@ description: 了解如何在 Shira 中创建和自定义测验题目，包括偏
 
 您在创建题目时看到的解析顺序，与测验学员所见相同。
 
-## 变量{#variables}
+## Variables {/* #variables */}
 变量指占位符，用于在题目中插入个性化信息。
 
 要添加变量，请在题目内容中输入以下内容：

@@ -19,16 +19,16 @@ Chaque question est composée de plusieurs éléments :
 * [Variables](#variables)
 * [Explications](#explanations)
 
-## Formuler une question {#create}
+## Creating a question {/* #create */}
 Pour créer des questions et les ajouter à votre quiz, deux options vous sont
 proposées :
 1. Il est possible de personnaliser vos questions dans leur intégralité et de
    définir vous-même l'ensemble de leurs composantes.
-2. Vous pouvez importer des questions prédefinies depuis la Bibliothèque. Si
-   vous importez une question depuis la Bibliothèque, vous pouvez l'utiliser
-   telle quelle ou l'adapter à votre contexte et à vos besoins spécifiques.
+2. You can pull ready-made questions from [the Library](/library). If you pull a
+   question from the Library, you can use it as is or adapt it to your specific
+   context and needs.
 
-## Préférences de la question {#preferences}
+## Question preferences {/* #preferences */}
 Lorsque vous créez une question, vous devez :
 - Nommer la question : ce nom, comme "Invitation à une conférence" ou
   "Notification de connexion suspecte", vous aide à reconnaître les questions
@@ -39,7 +39,7 @@ Lorsque vous créez une question, vous devez :
   l'hameçonnage* ou s'il est *légitime*. Cela permettra à Shira de déterminer si
   la réponse d'un utilisateur ou d'une utilisatrice est correcte.
 
-## Une appli {#app}
+## An app {/* #app */}
 Une *appli* est une interface qui ressemble exactement à l'application ou à la
 plateforme réelle que vos apprenants ou apprenantes utilisent au quotidien :
 Gmail, Outlook, SMS, WhatsApp, etc.
@@ -63,14 +63,14 @@ Actuellement, Shira prend en charge les applications suivantes :
 pas dans cette liste et que vous souhaiteriez voir intégrées à Shira ! \
 :::
 
-## Contenu de la question {#content}
+## The question's content {/* #content */}
 Le contenu d'une question correspond au texte de l'e-mail ou du message que vous
 rédigez pour l'afficher dans le questionnaire.
 
 Il peut s'agir de tous les éléments habituellement présents dans les emails et
 les messages : texte, images, pièces jointes, liens, etc.
 
-## Explications {#explanations}
+## Explanations {/* #explanations */}
 Les explications sont de courts extraits de texte permettant d'expliquer
 pourquoi l'e-mail ou le message de la question pourrait être une tentative
 d'hameçonnage. Les explications s'affichent après la réponse de l'apprenant ou
@@ -88,7 +88,7 @@ L’ordre d’affichage des explications lors de la création des questions
 correspond à l’ordre dans lequel elles sont présentées aux apprenants et
 apprenantes pendant le quiz.
 
-## Variables {#variables}
+## Variables {/* #variables */}
 Les variables sont des espaces réservés permettant d’insérer des informations
 personnalisées dans une question.
 

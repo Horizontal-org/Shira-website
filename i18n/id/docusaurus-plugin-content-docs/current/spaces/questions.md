@@ -18,15 +18,15 @@ Each question is made up of several components:
 * [Variables](#variables)
 * [Explanations](#explanations)
 
-## Creating a question {#create}
+## Creating a question {/* #create */}
 To create questions and add them to your quiz, you have two options:
 1. You can create questions from scratch and configure each of the questions
    components yourself.
-2. You can pull ready-made questions from the Library. If you pull a question
-   from the Library, you can use it as is or adapt it to your specific context
-   and needs.
+2. You can pull ready-made questions from [the Library](/library). If you pull a
+   question from the Library, you can use it as is or adapt it to your specific
+   context and needs.
 
-## Question preferences {#preferences}
+## Question preferences {/* #preferences */}
 When you create a question, you must:
 - Name the question: this name, like "Invitation to conference" or "Suspicious
   login notification", helps you recognize the questions you create. A
@@ -36,7 +36,7 @@ When you create a question, you must:
   *legitimate*. This will allow Shira to determine whether a user's response is
   correct.
 
-## An app {#app}
+## An app {/* #app */}
 An *app* is an interface that looks exactly like the actual app or platform your
 learners use every day: Gmail, Outlook, SMS, WhatsApp, etc.
 
@@ -55,14 +55,14 @@ Currently, Shira supports the following apps:
 :::note [Let us know](/contact) if your team relies on apps that aren't in this
 list and that you would like to see in Shira! :::
 
-## The question's content {#content}
+## The question's content {/* #content */}
 A question's content is the actual email or message that you draft to display in
 the quiz question.
 
 This can include any elements that are usually part of emails or messages in
 real life: text, images, file attachments, links, etc.
 
-## Explanations {#explanations}
+## Explanations {/* #explanations */}
 Explanations are short snippets of text that you can create to explain to
 learners why the email or message in the question may be a phishing attack or
 not. Explanations will be displayed after a learner answers a question, and
@@ -78,7 +78,7 @@ question, such as:
 The order of explanations that you see when you create the questions is the same
 order in which the questions are presented to learners during the quiz.
 
-## Variables {#variables}
+## Variables {/* #variables */}
 Variables are placeholders that you can use to insert personalized information
 into a question.
 
