@@ -1,8 +1,8 @@
 ---
 id: results
 slug: /results
-sidebar_position: 5
-description: Consultez et analysez les scores de votre équipe aux quiz sur Shira : consultez les quiz complétés, les notes moyennes et identifiez les points à améliorer en matière de sensibilisation à l'hameçonnage.
+sidebar_position: 6
+description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
 # Scores
@@ -24,19 +24,16 @@ apprenants et apprenantes.
 Il s'agit du score moyen obtenu par l'ensemble des apprenants et apprenantes
 ayant participé au quiz.
 
-**Taux de réalisation** [bientôt disponible]\
-Il s'agit du pourcentage d'apprenants et d'apprenantes ayant complété le quiz
-comparé au nombre total d'apprenants et d'apprenantes auquel il était destiné.
-Le taux de participation n'est disponible que pour les quiz privés.
+**Completion rate** This is the percentage of learners who have submitted the
+quiz out of all the learners assigned this quiz. Completion rate is only
+available for private quizzes.
 
-**Score par question** [bientôt disponible]\
-Vous indique le score moyen obtenu par tous les apprenants et apprenantes à
-chaque question.
+**Results by question** This shows you the average score received by all
+learners on each specific question in the quiz.
 
-**Score by apprenant/e** [bientôt disponible]\
-Vous trouverez ici la liste des apprenants et apprenantes inscrits ayant
-complété le quiz, ainsi que leur score. Les scores par apprenant/e ne sont
-disponibles que pour les quiz privés.
+**Results by learner** This shows you the list of registered learners who
+completed the quiz and their score on the quiz. Results by learner are only
+available for private quizzes.
 
 :::note, S'il y a des éléments précis que vous souhaitez consulter dans les
 scores [faites-le nous savoir](/contact)! :::

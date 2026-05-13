@@ -1,7 +1,7 @@
 ---
 id: results
 slug: /results
-sidebar_position: 5
+sidebar_position: 6
 description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
@@ -20,18 +20,16 @@ quizzes** This is the number of times a quiz has been taken by learners.
 **Average score**\
 This is the average score received by all learners who took the quiz.
 
-**Completion rate** [coming soon]\
-This is the percentage of learners who have submitted the quiz out of all the
-learners assigned this quiz. Completion rate is only available for private
-quizzes.
+**Completion rate** This is the percentage of learners who have submitted the
+quiz out of all the learners assigned this quiz. Completion rate is only
+available for private quizzes.
 
-**Results by question** [coming soon]\
-This shows you the average score received by all learners on each specific
-question in the quiz.
+**Results by question** This shows you the average score received by all
+learners on each specific question in the quiz.
 
-**Results by learner** [coming soon]\
-This shows you the list of registered learners who completed the quiz and their
-score on the quiz. Results by learner are only available for private quizzes.
+**Results by learner** This shows you the list of registered learners who
+completed the quiz and their score on the quiz. Results by learner are only
+available for private quizzes.
 
 :::note If there are specific things you'd like to track in Results, [let us
 know](/contact)! :::
