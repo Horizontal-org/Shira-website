@@ -24,7 +24,7 @@ export default function Home() {
       })}
       description={translate({
         id: 'homepage.meta.description',
-        message: "Shira builds your team's ability to identify and defeat phishing attacks.",
+        message: "Use Shira to build your team's ability to identify and defeat phishing attacks.",
       })}
     >
       <meta
@@ -61,7 +61,7 @@ export default function Home() {
                 <Translate id="homepage.learners.description">
                   Get started right away with one of our free, ready-made quizzes.
                   Customize the quiz to learn to identify phishing in the apps you use
-                  in real life — Gmail, SMS, WhatsApp, etc — with examples tailored to
+                  every day — Gmail, SMS, WhatsApp, etc — with examples tailored to
                   your language and field of work.
                 </Translate>
               </p>
@@ -82,7 +82,7 @@ export default function Home() {
                 <Translate id="homepage.educators.description">
                   Each organization has its own needs and faces its own threats.
                   Build phishing quizzes tailored to your organization’s needs and
-                  monitor your team’s success rates — all without technical skills.
+                  monitor your team’s success rates — without any coding.
                 </Translate>
               </p>
               <Link className={global.buttonLight} to={getSignupUrl()}>
@@ -95,8 +95,8 @@ export default function Home() {
         <section className={classNames(global.row, global.center, styles.context)}>
           <p>
             <Translate id="homepage.context.description">
-              For years, phishing has been one of the most common types of attacks
-              facing individuals and organizations. While it has been traditionally
+              For years, phishing has been one of the most common attacks
+              facing individuals and organizations. While it was initially
               limited to emails, phishing now also happens via SMS, messaging apps,
               and social media. Building users’ skills to identify and defeat phishing
               attacks is more needed than ever before.
@@ -134,7 +134,7 @@ export default function Home() {
               <p>
                 <Translate id="homepage.why.intro">
                   Whether you’re just taking our ready-made, free quizzes, or you’re
-                  taking the time to build your own custom quizzes, Shira is:
+                  building your own custom quizzes to train your team, Shira is:
                 </Translate>
               </p>
 
@@ -169,7 +169,7 @@ export default function Home() {
                   </span>
                   <p>
                     <Translate id="homepage.why.privacy.description">
-                      We do not collect or share any user data.
+                      We do not collect or share any sensitive or personally-identifiable user data.
                     </Translate>
                   </p>
                 </li>
