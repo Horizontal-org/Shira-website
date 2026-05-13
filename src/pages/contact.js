@@ -43,7 +43,7 @@ export default function Contact() {
 
             <p>
               <Translate id="contact.intro.part1">
-                Do you have questions about Shira (that are not answered in our
+                Do you have questions about Shira that are not answered in our
               </Translate>{' '}
               <Link to="/help">
                 <Translate id="contact.intro.helpCenter">
@@ -51,7 +51,7 @@ export default function Contact() {
                 </Translate>
               </Link>
               <Translate id="contact.intro.part2">
-                )? Would you like to explore a possible partnership? Are you a part of a grassroots organization and cannot afford the full cost of Shira?
+                ? Would you like to explore a possible partnership? Are you a non-profit or a grassroots organization and cannot afford the full cost of Shira?
               </Translate>
             </p>
 
@@ -73,7 +73,7 @@ export default function Contact() {
               <li>
                 <a href="https://github.com/Horizontal-org/shira/discussions">
                   <Translate id="contact.links.github">
-                    Post a feature idea or vote on the community needs
+                    Post a feature idea or vote on existing requests
                   </Translate>
                 </a>.
               </li>
