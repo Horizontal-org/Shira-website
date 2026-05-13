@@ -11,11 +11,17 @@ description: Learn about Shira Spaces — the central hub to create and manage q
 A Space is the central place in Shira to build your phishing education campaigns:
 - A Space is where you **create quizzes, manage learners, and see results** for your learners.
 - **In your Space, you can have many [Quizzes](/quizzes)**. For example, you may create a quiz focusing on email phishing and another on SMS phishing; or you may create a quiz to onboard new team members, and create a separate quiz to train your team each quarter.
-- **Each quiz is made up of [Questions](/questions)**. A question shows an email or message and asks the learner to decide whether the message looks like phishing or looks legitimate. The learner also has the option to answer "I don't know". You can build your questions from scratch or pull templates from the Library.
+- **Each quiz is made up of [Questions](/questions)**. A question shows an email or message and asks the learner to decide whether the message looks like phishing or looks legitimate. The learner also has the option to answer "I don't know". You can build your questions from scratch or pull templates from [the Library](library).
 - **Someone who takes a quiz is called a [Learner](/learners)**. There are Registered Learners (who can need to join your Space in order to take private quizzes) and Anonymous Learners (anyone who takes a public quiz using the quiz URL).
 - After learners take a quiz, **the [Results section](/results) shows how they did on the quiz**.
 
-## Permissions {#permissions}
+## Space settings (#settings) {/* #space-settings-settings */}
+In your Space settings, you can:
+* update the email address associated with your account
+* update your password
+* manage [your plan, subscription, and payment information](/plans)
+
+## Permissions {/* #permissions */}
 * Currently, only one admin user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
 * Only admins can access your Space dashboard. Learners never have access to the Space dashboard, quizzes, or Results.
 
@@ -29,5 +35,5 @@ This table summarizes what learners and admins can do in a Shira Space:
 | Create and Manage Space | No      | No |
 
 
-## Deleting your space {#deleting-your-space}
+## Deleting your space {/* #deleting-your-space */}
 It is currently impossible to delete your Space without our assistance. If you wish to delete your Space, [contact us here](/contact).
