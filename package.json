@@ -14,9 +14,10 @@
         "write-heading-ids": "docusaurus write-heading-ids"
     },
     "dependencies": {
-        "@docusaurus/core": "3.9.2",
-        "@docusaurus/preset-classic": "3.9.2",
+        "@docusaurus/core": "^3.10.0",
+        "@docusaurus/preset-classic": "^3.10.0",
         "@easyops-cn/docusaurus-search-local": "^0.52.1",
+        "@horizontal-org/shira-ui": "^1.0.46",
         "@mdx-js/react": "^3.0.0",
         "classnames": "^2.5.1",
         "clsx": "^2.0.0",
@@ -25,12 +26,13 @@
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "react-iframe": "^1.8.5",
-        "sass": "^1.89.2"
+        "sass": "^1.89.2",
+        "styled-components": "^6.4.1"
     },
     "devDependencies": {
-        "@docusaurus/faster": "3.9.2",
-        "@docusaurus/module-type-aliases": "3.9.2",
-        "@docusaurus/types": "3.9.2"
+        "@docusaurus/faster": "^3.10.0",
+        "@docusaurus/module-type-aliases": "^3.10.0",
+        "@docusaurus/types": "^3.10.0"
     },
     "browserslist": {
         "production": [
@@ -47,7 +49,10 @@
     "engines": {
         "node": ">=18.0"
     },
+    "overrides": {
+        "webpackbar": "^7.0.0"
+    },
     "resolutions": {
-        "webpackbar": "7.0.0"
+        "webpackbar": "^7.0.0"
     }
 }
