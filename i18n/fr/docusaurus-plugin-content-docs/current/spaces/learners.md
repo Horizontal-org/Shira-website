@@ -1,8 +1,8 @@
-...
+---
 id: learners
 slug: /learners
-sidebar_position: 4
-description: Découvrez qui sont les apprenants et apprenantes de Shira — des participants et participantes anonymes qui passent des quiz pour tester leurs connaissances en matière d’hameçonnage, ou des personnes inscrites qui suivent des quiz de manière privée.
+sidebar_position: 5
+description: Learn about Shira learners — anonymous participants who take quizzes to test phishing awareness, or registered learners for private quiz tracking.
 
 ---
 
@@ -14,7 +14,7 @@ Il existe deux types d'apprenants et d'apprenantes dans Shira :
 * Apprenants et apprenantes anonymes
 * Apprenants et apprenantes inscrits
 
-### Apprenants et apprenantes anonymes {#anonymous}
+### Anonymous learners {/* #anonymous */}
 Les apprenants et apprenantes anonymes sont des utilisateurs qui *ne sont pas*
 inscrits sur un espace Shira. Les apprenants et apprenantes anonymes :
 * Peuvent participer aux [quiz publics](/quizzes#privacy) ou aux [quiz
@@ -22,7 +22,7 @@ inscrits sur un espace Shira. Les apprenants et apprenantes anonymes :
 * Ne peuvent pas participer aux [quiz privés](/quizzes#privacy).
 * Ne peuvent pas être identifiés dans les [scores](/results) d'un quiz.
 
-### Apprenants et apprenantes inscrits {#registered}
+### Registered learners {/* #registered */}
 Les apprenants et apprenantes inscrits sont des utilisateurs que vous avez
 invités à rejoindre votre Espace et qui ont accepté votre invitation. Les
 apprenants et apprenantes inscrits :
