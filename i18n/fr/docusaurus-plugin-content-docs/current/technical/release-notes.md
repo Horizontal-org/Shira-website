@@ -13,7 +13,30 @@ améliorations de Shira. S'il manque quelque chose, vous pouvez [suggérer de
 nouvelles fonctionnalités ou améliorations
 ici](https://github.com/Horizontal-org/shira/discussions). : ::
 
-## Shira 2.0-beta5 {#shira-20-beta5}
+## Shira 2.0-beta7 {/* #shira-20-beta7 */}
+*Released on 20 April 2026* Quality of life improvements:
+- New screen to manage space settings, including to update the email address
+  associeted with the account and update the password.
+- Users can now subscribe to a Shira plan and manage their plan and subscription
+  directly from inside the Shira space.
+- Big fixes and UX improvements.
+
+## Shira 2.0-beta6 {/* #shira-20-beta6 */}
+*Released on 2 March 2026* New features:
+- User can now reset their password from the login page.
+- User can import learners in bulk by uploading a CSV, instead of having to
+  create large number of learners one by one
+- New Results metrics:
+   - Completion rate: the percentage of learners who have submitted the quiz out
+     of all the learners assigned this quiz. Completion rate is only available
+     for private quizzes.
+   - Results by question: the average score received by all learners on each
+     specific question in the quiz.
+   - Results by learner: the list of registered learners who completed the quiz
+     and their score on the quiz. Results by learner are only available for
+     private quizzes.
+
+## Shira 2.0-beta5 {/* #shira-20-beta5 */}
 *Publié le 29 janvier 2026*
 
 Cette version introduit les quiz privés--notre fonctionnalité la plus demandée !
@@ -24,7 +47,7 @@ Cette version introduit les quiz privés--notre fonctionnalité la plus demandé
   sont rattachés à leur compte, vous permettant ainsi de suivre la progression
   de chacun sur vos quiz.
 
-## Shira 2.0-beta4 {#shira-20-beta4}
+## Shira 2.0-beta4 {/* #shira-20-beta4 */}
 *Publié le 3 novembre 2025*
 
 Avec cette version, nous nous rapprochons de l'ensemble complet des

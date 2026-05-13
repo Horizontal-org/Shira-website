@@ -13,14 +13,37 @@ description: 及时了解 Shira 最新功能和改进，包括空间、可定制
 最新功能与改进的所有重要信息。如有遗漏，请[在此处提交建议新功能或改进意见](https://github.com/Horizontal-org/shira/discussions)。\
 :::
 
-## Shira 2.0-beta5 {#shira-20-beta5}
+## Shira 2.0-beta7 {/* #shira-20-beta7 */}
+*Released on 20 April 2026* Quality of life improvements:
+- New screen to manage space settings, including to update the email address
+  associeted with the account and update the password.
+- Users can now subscribe to a Shira plan and manage their plan and subscription
+  directly from inside the Shira space.
+- Big fixes and UX improvements.
+
+## Shira 2.0-beta6 {/* #shira-20-beta6 */}
+*Released on 2 March 2026* New features:
+- User can now reset their password from the login page.
+- User can import learners in bulk by uploading a CSV, instead of having to
+  create large number of learners one by one
+- New Results metrics:
+   - Completion rate: the percentage of learners who have submitted the quiz out
+     of all the learners assigned this quiz. Completion rate is only available
+     for private quizzes.
+   - Results by question: the average score received by all learners on each
+     specific question in the quiz.
+   - Results by learner: the list of registered learners who completed the quiz
+     and their score on the quiz. Results by learner are only available for
+     private quizzes.
+
+## Shira 2.0-beta5 {/* #shira-20-beta5 */}
 *发布于 2026 年 1 月 29 日*
 
 此版本推出私有测验，用户最期待的功能！
 - 私有测验：只有空间的注册学员才能参加测验。
 - 注册学员：指管理员邀请加入空间的学员，其结果与其账号关联，以便查看每位学员的测验表现。
 
-## Shira 2.0-beta4 {#shira-20-beta4}
+## Shira 2.0-beta4 {/* #shira-20-beta4 */}
 *发布于 2025 年 11 月 3 日*
 
 此版本几乎包含 Shira 2.0 中的全部功能。您已经可以使用以下功能：
