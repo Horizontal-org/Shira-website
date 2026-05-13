@@ -18,12 +18,11 @@ export default function PhishingQuizzes() {
     <Layout
       title={translate({
         id: 'phishingQuizzes.meta.title',
-        message: 'Learn about Phishing quizzes',
+        message: 'Learn about Phishing Quizzes',
       })}
       description={translate({
         id: 'phishingQuizzes.meta.description',
-        message:
-          'Learn why phishing quizzes are more effective than simulations. Shira offers safe, interactive training to build real phishing detection skills without stress or punishment.',
+        message: 'Learn about Phishing quizzes',
       })}
     >
       <main className={classNames(global.main, styles.phishingQuizzes)}>
@@ -31,8 +30,7 @@ export default function PhishingQuizzes() {
           name="description"
           content={translate({
             id: 'phishingQuizzes.meta.description',
-            message:
-              'Learn why phishing quizzes are more effective than simulations. Shira offers safe, interactive training to build real phishing detection skills without stress or punishment.',
+            message: 'Learn about Phishing quizzes',
           })}
         />
 
@@ -80,7 +78,7 @@ export default function PhishingQuizzes() {
                 alt={translate({
                   id: 'phishingQuizzes.wsj.alt',
                   message:
-                    'news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work',
+                    "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work",
                 })}
               />
 
@@ -90,7 +88,7 @@ export default function PhishingQuizzes() {
                 alt={translate({
                   id: 'phishingQuizzes.wsjMobile.alt',
                   message:
-                    'news article from the wall street journal Phishing Tests, the Bane of Work Life, Are Getting Meaner - Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work',
+                    "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work",
                 })}
               />
             </a>
@@ -136,7 +134,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.problem.emailFocus.text">
-                  Many phishing simulations primarily target email threats, overlooking other channels like SMS, messaging apps, or social media. This limited focus can leave employees unprepared to recognize and respond to phishing attempts outside their email inbox.
+                  Many phishing simulations primarily target email threats, overlooking other channels like SMS, messaging apps, or social media.
                 </Translate>
               </li>
 
@@ -147,7 +145,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.problem.falseSecurity.text">
-                  If employees successfully identify simulated phishing attempts, they may develop a false sense of security, believing they are fully equipped to handle real threats, which can lead to complacency.
+                  If employees successfully identify simulated phishing attempts, they may develop a false sense of security.
                 </Translate>
               </li>
 
@@ -158,7 +156,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.problem.clickRates.text">
-                  Focusing solely on whether employees clicked on a link can overlook other important aspects of phishing awareness, such as recognizing social engineering tactics or reporting suspicious emails.
+                  Focusing solely on whether employees clicked on a link can overlook other important aspects of phishing awareness.
                 </Translate>
               </li>
 
@@ -169,7 +167,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.problem.desensitize.text">
-                  Repeatedly sending fake phishing emails can desensitize users to the threat, making them less likely to take real phishing attempts seriously.
+                  Repeatedly sending fake phishing emails can desensitize users to the threat.
                 </Translate>
               </li>
 
@@ -180,7 +178,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.problem.punishment.text">
-                  Simulated phishing emails can create a culture of fear, where users are more focused on avoiding punishment than on learning how to prevent phishing attacks.
+                  Simulated phishing emails can create a culture of fear, where users are more focused on avoiding punishment than on learning.
                 </Translate>
               </li>
             </ol>
@@ -204,7 +202,7 @@ export default function PhishingQuizzes() {
               </Translate>
             </i>{' '}
             <Translate id="phishingQuizzes.research.final">
-              effect of phishing simulations: users who are continuously exposed to phishing simulations are more likely to click on dangerous links.
+              effect of phishing simulations.
             </Translate>
           </p>
 
@@ -216,7 +214,7 @@ export default function PhishingQuizzes() {
 
           <p>
             <Translate id="phishingQuizzes.quizzes.description">
-              Phishing quizzes provide a controlled learning environment that is more effective for skill-building than traditional phishing simulations. Unlike simulations, which can be stressful and punitive, quizzes offer a safe and interactive space for employees to practice their phishing detection skills. Designed to mimic real-world scenarios without actual risk, these quizzes encourage active learning and allow participants to receive immediate feedback. This helps employees learn from their mistakes, build confidence, and understand why certain emails are phishing attempts.
+              Phishing quizzes provide a controlled learning environment that is more effective for skill-building than traditional phishing simulations.
             </Translate>
           </p>
 
@@ -235,7 +233,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.benefits.controlled.text">
-                  Phishing quizzes create a safe and low-stakes space for employees to practice their skills, reducing the stress and anxiety often associated with traditional phishing simulations.
+                  Phishing quizzes create a safe and low-stakes space for employees to practice their skills.
                 </Translate>
               </li>
 
@@ -246,7 +244,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.benefits.interactive.text">
-                  These quizzes encourage active participation by allowing employees to engage with various phishing scenarios, while also providing immediate feedback on what elements indicate that an email or message may be a phishing attack.
+                  These quizzes encourage active participation and provide immediate feedback.
                 </Translate>
               </li>
 
@@ -257,7 +255,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.benefits.coverage.text">
-                  Phishing quizzes can incorporate questions about various types of phishing attacks, such as SMS (smishing), social media, and voice calls (vishing), broadening employees' awareness and preparedness for threats beyond just email.
+                  Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios.
                 </Translate>
               </li>
 
@@ -268,7 +266,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.benefits.confidence.text">
-                  By allowing employees to learn from their mistakes in a supportive environment, phishing quizzes help build their confidence in identifying and responding to phishing attempts effectively.
+                  Employees learn from mistakes in a supportive environment.
                 </Translate>
               </li>
 
@@ -279,7 +277,7 @@ export default function PhishingQuizzes() {
                   </Translate>
                 </span>{' '}
                 <Translate id="phishingQuizzes.benefits.tailored.text">
-                  Quizzes can be customized to focus on specific skills and knowledge gaps, ensuring that employees receive targeted training that effectively equips them to prevent phishing attacks in their daily work.
+                  Quizzes can be customized to focus on specific skills and knowledge gaps.
                 </Translate>
               </li>
             </ol>

@@ -62,8 +62,6 @@ else
 
       git reset --hard origin/$Branch
 
-      rm yarn.lock
-
       npm install
 
       npm run build
