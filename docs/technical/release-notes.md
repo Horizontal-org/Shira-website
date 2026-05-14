@@ -14,14 +14,16 @@ Here’s everything you need to know about the latest features and improvements 
 
 ## Shira 2.0-beta7 {/* #shira-20-beta7 */}
 *Released on 20 April 2026*
-Quality of life improvements:
+
+**Quality of life improvements:**
 - New screen to manage space settings, including to update the email address associeted with the account and update the password. 
 - Users can now subscribe to a Shira plan and manage their plan and subscription directly from inside the Shira space.
 - Big fixes and UX improvements. 
 
 ## Shira 2.0-beta6 {/* #shira-20-beta6 */}
 *Released on 2 March 2026*
-New features:
+
+**New features:**
 - User can now reset their password from the login page.
 - User can import learners in bulk by uploading a CSV, instead of having to create large number of learners one by one
 - New Results metrics: 
