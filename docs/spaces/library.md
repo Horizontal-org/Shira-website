@@ -14,6 +14,6 @@ For now, the main resource available in the Shira library are quiz questions, bu
 :::
 
 ## Question library {/* #question-library */}
-The question library includes questions covering all [apps](/questions.md#an-app--app-), in a variety of languages. Questions often already include [explanations](/questions#explanations).
+The question library includes questions covering all [apps](/questions#an-app--app-), in a variety of languages. Questions often already include [explanations](/questions#explanations).
 
 To add questions from the library into a quiz, create a new quiz or edit an existing quiz and select "Add from Library". From there, you'll be able to decide which [app](/questions#app) and language to use for that question, and add it to your quiz. You can then customize the question to suit your specific needs, including adding new explanations or editing existing ones. 
