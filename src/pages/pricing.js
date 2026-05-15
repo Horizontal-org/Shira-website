@@ -160,12 +160,12 @@ export default function Pricing() {
               message: '1 admin',
             })},
             {type: 'text', value: translate({
-              id: 'view_plans.comparison.values.unlimited',
-              message: 'Unlimited',
+              id: 'view_plans.comparison.values.unlimited_coming_soon',
+              message: 'Unlimited (coming soon)',
             })},
             {type: 'text', value: translate({
-              id: 'view_plans.comparison.values.unlimited',
-              message: 'Unlimited',
+              id: 'view_plans.comparison.values.unlimited_coming_soon',
+              message: 'Unlimited (coming soon)',
             })},
           ],
         },
@@ -309,10 +309,40 @@ export default function Pricing() {
     },
     {
       title: translate({
-        id: 'view_plans.comparison.custom_support',
-        message: 'Custom support',
+        id: 'view_plans.comparison.customer_support',
+        message: 'Customer support',
       }),
       rows: [
+        {
+          label: translate({
+            id: 'view_plans.comparison.rows.phishing_readiness_assessment',
+            message: 'Phishing Readiness Assessment',
+          }),
+          tooltip: translate({
+            id: 'view_plans.comparison.tooltips.phishing_readiness_assessment',
+            message: 'Snapshot of current organizational vulnerability to phishing attacks',
+          }),
+          values: [
+            {type: 'text', value: '-'},
+            {type: 'text', value: '-'},
+            {type: 'check'},
+          ],
+        },
+        {
+          label: translate({
+            id: 'view_plans.comparison.rows.preparedness_report',
+            message: 'Preparedness Report & Action Plan',
+          }),
+          tooltip: translate({
+            id: 'view_plans.comparison.tooltips.preparedness_report',
+            message: 'Concise report highlighting top risks and recommended training modules and timelines',
+          }),
+          values: [
+            {type: 'text', value: '-'},
+            {type: 'text', value: '-'},
+            {type: 'check'},
+          ],
+        },
         {
           label: translate({
             id: 'view_plans.comparison.rows.tailor_made_training',
@@ -333,8 +363,8 @@ export default function Pricing() {
         },
         {
           label: translate({
-            id: 'view_plans.comparison.rows.priority_support',
-            message: 'Priority support',
+            id: 'view_plans.comparison.rows.support',
+            message: 'Support',
           }),
           tooltip: translate({
             id: 'view_plans.comparison.tooltips.priority_support',
@@ -343,15 +373,16 @@ export default function Pricing() {
           values: [
             {type: 'text', value: '-'},
             {type: 'text', value: translate({
-              id: 'view_plans.comparison.values.three_business_day_response_time',
-              message: '3-business-day response time',
+              id: 'view_plans.comparison.values.priority_support',
+              message: 'Priority support',
             })},
             {type: 'text', value: translate({
-              id: 'view_plans.comparison.values.one_business_day_response_time',
-              message: 'Up to 1-business day-response time',
+              id: 'view_plans.comparison.values.dedicated_enterprise_support',
+              message: 'Dedicated enterprise support',
             })}
           ],
         },
+        
       ],
     },
   ];
