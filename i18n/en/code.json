@@ -650,12 +650,6 @@
   "view_plans.comparison.tooltips.number_of_admins": {
     "message": "Admins are users who can create and manage phishing education campaigns"
   },
-  "view_plans.comparison.values.one_admin": {
-    "message": "1 admin"
-  },
-  "view_plans.comparison.values.unlimited": {
-    "message": "Unlimited"
-  },
   "view_plans.comparison.customization": {
     "message": "Customization"
   },
@@ -676,9 +670,6 @@
   },
   "view_plans.comparison.tooltips.custom_quizzes": {
     "message": "The number of quizzes you can create in your Space"
-  },
-  "view_plans.comparison.values.up_to_three_custom_quizzes": {
-    "message": "Up to 3 custom quizzes"
   },
   "view_plans.comparison.rows.apps_available": {
     "message": "Apps available"
@@ -727,12 +718,6 @@
   },
   "view_plans.comparison.tooltips.tailor_made_training": {
     "message": "Skill-building workshops customized by the Shira team for your organization"
-  },
-  "view_plans.comparison.values.available_upon_request": {
-    "message": "Available upon request"
-  },
-  "view_plans.comparison.tooltips.priority_support": {
-    "message": "Quick response time to ensure a smooth experience"
   },
   "pricing.layout.title": {
     "message": "Shira's pricing"
@@ -1108,9 +1093,6 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "view_plans.comparison.values.unlimited_coming_soon": {
-    "message": "Unlimited (coming soon)"
-  },
   "view_plans.comparison.customer_support": {
     "message": "Customer support"
   },
@@ -1129,10 +1111,34 @@
   "view_plans.comparison.rows.support": {
     "message": "Support"
   },
-  "view_plans.comparison.values.priority_support": {
+  "view_plans.comparison.values.number_of_admins.free": {
+    "message": "1 admin"
+  },
+  "view_plans.comparison.values.number_of_admins.pro": {
+    "message": "Unlimited (coming soon)"
+  },
+  "view_plans.comparison.values.number_of_admins.enterprise": {
+    "message": "Unlimited (coming soon)"
+  },
+  "view_plans.comparison.values.custom_quizzes.free": {
+    "message": "Up to 3 custom quizzes"
+  },
+  "view_plans.comparison.values.custom_quizzes.pro": {
+    "message": "Unlimited"
+  },
+  "view_plans.comparison.values.custom_quizzes.enterprise": {
+    "message": "Unlimited"
+  },
+  "view_plans.comparison.values.tailor_made_training.enterprise": {
+    "message": "Available upon request"
+  },
+  "view_plans.comparison.tooltips.support": {
+    "message": "Quick response time to ensure a smooth experience"
+  },
+  "view_plans.comparison.values.support.pro": {
     "message": "Priority support"
   },
-  "view_plans.comparison.values.dedicated_enterprise_support": {
+  "view_plans.comparison.values.support.enterprise": {
     "message": "Dedicated enterprise support"
   }
 }
