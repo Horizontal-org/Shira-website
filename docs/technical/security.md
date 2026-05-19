@@ -11,7 +11,7 @@ The security and privacy of Shira users is very important to us.
 
 We collect the absolute minimal amount of data about Shira users, and only collect data we need to power Shira features and capabilities
 
-We implement industry-standard measures to ensure confidentiality, integrity, and availability of all user data. For more information on how we handle data on Shira cloud (at https://space.shira.app and https://quiz.shira.app), please see [our privacy policy](/privacy-policy). Organizations with special privacy concerns can [self-host their own instance of Shira](https://github.com/Horizontal-org/shira) 
+We implement industry-standard measures to ensure confidentiality, integrity, and availability of all user data. For more information on how we handle data on Shira cloud (at https://space.shira.app and https://quiz.shira.app), please see [our privacy policy](/privacy-policy). Organizations with special privacy concerns can [self-host their own instance of Shira](/self-hosting). 
 
 In addition, Shira is open-source so anyone can [review the code that powers the app](https://github.com/Horizontal-org/shira).
 
