@@ -1,13 +1,8 @@
 ---
-
 id: self-hosting
-
 slug: /self-hosting
-
-sidebar_position: 2
-
-description: Aprende cómo auto-alojar Shira, la plataforma de código abierto para la capacitación sobre phishing, próximamente con una guía para configurar tu propia instancia y gestionar tus cuestionarios de manera independiente.
-
+sidebar_position: 3
+description: Learn how to self-host your own Shira instance.
 
 ---
 # Auto-alojamiento

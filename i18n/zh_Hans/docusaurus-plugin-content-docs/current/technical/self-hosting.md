@@ -1,8 +1,8 @@
 ---
 id: self-hosting
 slug: /self-hosting
-sidebar_position: 2
-description: 学习如何自托管 Shira，一个开源的钓鱼培训平台。另外，即将推出相关指南，帮助您设置自己的实例并独立地管理测验。
+sidebar_position: 3
+description: Learn how to self-host your own Shira instance.
 
 ---
 # 自托管

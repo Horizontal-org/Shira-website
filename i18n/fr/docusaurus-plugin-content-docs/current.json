@@ -6,10 +6,10 @@
         "message": "Contact et assistance"
     },
     "sidebar.HelpSidebar.category.Technical Stuff": {
-        "message": "L'étiquette pour la catégorie 'Infos techniques' dans la barre latérale 'HelpSidebar'"
+        "message": "Détails techniques"
     },
     "sidebar.HelpSidebar.category.Shira Help Center": {
-        "message": "Centre d'aide Shira"
+        "message": "Centre d'assistance Shira"
     },
     "version.label": {
         "message": "Suivant"
