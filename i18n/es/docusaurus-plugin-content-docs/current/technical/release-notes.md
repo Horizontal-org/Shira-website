@@ -14,16 +14,31 @@ mejoras en Shira. Si falta algo, puedes [sugerir nuevas funciones o mejoras
 aquí](https://github.com/Horizontal-org/shira/discussions).\
 :::
 
+## Shira 2.0 {/* #shira-20 */}
+*Released on 20 May 2026*
+
+**New:**
+- The report of the latest security audit is now [available on a new Security
+  page](/security)
+
+**Quality of life improvements:**
+- Email [demo questions](https://quiz.shira.app/) are now available in Outlook
+- Bug fixes and UX improvements.
+
 ## Shira 2.0-beta7 {/* #shira-20-beta7 */}
-*Released on 20 April 2026* Quality of life improvements:
+*Released on 20 April 2026*
+
+**Quality of life improvements:**
 - New screen to manage space settings, including to update the email address
   associeted with the account and update the password.
 - Users can now subscribe to a Shira plan and manage their plan and subscription
   directly from inside the Shira space.
-- Big fixes and UX improvements.
+- Bug fixes and UX improvements.
 
 ## Shira 2.0-beta6 {/* #shira-20-beta6 */}
-*Released on 2 March 2026* New features:
+*Released on 2 March 2026*
+
+**New features:**
 - User can now reset their password from the login page.
 - User can import learners in bulk by uploading a CSV, instead of having to
   create large number of learners one by one
