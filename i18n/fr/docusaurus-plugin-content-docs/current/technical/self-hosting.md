@@ -1,8 +1,8 @@
 ---
 id: self-hosting
 slug: /self-hosting
-sidebar_position: 2
-description: Decouvrez comment héberger vous-même Shira, la plateforme d'apprentissage open source sur l'hameçonnage. Nous vous fournirons prochainement des instructions pour configurer votre propre version et gérer vos quiz en toute autonomie.
+sidebar_position: 3
+description: Learn how to self-host your own Shira instance.
 
 ---
 # Auto-hébergement
