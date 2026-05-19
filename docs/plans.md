@@ -25,7 +25,7 @@ If you already have a Shira space, <LoginLink>sign into your Space</LoginLink> a
 ### What happens when I downgrade from Shira Pro to the Starter plan? {/* #what-happens-when-i-downgrade-from-shira-pro-to-the-starter-plan */}
 Downgrading from Shira Pro to the Starter plan means losing some key features:
 * You lose the ability to create [private quizzes](/quizzes#privacy). If you already have private quizzes, you will lose access to those quizzes, including the quiz questions and the [Results](/results) from learners who took the quiz.
-* You lose the ability to manage [Registered Learners](/learners#registered-learners-registered). This means you will no longer be able to invite, edit, or remove learners from your Space. 
+* You lose the ability to manage [Registered Learners](/learners#registered). This means you will no longer be able to invite, edit, or remove learners from your Space. 
 * You Space gets a limit of three [public quizzes](/quizzes#privacy). This means that at the time of downgrading, if there are more than three public quizzes in your Space, only the three ***most recently created*** will remain available. You will lose access to all other public quizzes, including the quiz questions and the [Results](/results) from learners who took the quiz.
 
 ### Does upgrading to Shira Pro after downgrading restore my lost quizzes? {/* #upgrading-after-downgrading-recover-quizzes */}
