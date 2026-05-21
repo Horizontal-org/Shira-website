@@ -650,12 +650,6 @@
   "view_plans.comparison.tooltips.number_of_admins": {
     "message": "Admins are users who can create and manage phishing education campaigns"
   },
-  "view_plans.comparison.values.one_admin": {
-    "message": "1 admin"
-  },
-  "view_plans.comparison.values.unlimited": {
-    "message": "Unlimited"
-  },
   "view_plans.comparison.customization": {
     "message": "Customization"
   },
@@ -676,9 +670,6 @@
   },
   "view_plans.comparison.tooltips.custom_quizzes": {
     "message": "The number of quizzes you can create in your Space"
-  },
-  "view_plans.comparison.values.up_to_three_custom_quizzes": {
-    "message": "Up to 3 custom quizzes"
   },
   "view_plans.comparison.rows.apps_available": {
     "message": "Apps available"
@@ -722,29 +713,11 @@
   "view_plans.comparison.tooltips.analysis_tools": {
     "message": "Export your team's results into CSV or PDF reports"
   },
-  "view_plans.comparison.custom_support": {
-    "message": "Custom support"
-  },
   "view_plans.comparison.rows.tailor_made_training": {
     "message": "Tailor-made user training"
   },
   "view_plans.comparison.tooltips.tailor_made_training": {
     "message": "Skill-building workshops customized by the Shira team for your organization"
-  },
-  "view_plans.comparison.values.available_upon_request": {
-    "message": "Available upon request"
-  },
-  "view_plans.comparison.rows.priority_support": {
-    "message": "Priority support"
-  },
-  "view_plans.comparison.tooltips.priority_support": {
-    "message": "Quick response time to ensure a smooth experience"
-  },
-  "view_plans.comparison.values.three_business_day_response_time": {
-    "message": "3-business-day response time"
-  },
-  "view_plans.comparison.values.one_business_day_response_time": {
-    "message": "Up to 1-business day-response time"
   },
   "pricing.layout.title": {
     "message": "Shira's pricing"
@@ -1119,5 +1092,53 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "view_plans.comparison.customer_support": {
+    "message": "Customer support"
+  },
+  "view_plans.comparison.rows.phishing_readiness_assessment": {
+    "message": "Phishing Readiness Assessment"
+  },
+  "view_plans.comparison.tooltips.phishing_readiness_assessment": {
+    "message": "Snapshot of current organizational vulnerability to phishing attacks"
+  },
+  "view_plans.comparison.rows.preparedness_report": {
+    "message": "Preparedness Report & Action Plan"
+  },
+  "view_plans.comparison.tooltips.preparedness_report": {
+    "message": "Concise report highlighting top risks and recommended training modules and timelines"
+  },
+  "view_plans.comparison.rows.support": {
+    "message": "Support"
+  },
+  "view_plans.comparison.values.number_of_admins.free": {
+    "message": "1 admin"
+  },
+  "view_plans.comparison.values.number_of_admins.pro": {
+    "message": "Unlimited (coming soon)"
+  },
+  "view_plans.comparison.values.number_of_admins.enterprise": {
+    "message": "Unlimited (coming soon)"
+  },
+  "view_plans.comparison.values.custom_quizzes.free": {
+    "message": "Up to 3 custom quizzes"
+  },
+  "view_plans.comparison.values.custom_quizzes.pro": {
+    "message": "Unlimited"
+  },
+  "view_plans.comparison.values.custom_quizzes.enterprise": {
+    "message": "Unlimited"
+  },
+  "view_plans.comparison.values.tailor_made_training.enterprise": {
+    "message": "Available upon request"
+  },
+  "view_plans.comparison.tooltips.support": {
+    "message": "Quick response time to ensure a smooth experience"
+  },
+  "view_plans.comparison.values.support.pro": {
+    "message": "Priority support"
+  },
+  "view_plans.comparison.values.support.enterprise": {
+    "message": "Dedicated enterprise support"
   }
 }

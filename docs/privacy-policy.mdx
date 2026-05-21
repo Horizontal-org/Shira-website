@@ -12,7 +12,7 @@ import TOCInline from '@theme/TOCInline';
 
 <TOCInline toc={toc.filter((node) => node.level === 2)} />
 
-This privacy policy was last updated on 9 February 2026.
+This privacy policy was last updated on 20 May 2026.
 
 
 ## 1. Introduction {/* #intro */}
@@ -76,7 +76,7 @@ Functionality data is the data that is generated when users make use of Shira fe
 
 #### What functionality data do we collect? {/* #what-functionality-data-do-we-collect */}
 This is the functionality data we collect about Admins:
-- Information about the quizzes created and managed by Admins, including the quiz name and status (published, unpublished, public, private, etc), the list of quiz questions, and the explanations created in each question.
+- Information about the quizzes created and managed by Admins, including the quiz name, status (published or unpublished), visibility (, public or private), and the list of quiz questions (including question name, preferences, content, and explanations).
 - When Admins connect and use Shira, including the day and time of each connection.
 
 This is the functionality data we collect about Registered Learners:
@@ -110,8 +110,8 @@ Telemetry data is used to improve Shira's performance, features, and user experi
 #### What telemetry do we collect? {/* #what-telemetry-do-we-collect */}
 We collect the following telemetry data:
 - The number of visits to https://quiz.shira.app
-- The number of quizzes started at https://shira.app, including both ready-made quizzes and custom quizzes created by Space admins
-- The number of quizzes completed at https://shira.app, including both ready-made quizzes and custom quizzes created by Space admins
+- The number of quizzes started at https://quiz.shira.app, including both ready-made quizzes and custom quizzes created by Space admins
+- The number of quizzes completed at https://quiz.shira.app, including both ready-made quizzes and custom quizzes created by Space admins
 
 #### How is telemetry collected? {/* #how-is-telemetry-collected */}
 Telemetry is collected automatically through [Divvi Up](https://divviup.org/), a privacy-respecting telemetry service. Thanks to Divvi Up, all telemetry is anonymized to ensure that it reveals no sensitive information or personally identifiable information about users.
@@ -132,13 +132,23 @@ We implement industry standard practices to protect your data from unauthorized 
 - Encryption in-transit between your browser and our servers, using the SSL/TLS protocol
 - JSON Web Tokens, which are an open, industry standard RFC 7519 method for representing claims securely between two parties
 
-## 4. Your California Privacy Rights {/* #california */}
+## 4. Payment processing {/* #payment */}
+
+When you make a purchase through Shira, we use Stripe to process your payment.
+
+When making a payment through Shira:
+- We share with Stripe only the information required to complete the transaction, such as a Shira space identifier, your name, billing address, and email address. This information is processed and stored by Stripe, not by Shira.
+- Stripe generates payment-related data (such as invoices and receipts) and may store transaction records. Those records are processed and stored by Stripe, not by Shira.
+
+Stripe processes this data in accordance with its Privacy Policy: https://stripe.com/privacy.
+
+## 5. Your California Privacy Rights {/* #california */}
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Changes to Our Privacy Policy {/* #changes */}
+## 6. Changes to Our Privacy Policy {/* #changes */}
 We may update our privacy policy from time to time.
 
 The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting this privacy policy to check for any changes.
 
-## 6. Contact Information {/* #contact */}
+## 7. Contact Information {/* #contact */}
 To ask questions or comment about this privacy policy and our privacy practices, contact us at [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
