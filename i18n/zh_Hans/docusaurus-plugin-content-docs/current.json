@@ -1,0 +1,22 @@
+{
+    "version.label": {
+        "message": "下一节",
+        "description": "The label for version current"
+    },
+    "sidebar.HelpSidebar.category.Shira Help Center": {
+        "message": "Shira 帮助中心",
+        "description": "The label for category 'Shira Help Center' in sidebar 'HelpSidebar'"
+    },
+    "sidebar.HelpSidebar.category.Spaces": {
+        "message": "空间",
+        "description": "The label for category 'Spaces' in sidebar 'HelpSidebar'"
+    },
+    "sidebar.HelpSidebar.category.Technical Stuff": {
+        "message": "技术内容",
+        "description": "The label for category 'Technical Stuff' in sidebar 'HelpSidebar'"
+    },
+    "sidebar.HelpSidebar.link.Contact & Support": {
+        "message": "联系和支持",
+        "description": "The label for link 'Contact & Support' in sidebar 'HelpSidebar', linking to '/contact'"
+    }
+}

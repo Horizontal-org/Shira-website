@@ -1,0 +1,65 @@
+---
+id: welcome
+slug: /help
+description: Введение в Shira, инструмент для обучения по борьбе с фишингом, который помогает командам и организациям научиться распознавать фишинговые атаки в электронной почте, SMS и мессенджерах.
+sidebar_label: Welcome
+sidebar_position: 1 
+pagination_prev: null
+pagination_next: 'ready-made'
+---
+import React from 'react'; import { useDocsSidebar } from
+'@docusaurus/theme-common/internal';
+
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
+DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
+global from '/src/css/custom.module.scss'; import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
+'@site/src/components/QuizLink';
+
+# Добро пожаловать в справочный центр Shira!
+
+Shira — инструмент для обучения противодействию фишингу. С помощью Shira можно
+научить любого человека распознавать фишинговые атаки, осуществляемые через
+email, СМС и мессенджеры.
+
+Shira предлагает симуляции фишинговых атак в контролируемой учебной среде ,
+максимально приближённые к тем, с которыми ваша команда столкнётся в реальной
+жизни. Shira основана на [исследованиях, которые показали](/phishing-quizzes),
+что для развития навыков защиты от фишинга обучение гораздо эффективнее рассылки
+симулированных фишинговых писем на почтовые ящики учащихся.
+
+Наш Справочный центр предлагает рекомендации по использованию Shira для обучения
+вашей команды или сообщества. Не нашли ответ на свой вопрос? [Свяжитесь с
+нами!](/contact)
+
+### Готовые тесты {#ready-made-quizzes}
+Каждый из наших [готовых тестов](/ready-made) — это 10 примеров, максимально
+похожих на фишинговые письма из реальной жизни. Наши тесты бесплатны и доступны
+всем.
+
+Хотите подробнее узнать [о готовых тестах](/ready-made)? Или
+<QuizLink>попробовать создать свой тест?</QuizLink>
+
+
+### Пространство Shira {#shira-space}
+[Пространство Shira](/spaces) предназначено для команд и организаций и
+предлагает расширенные функции, например:
+- создание собственных вопросов теста, адаптированных для вашей команды;
+- выбор между открытым (доступен любому пользователю по ссылке) или закрытым
+  (только для вашей команды) режимами (закрытые тесты станут доступны в
+  ближайшее время);
+- отслеживание результатов пользователей, чтобы понять, как они могут улучшить
+  свои навыки.
+
+Готовы попробовать? Можете <SignupLink>создать своё пространство
+здесь</SignupLink> или узнать больше о пространствах:
+
+<FeaturedDocs />
+
+export function FeaturedDocs() { const category = useCurrentSidebarCategory();
+const spacesItems = category.items.find( (item) => item.type === 'category' &&
+item.items?.some( (child) => child.docId?.startsWith('spaces/') ) ).items;
+
+return ( <div className={classNames(global.shiraDocCards)}>
+{spacesItems.map((item, idx) => ( <DocCard key={idx} item={item} /> ))} </div>
+); }

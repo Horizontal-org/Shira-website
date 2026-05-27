@@ -1,0 +1,1123 @@
+{
+    "about.meta.title": {
+        "message": "关于 Shira"
+    },
+    "about.meta.description": {
+        "message": "了解 Shira 及其背后的团队：该项目由 Horizontal 开发。Horizontal 是一家非营利组织，致力于开发安全与隐私工具，帮助个人和组织抵御钓鱼攻击。"
+    },
+    "about.meta.longDescription": {
+        "message": "了解 Shira 及其背后的团队：该项目由Horizontal 开发。Horizontal 是一家非营利组织，致力于开发安全与隐私工具，帮助个人和组织抵御钓鱼攻击。"
+    },
+    "about.hero.title": {
+        "message": "Shira"
+    },
+    "about.hero.subtitle": {
+        "message": "帮助个人和组织培养抵御钓鱼攻击的能力"
+    },
+    "about.hero.cta": {
+        "message": "联系我们"
+    },
+    "about.hero.imageAlt": {
+        "message": "Shira 标志：由蓝色和浅绿色组成的字母 S"
+    },
+    "about.horizontal.imageAlt": {
+        "message": "Horizontal 标志"
+    },
+    "about.horizontal.title": {
+        "message": "Shira 由谁开发？"
+    },
+    "about.horizontal.description": {
+        "message": "Shira 是由 Horizontal 开发的项目。Horizontal 是一家科技非营利组织，致力于开发安全与隐私技术，帮助人们更安全地使用网络。"
+    },
+    "about.horizontal.donationText": {
+        "message": "帮助我们改善和维护 Shira："
+    },
+    "about.horizontal.donationLink": {
+        "message": "请在这里捐赠"
+    },
+    "about.horizontal.translationText": {
+        "message": "想要参与 Shira 新语种翻译，请发送邮件至"
+    },
+    "about.horizontal.cta": {
+        "message": "了解 Horizontal"
+    },
+    "about.why.imageAlt": {
+        "message": "鱼钩装饰图片"
+    },
+    "about.why.title": {
+        "message": "为什么选择 Shira？"
+    },
+    "about.why.easy.title": {
+        "message": "1. 简单易用"
+    },
+    "about.why.easy.description": {
+        "message": "Shira 在设计时重点考虑了最容易遭受钓鱼攻击的人群，尤其是技术素养有限的用户。"
+    },
+    "about.why.customizable.title": {
+        "message": "2. 可定制"
+    },
+    "about.why.customizable.description": {
+        "message": "Shira 展示最接近真实场景的邮件和消息， 模拟日常网络使用时用户实际遇到的情况以及可能面临的钓鱼攻击。"
+    },
+    "about.why.privacy.title": {
+        "message": "3. 保护隐私"
+    },
+    "about.why.privacy.description": {
+        "message": "对于访问 Shira 或参加测验的用户，我们不会收集、保存或分享任何相关敏感信息或个人可识别数据。了解更多信息，请查看我们的隐私政策以及由独立安全公司执行的安全审计。"
+    },
+    "about.why.auditCta": {
+        "message": "安全审计"
+    },
+    "about.why.privacyCta": {
+        "message": "隐私政策"
+    },
+    "about.how.title": {
+        "message": "Shira 是如何开发的？"
+    },
+    "about.how.opensource": {
+        "message": "Shira 是开源项目，采用 MIT 2.0 许可协议。"
+    },
+    "about.how.design": {
+        "message": "在 Horizontal，我们以用户需求为中心，为面临数字攻击的高风险用户设计和开发。"
+    },
+    "about.how.community": {
+        "message": "Shira 支持多种语言，并与高风险用户共同创建。"
+    },
+    "about.how.communityLink": {
+        "message": "与高风险用户共同创建"
+    },
+    "about.how.green": {
+        "message": "本网站使用绿色能源运行。"
+    },
+    "about.how.greenAlt": {
+        "message": "本网站使用绿色主机服务，已通过 thegreenwebfoundation.org 认证"
+    },
+    "contact.title": {
+        "message": "联系 Shira 团队"
+    },
+    "contact.description": {
+        "message": "了解如何联系 Shira 团队"
+    },
+    "contact.metaDescription": {
+        "message": "了解如何联系 Shira 团队"
+    },
+    "contact.heading": {
+        "message": "来一起聊聊！"
+    },
+    "contact.intro.part1": {
+        "message": "是否有关于 Shira 的问题在"
+    },
+    "contact.intro.helpCenter": {
+        "message": "帮助中心"
+    },
+    "contact.intro.part2": {
+        "message": "中找不到答案？想要探讨可能的合作机会吗？是否是非营利组织或基层团体，并且无法承担 Shira 的全部费用？"
+    },
+    "contact.getInTouch": {
+        "message": "联系我们："
+    },
+    "contact.links.emailText": {
+        "message": "发送邮件至"
+    },
+    "contact.links.github": {
+        "message": "提交功能建议或对现有请求投票"
+    },
+    "contact.links.demo": {
+        "message": "直接在此预约网络演示"
+    },
+    "contact.links.newsletter": {
+        "message": "订阅我们的新闻通讯"
+    },
+    "features.meta.title": {
+        "message": "Shira 功能"
+    },
+    "features.meta.description": {
+        "message": "探索 Shira 为教育工作者和安全专业人士提供的功能。"
+    },
+    "features.meta.longDescription": {
+        "message": "探索 Shira 为教育工作者和安全专业人士提供的功能：创建逼真的钓鱼测验，模拟真实攻击，追踪团队进展，以及建立持久的钓鱼防范意识。"
+    },
+    "features.intro.audience": {
+        "message": "面向教育工作者和安全专业人士"
+    },
+    "features.intro.title": {
+        "message": "针对{your3}面临的威胁，为{your2}团队定制{your1}专属的网络钓鱼测验"
+    },
+    "features.intro.your1": {
+        "message": "您"
+    },
+    "features.intro.your2": {
+        "message": "您的"
+    },
+    "features.intro.your3": {
+        "message": "您"
+    },
+    "features.intro.pricing": {
+        "message": "定价"
+    },
+    "features.intro.getStarted": {
+        "message": "开始使用"
+    },
+    "features.images.fishAlt": {
+        "message": "鱼的插图，表示钓鱼攻击"
+    },
+    "features.images.bubblesAlt": {
+        "message": "气泡和鱼的插图"
+    },
+    "features.allFeatures.title": {
+        "message": "保护团队安全所需的一切功能"
+    },
+    "features.allFeatures.description": {
+        "message": "没有人比您更了解团队的需求。Shira 让您完全掌控，针对组织的特定需求、潜在的攻击风险以及同事的技能水平，创建量身定制的学习体验。"
+    },
+    "features.list.ui.title": {
+        "message": "用户友好的界面 🎨"
+    },
+    "features.list.ui.description": {
+        "message": "直观的仪表板，轻松浏览并管理测验和用户。"
+    },
+    "features.list.roles.title": {
+        "message": "基于角色的访问控制 🔒"
+    },
+    "features.list.roles.description": {
+        "message": "管理员和学员具有不同的访问权限级别。"
+    },
+    "features.list.realLife.title": {
+        "message": "真实攻击模拟 ⚡"
+    },
+    "features.list.realLife.description": {
+        "message": "测验提供公司遭受的真实钓鱼攻击细节，帮助团队做好最充足的准备。"
+    },
+    "features.list.email.title": {
+        "message": "邮件钓鱼模拟 📧"
+    },
+    "features.list.email.description": {
+        "message": "创建模拟 Gmail 和 Outlook 钓鱼邮件的测验，包括发件人信息、主题行、邮件正文、链接、图片和文件附件。"
+    },
+    "features.list.sms.title": {
+        "message": "短信钓鱼模拟 💬"
+    },
+    "features.list.sms.description": {
+        "message": "创建模拟短信钓鱼攻击的测验，提供逼真的短信内容。"
+    },
+    "features.list.messaging.title": {
+        "message": "即时通讯应用钓鱼模拟 💬"
+    },
+    "features.list.messaging.description": {
+        "message": "创建测验，模拟 WhatsApp 或 Facebook Messenger 等流行即时通讯应用中出现的钓鱼攻击。"
+    },
+    "features.list.mobile.title": {
+        "message": "移动端支持 📱"
+    },
+    "features.list.mobile.description": {
+        "message": "我们经常在移动设备上面临钓鱼攻击。在 Shira 中，用户可通过移动设备参加测验，为真实生活中的攻击做好准备。"
+    },
+    "features.list.compliance.title": {
+        "message": "合规 ✅"
+    },
+    "features.list.compliance.description": {
+        "message": "确保团队真正完成测验，并监控成功率。"
+    },
+    "features.list.analytics.title": {
+        "message": "分析 📈"
+    },
+    "features.list.analytics.description": {
+        "message": "追踪用户进展并识别需要改进的领域，包括用户在哪些类型的应用中最容易受到攻击，或者哪些特定用户需要额外支持。"
+    },
+    "features.list.explanations.title": {
+        "message": "解析 📝"
+    },
+    "features.list.explanations.description": {
+        "message": "嵌入您自己的解析，引导用户关注特定元素，识别邮件或消息中的钓鱼特征。"
+    },
+    "features.list.gamification.title": {
+        "message": "游戏化 🕹️"
+    },
+    "features.list.gamification.description": {
+        "message": "引人入胜的学习体验，提升知识记忆效果。"
+    },
+    "features.list.multilingual.title": {
+        "message": "多语言 🌐"
+    },
+    "features.list.multilingual.description": {
+        "message": "Shira 完整支持英语、西班牙语、法语、中文、阿拉伯语和俄语。"
+    },
+    "features.list.library.title": {
+        "message": "题库 📚"
+    },
+    "features.list.library.description": {
+        "message": "从无到有创建测验题目，也可通过 Shira 题库，使用数字安全培训师创建的题目模板。"
+    },
+    "features.needMore.title": {
+        "message": "缺失某个功能？"
+    },
+    "features.needMore.subtitle": {
+        "message": "请和我们联系。我们将会满足您的需求。"
+    },
+    "features.needMore.cta": {
+        "message": "联系我们"
+    },
+    "homepage.meta.title": {
+        "message": "Shira"
+    },
+    "homepage.meta.description": {
+        "message": "使用 Shira 提升团队识别和抵御钓鱼攻击的能力。"
+    },
+    "homepage.meta.longDescription": {
+        "message": "通过保护隐私的互动测验，Shira 帮助个人和组织学习识别和抵御钓鱼攻击，测验支持多种场景和语言，并可根据 Gmail、短信和 WhatsApp 等真实应用量身定制。"
+    },
+    "homepage.hero.title": {
+        "message": "准备，知识，韧性"
+    },
+    "homepage.hero.subtitle": {
+        "message": "Shira 可增强团队能力，识别和抵御钓鱼攻击"
+    },
+    "homepage.learners.title": {
+        "message": "面向学员"
+    },
+    "homepage.learners.description": {
+        "message": "免费的现成测验，即刻开始学习。自定义测验，学习日常应用中钓鱼攻击，包括 Gmail、短信、WhatsApp 等。同时，根据您的语言和行业，可对内容进行量身定制。"
+    },
+    "homepage.learners.cta": {
+        "message": "参加测验"
+    },
+    "homepage.educators.title": {
+        "message": "面向教育工作者和安全专业人士"
+    },
+    "homepage.educators.description": {
+        "message": "组织的需求和风险各有不同。量身定制的钓鱼测验，可满足组织需求并监控团队的成功率，并且无需任何编程。"
+    },
+    "homepage.educators.cta": {
+        "message": "创建您自己的测验"
+    },
+    "homepage.context.description": {
+        "message": "多年来，钓鱼一直是个人和组织面临的最常见攻击之一。钓鱼攻击最初仅限于电子邮件，但现在也出现在短信、即时通讯应用和社交媒体中。培养用户技能，识别和抵御钓鱼攻击，当前比以往任何时候都更加重要。"
+    },
+    "homepage.context.imageAlt": {
+        "message": "放大镜装饰图"
+    },
+    "homepage.why.title": {
+        "message": "为什么选择 Shira？"
+    },
+    "homepage.why.intro": {
+        "message": "无论免费的现成测验，还是根据团队所需的定制测验，Shira 都具备以下特点："
+    },
+    "homepage.why.easy.title": {
+        "message": "简单易用"
+    },
+    "homepage.why.easy.description": {
+        "message": "针对最高钓鱼攻击风险而设计，即使技术能力有限也可轻松使用。"
+    },
+    "homepage.why.customizable.title": {
+        "message": "可定制"
+    },
+    "homepage.why.customizable.description": {
+        "message": "逼真的钓鱼消息，模拟用户日常面临的真实场景。"
+    },
+    "homepage.why.privacy.title": {
+        "message": "保护隐私"
+    },
+    "homepage.why.privacy.description": {
+        "message": "我们不会收集或分享用户的任何敏感信息或个人可识别的数据。"
+    },
+    "phishingQuizzes.meta.title": {
+        "message": "了解钓鱼测验"
+    },
+    "phishingQuizzes.meta.description": {
+        "message": "了解钓鱼测验"
+    },
+    "phishingQuizzes.meta.longDescription": {
+        "message": "学习为什么钓鱼测验比模拟更有效。"
+    },
+    "phishingQuizzes.education.title": {
+        "message": "为什么教育优于模拟"
+    },
+    "phishingQuizzes.education.paragraph1": {
+        "message": "钓鱼模拟已成为防钓鱼培训项目的标准组成部分。这些模拟向员工发送电子邮件，模仿网络犯罪分子使用的策略，诱骗个人泄露敏感信息或点击恶意链接。根据员工对这些模拟邮件的反应，对其进行评估，尤其是，他们是否点击链接或提供任何敏感信息。"
+    },
+    "phishingQuizzes.education.paragraph2": {
+        "message": "但是这种方法存在一些缺点，并且效果不如全面的防钓鱼培训。"
+    },
+    "phishingQuizzes.education.wsjAltDesktop": {
+        "message": "《华尔街日报》新闻文章：职场之痛，钓鱼测试正变得愈发刻薄。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
+    },
+    "phishingQuizzes.education.wsjAltMobile": {
+        "message": "《华尔街日报》新闻文章：职场之痛，钓鱼测试正变得愈发刻薄。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
+    },
+    "phishingQuizzes.problem.title": {
+        "message": "钓鱼模拟的问题"
+    },
+    "phishingQuizzes.problem.intro": {
+        "message": "虽然钓鱼模拟广泛使用，但组织应考虑若干问题："
+    },
+    "phishingQuizzes.problem.anxiety.title": {
+        "message": "制造焦虑和不信任："
+    },
+    "phishingQuizzes.problem.anxiety.text": {
+        "message": "用户可能对邮件产生焦虑或不信任感，即使正规邮件也是如此，这可能导致生产力下降和压力增加。"
+    },
+    "phishingQuizzes.problem.emailFocus.title": {
+        "message": "过度关注电子邮件："
+    },
+    "phishingQuizzes.problem.emailFocus.text": {
+        "message": "许多钓鱼模拟主要针对电子邮件威胁，忽略了短信、即时通讯应用或社交媒体等其他渠道。"
+    },
+    "phishingQuizzes.problem.falseSecurity.title": {
+        "message": "虚假安全感："
+    },
+    "phishingQuizzes.problem.falseSecurity.text": {
+        "message": "成功识别钓鱼模拟攻击，员工可能产生虚假的安全感。"
+    },
+    "phishingQuizzes.problem.clickRates.title": {
+        "message": "过度强调点击率："
+    },
+    "phishingQuizzes.problem.clickRates.text": {
+        "message": "只关注员工是否点击链接，忽视钓鱼防范意识的其他重要方面。"
+    },
+    "phishingQuizzes.problem.desensitize.title": {
+        "message": "用户变得麻木："
+    },
+    "phishingQuizzes.problem.desensitize.text": {
+        "message": "反复发送虚假钓鱼邮件可能使用户对威胁变得麻木。"
+    },
+    "phishingQuizzes.problem.punishment.title": {
+        "message": "侧重惩罚而非预防："
+    },
+    "phishingQuizzes.problem.punishment.text": {
+        "message": "模拟钓鱼邮件可能制造恐惧文化，用户更关注避免惩罚而非学习。"
+    },
+    "phishingQuizzes.research.text": {
+        "message": "研究发现，钓鱼模拟活动并不能有效训练人们对钓鱼攻击的识别能力。"
+    },
+    "phishingQuizzes.research.link": {
+        "message": "一项涉及 14,000 名参与者的研究"
+    },
+    "phishingQuizzes.research.conclusion": {
+        "message": "实际上揭示了钓鱼模拟的负面效果。"
+    },
+    "phishingQuizzes.quizzes.title": {
+        "message": "更有效的方法：钓鱼测验"
+    },
+    "phishingQuizzes.quizzes.description": {
+        "message": "钓鱼测验提供可控的学习环境，比传统钓鱼模拟更有利于技能培养。"
+    },
+    "phishingQuizzes.quizzes.benefitsIntro": {
+        "message": "优势包括："
+    },
+    "phishingQuizzes.benefits.controlled.title": {
+        "message": "可控的学习环境："
+    },
+    "phishingQuizzes.benefits.controlled.text": {
+        "message": "钓鱼测验为员工提供低风险的安全空间来练习技能。"
+    },
+    "phishingQuizzes.benefits.interactive.title": {
+        "message": "互动参与："
+    },
+    "phishingQuizzes.benefits.interactive.text": {
+        "message": "这些测验鼓励积极参与并提供即时反馈。"
+    },
+    "phishingQuizzes.benefits.coverage.title": {
+        "message": "覆盖各种钓鱼策略："
+    },
+    "phishingQuizzes.benefits.coverage.text": {
+        "message": "钓鱼测验可涵盖短信、社交媒体和语音等场景。"
+    },
+    "phishingQuizzes.benefits.confidence.title": {
+        "message": "信心构建："
+    },
+    "phishingQuizzes.benefits.confidence.text": {
+        "message": "员工在支持性的环境中从错误中学习。"
+    },
+    "phishingQuizzes.benefits.tailored.title": {
+        "message": "量身定制的学习目标："
+    },
+    "phishingQuizzes.benefits.tailored.text": {
+        "message": "自定义测验，专注特定技能和知识盲区。"
+    },
+    "phishingQuizzes.cta": {
+        "message": "开始使用"
+    },
+    "phishing.layout.title": {
+        "message": "了解钓鱼"
+    },
+    "phishing.layout.description": {
+        "message": "了解钓鱼的含义、运作方式以及为何有效。探索最常见的钓鱼攻击、攻击者的目标，以及对个人和组织造成的严重后果。"
+    },
+    "phishing.meta.description": {
+        "message": "了解钓鱼的含义、运作方式以及为何有效。探索最常见的钓鱼攻击、攻击者的目标，以及对个人和组织造成的严重后果。"
+    },
+    "phishing.intro.title": {
+        "message": "什么是钓鱼？"
+    },
+    "phishing.intro.definition": {
+        "message": "钓鱼是一种获取敏感信息的恶意行为。在电子通信中伪装成可信实体，攻击者可获取用户名、密码和信用卡详情等数据。钓鱼攻击也可诱使用户下载和安装恶意软件。"
+    },
+    "phishing.intro.protection": {
+        "message": "理解钓鱼是保护自己和组织的第一步。"
+    },
+    "phishing.images.fish.alt": {
+        "message": "鱼的装饰插图"
+    },
+    "phishing.common.title": {
+        "message": "最常见攻击"
+    },
+    "phishing.common.rank": {
+        "message": "钓鱼一直被列为个人和组织所遭受的最常见攻击。"
+    },
+    "phishing.common.channels": {
+        "message": "传统上，钓鱼与电子邮件诈骗关联在一起，但如今涉及多种媒介：电子邮件、短信、即时通讯应用、社交媒体平台和电话。"
+    },
+    "phishing.images.bubbles.alt": {
+        "message": "气泡装饰插图"
+    },
+    "phishing.attackers.title": {
+        "message": "攻击者试图获取什么？"
+    },
+    "phishing.attackers.passwords.label": {
+        "message": "密码："
+    },
+    "phishing.attackers.passwords.text": {
+        "message": "攻击者试图窃取密码和登录凭据，以访问受害者的在线账号。利用这些信息，他们可以实施欺诈、窃取数据，或通过威胁暴露敏感信息来勒索受害者。"
+    },
+    "phishing.attackers.money.label": {
+        "message": "金钱："
+    },
+    "phishing.attackers.money.text": {
+        "message": "经济利益是钓鱼的关键动机。攻击者冒充正规组织，通常借助捐款请求或虚假发票，诱骗受害者付款或提供信用卡详细信息。"
+    },
+    "phishing.attackers.confidential.label": {
+        "message": "机密信息："
+    },
+    "phishing.attackers.confidential.text": {
+        "message": "钓鱼的目标是社会保障号码和商业数据等机密信息。这些信息可用于身份窃取、在暗网上出售，或用于企业间谍活动。"
+    },
+    "phishing.attackers.malware.label": {
+        "message": "诱使受害者安装恶意软件："
+    },
+    "phishing.attackers.malware.text": {
+        "message": "通过恶意链接或附件，钓鱼者诱骗受害者下载恶意软件。一旦安装，恶意软件可窃取个人信息、监控活动或控制设备，这将导致严重的数据泄露。"
+    },
+    "phishing.why.title": {
+        "message": "钓鱼为何如此有效？"
+    },
+    "phishing.why.intro": {
+        "message": "钓鱼者利用以下心理："
+    },
+    "phishing.why.polite.label": {
+        "message": "礼貌冲动："
+    },
+    "phishing.why.polite.text": {
+        "message": "当消息来自权威人士或可信来源时，人们常常感到必须回复。利用这一心理，钓鱼者使用礼貌的语言，可使收件人更可能满足提供敏感信息的请求，同时不去质疑消息是否可信。"
+    },
+    "phishing.why.helpful.label": {
+        "message": "助人冲动："
+    },
+    "phishing.why.helpful.text": {
+        "message": "许多人天生以助人为乐。钓鱼者虚构某些场景，比如声称同事或亲戚遇到麻烦，诱使收件人提供帮助。这种操纵手段可导致人们在自以为提供协助的情况下，泄露个人信息。"
+    },
+    "phishing.why.embarrassed.label": {
+        "message": "避免尴尬："
+    },
+    "phishing.why.embarrassed.text": {
+        "message": "钓鱼者通过暗示收件人犯了错误，例如漏付款项，以此制造恐慌，促使个人采取快速行动，往往没有验证消息来源，导致安全受损。"
+    },
+    "phishing.why.urgent.label": {
+        "message": "紧急消息引发恐慌："
+    },
+    "phishing.why.urgent.text": {
+        "message": "紧迫感是一种强大的驱动力。钓鱼者捏造虚假消息，声称账户将被暂停或付款已逾期，以此制造紧迫感。恐慌蒙蔽判断力，使人仓促行动而无视警告信号。"
+    },
+    "phishing.consequences.title": {
+        "message": "钓鱼攻击可导致严重后果"
+    },
+    "phishing.consequences.identity.label": {
+        "message": "身份窃取："
+    },
+    "phishing.consequences.identity.text": {
+        "message": "网络犯罪分子利用个人信息假冒他人。"
+    },
+    "phishing.consequences.financial.label": {
+        "message": "经济损失："
+    },
+    "phishing.consequences.financial.text": {
+        "message": "未经授权的交易可导致钱被转走，账户清空。"
+    },
+    "phishing.consequences.data.label": {
+        "message": "数据泄露："
+    },
+    "phishing.consequences.data.text": {
+        "message": "泄露公司敏感信息，导致声誉受损。"
+    },
+    "phishing.consequences.operational.label": {
+        "message": "运营中断："
+    },
+    "phishing.consequences.operational.text": {
+        "message": "钓鱼可导致停机和工作效率下降。"
+    },
+    "phishing.images.worm.alt": {
+        "message": "虫子装饰插图"
+    },
+    "phishing.how.title": {
+        "message": "钓鱼如何运作"
+    },
+    "phishing.how.intro": {
+        "message": "钓鱼攻击通常涉及以下步骤："
+    },
+    "phishing.how.deceptive.label": {
+        "message": "欺骗性通信："
+    },
+    "phishing.how.deceptive.text": {
+        "message": "攻击者发送的消息看似来自正规的来源，如银行、在线服务或同事。"
+    },
+    "phishing.how.urgent.label": {
+        "message": "非常紧急需要行动："
+    },
+    "phishing.how.urgent.text": {
+        "message": "消息常常含有一种紧迫感，促使收件人快速行动，例如点击链接或提供个人信息。"
+    },
+    "phishing.how.fake.label": {
+        "message": "虚假网站："
+    },
+    "phishing.how.fake.text": {
+        "message": "受害者点击链接之后，将打开看似正规的欺诈网站。在这里，他们可能被要求输入密码或银行信息等敏感信息。"
+    },
+    "phishing.how.data.label": {
+        "message": "数据窃取："
+    },
+    "phishing.how.data.text": {
+        "message": "一旦受害者提供他们的信息，攻击者即可以此进行身份窃取、金融欺诈或其他恶意行为。"
+    },
+    "pricing.layout.title": {
+        "message": "Shira 定价"
+    },
+    "pricing.layout.description": {
+        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人士和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
+    },
+    "pricing.meta.description": {
+        "message": "了解 Shira 简单透明的定价方案，便于教育工作者、安全专业人士和组织进行选择。三种方案可选：免费、专业和企业，包含可定制钓鱼测验和隐私友好的管理工具。"
+    },
+    "pricing.intro.subtitle": {
+        "message": "可定制方案，面向教育工作者和安全专业人士"
+    },
+    "pricing.intro.title": {
+        "message": "定价简单、透明、公平"
+    },
+    "pricing.starter.title": {
+        "message": "入门版"
+    },
+    "pricing.starter.description": {
+        "message": "试用和了解 Shira"
+    },
+    "pricing.starter.price": {
+        "message": "0 美元"
+    },
+    "pricing.starter.note": {
+        "message": "免费，无附加条款"
+    },
+    "pricing.cta.getStarted": {
+        "message": "开始使用"
+    },
+    "pricing.starter.includes": {
+        "message": "入门版包含："
+    },
+    "pricing.admin.title": {
+        "message": "管理员功能"
+    },
+    "pricing.admin.cloud": {
+        "message": "✔️ 云端服务"
+    },
+    "pricing.admin.dashboard": {
+        "message": "✔️ 管理员仪表板"
+    },
+    "pricing.admin.oneAdmin": {
+        "message": "✔️ 1 位管理员"
+    },
+    "pricing.customization.title": {
+        "message": "可定制"
+    },
+    "pricing.customization.questions": {
+        "message": "✔️ 测验题目全面可定制"
+    },
+    "pricing.customization.library": {
+        "message": "✔️ 访问题库"
+    },
+    "pricing.customization.quizzes": {
+        "message": "✔️ 最多 3 个定制测验"
+    },
+    "pricing.customization.questionsPerQuiz": {
+        "message": "✔️ 测验题目不限量"
+    },
+    "pricing.customization.limit": {
+        "message": ""
+    },
+    "pricing.customization.apps": {
+        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、交友应用"
+    },
+    "pricing.access.title": {
+        "message": "访问控制"
+    },
+    "pricing.access.public": {
+        "message": "✔️ 公开测验：轻松分享测验 URL，任何人都可参加"
+    },
+    "pricing.pro.title": {
+        "message": "专业版"
+    },
+    "pricing.pro.description": {
+        "message": "Shira 完整功能"
+    },
+    "pricing.pro.price": {
+        "message": "39 美元/月 + 每完成一次测验 1 美元"
+    },
+    "pricing.pro.billing": {
+        "message": " （按年计费），或 49 美元/月 + 每完成一次测验 1 美元（按月计费）"
+    },
+    "pricing.pro.includes": {
+        "message": "专业版包含："
+    },
+    "pricing.admin.unlimitedSoon": {
+        "message": "✔️ 管理员不限量 [即将推出]"
+    },
+    "pricing.pro.unlimitedQuizzes": {
+        "message": "✔️ 不限量定制测验"
+    },
+    "pricing.pro.unlimitedQuestions": {
+        "message": "✔️ 不限量测验题目"
+    },
+    "pricing.pro.limit": {
+        "message": ""
+    },
+    "pricing.pro.apps": {
+        "message": "✔️ 6 种应用：Gmail、Outlook、短信、WhatsApp、Messenger、交友应用"
+    },
+    "pricing.access.private": {
+        "message": "✔️ 私有测验：只有您的用户才能参加测验"
+    },
+    "pricing.compliance.title": {
+        "message": "合规管理"
+    },
+    "pricing.compliance.track": {
+        "message": "✔️ 基础分析，追踪测验层面的结果"
+    },
+    "pricing.compliance.tools": {
+        "message": "✔️ 分析和合规工具 [即将推出]"
+    },
+    "pricing.pro.note": {
+        "message": ""
+    },
+    "pricing.enterprise.title": {
+        "message": "企业版"
+    },
+    "pricing.enterprise.description": {
+        "message": "最适合大型组织和服务提供商"
+    },
+    "pricing.enterprise.price": {
+        "message": "定制定价"
+    },
+    "pricing.enterprise.note": {
+        "message": "价格量身定做，满足您的需求"
+    },
+    "pricing.enterprise.includes": {
+        "message": "企业版包含："
+    },
+    "pricing.enterprise.deployment": {
+        "message": "✔️ 云端或本地部署"
+    },
+    "pricing.admin.unlimited": {
+        "message": "✔️ 管理员不限量"
+    },
+    "pricing.enterprise.unlimitedQuizzes": {
+        "message": "✔️ 不限量定制测验"
+    },
+    "pricing.enterprise.unlimitedQuestions": {
+        "message": "✔️ 不限量测验题目"
+    },
+    "pricing.enterprise.customLimit": {
+        "message": "✔️ 自定义完成测验的数量"
+    },
+    "pricing.enterprise.support": {
+        "message": "定制支持"
+    },
+    "pricing.enterprise.training": {
+        "message": "✔️ 量身定制的用户培训"
+    },
+    "pricing.enterprise.priority": {
+        "message": "✔️优先支持"
+    },
+    "theme.ErrorPageContent.title": {
+        "message": "页面崩溃。",
+        "description": "The title of the fallback page when the page crashed"
+    },
+    "theme.BackToTopButton.buttonAriaLabel": {
+        "message": "滚动回到顶部",
+        "description": "The ARIA label for the back to top button"
+    },
+    "theme.blog.archive.title": {
+        "message": "归档",
+        "description": "The page & hero title of the blog archive page"
+    },
+    "theme.blog.archive.description": {
+        "message": "归档",
+        "description": "The page & hero description of the blog archive page"
+    },
+    "theme.blog.paginator.navAriaLabel": {
+        "message": "博客列表页导航",
+        "description": "The ARIA label for the blog pagination"
+    },
+    "theme.blog.paginator.newerEntries": {
+        "message": "较新的文章",
+        "description": "The label used to navigate to the newer blog posts page (previous page)"
+    },
+    "theme.blog.paginator.olderEntries": {
+        "message": "较久的文章",
+        "description": "The label used to navigate to the older blog posts page (next page)"
+    },
+    "theme.blog.post.paginator.navAriaLabel": {
+        "message": "博客文章页面导航",
+        "description": "The ARIA label for the blog posts pagination"
+    },
+    "theme.blog.post.paginator.newerPost": {
+        "message": "较新的文章",
+        "description": "The blog post button label to navigate to the newer/previous post"
+    },
+    "theme.blog.post.paginator.olderPost": {
+        "message": "较旧的文章",
+        "description": "The blog post button label to navigate to the older/next post"
+    },
+    "theme.tags.tagsPageLink": {
+        "message": "查看所有标签",
+        "description": "The label of the link targeting the tag list page"
+    },
+    "theme.docs.breadcrumbs.navAriaLabel": {
+        "message": "面包屑导航",
+        "description": "The ARIA label for the breadcrumbs"
+    },
+    "theme.colorToggle.ariaLabel.mode.system": {
+        "message": "系统模式",
+        "description": "The name for the system color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.light": {
+        "message": "浅色模式",
+        "description": "The name for the light color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark": {
+        "message": "深色模式",
+        "description": "The name for the dark color mode"
+    },
+    "theme.colorToggle.ariaLabel": {
+        "message": "深浅色模式切换（当前为{mode}）",
+        "description": "The ARIA label for the color mode toggle"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "1 个项|{count} 个项",
+        "description": "The default description for a category card in the generated index about how many items this category includes"
+    },
+    "theme.docs.paginator.navAriaLabel": {
+        "message": "文档页面",
+        "description": "The ARIA label for the docs pagination"
+    },
+    "theme.docs.paginator.previous": {
+        "message": "上一页",
+        "description": "The label used to navigate to the previous doc"
+    },
+    "theme.docs.paginator.next": {
+        "message": "下一页",
+        "description": "The label used to navigate to the next doc"
+    },
+    "theme.docs.tagDocListPageTitle.nDocsTagged": {
+        "message": "1 篇文档已标记|{count} 篇文档已标记",
+        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.tagDocListPageTitle": {
+        "message": "{nDocsTagged} 标记为\"{tagName}\"",
+        "description": "The title of the page for a docs tag"
+    },
+    "theme.docs.versionBadge.label": {
+        "message": "版本：{versionLabel}"
+    },
+    "theme.docs.versions.unreleasedVersionLabel": {
+        "message": "这是 {siteTitle} {versionLabel} 版本的未发布文档。",
+        "description": "The label used to tell the user that he's browsing an unreleased doc version"
+    },
+    "theme.docs.versions.unmaintainedVersionLabel": {
+        "message": "这是 {siteTitle} {versionLabel} 的文档，已不再积极维护。",
+        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+    },
+    "theme.docs.versions.latestVersionSuggestionLabel": {
+        "message": "如需最新文档，请参阅 {latestVersionLink}（{versionLabel}）。",
+        "description": "The label used to tell the user to check the latest version"
+    },
+    "theme.docs.versions.latestVersionLinkLabel": {
+        "message": "最新版本",
+        "description": "The label used for the latest version suggestion link label"
+    },
+    "theme.common.editThisPage": {
+        "message": "编辑该页面",
+        "description": "The link label to edit the current page"
+    },
+    "theme.common.headingLinkTitle": {
+        "message": "直接链接到 {heading}",
+        "description": "Title for link to heading"
+    },
+    "theme.lastUpdated.atDate": {
+        "message": " 于 {date}",
+        "description": "The words used to describe on which date a page has been last updated"
+    },
+    "theme.lastUpdated.byUser": {
+        "message": " 由 {user}",
+        "description": "The words used to describe by who the page has been last updated"
+    },
+    "theme.lastUpdated.lastUpdatedAtBy": {
+        "message": "最后更新：{atDate}{byUser}",
+        "description": "The sentence used to display when a page has been last updated, and by who"
+    },
+    "theme.NotFound.title": {
+        "message": "页面未找到",
+        "description": "The title of the 404 page"
+    },
+    "theme.navbar.mobileVersionsDropdown.label": {
+        "message": "版本",
+        "description": "The label for the navbar versions dropdown on mobile view"
+    },
+    "theme.tags.tagsListLabel": {
+        "message": "标签：",
+        "description": "The label alongside a tag list"
+    },
+    "theme.AnnouncementBar.closeButtonAriaLabel": {
+        "message": "关闭",
+        "description": "The ARIA label for close button of announcement bar"
+    },
+    "theme.admonition.caution": {
+        "message": "注意",
+        "description": "The default label used for the Caution admonition (:::caution)"
+    },
+    "theme.admonition.danger": {
+        "message": "危险",
+        "description": "The default label used for the Danger admonition (:::danger)"
+    },
+    "theme.admonition.info": {
+        "message": "信息",
+        "description": "The default label used for the Info admonition (:::info)"
+    },
+    "theme.admonition.note": {
+        "message": "备注",
+        "description": "The default label used for the Note admonition (:::note)"
+    },
+    "theme.admonition.tip": {
+        "message": "提示",
+        "description": "The default label used for the Tip admonition (:::tip)"
+    },
+    "theme.admonition.warning": {
+        "message": "警告",
+        "description": "The default label used for the Warning admonition (:::warning)"
+    },
+    "theme.blog.sidebar.navAriaLabel": {
+        "message": "博客最新文章导航",
+        "description": "The ARIA label for recent posts in the blog sidebar"
+    },
+    "theme.DocSidebarItem.expandCategoryAriaLabel": {
+        "message": "展开侧边栏分类“{label}”",
+        "description": "The ARIA label to expand the sidebar category"
+    },
+    "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+        "message": "收起侧边栏分类“{label}”",
+        "description": "The ARIA label to collapse the sidebar category"
+    },
+    "theme.IconExternalLink.ariaLabel": {
+        "message": "（在新标签页中打开）",
+        "description": "The ARIA label for the external link icon"
+    },
+    "theme.NavBar.navAriaLabel": {
+        "message": "主导航",
+        "description": "The ARIA label for the main navigation"
+    },
+    "theme.NotFound.p1": {
+        "message": "找不到您要查找的内容。",
+        "description": "The first paragraph of the 404 page"
+    },
+    "theme.NotFound.p2": {
+        "message": "请与提供原始 URL 的网站所有者联系，通知其链接已损坏。",
+        "description": "The 2nd paragraph of the 404 page"
+    },
+    "theme.TOCCollapsible.toggleButtonLabel": {
+        "message": "本页内容",
+        "description": "The label used by the button on the collapsible TOC component"
+    },
+    "theme.navbar.mobileLanguageDropdown.label": {
+        "message": "语言",
+        "description": "The label for the mobile language switcher dropdown"
+    },
+    "theme.blog.post.readMore": {
+        "message": "阅读更多",
+        "description": "The label used in blog post item excerpts to link to full blog posts"
+    },
+    "theme.blog.post.readMoreLabel": {
+        "message": "阅读更多关于 {title} 的内容",
+        "description": "The ARIA label for the link to full blog posts from excerpts"
+    },
+    "theme.blog.post.readingTime.plurals": {
+        "message": "1 分钟阅读|{readingTime} 分钟阅读",
+        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.breadcrumbs.home": {
+        "message": "首页",
+        "description": "The ARIA label for the home page in the breadcrumbs"
+    },
+    "theme.CodeBlock.copy": {
+        "message": "复制",
+        "description": "The copy button label on code blocks"
+    },
+    "theme.CodeBlock.copied": {
+        "message": "已复制",
+        "description": "The copied button label on code blocks"
+    },
+    "theme.CodeBlock.copyButtonAriaLabel": {
+        "message": "复制代码到剪贴板",
+        "description": "The ARIA label for copy code blocks button"
+    },
+    "theme.CodeBlock.wordWrapToggle": {
+        "message": "切换自动换行",
+        "description": "The title attribute for toggle word wrapping button of code block lines"
+    },
+    "theme.docs.sidebar.collapseButtonTitle": {
+        "message": "收起侧边栏",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.collapseButtonAriaLabel": {
+        "message": "收起侧边栏",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.navAriaLabel": {
+        "message": "文档侧边栏",
+        "description": "The ARIA label for the sidebar navigation"
+    },
+    "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+        "message": "关闭导航栏",
+        "description": "The ARIA label for close button of mobile sidebar"
+    },
+    "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+        "message": "切换导航栏",
+        "description": "The ARIA label for hamburger menu button of mobile navigation"
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+        "message": "← 返回主菜单",
+        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+        "message": "展开下拉菜单",
+        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+        "message": "收起下拉菜单",
+        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+    },
+    "theme.docs.sidebar.expandButtonTitle": {
+        "message": "展开侧边栏",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.docs.sidebar.expandButtonAriaLabel": {
+        "message": "展开侧边栏",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.SearchBar.noResultsText": {
+        "message": "无结果"
+    },
+    "theme.SearchBar.seeAllOutsideContext": {
+        "message": "查看“{context}”之外的所有结果"
+    },
+    "theme.SearchBar.searchInContext": {
+        "message": "查看“{context}”之外的所有结果"
+    },
+    "theme.SearchBar.seeAll": {
+        "message": "查看所有结果"
+    },
+    "theme.SearchBar.label": {
+        "message": "搜索",
+        "description": "The ARIA label and placeholder for search button"
+    },
+    "theme.SearchPage.existingResultsTitle": {
+        "message": "“{query}”搜索结果",
+        "description": "The search page title for non-empty query"
+    },
+    "theme.SearchPage.emptyResultsTitle": {
+        "message": "搜索文档",
+        "description": "The search page title for empty query"
+    },
+    "theme.SearchPage.searchContext.everywhere": {
+        "message": "所有位置"
+    },
+    "theme.SearchPage.documentsFound.plurals": {
+        "message": "找到 1 篇文档|找到 {count} 篇文档",
+        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.SearchPage.noResultsText": {
+        "message": "未找到任何文档",
+        "description": "The paragraph for empty search result"
+    },
+    "theme.blog.post.plurals": {
+        "message": "1 篇文章|{count} 篇文章",
+        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.blog.tagTitle": {
+        "message": "标签“{tagName}”下的 {nPosts} 篇内容",
+        "description": "The title of the page for a blog tag"
+    },
+    "theme.blog.author.pageTitle": {
+        "message": "{authorName} - {nPosts} 篇内容",
+        "description": "The title of the page for a blog author"
+    },
+    "theme.blog.authorsList.pageTitle": {
+        "message": "作者",
+        "description": "The title of the authors page"
+    },
+    "theme.blog.authorsList.viewAll": {
+        "message": "查看所有作者",
+        "description": "The label of the link targeting the blog authors page"
+    },
+    "theme.blog.author.noPosts": {
+        "message": "该作者尚未撰写任何文章。",
+        "description": "The text for authors with 0 blog post"
+    },
+    "theme.contentVisibility.unlistedBanner.title": {
+        "message": "未列出的页面",
+        "description": "The unlisted content banner title"
+    },
+    "theme.contentVisibility.unlistedBanner.message": {
+        "message": "此页面未列出。搜索引擎不会将其编入索引，只有通过直接链接才能访问。",
+        "description": "The unlisted content banner message"
+    },
+    "theme.contentVisibility.draftBanner.title": {
+        "message": "草稿页面",
+        "description": "The draft content banner title"
+    },
+    "theme.contentVisibility.draftBanner.message": {
+        "message": "此页面是草稿。它仅在开发环境中可见，并将从生产构建中排除。",
+        "description": "The draft content banner message"
+    },
+    "theme.ErrorPageContent.tryAgain": {
+        "message": "重试",
+        "description": "The label of the button to try again rendering when the React error boundary captures an error"
+    },
+    "theme.common.skipToMainContent": {
+        "message": "跳转到主要内容",
+        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+    },
+    "theme.tags.tagsPageTitle": {
+        "message": "标签",
+        "description": "The title of the tag list page"
+    },
+    "phishingQuizzes.wsj.alt": {
+        "message": "《华尔街日报》新闻文章：“职场之痛，钓鱼测试正变得愈发刻薄”。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
+    },
+    "phishingQuizzes.wsjMobile.alt": {
+        "message": "《华尔街日报》新闻文章：“职场之痛，钓鱼测试正变得愈发刻薄”。研究人员表示，这些旨在教育易受骗员工警惕网络危险的套路，实际上根本不起作用"
+    },
+    "phishingQuizzes.research.emphasis": {
+        "message": "钓鱼模拟"
+    },
+    "phishingQuizzes.research.final": {
+        "message": "负面效果：持续暴露于钓鱼模拟的用户更容易点击危险链接。"
+    },
+    "pricing.compliance.detailed": {
+        "message": "✔️ 详细分析，追踪学员和题目层面的结果"
+    }
+}

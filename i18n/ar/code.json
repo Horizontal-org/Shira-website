@@ -1,0 +1,1123 @@
+{
+    "about.meta.title": {
+        "message": "حول Shira"
+    },
+    "about.meta.description": {
+        "message": "التعرف على Shira والفريق القائم عليه. إنه مشروع من طرف Horizontal، وهي منظمة غير ربحية تعمل على بناء أدوات الأمن والخصوصية التي تساعد الأفراد والمنظمات على التصدي لهجمات التصيد الاحتيالي."
+    },
+    "about.meta.longDescription": {
+        "message": "التعرف على Shira والفريق القائم عليه. إنه مشروع من طرف Horizontal، وهي منظمة غير ربحية تعمل على بناء أدوات الأمن والخصوصية التي تساعد الأفراد والمنظمات على التصدي لهجمات التصيد الاحتيالي."
+    },
+    "about.hero.title": {
+        "message": "Shira"
+    },
+    "about.hero.subtitle": {
+        "message": "تعزيز قدرة الأفراد والمنظمات على مواجهة هجمات التصيد الاحتيالي"
+    },
+    "about.hero.cta": {
+        "message": "تواصل معنا"
+    },
+    "about.hero.imageAlt": {
+        "message": "شعار Shira: عبارة عن حرف S باللونين الأزرق والأخضر الفاتح"
+    },
+    "about.horizontal.imageAlt": {
+        "message": "شعار Horizontal"
+    },
+    "about.horizontal.title": {
+        "message": "من الذي يصنع Shira؟"
+    },
+    "about.horizontal.description": {
+        "message": "Shira هو مشروع من Horizontal، وهي منظمة تكنولوجية غير ربحية تبني تقنيات الأمن والخصوصية لمساعدة الأشخاص على أن يكونوا أكثر أمانا عبر الانترنت."
+    },
+    "about.horizontal.donationText": {
+        "message": "يمكنكم مساعدتنا في تحسين واستدامة Shira عبر"
+    },
+    "about.horizontal.donationLink": {
+        "message": "تقديم تبرع هنا"
+    },
+    "about.horizontal.translationText": {
+        "message": "للمساهمة في ترجمة Shira إلى لغات جديدة، راسلونا عبر البريد الإلكتروني"
+    },
+    "about.horizontal.cta": {
+        "message": "تعلم عن Horizontal"
+    },
+    "about.why.imageAlt": {
+        "message": "صورة تزيينية لخطاف صيد"
+    },
+    "about.why.title": {
+        "message": "لماذا Shira ؟"
+    },
+    "about.why.easy.title": {
+        "message": "1. سهل الاستخدام"
+    },
+    "about.why.easy.description": {
+        "message": "تم إنشاء Shira مع مراعاة المجتمعات الأكثر عرضة لهجمات التصيد الاحتيالي، لا سيما المستخدمين ذوي الثقافة التقنية المحدودة."
+    },
+    "about.why.customizable.title": {
+        "message": "2. قابل للتخصيص"
+    },
+    "about.why.customizable.description": {
+        "message": "يعرض Shira رسائل بريد إلكتروني ورسائل نصية تحاكي الواقع بأقصى درجة ممكنة، لما يواجهه مستخدمو الانترنت فعليا في حياتهم اليومية، و لهجمات التصيد الاحتيالي التي من المحتمل أن يتعرضوا لها."
+    },
+    "about.why.privacy.title": {
+        "message": "3. صديق للخصوصية"
+    },
+    "about.why.privacy.description": {
+        "message": "نحن لا نجمع ولا نحفظ ولا نشارك أي بيانات حساسة أو معلومات قد تحدد هوية المستخدمين الذين يزورون Shira أو يشاركون في الاختبارات. لمعرفة المزيد، يمكنك الاطلاع على سياسة الخصوصية الخاصة بنا وعمليات تدقيق الأمان التي أجرتها شركات أمنية مستقلة."
+    },
+    "about.why.auditCta": {
+        "message": "عمليات تدقيق الأمان"
+    },
+    "about.why.privacyCta": {
+        "message": "سياسة الخصوصية"
+    },
+    "about.how.title": {
+        "message": "كيف يتم تطوير Shira؟"
+    },
+    "about.how.opensource": {
+        "message": "Shira مفتوح المصدر ومرخص بموجب رخصة MIT 2.0."
+    },
+    "about.how.design": {
+        "message": "في Horizontal، عند التصميم والتطوير نركز على احتياجات المستخدمين الذين يواجهون مخاطر عالية من الهجمات الرقمية."
+    },
+    "about.how.community": {
+        "message": "Shira متعدد اللغات وتم إنشاؤه بالتعاون مع المستخدمين الأكثر عرضة للمخاطر."
+    },
+    "about.how.communityLink": {
+        "message": "تم إنشاؤه بالتعاون مع المستخدمين الأكثر عرضة للمخاطر"
+    },
+    "about.how.green": {
+        "message": "يعمل هذا الموقع الإلكتروني بالطاقة النظيفة."
+    },
+    "about.how.greenAlt": {
+        "message": "لقد جرت استضافة هذا الموقع على خوادم تعمل بالطاقة النظيفة - تحقق من ذلك thegreenwebfoundation.org"
+    },
+    "contact.title": {
+        "message": "تواصل مع فريق Shira"
+    },
+    "contact.description": {
+        "message": "التعرف على كيفية التواصل مع فريق Shira"
+    },
+    "contact.metaDescription": {
+        "message": "التعرف على كيفية التواصل مع فريق Shira"
+    },
+    "contact.heading": {
+        "message": "لنتحدث!"
+    },
+    "contact.intro.part1": {
+        "message": "هل هناك أسئلة حول Shira لم تتم الإجابة عليها في"
+    },
+    "contact.intro.helpCenter": {
+        "message": "مركز المساعدة"
+    },
+    "contact.intro.part2": {
+        "message": "؟ هل ترغبون في استكشاف شراكة محتملة؟ هل أنتم منظمة غير ربحية أو منظمة قاعدية ولا تستطيعون تحمل التكلفة الكاملة لـ Shira؟"
+    },
+    "contact.getInTouch": {
+        "message": "للتواصل معنا:"
+    },
+    "contact.links.emailText": {
+        "message": "اكتبوا إلينا عبر"
+    },
+    "contact.links.github": {
+        "message": "إرسال فكرة لميزة جديدة أو تصويت على الطلبات الحالية"
+    },
+    "contact.links.demo": {
+        "message": "حجز مكالمة تجريبية مباشرة من هنا"
+    },
+    "contact.links.newsletter": {
+        "message": "الاشتراك في نشرتنا الإخبارية"
+    },
+    "features.meta.title": {
+        "message": "ميزات Shira"
+    },
+    "features.meta.description": {
+        "message": "استكشاف ميزات Shira للمعلمين والمتخصصين في الأمن الرقمي."
+    },
+    "features.meta.longDescription": {
+        "message": "استكشفوا ميزات Shira للمعلمين والمتخصصين في الأمن الرقمي. يمكن انشاء اختبارات تصيد واقعية، ومحاكاة هجمات حقيقية، وتتبع تقدم الفريق، وبناء وعي مستمر ضد التصيد الاحتيالي."
+    },
+    "features.intro.audience": {
+        "message": "للمعلمين والمتخصصين في الأمن الرقمي"
+    },
+    "features.intro.title": {
+        "message": "صمموا اختبارات التصيد الخاصة بك {your1} لتمكينك {your2} من مواجهة التهديدات التي تواجهها {your3}"
+    },
+    "features.intro.your1": {
+        "message": "بكم"
+    },
+    "features.intro.your2": {
+        "message": "فريقكم"
+    },
+    "features.intro.your3": {
+        "message": "تهمكم"
+    },
+    "features.intro.pricing": {
+        "message": "الكلفة"
+    },
+    "features.intro.getStarted": {
+        "message": "بدء الآن"
+    },
+    "features.images.fishAlt": {
+        "message": "رسم توضيحي لسمكة تُمثِّل التصيد الاحتيالي"
+    },
+    "features.images.bubblesAlt": {
+        "message": "رسم سمكة مع فقاعات"
+    },
+    "features.allFeatures.title": {
+        "message": "كل الميزات التي تحتاجونها للحفاظ على سلامة فريقكم"
+    },
+    "features.allFeatures.description": {
+        "message": "لا أحد يعرف احتياجات فريقكم أفضل منكم. يمنحكم Shira تحكما كاملا في إنشاء تجارب تعليمية مصممة خصيصا لاحتياجات منظمتكم، والهجمات التي تتلقونها، ومستوى مهارة زملائكم."
+    },
+    "features.list.ui.title": {
+        "message": "واجهة سهلة الاستخدام 🎨‏"
+    },
+    "features.list.ui.description": {
+        "message": "لوحة تحكم بديهية لتسهيل التنقل وإدارة الاختبارات والمستخدمين."
+    },
+    "features.list.roles.title": {
+        "message": "تحكُّم في الوصول قائم على الأدوار 🔒‏"
+    },
+    "features.list.roles.description": {
+        "message": "مستويات وصول مختلفة للإداريين والمتعلمين."
+    },
+    "features.list.realLife.title": {
+        "message": "محاكاة الهجوم الحقيقية⚡‏"
+    },
+    "features.list.realLife.description": {
+        "message": "أدرجوا في اختباراتكم تفاصيل من هجمات التصيد الاحتيالي الفعلية التي تعرضت لها الشركة لتحضير فريقكم بأفضل شكل."
+    },
+    "features.list.email.title": {
+        "message": "محاكاة التصيد الاحتيالي عبر البريد الإلكتروني 📧"
+    },
+    "features.list.email.description": {
+        "message": "إنشاء اختبارات تحاكي رسائل التصيد الاحتيالي على Gmail وOutlook، بما في ذلك معلومات المرسِل، وموضوع الرسالة، ونص البريد الإلكتروني، والروابط، والصور، والمرفقات."
+    },
+    "features.list.sms.title": {
+        "message": "محاكاة التصيد الاحتيالي عبر الرسائل النصية 💬"
+    },
+    "features.list.sms.description": {
+        "message": "إنشاء اختبارات تحاكي محاولات التصيد الاحتيالي عبر الرسائل النصية برسائل واقعية."
+    },
+    "features.list.messaging.title": {
+        "message": "محاكاة التصيد الاحتيالي عبر تطبيقات المراسلة 💬"
+    },
+    "features.list.messaging.description": {
+        "message": "إنشاء اختبارات تحاكي التصيد الاحتيالي عبر تطبيقات المراسلة الشهيرة مثل واتساب أو Facebook Messenger."
+    },
+    "features.list.mobile.title": {
+        "message": "دعم الأجهزة المحمولة 📱"
+    },
+    "features.list.mobile.description": {
+        "message": "غالبا ما نواجه هجمات التصيد الاحتيالي عبر أجهزتنا المحمولة. في Shira، يمكن للمستخدمين إجراء الاختبارات من هواتفهم للاستعداد للهجمات التي سيواجهونها في الحياة الواقعية."
+    },
+    "features.list.compliance.title": {
+        "message": "الامتثال للتشريعات ✅"
+    },
+    "features.list.compliance.description": {
+        "message": "التحقق من إتمام الفريق للاختبارات فعليا ومراقبة مؤشرات النجاح."
+    },
+    "features.list.analytics.title": {
+        "message": "التحليلات 📈"
+    },
+    "features.list.analytics.description": {
+        "message": "تتبع تقدم المستخدمين وتحديد مجالات التحسين، سواء تعلَّق الأمر بنوع التطبيقات التي يكون المستخدمون أكثر عرضة للتهديدات خلالها، أو بمستخدمين معينين يحتاجون إلى دعم إضافي."
+    },
+    "features.list.explanations.title": {
+        "message": "التفسيرات 📝"
+    },
+    "features.list.explanations.description": {
+        "message": "إدراج التفسيرات الخاصة لإرشاد المستخدمين إلى العناصر التي تشير إلى أن البريد الإلكتروني أو الرسالة تبدو كعملية تصيد احتيالي."
+    },
+    "features.list.gamification.title": {
+        "message": "التحفيز بالألعاب 🕹️"
+    },
+    "features.list.gamification.description": {
+        "message": "تُعزِّز تجربة التعلم التفاعلية ترسيخ المعرفة."
+    },
+    "features.list.multilingual.title": {
+        "message": "متعدد اللغات 🌐"
+    },
+    "features.list.multilingual.description": {
+        "message": "Shira متاح بالكامل باللغات الإنجليزية، والإسبانية، والفرنسية، والصينية، والعربية، والروسية."
+    },
+    "features.list.library.title": {
+        "message": "مكتبة الأسئلة 📚"
+    },
+    "features.list.library.description": {
+        "message": "يمكن إنشاء أسئلة اختبار خاصة من الصفر، أو التوجه إلى مكتبة Shira لاستخدام نماذج الأسئلة التي صممها خبراء التدريب في الأمن الرقمي."
+    },
+    "features.needMore.title": {
+        "message": "هل هناك ميزة غير متوفرة؟"
+    },
+    "features.needMore.subtitle": {
+        "message": "تواصلوا معنا، وسنعمل على تحقيق ذلك."
+    },
+    "features.needMore.cta": {
+        "message": "للتواصل"
+    },
+    "homepage.meta.title": {
+        "message": "Shira"
+    },
+    "homepage.meta.description": {
+        "message": "استخدموا Shira لتعزيز قدرة فريقكم على كشف هجمات التصيد الاحتيالي وإحباطها."
+    },
+    "homepage.meta.longDescription": {
+        "message": "يساعد Shira الأفراد والمنظمات على تعلم رصد هجمات التصيد الاحتيالي وإحباطها من خلال اختبارات تفاعلية تحمي الخصوصية وقابلة للتخصيص، وتحاكي سياق ولغة التطبيقات الواقعية مثل Gmail والرسائل النصية وواتساب."
+    },
+    "homepage.hero.title": {
+        "message": "استعداد. معرفة. صمود."
+    },
+    "homepage.hero.subtitle": {
+        "message": "يعزز Shira قدرة فريقكم على كشف هجمات التصيد الاحتيالي وإحباطها"
+    },
+    "homepage.learners.title": {
+        "message": "للمتعلمين والمتعلمات"
+    },
+    "homepage.learners.description": {
+        "message": "ابدأوا الآن بكل سهولة باستخدام أحد اختباراتنا المجانية والجاهزة. يمكنكم تخصيص الاختبار لتعلّم رصد التصيد الاحتيالي في التطبيقات التي تستخدمونها بشكل يومي مثل Gmail والرسائل النصية وواتساب وغيرها، مع أمثلة مصممة خصيصا لتناسب لغتكم ومجال عملكم."
+    },
+    "homepage.learners.cta": {
+        "message": "إجراء اختبار"
+    },
+    "homepage.educators.title": {
+        "message": "للمعلمين والمتخصصين في الأمن الرقمي"
+    },
+    "homepage.educators.description": {
+        "message": "لكل منظمة احتياجاتها الخاصة وتواجه تهديداتها الخاصة. يمكنكم إنشاء اختبارات تصيد احتيالي مصممة خصيصا لاحتياجات مؤسستكم وكما يمكنكم مراقبة معدلات نجاح فريقكم، دون الحاجة لأي برمجة."
+    },
+    "homepage.educators.cta": {
+        "message": "أنشئوا اختباركم الخاص"
+    },
+    "homepage.context.description": {
+        "message": "منذ عدة سنوات، يواجه كل من الأفراد والمنظمات أكثر الهجمات شيوعا، ألا وهي هجمات التصيد الاحتيالي. بينما كان الأمر مقتصرا في البداية على البريد الإلكتروني، أصبحت الرسائل النصية القصيرة وتطبيقات المراسلة ووسائل التواصل الاجتماعي أيضا أهدافا للتصيد الاحتيالي. لقد بات من الضروري تنمية مهارات المستخدمين لتحديد وإبطال هجمات التصيد الاحتيالي أكثر من أي وقت مضى."
+    },
+    "homepage.context.imageAlt": {
+        "message": "صورة زخرفية لمُكبِّرة"
+    },
+    "homepage.why.title": {
+        "message": "لماذا Shira ؟"
+    },
+    "homepage.why.intro": {
+        "message": "‫سواء أنجزتم اختباراتنا الجاهزة والمجانية، أو عند إعداد اختباراتكم المخصصة لتدريب فريقكم، فإن Shira :"
+    },
+    "homepage.why.easy.title": {
+        "message": "سهل الاستخدام"
+    },
+    "homepage.why.easy.description": {
+        "message": "تم تصميمه للمجتمعات الأكثر عرضة لهجمات التصيد الاحتيالي، وإن كانت المعرفة التقنية بسيطة."
+    },
+    "homepage.why.customizable.title": {
+        "message": "قابل للتخصيص"
+    },
+    "homepage.why.customizable.description": {
+        "message": "رسائل تصيد واقعية لمحاكاة السيناريوهات الحقيقية التي يواجهها المستخدمون يوميا."
+    },
+    "homepage.why.privacy.title": {
+        "message": "محافظ على الخصوصية"
+    },
+    "homepage.why.privacy.description": {
+        "message": "نحن لا نقوم بجمع أو مشاركة أي بيانات حساسة أو معلومات قد تحدد هوية المستخدمين."
+    },
+    "phishingQuizzes.meta.title": {
+        "message": "التعرف على اختبارات التصيد الاحتيالي"
+    },
+    "phishingQuizzes.meta.description": {
+        "message": "التعرف على اختبارات التصيد الاحتيالي"
+    },
+    "phishingQuizzes.meta.longDescription": {
+        "message": "اكتشفوا لماذا تُعد اختبارات التصيد أكثر فعالية من محاكاة الهجمات."
+    },
+    "phishingQuizzes.education.title": {
+        "message": "أسباب تفوق النهج التعليمي على محاكاة الهجمات"
+    },
+    "phishingQuizzes.education.paragraph1": {
+        "message": "أصبحت عمليات محاكاة التصيد الاحتيالي مكونا معياريا في برامج التدريب على مكافحة التصيد. وتتضمن هذه المحاكات إرسال رسائل بريد إلكتروني للموظفين تُحاكي التكتيكات التي يستخدمها مجرمو الانترنت لخداع الأفراد ودفعهم للكشف عن معلومات حساسة أو الضغط على روابط ضارة. ويتم تقييم الموظفين بناءً على استجاباتهم لهذه الرسائل المحاكية للتصيد، وتحديداً لو قاموا بالضغط على رابط ما أو قدموا أي معلومات حساسة."
+    },
+    "phishingQuizzes.education.paragraph2": {
+        "message": "غير أن هذا النهج يعاني من عيوب عديدة، ولا يرقى لمستوى فعالية النهج التعليمي الشامل لمكافحة التصيد الاحتيالي."
+    },
+    "phishingQuizzes.education.wsjAltDesktop": {
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الانترنت لا تجدي نفعا"
+    },
+    "phishingQuizzes.education.wsjAltMobile": {
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الانترنت لا تجدي نفعا"
+    },
+    "phishingQuizzes.problem.title": {
+        "message": "مشكلة تجارب محاكاة التصيد الاحتيالي"
+    },
+    "phishingQuizzes.problem.intro": {
+        "message": "على الرغم من الانتشار الواسع لعمليات محاكاة التصيد الاحتيالي، إلا أنها تنطوي على عدة مشكلات ينبغي على المنظمات أخذها بعين الاعتبار:"
+    },
+    "phishingQuizzes.problem.anxiety.title": {
+        "message": "خلق حالة من التوتر وانعدام الثقة:"
+    },
+    "phishingQuizzes.problem.anxiety.text": {
+        "message": "من المحتمل أن يتولد لدى الأفراد توتر أو انعدام ثقة تجاه المراسلات الإلكترونية، بما في ذلك الرسائل الموثوقة، وهو ما ينعكس سلبا على كفاءتهم ويرفع من حدة الضغوط النفسية في العمل."
+    },
+    "phishingQuizzes.problem.emailFocus.title": {
+        "message": "الاقتصار على منصة البريد الإلكتروني:"
+    },
+    "phishingQuizzes.problem.emailFocus.text": {
+        "message": "تقتصر أغلب برامج محاكاة التصيد على مواجهة مخاطر البريد الإلكتروني، مع إغفال قنوات التواصل البديلة كالرسائل النصية وتطبيقات المحادثة وشبكات التواصل الاجتماعي."
+    },
+    "phishingQuizzes.problem.falseSecurity.title": {
+        "message": "شعور زائف بالأمان:"
+    },
+    "phishingQuizzes.problem.falseSecurity.text": {
+        "message": "إن تمكن الأفراد من تحديد اختبارات التصيد بنجاح قد يمنحهم طمأنينة خادعة تجاه جاهزيتهم الأمنية."
+    },
+    "phishingQuizzes.problem.clickRates.title": {
+        "message": "المبالغة في الاعتماد على معدلات النقر:"
+    },
+    "phishingQuizzes.problem.clickRates.text": {
+        "message": "التركيز الحصري على استجابة الأفراد بالنقر على رابط من عدمه قد يحجب رؤية أبعاد هامة أخرى تتعلق بمدى إدراكهم لمخاطر التصيد."
+    },
+    "phishingQuizzes.problem.desensitize.title": {
+        "message": "تراجع الحساسية تجاه التهديدات:"
+    },
+    "phishingQuizzes.problem.desensitize.text": {
+        "message": "قد يتسبب تكرار إرسال رسائل التصيد الوهمية في تراجع الحساسية تجاه التهديدات."
+    },
+    "phishingQuizzes.problem.punishment.title": {
+        "message": "التركيز على العقاب بدلا من الوقاية:"
+    },
+    "phishingQuizzes.problem.punishment.text": {
+        "message": "قد تتسبب محاكاة التصيد في خلق ثقافة يسودها الخوف، مما يجعل الأفراد أكثر تركيزا على تجنب العقاب بدلا من التركيز على التعلم."
+    },
+    "phishingQuizzes.research.text": {
+        "message": "أكدت الأبحاث أن حملات محاكاة التصيد الاحتيالي لا تدرب الناس بشكل فعال على تحديد هجمات التصيد الاحتيالي."
+    },
+    "phishingQuizzes.research.link": {
+        "message": "إن دراسة شارك فيها 14000 مشارك"
+    },
+    "phishingQuizzes.research.conclusion": {
+        "message": "أظهرت في الواقع تأثيرا عكسيا لمحاكاة التصيد الاحتيالي."
+    },
+    "phishingQuizzes.quizzes.title": {
+        "message": "النهج الأكثر فعالية: اختبارات التصيد الاحتيالي"
+    },
+    "phishingQuizzes.quizzes.description": {
+        "message": "توفر اختبارات التصيد بيئة تعلُّم مُتحكَّم فيها وأكثر فعالية لبناء المهارات مقارنة بمحاكاة التصيد التقليدية."
+    },
+    "phishingQuizzes.quizzes.benefitsIntro": {
+        "message": "تشمل فوائدها :"
+    },
+    "phishingQuizzes.benefits.controlled.title": {
+        "message": "تعلُّما مُتحكَّما فيه :"
+    },
+    "phishingQuizzes.benefits.controlled.text": {
+        "message": "توفر اختبارات التصيد الإلكتروني مساحة آمنة وقليلة المخاطر للموظفين لممارسة مهاراتهم."
+    },
+    "phishingQuizzes.benefits.interactive.title": {
+        "message": "المشاركة التفاعلية :"
+    },
+    "phishingQuizzes.benefits.interactive.text": {
+        "message": "تشجع هذه الاختبارات على المشاركة الفعالة وتُقدِّم ملاحظات فورية."
+    },
+    "phishingQuizzes.benefits.coverage.title": {
+        "message": "تغطية لأساليب متنوعة في التصيد :"
+    },
+    "phishingQuizzes.benefits.coverage.text": {
+        "message": "يمكن أن تتضمن اختبارات التصيد الاحتيالي رسائل نصية قصيرة وأخرى من وسائل التواصل الاجتماعي وأخرى لسيناريوهات التصيد الصوتي."
+    },
+    "phishingQuizzes.benefits.confidence.title": {
+        "message": "بناء الثقة :"
+    },
+    "phishingQuizzes.benefits.confidence.text": {
+        "message": "يتعلم الموظفون من الأخطاء في بيئة داعمة."
+    },
+    "phishingQuizzes.benefits.tailored.title": {
+        "message": "أهداف تعلم على المقاس :"
+    },
+    "phishingQuizzes.benefits.tailored.text": {
+        "message": "يمكن تخصيص الاختبارات للتركيز على مهارات محددة وفجوات معرفية."
+    },
+    "phishingQuizzes.cta": {
+        "message": "بدء الآن"
+    },
+    "phishing.layout.title": {
+        "message": "التعرف على التصيد الاحتيالي"
+    },
+    "phishing.layout.description": {
+        "message": "التعرف على ماهية التصيد الاحتيالي، وكيف يعمل، ولماذا هو فعال. اكتشفوا أكثر هجمات التصيد شيوعا، وما يسعى إليه المهاجمون، والعواقب الخطيرة على الأفراد والمنظمات."
+    },
+    "phishing.meta.description": {
+        "message": "التعرف على ماهية التصيد الاحتيالي، وكيف يعمل، ولماذا هو فعال. اكتشفوا أكثر هجمات التصيد شيوعا، وما يسعى إليه المهاجمون، والعواقب الخطيرة على الأفراد والمنظمات."
+    },
+    "phishing.intro.title": {
+        "message": "ما هو التصيد الاحتيالي ؟"
+    },
+    "phishing.intro.definition": {
+        "message": "إن التصيد الاحتيالي محاولة خبيثة للحصول على معلومات حساسة مثل أسماء المستخدمين، وكلمات السر، وتفاصيل بطاقات الائتمان من خلال التنكر ككيان موثوق في الاتصالات الإلكترونية. يمكن أن يغريك التصيد الاحتيالي أيضا بتحميل وتثبيت البرمجيات الخبيثة."
+    },
+    "phishing.intro.protection": {
+        "message": "إن فهم التصيد الاحتيالي لهو الخطوة الأولى لحماية أنفسكم ومؤسستكم."
+    },
+    "phishing.images.fish.alt": {
+        "message": "رسم زخرفي لسمكة"
+    },
+    "phishing.common.title": {
+        "message": "إنه الهجوم الأكثر شيوعا"
+    },
+    "phishing.common.rank": {
+        "message": "يُصنَّف التصيد الاحتيالي باستمرار كأكثر الهجمات التي يتعرض لها الأفراد والمؤسسات."
+    },
+    "phishing.common.channels": {
+        "message": "رغم أن التصيد الاحتيالي كان مرتبطا تقليديا بعمليات الاحتيال عبر البريد الإلكتروني، إلا أنه يحدث اليوم عبر مجموعة واسعة من الوسائل : البريد الإلكتروني، وأيضا الرسائل النصية القصيرة، وتطبيقات المراسلة، ومنصات التواصل الاجتماعي، والمكالمات الهاتفية."
+    },
+    "phishing.images.bubbles.alt": {
+        "message": "رسم زخرفي للفقاعات"
+    },
+    "phishing.attackers.title": {
+        "message": "ما الذي يحاول المهاجمون الحصول عليه ؟"
+    },
+    "phishing.attackers.passwords.label": {
+        "message": "كلمات السر :"
+    },
+    "phishing.attackers.passwords.text": {
+        "message": "يسعى المهاجمون لسرقة كلمات السر وبيانات الدخول للوصول إلى حسابات الضحايا على الانترنت. باستخدام هذه المعلومات، يمكنهم ارتكاب الاحتيال أو سرقة البيانات أو ابتزاز الضحايا من خلال تهديد بكشف معلومات حساسة."
+    },
+    "phishing.attackers.money.label": {
+        "message": "المال :"
+    },
+    "phishing.attackers.money.text": {
+        "message": "المكاسب المالية هي دافع رئيس للتصيد الاحتيالي. ينتحل المهاجمون صفة منظمات مشروعة لخداع الضحايا لتقديم تفاصيل بطاقات الائتمان أو إجراء المدفوعات، غالبا من خلال فواتير مزيفة أو طلبات تبرع."
+    },
+    "phishing.attackers.confidential.label": {
+        "message": "معلومات سرية :"
+    },
+    "phishing.attackers.confidential.text": {
+        "message": "يستهدف التصيد المعلومات السرية مثل أرقام المُعرِّفات الضريبية وبيانات الأعمال. يمكن استخدام هذه المعلومات لسرقة الهوية، أو لبيعها على الانترنت المظلم، أو لاستغلالها للتجسس المؤسسي."
+    },
+    "phishing.attackers.malware.label": {
+        "message": "لكي يقوم الضحايا بتثبيت برمجيات خبيثة :"
+    },
+    "phishing.attackers.malware.text": {
+        "message": "قد يخدع المحتالون الضحايا لتحميل البرمجيات الخبيثة عبر روابط أو مرفقات خبيثة. بمجرد تثبيتها، يمكن للبرمجيات الخبيثة سرقة المعلومات الشخصية ومراقبة النشاط أو للسيطرة على الأجهزة، مما يؤدي إلى اختراقات خطيرة للبيانات."
+    },
+    "phishing.why.title": {
+        "message": "لماذا ينجح التصيد الاحتيالي؟"
+    },
+    "phishing.why.intro": {
+        "message": "يستفيد المحتالون مما يلي :"
+    },
+    "phishing.why.polite.label": {
+        "message": "الرغبة في حسن الأدب:"
+    },
+    "phishing.why.polite.text": {
+        "message": "يشعر الناس غالبا بأنهم مضطرون للرد على رسائل من شخصيات ذات السلطة أو من مصادر موثوقة. يستغل المحتالون هذا باستخدام لغة مهذبة، مما يجعل المستلمين أكثر احتمالا للامتثال لطلبات المعلومات الحساسة دون التشكيك في شرعية الرسالة."
+    },
+    "phishing.why.helpful.label": {
+        "message": "الرغبة في المساعدة :"
+    },
+    "phishing.why.helpful.text": {
+        "message": "يرغب الكثير منا بطبيعته في مساعدة الآخرين. يخلق المحتالون سيناريوهات تدفع المستلمين للمساعدة، مثل الادعاء بأن زميلا أو قريبا في ورطة. هذا التلاعب قد يدفع الأفراد إلى تقديم معلومات شخصية، معتقدين أنهم يدعمونك."
+    },
+    "phishing.why.embarrassed.label": {
+        "message": "الخوف من الإحراج :"
+    },
+    "phishing.why.embarrassed.text": {
+        "message": "يزرع المتصيدون الخوف من خلال الإيحاء بأن المستلم ارتكب خطأ، مثل التأخر في السداد. هذا الخوف قد يدفع الأفراد إلى التصرف بسرعة، غالبا دون التحقق من مصدر الرسالة، مما يؤدي إلى اختراق الأمان."
+    },
+    "phishing.why.urgent.label": {
+        "message": "الذعر من الرسائل العاجلة :"
+    },
+    "phishing.why.urgent.text": {
+        "message": "استعجال دافع قوي. يقوم المحتالون بصياغة رسائل تخلق شعورا زائفا بالعجلة، مدعين أن الحسابات ستُعلَّق أو أن المدفوعات متأخرة. هذا الذعر يمكن أن يشوش على قراراتهم في الحكم على الأشياء، مما يدفع الأفراد إلى تجاهل علامات التحذير والتصرف باندفاع."
+    },
+    "phishing.consequences.title": {
+        "message": "يمكن أن تؤدي هجمات التصيد الاحتيالي إلى عواقب وخيمة"
+    },
+    "phishing.consequences.identity.label": {
+        "message": "سرقة الهوية :"
+    },
+    "phishing.consequences.identity.text": {
+        "message": "يمكن للمجرمين الإلكترونيين استخدام المعلومات الشخصية لانتحال هويتكم."
+    },
+    "phishing.consequences.financial.label": {
+        "message": "الخسارة المالية :"
+    },
+    "phishing.consequences.financial.text": {
+        "message": "قد تؤدي العمليات غير المصرح بها إلى استنزاف أرصدتكم المصرفية."
+    },
+    "phishing.consequences.data.label": {
+        "message": "اختراقات البيانات :"
+    },
+    "phishing.consequences.data.text": {
+        "message": "قد تتعرض معلومات الشركة الحساسة للكشف، مما يؤدي إلى تضرر سمعتها."
+    },
+    "phishing.consequences.operational.label": {
+        "message": "تعطل سير العمليات :"
+    },
+    "phishing.consequences.operational.text": {
+        "message": "مكن أن يؤدي التصيد الاحتيالي إلى توقف الأنظمة وتراجع معدلات الإنتاجية."
+    },
+    "phishing.images.worm.alt": {
+        "message": "رسم زخرفي لدودة"
+    },
+    "phishing.how.title": {
+        "message": "كيف يعمل التصيد الاحتيالي"
+    },
+    "phishing.how.intro": {
+        "message": "تتضمن عمليات التصيد الاحتيالي عادة المراحل التالية :"
+    },
+    "phishing.how.deceptive.label": {
+        "message": "التواصل القائم على الخداع :"
+    },
+    "phishing.how.deceptive.text": {
+        "message": "يقوم المهاجمون بإرسال رسائل تبدو وكأنها صادرة عن مصادر موثوقة، مثل المصارف، أو الخدمات عبر الانترنت، أو حتى من زملاء العمل."
+    },
+    "phishing.how.urgent.label": {
+        "message": "دعوة عاجلة للاستجابة :"
+    },
+    "phishing.how.urgent.text": {
+        "message": "تتضمن الرسالة عادة شعورا بالاستعجال، مما يدفع المتلقي لاتخاذ إجراء سريع؛ مثل الضغط على رابط أو تقديم معلومات شخصية."
+    },
+    "phishing.how.fake.label": {
+        "message": "المواقع الإلكترونية المزيفة :"
+    },
+    "phishing.how.fake.text": {
+        "message": "في حال الضغط على الرابط، يتم توجيه الضحية غالبا إلى موقع إلكتروني احتيالي يشبه الموقع الأصلي. وهناك، قد يُطلب منهم إدخال معلومات حساسة مثل كلمة السر أو البيانات البنكية."
+    },
+    "phishing.how.data.label": {
+        "message": "سرقة البيانات :"
+    },
+    "phishing.how.data.text": {
+        "message": "بمجرد تقديم المعلومات، يمكن للمهاجمين استخدامها لانتحال الهوية، أو الاحتيال المالي، أو لأغراض خبيثة أخرى."
+    },
+    "pricing.layout.title": {
+        "message": "تسعير Shira"
+    },
+    "pricing.layout.description": {
+        "message": "اكتشفوا خطط التسعير البسيطة والشفافة من Shira المصممة للمُعلمين، والمتخصصين في الأمن الرقمي، والمنظمات. يمكنكم الاختيار بين الباقة المجانية، أو الاحترافية، أو باقات الشركات، مع الاستفادة من اختبارات التصيد القابلة للتخصيص وأدوات الإدارة الصديقة للخصوصية."
+    },
+    "pricing.meta.description": {
+        "message": "اكتشفوا خطط التسعير البسيطة والشفافة من Shira المصممة للمُعلمين، والمتخصصين في الأمن الرقمي، والمنظمات. يمكنكم الاختيار بين الباقة المجانية، أو الاحترافية، أو باقات الشركات، مع الاستفادة من اختبارات التصيد القابلة للتخصيص وأدوات الإدارة الصديقة للخصوصية."
+    },
+    "pricing.intro.subtitle": {
+        "message": "خطط مخصصة للمُعلمين والمتخصصين في الأمن الرقمي"
+    },
+    "pricing.intro.title": {
+        "message": "تسعير بسيط، وشفاف، وعادل"
+    },
+    "pricing.starter.title": {
+        "message": "الأولية"
+    },
+    "pricing.starter.description": {
+        "message": "لتجربة المنصة والتعرف على مزايا Shira"
+    },
+    "pricing.starter.price": {
+        "message": "0 دولار"
+    },
+    "pricing.starter.note": {
+        "message": "مجاني، بدون شروط"
+    },
+    "pricing.cta.getStarted": {
+        "message": "بدء الآن"
+    },
+    "pricing.starter.includes": {
+        "message": "تشمل الباقة الأولية الميزات الآتية:"
+    },
+    "pricing.admin.title": {
+        "message": "التسيير الإداري"
+    },
+    "pricing.admin.cloud": {
+        "message": "✔️ سحابي"
+    },
+    "pricing.admin.dashboard": {
+        "message": "✔️لوحة تحكم المسؤول"
+    },
+    "pricing.admin.oneAdmin": {
+        "message": "✔️مسؤول واحد"
+    },
+    "pricing.customization.title": {
+        "message": "التخصيص"
+    },
+    "pricing.customization.questions": {
+        "message": "✔️ أسئلة الاختبار قابلة للتخصيص بالكامل"
+    },
+    "pricing.customization.library": {
+        "message": "✔️ الوصول إلى مكتبة الأسئلة"
+    },
+    "pricing.customization.quizzes": {
+        "message": "✔️ 3 اختبارات مخصصة على الأكثر"
+    },
+    "pricing.customization.questionsPerQuiz": {
+        "message": "أسئلة الاختبار غير محدودة"
+    },
+    "pricing.customization.limit": {
+        "message": ""
+    },
+    "pricing.customization.apps": {
+        "message": "✔️ 6 تطبيقات: Gmail، Outlook، الرسائل النصية، واتساب، Messenger، تطبيقات المواعدة"
+    },
+    "pricing.access.title": {
+        "message": "التحكم في الوصول"
+    },
+    "pricing.access.public": {
+        "message": "✔️الاختبارات العمومية : يمكن لأي شخص إجراء اختباركم من خلال رابط سهل المشاركة"
+    },
+    "pricing.pro.title": {
+        "message": "الباقة الاحترافية"
+    },
+    "pricing.pro.description": {
+        "message": "القوة الكاملة لـ Shira"
+    },
+    "pricing.pro.price": {
+        "message": "39 دولار/شهر + 1 دولار لكل اختبار يتم إجراؤه"
+    },
+    "pricing.pro.billing": {
+        "message": " عند احتساب الفوترة سنويا أو 49 دولارا شهريا + 1 دولار لكل اختبار تم إجراؤه عند احتساب الفوترة شهريا"
+    },
+    "pricing.pro.includes": {
+        "message": "تشمل الباقة الاحترافية ما يلي:"
+    },
+    "pricing.admin.unlimitedSoon": {
+        "message": "✔️عدد المسؤولين غير محدود [قريبا]"
+    },
+    "pricing.pro.unlimitedQuizzes": {
+        "message": "✔️ اختبارات مخصصة غير محدودة"
+    },
+    "pricing.pro.unlimitedQuestions": {
+        "message": "✔️أسئلة الاختبار غير محدودة"
+    },
+    "pricing.pro.limit": {
+        "message": ""
+    },
+    "pricing.pro.apps": {
+        "message": "✔️ 6 تطبيقات: Gmail، Outlook، الرسائل النصية، واتساب، Messenger، تطبيقات المواعدة"
+    },
+    "pricing.access.private": {
+        "message": "✔️الاختبارات الخاصة : يمكن لمستخدميكم فقط إجراء اختباراتكم"
+    },
+    "pricing.compliance.title": {
+        "message": "الامتثال للتشريعات"
+    },
+    "pricing.compliance.track": {
+        "message": "✔️إحصاءات أساسية لتتبع النتائج على مستوى الاختبار"
+    },
+    "pricing.compliance.tools": {
+        "message": "✔️ أدوات التحليل والامتثال للتشريعات [قريبا]"
+    },
+    "pricing.pro.note": {
+        "message": ""
+    },
+    "pricing.enterprise.title": {
+        "message": "باقة الشركات"
+    },
+    "pricing.enterprise.description": {
+        "message": "الأفضل للمنظمات الكبيرة ومزودي الخدمات"
+    },
+    "pricing.enterprise.price": {
+        "message": "تسعير مخصص"
+    },
+    "pricing.enterprise.note": {
+        "message": "أسعار مصممة حسب احتياجاتكم"
+    },
+    "pricing.enterprise.includes": {
+        "message": "تشمل باقة الشركات:"
+    },
+    "pricing.enterprise.deployment": {
+        "message": "✔️ سحابي أو في المقر"
+    },
+    "pricing.admin.unlimited": {
+        "message": "✔️ عدد غير محدود من المسؤولين"
+    },
+    "pricing.enterprise.unlimitedQuizzes": {
+        "message": "✔️ اختبارات مخصصة غير محدودة"
+    },
+    "pricing.enterprise.unlimitedQuestions": {
+        "message": "✔️ أسئلة الاختبارات غير محدودة"
+    },
+    "pricing.enterprise.customLimit": {
+        "message": "✔️ عدد الاختبارات المخصصة التي أُجريت"
+    },
+    "pricing.enterprise.support": {
+        "message": "دعم مخصص"
+    },
+    "pricing.enterprise.training": {
+        "message": "✔️ تدريب المستخدمين على المقاس"
+    },
+    "pricing.enterprise.priority": {
+        "message": "✔️ دعم أولوي"
+    },
+    "theme.ErrorPageContent.title": {
+        "message": "لقد حدث خطأ في هذه الصفحة.",
+        "description": "The title of the fallback page when the page crashed"
+    },
+    "theme.BackToTopButton.buttonAriaLabel": {
+        "message": "التمرير إلى الأعلى",
+        "description": "The ARIA label for the back to top button"
+    },
+    "theme.blog.archive.title": {
+        "message": "الأرشيفات",
+        "description": "The page & hero title of the blog archive page"
+    },
+    "theme.blog.archive.description": {
+        "message": "الأرشيفات",
+        "description": "The page & hero description of the blog archive page"
+    },
+    "theme.blog.paginator.navAriaLabel": {
+        "message": "التنقل بين صفحات لائحة المنشورات",
+        "description": "The ARIA label for the blog pagination"
+    },
+    "theme.blog.paginator.newerEntries": {
+        "message": "المقالات الأحدث",
+        "description": "The label used to navigate to the newer blog posts page (previous page)"
+    },
+    "theme.blog.paginator.olderEntries": {
+        "message": "المقالات الأقدم",
+        "description": "The label used to navigate to the older blog posts page (next page)"
+    },
+    "theme.blog.post.paginator.navAriaLabel": {
+        "message": "التنقل بين صفحات المنشور",
+        "description": "The ARIA label for the blog posts pagination"
+    },
+    "theme.blog.post.paginator.newerPost": {
+        "message": "المنشور الأحدث",
+        "description": "The blog post button label to navigate to the newer/previous post"
+    },
+    "theme.blog.post.paginator.olderPost": {
+        "message": "المنشور الأقدم",
+        "description": "The blog post button label to navigate to the older/next post"
+    },
+    "theme.tags.tagsPageLink": {
+        "message": "عرض جميع الوسوم",
+        "description": "The label of the link targeting the tag list page"
+    },
+    "theme.docs.breadcrumbs.navAriaLabel": {
+        "message": "مسار التنقل",
+        "description": "The ARIA label for the breadcrumbs"
+    },
+    "theme.colorToggle.ariaLabel.mode.system": {
+        "message": "وضع النظام",
+        "description": "The name for the system color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.light": {
+        "message": "الوضع النهاري",
+        "description": "The name for the light color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark": {
+        "message": "الوضع الليلي",
+        "description": "The name for the dark color mode"
+    },
+    "theme.colorToggle.ariaLabel": {
+        "message": "التبديل بين الوضع الليلي والوضع النهاري (حاليا {mode})",
+        "description": "The ARIA label for the color mode toggle"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "عنصر واحد|عنصران|{count} عناصر|{count} عنصراً|{count} عنصر",
+        "description": "The default description for a category card in the generated index about how many items this category includes"
+    },
+    "theme.docs.paginator.navAriaLabel": {
+        "message": "صفحات التوثيقات",
+        "description": "The ARIA label for the docs pagination"
+    },
+    "theme.docs.paginator.previous": {
+        "message": "السابق",
+        "description": "The label used to navigate to the previous doc"
+    },
+    "theme.docs.paginator.next": {
+        "message": "التالي",
+        "description": "The label used to navigate to the next doc"
+    },
+    "theme.docs.tagDocListPageTitle.nDocsTagged": {
+        "message": "وثيقة واحدة موسومة|{count} وثائق موسومة",
+        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.tagDocListPageTitle": {
+        "message": "{nDocsTagged} بـ \"{tagName}\"",
+        "description": "The title of the page for a docs tag"
+    },
+    "theme.docs.versionBadge.label": {
+        "message": "الإصدار: {versionLabel}"
+    },
+    "theme.docs.versions.unreleasedVersionLabel": {
+        "message": "هذه التوثيقات غير منشورة لإصدار {siteTitle} {versionLabel}.",
+        "description": "The label used to tell the user that he's browsing an unreleased doc version"
+    },
+    "theme.docs.versions.unmaintainedVersionLabel": {
+        "message": "هذه توثيقات لإصدار {siteTitle} {versionLabel}، والتي قلّ تحديثها بشكل مكثف.",
+        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+    },
+    "theme.docs.versions.latestVersionSuggestionLabel": {
+        "message": "للاطلاع على التوثيقات المُحدَّثة، يُرجى الاطلاع على {latestVersionLink} ({versionLabel}).",
+        "description": "The label used to tell the user to check the latest version"
+    },
+    "theme.docs.versions.latestVersionLinkLabel": {
+        "message": "آخر إصدار",
+        "description": "The label used for the latest version suggestion link label"
+    },
+    "theme.common.editThisPage": {
+        "message": "عدّل هذه الصفحة",
+        "description": "The link label to edit the current page"
+    },
+    "theme.common.headingLinkTitle": {
+        "message": "رابط فوري نحو {heading}",
+        "description": "Title for link to heading"
+    },
+    "theme.lastUpdated.atDate": {
+        "message": " في {date}",
+        "description": "The words used to describe on which date a page has been last updated"
+    },
+    "theme.lastUpdated.byUser": {
+        "message": " بواسطة {user}",
+        "description": "The words used to describe by who the page has been last updated"
+    },
+    "theme.lastUpdated.lastUpdatedAtBy": {
+        "message": "آخر تحديث ‪{atDate}{byUser}‬",
+        "description": "The sentence used to display when a page has been last updated, and by who"
+    },
+    "theme.NotFound.title": {
+        "message": "الصفحة غير موجودة",
+        "description": "The title of the 404 page"
+    },
+    "theme.navbar.mobileVersionsDropdown.label": {
+        "message": "الإصدارات",
+        "description": "The label for the navbar versions dropdown on mobile view"
+    },
+    "theme.tags.tagsListLabel": {
+        "message": "الوسوم:",
+        "description": "The label alongside a tag list"
+    },
+    "theme.AnnouncementBar.closeButtonAriaLabel": {
+        "message": "إغلاق",
+        "description": "The ARIA label for close button of announcement bar"
+    },
+    "theme.admonition.caution": {
+        "message": "تنبيه",
+        "description": "The default label used for the Caution admonition (:::caution)"
+    },
+    "theme.admonition.danger": {
+        "message": "خطر",
+        "description": "The default label used for the Danger admonition (:::danger)"
+    },
+    "theme.admonition.info": {
+        "message": "معلومة",
+        "description": "The default label used for the Info admonition (:::info)"
+    },
+    "theme.admonition.note": {
+        "message": "ملاحظة",
+        "description": "The default label used for the Note admonition (:::note)"
+    },
+    "theme.admonition.tip": {
+        "message": "نصيحة",
+        "description": "The default label used for the Tip admonition (:::tip)"
+    },
+    "theme.admonition.warning": {
+        "message": "تحذير",
+        "description": "The default label used for the Warning admonition (:::warning)"
+    },
+    "theme.blog.sidebar.navAriaLabel": {
+        "message": "التنقل بين المنشورات الحديثة",
+        "description": "The ARIA label for recent posts in the blog sidebar"
+    },
+    "theme.DocSidebarItem.expandCategoryAriaLabel": {
+        "message": "إظهار فئة القائمة الجانبية '{label}'",
+        "description": "The ARIA label to expand the sidebar category"
+    },
+    "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+        "message": "إخفاء فئة القائمة الجانبية '{label}'",
+        "description": "The ARIA label to collapse the sidebar category"
+    },
+    "theme.IconExternalLink.ariaLabel": {
+        "message": "(يُفتح في تبويب جديد)",
+        "description": "The ARIA label for the external link icon"
+    },
+    "theme.NavBar.navAriaLabel": {
+        "message": "الرئيسية",
+        "description": "The ARIA label for the main navigation"
+    },
+    "theme.NotFound.p1": {
+        "message": "لم نتمكن من العثور على ما تبحثون عنه.",
+        "description": "The first paragraph of the 404 page"
+    },
+    "theme.NotFound.p2": {
+        "message": "يُرجى التواصل مع صاحب الموقع الذي قام بتوجيهك إلى الرابط الأصلي وإبلاغه بأن الرابط معطل.",
+        "description": "The 2nd paragraph of the 404 page"
+    },
+    "theme.TOCCollapsible.toggleButtonLabel": {
+        "message": "في هذه الصفحة",
+        "description": "The label used by the button on the collapsible TOC component"
+    },
+    "theme.navbar.mobileLanguageDropdown.label": {
+        "message": "اللغات",
+        "description": "The label for the mobile language switcher dropdown"
+    },
+    "theme.blog.post.readMore": {
+        "message": "قراءة المزيد",
+        "description": "The label used in blog post item excerpts to link to full blog posts"
+    },
+    "theme.blog.post.readMoreLabel": {
+        "message": "قراءة المزيد حول {title}",
+        "description": "The ARIA label for the link to full blog posts from excerpts"
+    },
+    "theme.blog.post.readingTime.plurals": {
+        "message": "دقيقة واحدة للقراءة|دقيقتان للقراءة|{readingTime} دقائق للقراءة|{readingTime} دقيقةً للقراءة|{readingTime} دقيقة للقراءة",
+        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.breadcrumbs.home": {
+        "message": "الصفحة الرئيسية",
+        "description": "The ARIA label for the home page in the breadcrumbs"
+    },
+    "theme.CodeBlock.copy": {
+        "message": "نسخ",
+        "description": "The copy button label on code blocks"
+    },
+    "theme.CodeBlock.copied": {
+        "message": "تم النسخ",
+        "description": "The copied button label on code blocks"
+    },
+    "theme.CodeBlock.copyButtonAriaLabel": {
+        "message": "نسخ الكود إلى الحافظة",
+        "description": "The ARIA label for copy code blocks button"
+    },
+    "theme.CodeBlock.wordWrapToggle": {
+        "message": "تبديل التفاف النص",
+        "description": "The title attribute for toggle word wrapping button of code block lines"
+    },
+    "theme.docs.sidebar.collapseButtonTitle": {
+        "message": "طي القائمة الجانبية",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.collapseButtonAriaLabel": {
+        "message": "طي القائمة الجانبية",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.navAriaLabel": {
+        "message": "القائمة الجانبية للتوثيقات",
+        "description": "The ARIA label for the sidebar navigation"
+    },
+    "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+        "message": "إغلاق شريط التنقل",
+        "description": "The ARIA label for close button of mobile sidebar"
+    },
+    "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+        "message": "تبديل شريط التنقل",
+        "description": "The ARIA label for hamburger menu button of mobile navigation"
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+        "message": "→ العودة إلى القائمة الرئيسية",
+        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+        "message": "إظهار القائمة المنسدلة",
+        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+        "message": "إغلاق القائمة المنسدلة",
+        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+    },
+    "theme.docs.sidebar.expandButtonTitle": {
+        "message": "إظهار القائمة الجانبية",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.docs.sidebar.expandButtonAriaLabel": {
+        "message": "إظهار القائمة الجانبية",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.SearchBar.noResultsText": {
+        "message": "لا توجد نتائج"
+    },
+    "theme.SearchBar.seeAllOutsideContext": {
+        "message": "عرض كافة النتائج خارج نطاق \"{context}\""
+    },
+    "theme.SearchBar.searchInContext": {
+        "message": "عرض كافة النتائج ضمن نطاق \"{context}\""
+    },
+    "theme.SearchBar.seeAll": {
+        "message": "عرض كافة النتائج"
+    },
+    "theme.SearchBar.label": {
+        "message": "بحث",
+        "description": "The ARIA label and placeholder for search button"
+    },
+    "theme.SearchPage.existingResultsTitle": {
+        "message": "نتائج البحث عن \"{query}\"",
+        "description": "The search page title for non-empty query"
+    },
+    "theme.SearchPage.emptyResultsTitle": {
+        "message": "البحث في التوثيق",
+        "description": "The search page title for empty query"
+    },
+    "theme.SearchPage.searchContext.everywhere": {
+        "message": "في كل مكان"
+    },
+    "theme.SearchPage.documentsFound.plurals": {
+        "message": "تم العثور على مستند واحد|تم العثور على مستندين|تم العثور على {count} مستندات|تم العثور على {count} مستنداً|تم العثور على {count} مستند",
+        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.SearchPage.noResultsText": {
+        "message": "لم يتم العثور على أي مستندات",
+        "description": "The paragraph for empty search result"
+    },
+    "theme.blog.post.plurals": {
+        "message": "منشور واحد|منشوران|{count} منشورات|{count} منشوراً|{count} منشور",
+        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.blog.tagTitle": {
+        "message": "{nPosts} تحت وسم\"{tagName}\"",
+        "description": "The title of the page for a blog tag"
+    },
+    "theme.blog.author.pageTitle": {
+        "message": "{authorName} - {nPosts}",
+        "description": "The title of the page for a blog author"
+    },
+    "theme.blog.authorsList.pageTitle": {
+        "message": "الكُتّاب",
+        "description": "The title of the authors page"
+    },
+    "theme.blog.authorsList.viewAll": {
+        "message": "عرض كافة الكُتّاب",
+        "description": "The label of the link targeting the blog authors page"
+    },
+    "theme.blog.author.noPosts": {
+        "message": "لم يقم هذا الكاتب بكتابة أي مقالات بعد.",
+        "description": "The text for authors with 0 blog post"
+    },
+    "theme.contentVisibility.unlistedBanner.title": {
+        "message": "صفحة غير مدرجة",
+        "description": "The unlisted content banner title"
+    },
+    "theme.contentVisibility.unlistedBanner.message": {
+        "message": "هذه الصفحة غير مدرجة. لن تقوم محركات البحث بفهرستها، والوصول إليها مقتصر على أصحاب الرابط الفوري فقط.",
+        "description": "The unlisted content banner message"
+    },
+    "theme.contentVisibility.draftBanner.title": {
+        "message": "صفحة مُسوَّدة",
+        "description": "The draft content banner title"
+    },
+    "theme.contentVisibility.draftBanner.message": {
+        "message": "هذه الصفحة مجرد مُسوَّدة. ستظهر فقط في بيئة التطوير وسيتم استبعادها من النسخة الفعلية.",
+        "description": "The draft content banner message"
+    },
+    "theme.ErrorPageContent.tryAgain": {
+        "message": "يرجى المحاولة مجددا",
+        "description": "The label of the button to try again rendering when the React error boundary captures an error"
+    },
+    "theme.common.skipToMainContent": {
+        "message": "تخطي إلى المحتوى الرئيسي",
+        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+    },
+    "theme.tags.tagsPageTitle": {
+        "message": "الوسوم",
+        "description": "The title of the tag list page"
+    },
+    "phishingQuizzes.wsj.alt": {
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الانترنت لا تجدي نفعا"
+    },
+    "phishingQuizzes.wsjMobile.alt": {
+        "message": "مقال من جريدة Wall Street : اختبارات التصيد، كابوس الحياة المهنية، تزداد قسوة. يرى الباحثون أن هذه الحيل المصممة لتعليم الموظفين المعرضين للخداع ضد مخاطر الانترنت لا تجدي نفعا"
+    },
+    "phishingQuizzes.research.emphasis": {
+        "message": "نتائج عكسية"
+    },
+    "phishingQuizzes.research.final": {
+        "message": "أثر محاكاة التصيد الاحتيالي: المستخدمون الذين يتعرضون باستمرار لمحاكاة التصيد هم الأكثر عرضة للضغط على الروابط الخطيرة."
+    },
+    "pricing.compliance.detailed": {
+        "message": "✔️إحصاءات مفصلة لتتبع نتائج حسب المتعلم والأسئلة"
+    }
+}

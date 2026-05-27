@@ -1,0 +1,42 @@
+{
+    "logo.alt": {
+        "message": "Logo de Shira",
+        "description": "The alt text of navbar logo"
+    },
+    "item.label.Features": {
+        "message": "Funcionalidades",
+        "description": "Navbar item with label Features"
+    },
+    "item.label.Take a quiz": {
+        "message": "Iniciar un cuestionario",
+        "description": "Navbar item with label Take a quiz"
+    },
+    "item.label.Learn": {
+        "message": "Aprender",
+        "description": "Navbar item with label Learn"
+    },
+    "item.label.Pricing": {
+        "message": "Precios",
+        "description": "Navbar item with label Pricing"
+    },
+    "item.label.Help": {
+        "message": "Ayuda",
+        "description": "Navbar item with label Help"
+    },
+    "item.label.About": {
+        "message": "Acerca de",
+        "description": "Navbar item with label About"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "Registrarse / Iniciar Sesión",
+        "description": "Navbar item with label Sign up/Log in"
+    },
+    "item.label.What is Phishing?": {
+        "message": "¿Qué es el Phishing?",
+        "description": "Navbar item with label What is Phishing?"
+    },
+    "item.label.Why phishing quizzes?": {
+        "message": "¿Por qué cuestionarios sobre phishing?",
+        "description": "Navbar item with label Why phishing quizzes?"
+    }
+}

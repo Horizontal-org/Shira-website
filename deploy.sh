@@ -46,8 +46,9 @@ set -e
 
 set -a
 source .env
-echo "space url used:"
+echo "env variables used:"
 echo $SPACE_URL
+echo $QUIZ_URL
 set +a
 
 

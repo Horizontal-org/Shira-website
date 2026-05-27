@@ -1,0 +1,1123 @@
+{
+    "about.meta.title": {
+        "message": "О Shira"
+    },
+    "about.meta.description": {
+        "message": "Подробнее о Shira и команде, стоящей за этим проектом — проекте Horizontal, некоммерческой организации, создающей инструменты безопасности и приватности, которые помогают частным лицам и организациям защищаться от фишинговых атак."
+    },
+    "about.meta.longDescription": {
+        "message": "О Shira и команде, стоящей за этим проектом — проекте Horizontal, некоммерческой организации, создающей инструменты безопасности и приватности, которые помогают частным лицам и организациям защищаться от фишинговых атак."
+    },
+    "about.hero.title": {
+        "message": "Shira"
+    },
+    "about.hero.subtitle": {
+        "message": "Повышаем устойчивость частных лиц и организаций к фишинговым атакам"
+    },
+    "about.hero.cta": {
+        "message": "Свяжитесь с нами"
+    },
+    "about.hero.imageAlt": {
+        "message": "Логотип Shira: буква S синего и светло-зеленого цветов"
+    },
+    "about.horizontal.imageAlt": {
+        "message": "Логотип Horizontal"
+    },
+    "about.horizontal.title": {
+        "message": "Кто разрабатывает Shira?"
+    },
+    "about.horizontal.description": {
+        "message": "Shira — проект некоммерческой организации Horizontal. Она работает над тем, чтобы технологии безопасности и приватности помогали людям онлайн."
+    },
+    "about.horizontal.donationText": {
+        "message": "Вы можете помочь поддерживать и улучшать Shira, если"
+    },
+    "about.horizontal.donationLink": {
+        "message": "сделаете пожертвование"
+    },
+    "about.horizontal.translationText": {
+        "message": "Чтобы помочь в переводе Shira на новые языки, напишите нам по адресу"
+    },
+    "about.horizontal.cta": {
+        "message": "Подробнее о Horizontal"
+    },
+    "about.why.imageAlt": {
+        "message": "изображение крюка"
+    },
+    "about.why.title": {
+        "message": "Почему Shira?"
+    },
+    "about.why.easy.title": {
+        "message": "1. Удобно"
+    },
+    "about.why.easy.description": {
+        "message": "Shira рассчитана на тех, кто больше всего подвержен фишинговым атакам, особенно на пользователей с ограниченными техническими знаниями."
+    },
+    "about.why.customizable.title": {
+        "message": "2. Настраивается"
+    },
+    "about.why.customizable.description": {
+        "message": "Примеры в Shira приближены к реальным сообщениям, которые обычно получают интернет-пользователи, и к вероятным фишинговым атакам."
+    },
+    "about.why.privacy.title": {
+        "message": "3. Приватно"
+    },
+    "about.why.privacy.description": {
+        "message": "Мы не собираем, не сохраняем и не передаем сенситивные или идентифицирующие данные о тех, кто посещает наш сайт и проходит тесты. Подробнее см. нашу политику приватности и результаты аудитов безопасности от независимых компаний."
+    },
+    "about.why.auditCta": {
+        "message": "Аудиты безопасности"
+    },
+    "about.why.privacyCta": {
+        "message": "Политика приватности"
+    },
+    "about.how.title": {
+        "message": "Как разрабатывается Shira?"
+    },
+    "about.how.opensource": {
+        "message": "Shira — продукт с открытым кодом (лицензия MIT 2.0)."
+    },
+    "about.how.design": {
+        "message": "В проектировании и разработке Horizontal опирается на нужды пользователей с высоким риском цифровых атак."
+    },
+    "about.how.community": {
+        "message": "Shira переведена на многие языки. Участие в разработке принимают люди из группы риска."
+    },
+    "about.how.communityLink": {
+        "message": "создано совместно с пользователями из группы риска"
+    },
+    "about.how.green": {
+        "message": "Наш сайт работает на экологически чистой энергии."
+    },
+    "about.how.greenAlt": {
+        "message": "Этот сайт работает на экологичном хостинге (подтверждено thegreenwebfoundation.org)"
+    },
+    "contact.title": {
+        "message": "Свяжитесь с командой Shira"
+    },
+    "contact.description": {
+        "message": "Как связаться с командой Shira"
+    },
+    "contact.metaDescription": {
+        "message": "Как связаться с командой Shira"
+    },
+    "contact.heading": {
+        "message": "Поговорим?"
+    },
+    "contact.intro.part1": {
+        "message": "Есть вопросы о Shira, на которые не нашлось ответов в нашем"
+    },
+    "contact.intro.helpCenter": {
+        "message": "справочном центре"
+    },
+    "contact.intro.part2": {
+        "message": "? Хотите обсудить возможное сотрудничество? Вы НКО и не можете позволить себе полную стоимость Shira?"
+    },
+    "contact.getInTouch": {
+        "message": "Свяжитесь с нами:"
+    },
+    "contact.links.emailText": {
+        "message": "Напишите нам по адресу"
+    },
+    "contact.links.github": {
+        "message": "Предложите улучшение или проголосуйте за другие идеи"
+    },
+    "contact.links.demo": {
+        "message": "Договоритесь о живой демонстрации Shira"
+    },
+    "contact.links.newsletter": {
+        "message": "Подпишитесь на нашу рассылку"
+    },
+    "features.meta.title": {
+        "message": "Возможности Shira"
+    },
+    "features.meta.description": {
+        "message": "Что предлагает Shira преподавателям и специалистам по безопасности."
+    },
+    "features.meta.longDescription": {
+        "message": "Изучите функции Shira для преподавателей и экспертов по безопасности — создавайте реалистичные тесты по фишингу, моделируйте реальные атаки, отслеживайте прогресс команды и формируйте устойчивое понимание фишинга."
+    },
+    "features.intro.audience": {
+        "message": "Для педагогов и экспертов по безопасности"
+    },
+    "features.intro.title": {
+        "message": "Делайте {your1} тесты по фишингу для {your2} команды и {your3} угроз"
+    },
+    "features.intro.your1": {
+        "message": "собственные"
+    },
+    "features.intro.your2": {
+        "message": "вашей"
+    },
+    "features.intro.your3": {
+        "message": "релевантных"
+    },
+    "features.intro.pricing": {
+        "message": "Цены"
+    },
+    "features.intro.getStarted": {
+        "message": "Начать"
+    },
+    "features.images.fishAlt": {
+        "message": "Иллюстрация рыбы, символизирующей фишинг"
+    },
+    "features.images.bubblesAlt": {
+        "message": "Иллюстрация с рыбой и пузырьками"
+    },
+    "features.allFeatures.title": {
+        "message": "Всё, что нужно для безопасности вашей команды"
+    },
+    "features.allFeatures.description": {
+        "message": "Никто не знает потребности вашей команды лучше вас. Shira дает полный контроль над созданием учебных программ, адаптированных к вашим нуждам, соответствующим атакам и уровню знаний ваших коллег."
+    },
+    "features.list.ui.title": {
+        "message": "Удобный интерфейс 🎨"
+    },
+    "features.list.ui.description": {
+        "message": "Интуитивно понятная панель управления для легкой навигации и управления тестами и пользователями."
+    },
+    "features.list.roles.title": {
+        "message": "Доступ на основе ролей 🔒"
+    },
+    "features.list.roles.description": {
+        "message": "Различные уровни доступа для администраторов и учащихся."
+    },
+    "features.list.realLife.title": {
+        "message": "Симуляция реальной атаки ⚡"
+    },
+    "features.list.realLife.description": {
+        "message": "Добавьте в тесты подробности реального фишинга из работы вашей команды, чтобы лучше подготовиться."
+    },
+    "features.list.email.title": {
+        "message": "Симуляция фишинговых писем 📧"
+    },
+    "features.list.email.description": {
+        "message": "Создавайте тесты, имитирующие фишинг в Gmail и Outlook, включая данные отправителя, тему письма, содержание, ссылки, картинки и вложения."
+    },
+    "features.list.sms.title": {
+        "message": "Симуляция фишинговых SMS 💬"
+    },
+    "features.list.sms.description": {
+        "message": "Создавайте тесты, реалистично имитирующие SMS-фишинг."
+    },
+    "features.list.messaging.title": {
+        "message": "Симуляция фишинга в мессенджерах 💬"
+    },
+    "features.list.messaging.description": {
+        "message": "Создавайте тесты, имитирующие фишинг в популярных мессенджерах вроде WhatsApp и Facebook Messenger."
+    },
+    "features.list.mobile.title": {
+        "message": "Мобильная версия 📱"
+    },
+    "features.list.mobile.description": {
+        "message": "Фишинг на мобильных устройствах — частое явление. Для подготовки к реальным атакам вы можете проходить тесты на мобильной версией Shira."
+    },
+    "features.list.compliance.title": {
+        "message": "Контроль ✅"
+    },
+    "features.list.compliance.description": {
+        "message": "Убедитесь, что ваша команда действительно выполняет тесты, следите за показателями успеха."
+    },
+    "features.list.analytics.title": {
+        "message": "Аналитика 📈"
+    },
+    "features.list.analytics.description": {
+        "message": "Следите за прогрессом пользователей. Отмечайте, где нужны улучшения. Например, типы приложений, с которыми людям труднее всего, или пользователей, которым нужна дополнительная поддержка."
+    },
+    "features.list.explanations.title": {
+        "message": "Пояснения 📝"
+    },
+    "features.list.explanations.description": {
+        "message": "Добавьте собственные пояснения о признаках возможного фишинга в сообщениях и письмах."
+    },
+    "features.list.gamification.title": {
+        "message": "Геймификация 🕹️"
+    },
+    "features.list.gamification.description": {
+        "message": "Увлекательный процесс обучения помогает лучше усваивать знания."
+    },
+    "features.list.multilingual.title": {
+        "message": "Многоязычность 🌐"
+    },
+    "features.list.multilingual.description": {
+        "message": "Shira полностью доступна на английском, испанском, французском, китайском, арабском и русском языках."
+    },
+    "features.list.library.title": {
+        "message": "Библиотека вопросов 📚"
+    },
+    "features.list.library.description": {
+        "message": "Создавайте вопросы для тестов сами или посетите библиотеку Shira с шаблонами вопросов, созданными тренерами по цифровой безопасности."
+    },
+    "features.needMore.title": {
+        "message": "Не хватает какой-то функции?"
+    },
+    "features.needMore.subtitle": {
+        "message": "Свяжитесь с нами. Мы всё устроим."
+    },
+    "features.needMore.cta": {
+        "message": "Свяжитесь с нами"
+    },
+    "homepage.meta.title": {
+        "message": "Shira"
+    },
+    "homepage.meta.description": {
+        "message": "Используйте Shira, чтобы повысить способность вашей команды выявлять и отражать фишинговые атаки."
+    },
+    "homepage.meta.longDescription": {
+        "message": "Shira помогает частным лицам и организациям научиться распознавать и предотвращать фишинговые атаки без вторжения в частную жизнь. Интерактивные тесты можно настроить в форматах реальных приложений, таких как Gmail, SMS и WhatsApp, с учётом контекста и языка."
+    },
+    "homepage.hero.title": {
+        "message": "Готовность. Знания. Устойчивость."
+    },
+    "homepage.hero.subtitle": {
+        "message": "Shira помогает вашей команде научиться выявлять и отражать фишинговые атаки"
+    },
+    "homepage.learners.title": {
+        "message": "Для учащихся"
+    },
+    "homepage.learners.description": {
+        "message": "Начните прямо сейчас с одного из наших бесплатных готовых тестов. Настройте тест для распознавания фишинга в приложениях, которыми пользуетесь каждый день — Gmail, SMS, WhatsApp и т.д. — с помощью примеров, адаптированных к вашему языку и сфере деятельности."
+    },
+    "homepage.learners.cta": {
+        "message": "Пройти тест"
+    },
+    "homepage.educators.title": {
+        "message": "Для педагогов и экспертов по безопасности"
+    },
+    "homepage.educators.description": {
+        "message": "У каждой команды свои нужды и свои угрозы. Создавайте тесты по фишингу, адаптированные к нуждам вашей команды. Наблюдайте за успехом вашей команды. И никакого программирования."
+    },
+    "homepage.educators.cta": {
+        "message": "Создать тест"
+    },
+    "homepage.context.description": {
+        "message": "Уже не первый год фишинг входит в число самых распространённых угроз для частных лиц и организаций. Раньше каналом для него была лишь электронная почта, но сегодня это и SMS, и мессенджеры, и социальные сети. Поэтому так важно развивать у пользователей навыки распознавания и противодействия фишинговым атакам."
+    },
+    "homepage.context.imageAlt": {
+        "message": "изображение лупы"
+    },
+    "homepage.why.title": {
+        "message": "Почему Shira?"
+    },
+    "homepage.why.intro": {
+        "message": "Используете ли вы наши готовые бесплатные тесты или создаете тесты для обучения своей команды, Shira — это:"
+    },
+    "homepage.why.easy.title": {
+        "message": "Простота в использовании"
+    },
+    "homepage.why.easy.description": {
+        "message": "Разработано для сообществ с высоким риском фишинговых атак, даже при низком уровне технической грамотности."
+    },
+    "homepage.why.customizable.title": {
+        "message": "Настраиваемость"
+    },
+    "homepage.why.customizable.description": {
+        "message": "Реалистичные фишинговые сообщения, имитирующие реальные повседневные ситуации."
+    },
+    "homepage.why.privacy.title": {
+        "message": "Приватность"
+    },
+    "homepage.why.privacy.description": {
+        "message": "Мы не собираем и не передаем конфиденциальные или идентифицирующие данные."
+    },
+    "phishingQuizzes.meta.title": {
+        "message": "Подробнее о тестах по фишингу"
+    },
+    "phishingQuizzes.meta.description": {
+        "message": "Подробнее о тестах по фишингу"
+    },
+    "phishingQuizzes.meta.longDescription": {
+        "message": "Почему тесты по фишингу эффективнее симуляций."
+    },
+    "phishingQuizzes.education.title": {
+        "message": "Почему обучение лучше симуляции"
+    },
+    "phishingQuizzes.education.paragraph1": {
+        "message": "Симуляции фишинговых атак стали привычным делом на тренингах по противодействию фишингу. Сотрудники получают email с имитацией приёмов, которые используют киберпреступники, чтобы обманом заставить людей поделиться важной информацией или перейти по вредоносным ссылкам. Cотрудников оценивают по их реакции на эти письма, например, перешёл ли человек по ссылке, предоставил ли какие-нибудь важные данные."
+    },
+    "phishingQuizzes.education.paragraph2": {
+        "message": "Но этого подхода есть ряд недостатков. Он не так эффективен, как комплексное обучение противодействию фишингу."
+    },
+    "phishingQuizzes.education.wsjAltDesktop": {
+        "message": "Статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
+    },
+    "phishingQuizzes.education.wsjAltMobile": {
+        "message": "Статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
+    },
+    "phishingQuizzes.problem.title": {
+        "message": "Что не так с симуляциями фишинга"
+    },
+    "phishingQuizzes.problem.intro": {
+        "message": "Несмотря на широкое распространение, симуляции фишинговых атак сопряжены с рядом проблем."
+    },
+    "phishingQuizzes.problem.anxiety.title": {
+        "message": "Беспокойство и недоверие."
+    },
+    "phishingQuizzes.problem.anxiety.text": {
+        "message": "У пользователей может повыситься тревожность и недоверие к email, даже к безвредным письмам. Это может привести к снижению производительности и усилению стресса."
+    },
+    "phishingQuizzes.problem.emailFocus.title": {
+        "message": "Чрезмерный фокус на email."
+    },
+    "phishingQuizzes.problem.emailFocus.text": {
+        "message": "Многие симуляции фишинговых атак сосредоточены на угрозах, связанных с email. Прочим каналам связи (SMS, мессенджеры, социальные сети) внимания не хватает."
+    },
+    "phishingQuizzes.problem.falseSecurity.title": {
+        "message": "Ложное чувство безопасности."
+    },
+    "phishingQuizzes.problem.falseSecurity.text": {
+        "message": "Если сотрудники успешно распознают имитированные фишинговые атаки, у них может сформироваться ложное чувство безопасности."
+    },
+    "phishingQuizzes.problem.clickRates.title": {
+        "message": "Преувеличенная значимость кликов."
+    },
+    "phishingQuizzes.problem.clickRates.text": {
+        "message": "Если сосредоточиться только на том, нажимали ли сотрудники на ссылку, можно упустить из виду другие важные аспекты осведомлённости о фишинге."
+    },
+    "phishingQuizzes.problem.desensitize.title": {
+        "message": "Выработка привычки."
+    },
+    "phishingQuizzes.problem.desensitize.text": {
+        "message": "Повторяющиеся рассылки поддельных фишинговых писем могут привести к тому, что пользователи перестанут воспринимать эту угрозу всерьёз."
+    },
+    "phishingQuizzes.problem.punishment.title": {
+        "message": "Больше внимания наказанию, а не профилактике."
+    },
+    "phishingQuizzes.problem.punishment.text": {
+        "message": "Симуляции фишинга могут привести к формированию атмосферы страха, в которой пользователи будут больше заботиться о том, чтобы избежать наказания, чем о знаниях."
+    },
+    "phishingQuizzes.research.text": {
+        "message": "Исследования показывают, что имитации фишинговых атак не позволяют эффективно научить людей распознавать такие атаки."
+    },
+    "phishingQuizzes.research.link": {
+        "message": "Исследование с участием 14 тысяч человек"
+    },
+    "phishingQuizzes.research.conclusion": {
+        "message": "на самом деле продемонстрировало, что симуляция фишинга непродуктивна."
+    },
+    "phishingQuizzes.quizzes.title": {
+        "message": "Более эффективный подход: тесты по фишингу"
+    },
+    "phishingQuizzes.quizzes.description": {
+        "message": "Тесты создают контролируемую учебную среду, более эффективную для развития навыков, чем традиционные симуляции фишинговых атак."
+    },
+    "phishingQuizzes.quizzes.benefitsIntro": {
+        "message": "Вот некоторые преимущества."
+    },
+    "phishingQuizzes.benefits.controlled.title": {
+        "message": "Контролируемая учебная среда."
+    },
+    "phishingQuizzes.benefits.controlled.text": {
+        "message": "Тесты по фишингу создают безопасную среду, где сотрудники могут отработать свои навыки без риска."
+    },
+    "phishingQuizzes.benefits.interactive.title": {
+        "message": "Интерактивное вовлечение."
+    },
+    "phishingQuizzes.benefits.interactive.text": {
+        "message": "Тесты стимулируют активное участие и дают мгновенную обратную связь."
+    },
+    "phishingQuizzes.benefits.coverage.title": {
+        "message": "Обзор различных методов фишинга."
+    },
+    "phishingQuizzes.benefits.coverage.text": {
+        "message": "Тесты по фишингу могут включать сценарии SMS-фишинга, фишинга в социальных сетях и голосового фишинга."
+    },
+    "phishingQuizzes.benefits.confidence.title": {
+        "message": "Укрепление доверия."
+    },
+    "phishingQuizzes.benefits.confidence.text": {
+        "message": "Сотрудники учатся на своих ошибках в поддерживающей обстановке."
+    },
+    "phishingQuizzes.benefits.tailored.title": {
+        "message": "Индивидуальные учебные задачи."
+    },
+    "phishingQuizzes.benefits.tailored.text": {
+        "message": "Тесты можно адаптировать с учетом конкретных навыков и пробелов в знаниях."
+    },
+    "phishingQuizzes.cta": {
+        "message": "Начать работу"
+    },
+    "phishing.layout.title": {
+        "message": "Подробнее о фишинге"
+    },
+    "phishing.layout.description": {
+        "message": "Узнайте, что такое фишинг, как он работает и почему так эффективен. Познакомьтесь с распространёнными фишинговыми атаками, целями злоумышленников и серьёзными последствиями для частных лиц и организаций."
+    },
+    "phishing.meta.description": {
+        "message": "Узнайте, что такое фишинг, как он работает и почему так эффективен. Познакомьтесь с наиболее распространёнными фишинговыми атаками, целями злоумышленников и серьёзными последствиями для частных лиц и организаций."
+    },
+    "phishing.intro.title": {
+        "message": "Что такое фишинг?"
+    },
+    "phishing.intro.definition": {
+        "message": "Фишинг — злонамеренная попытка получить конфиденциальные данные, например имена пользователей, пароли и данные кредитных карт, путем маскировки под надёжную организацию в электронных коммуникациях. Фишинг также может побудить вас загрузить и установить вредоносное программное обеспечение."
+    },
+    "phishing.intro.protection": {
+        "message": "Понимание сути фишинга — первый шаг к защите себя и своей команды."
+    },
+    "phishing.images.fish.alt": {
+        "message": "Декоративная иллюстрация с изображением рыбы"
+    },
+    "phishing.common.title": {
+        "message": "Самая распространённая атака"
+    },
+    "phishing.common.rank": {
+        "message": "Фишинг неизменно считается самой распространённой атакой против частных лиц и организаций."
+    },
+    "phishing.common.channels": {
+        "message": "Обычно фишинг ассоциируется с мошенничеством по email, но современные фишеры используют разные каналы: email, SMS, мессенджеры, социальные сети, телефонные звонки."
+    },
+    "phishing.images.bubbles.alt": {
+        "message": "Декоративная иллюстрация с пузырьками"
+    },
+    "phishing.attackers.title": {
+        "message": "Чего хотят злоумышленники?"
+    },
+    "phishing.attackers.passwords.label": {
+        "message": "Пароли."
+    },
+    "phishing.attackers.passwords.text": {
+        "message": "Злоумышленники стремятся похитить пароли и логины для входа в онлайн-аккаунты людей. Дальше — мошенничество, кража данных, шантаж с угрозами обнародовать глубоко личную информацию."
+    },
+    "phishing.attackers.money.label": {
+        "message": "Деньги."
+    },
+    "phishing.attackers.money.text": {
+        "message": "Финансовая выгода — главная причина фишинга. Злоумышленники выдают себя за законные организации и обманом подталкивают людей раскрыть данные кредитных карт или за что-то заплатить. Они часто используют поддельные счета или просят пожертвовать деньги."
+    },
+    "phishing.attackers.confidential.label": {
+        "message": "Конфиденциальная информация."
+    },
+    "phishing.attackers.confidential.text": {
+        "message": "Фишинг нацелен на конфиденциальную информацию, например, составляющую коммерческую тайну. Злоумышленники могут использовать эти данные для кражи личности, продажи в даркнете или корпоративного шпионажа."
+    },
+    "phishing.attackers.malware.label": {
+        "message": "Для установки вредоносных программ."
+    },
+    "phishing.attackers.malware.text": {
+        "message": "Фишер может обманом подтолкнуть человека загрузить вредоносную программу по ссылке или через вложение. После установки эта программа может красть персональные данные, отслеживать действия пользователя или захватить контроль над устройством, что приводит к серьёзным утечкам данных."
+    },
+    "phishing.why.title": {
+        "message": "Почему фишинг так успешен?"
+    },
+    "phishing.why.intro": {
+        "message": "Вот несколько человеческих качеств, которыми пользуются злоумышленники."
+    },
+    "phishing.why.polite.label": {
+        "message": "Стремление быть вежливым."
+    },
+    "phishing.why.polite.text": {
+        "message": "Люди часто чувствуют себя обязанными отвечать на сообщения представителей власти или доверенных источников. Фишеры пользуются этим, используя вежливый тон. Адресаты скорее соглашаются предоставить конфиденциальную информацию, не задумываясь о подлинности сообщения."
+    },
+    "phishing.why.helpful.label": {
+        "message": "Желание помочь."
+    },
+    "phishing.why.helpful.text": {
+        "message": "Многие из нас по натуре стремятся помогать другим. Фишеры придумывают истории, которые взывают к помощи. Например, говорят, что коллега или родственник попал в беду. В результате человек может думать, что помогает, а на деле раскрывает личную информацию."
+    },
+    "phishing.why.embarrassed.label": {
+        "message": "Боязнь оказаться в неловком положении."
+    },
+    "phishing.why.embarrassed.text": {
+        "message": "Фишеры пугают людей, например, заявляя, что адресат ошибся и пропустил платёж. Это может подтолкнуть человека к поспешным действиям, часто без проверки источника сообщения, что плохо для безопасности."
+    },
+    "phishing.why.urgent.label": {
+        "message": "Паника из-за срочности."
+    },
+    "phishing.why.urgent.text": {
+        "message": "Спешка — сильный мотиватор. Фишеры составляют сообщения, напирая на срочность. Например, они говорят, что аккаунт будет заблокирован. Возникшая паника способна затуманить рассудок. Люди не обращают внимание на тревожные сигналы и действуют импульсивно."
+    },
+    "phishing.consequences.title": {
+        "message": "Фишинговые атаки могут привести к серьёзным последствиям"
+    },
+    "phishing.consequences.identity.label": {
+        "message": "Кража личности."
+    },
+    "phishing.consequences.identity.text": {
+        "message": "Киберпреступники могут использовать ваши персональные данные, чтобы выдать себя за вас."
+    },
+    "phishing.consequences.financial.label": {
+        "message": "Финансовые убытки."
+    },
+    "phishing.consequences.financial.text": {
+        "message": "Несанкционированные транзакции могут опустошить ваши счета."
+    },
+    "phishing.consequences.data.label": {
+        "message": "Утечки данных."
+    },
+    "phishing.consequences.data.text": {
+        "message": "Утечка сенситивных данных о компании в открытый доступ может нанести ущерб репутации."
+    },
+    "phishing.consequences.operational.label": {
+        "message": "Сбой в работе."
+    },
+    "phishing.consequences.operational.text": {
+        "message": "Фишинг может привести к простоям и снижению производительности."
+    },
+    "phishing.images.worm.alt": {
+        "message": "Декоративная иллюстрация червя"
+    },
+    "phishing.how.title": {
+        "message": "Как работает фишинг"
+    },
+    "phishing.how.intro": {
+        "message": "Фишинговые атаки часто включают следующие этапы."
+    },
+    "phishing.how.deceptive.label": {
+        "message": "Выход на связь и обман."
+    },
+    "phishing.how.deceptive.text": {
+        "message": "Злоумышленник присылает сообщение как будто от легитимного источника — банка, онлайн-сервиса, даже коллеги."
+    },
+    "phishing.how.urgent.label": {
+        "message": "Призыв к срочному действию."
+    },
+    "phishing.how.urgent.text": {
+        "message": "Сообщение обычно выглядит как срочное и побуждает адресата действовать незамедлительно — например, перейти по ссылке или сообщить персональные данные."
+    },
+    "phishing.how.fake.label": {
+        "message": "Поддельный сайт."
+    },
+    "phishing.how.fake.text": {
+        "message": "Если человек нажимает ссылку, он, скорее всего, перейдёт на мошеннический сайт, внешне похожий на настоящий. Там ему могут предложить ввести важные данные, такие как пароль или банковские реквизиты."
+    },
+    "phishing.how.data.label": {
+        "message": "Кража данных."
+    },
+    "phishing.how.data.text": {
+        "message": "Как только человек раскроет свои данные, злоумышленник может использовать их для кражи личности, финансового мошенничества или в других злонамеренных целях."
+    },
+    "pricing.layout.title": {
+        "message": "Цены Shira"
+    },
+    "pricing.layout.description": {
+        "message": "У Shira есть простые и понятные тарифные планы для преподавателей, экспертов по безопасности и организаций. «Free», «Pro», «Enterprise» — наши планы с настраиваемыми тестами по фишингу и инструментами с фокусом на приватности."
+    },
+    "pricing.meta.description": {
+        "message": "У Shira есть простые и понятные тарифные планы для преподавателей, экспертов по безопасности и организаций. «Free», «Pro», «Enterprise» — наши планы с настраиваемыми тестами по фишингу и инструментами с фокусом на приватности."
+    },
+    "pricing.intro.subtitle": {
+        "message": "Индивидуальные планы для преподавателей и экспертов по безопасности"
+    },
+    "pricing.intro.title": {
+        "message": "Просто, прозрачно, справедливо"
+    },
+    "pricing.starter.title": {
+        "message": "Starter"
+    },
+    "pricing.starter.description": {
+        "message": "Попробовать и познакомиться с Shira"
+    },
+    "pricing.starter.price": {
+        "message": "0$"
+    },
+    "pricing.starter.note": {
+        "message": "Бесплатно, без каких-либо обязательств"
+    },
+    "pricing.cta.getStarted": {
+        "message": "Выбрать"
+    },
+    "pricing.starter.includes": {
+        "message": "В тарифный план «Starter» входит:"
+    },
+    "pricing.admin.title": {
+        "message": "Администрирование"
+    },
+    "pricing.admin.cloud": {
+        "message": "✔️ Облако"
+    },
+    "pricing.admin.dashboard": {
+        "message": "✔️ Панель администратора"
+    },
+    "pricing.admin.oneAdmin": {
+        "message": "✔️ 1 администратор"
+    },
+    "pricing.customization.title": {
+        "message": "Настройки"
+    },
+    "pricing.customization.questions": {
+        "message": "✔️ Полностью настраиваемые вопросы теста"
+    },
+    "pricing.customization.library": {
+        "message": "✔️ Доступ к библиотеке вопросов"
+    },
+    "pricing.customization.quizzes": {
+        "message": "✔️ До 3 настраиваемых тестов"
+    },
+    "pricing.customization.questionsPerQuiz": {
+        "message": "✔️ Неограниченное число вопросов для теста"
+    },
+    "pricing.customization.limit": {
+        "message": ""
+    },
+    "pricing.customization.apps": {
+        "message": "✔️ 6 приложений: Gmail, Outlook, SMS, WhatsApp, Messenger, приложение для знакомств"
+    },
+    "pricing.access.title": {
+        "message": "Контроль доступа"
+    },
+    "pricing.access.public": {
+        "message": "✔️ Открытые тесты: доступно всем по ссылке, которой легко делиться"
+    },
+    "pricing.pro.title": {
+        "message": "Pro"
+    },
+    "pricing.pro.description": {
+        "message": "Все возможности Shira"
+    },
+    "pricing.pro.price": {
+        "message": "39$/мес + 1$/тест"
+    },
+    "pricing.pro.billing": {
+        "message": " при оплате за год или 49$/мес. + 1$ за каждый тест при ежемесячной оплате"
+    },
+    "pricing.pro.includes": {
+        "message": "План «Pro» включает:"
+    },
+    "pricing.admin.unlimitedSoon": {
+        "message": "✔️ Неограниченное число администраторов [скоро]"
+    },
+    "pricing.pro.unlimitedQuizzes": {
+        "message": "✔️ Неограниченное число настраиваемых тестов"
+    },
+    "pricing.pro.unlimitedQuestions": {
+        "message": "✔️ Неограниченное число вопросов для теста"
+    },
+    "pricing.pro.limit": {
+        "message": ""
+    },
+    "pricing.pro.apps": {
+        "message": "✔️ 6 приложений: Gmail, Outlook, SMS, WhatsApp, Messenger, приложение для знакомств"
+    },
+    "pricing.access.private": {
+        "message": "✔️ Закрытые тесты: доступно только вашим пользователям"
+    },
+    "pricing.compliance.title": {
+        "message": "Контроль"
+    },
+    "pricing.compliance.track": {
+        "message": "✔️ Базовая аналитика для контроля результатов тестов"
+    },
+    "pricing.compliance.tools": {
+        "message": "✔️ Инструменты для анализа и контроля [скоро]"
+    },
+    "pricing.pro.note": {
+        "message": ""
+    },
+    "pricing.enterprise.title": {
+        "message": "Enterprise"
+    },
+    "pricing.enterprise.description": {
+        "message": "Для крупных организаций и провайдеров услуг"
+    },
+    "pricing.enterprise.price": {
+        "message": "Договорные цены"
+    },
+    "pricing.enterprise.note": {
+        "message": "Тарифы только для вас"
+    },
+    "pricing.enterprise.includes": {
+        "message": "План «Enterprise» включает:"
+    },
+    "pricing.enterprise.deployment": {
+        "message": "✔️ В облаке или на своём сервере"
+    },
+    "pricing.admin.unlimited": {
+        "message": "✔️ Неограниченное число администраторов"
+    },
+    "pricing.enterprise.unlimitedQuizzes": {
+        "message": "✔️ Неограниченное число настраиваемых тестов"
+    },
+    "pricing.enterprise.unlimitedQuestions": {
+        "message": "✔️ Неограниченное число вопросов для тестов"
+    },
+    "pricing.enterprise.customLimit": {
+        "message": "✔️ Настраиваемое число тестов"
+    },
+    "pricing.enterprise.support": {
+        "message": "Индивидуальная поддержка"
+    },
+    "pricing.enterprise.training": {
+        "message": "✔️ Индивидуальное обучение пользователей"
+    },
+    "pricing.enterprise.priority": {
+        "message": "✔️ Приоритетная поддержка"
+    },
+    "theme.ErrorPageContent.title": {
+        "message": "Ошибка загрузки.",
+        "description": "The title of the fallback page when the page crashed"
+    },
+    "theme.BackToTopButton.buttonAriaLabel": {
+        "message": "Вернуться в начало",
+        "description": "The ARIA label for the back to top button"
+    },
+    "theme.blog.archive.title": {
+        "message": "Архив",
+        "description": "The page & hero title of the blog archive page"
+    },
+    "theme.blog.archive.description": {
+        "message": "Архив",
+        "description": "The page & hero description of the blog archive page"
+    },
+    "theme.blog.paginator.navAriaLabel": {
+        "message": "Навигация по странице списка блогов",
+        "description": "The ARIA label for the blog pagination"
+    },
+    "theme.blog.paginator.newerEntries": {
+        "message": "Последние записи",
+        "description": "The label used to navigate to the newer blog posts page (previous page)"
+    },
+    "theme.blog.paginator.olderEntries": {
+        "message": "Предыдущие записи",
+        "description": "The label used to navigate to the older blog posts page (next page)"
+    },
+    "theme.blog.post.paginator.navAriaLabel": {
+        "message": "Навигация по страницам блога",
+        "description": "The ARIA label for the blog posts pagination"
+    },
+    "theme.blog.post.paginator.newerPost": {
+        "message": "Следующее сообщение",
+        "description": "The blog post button label to navigate to the newer/previous post"
+    },
+    "theme.blog.post.paginator.olderPost": {
+        "message": "Предыдущее сообщение",
+        "description": "The blog post button label to navigate to the older/next post"
+    },
+    "theme.tags.tagsPageLink": {
+        "message": "Показать все теги",
+        "description": "The label of the link targeting the tag list page"
+    },
+    "theme.docs.breadcrumbs.navAriaLabel": {
+        "message": "Навигация",
+        "description": "The ARIA label for the breadcrumbs"
+    },
+    "theme.colorToggle.ariaLabel.mode.system": {
+        "message": "системный режим",
+        "description": "The name for the system color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.light": {
+        "message": "светлый режим",
+        "description": "The name for the light color mode"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark": {
+        "message": "тёмный режим",
+        "description": "The name for the dark color mode"
+    },
+    "theme.colorToggle.ariaLabel": {
+        "message": "Переключение между тёмным и светлым режимами (в данный момент {mode})",
+        "description": "The ARIA label for the color mode toggle"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "1 объект | Объектов: {count}",
+        "description": "The default description for a category card in the generated index about how many items this category includes"
+    },
+    "theme.docs.paginator.navAriaLabel": {
+        "message": "Страницы документации",
+        "description": "The ARIA label for the docs pagination"
+    },
+    "theme.docs.paginator.previous": {
+        "message": "Пред.",
+        "description": "The label used to navigate to the previous doc"
+    },
+    "theme.docs.paginator.next": {
+        "message": "След.",
+        "description": "The label used to navigate to the next doc"
+    },
+    "theme.docs.tagDocListPageTitle.nDocsTagged": {
+        "message": "Один документ с тегом|Документов с тегом: {count}",
+        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.tagDocListPageTitle": {
+        "message": "{nDocsTagged} с тегом «{tagName}»",
+        "description": "The title of the page for a docs tag"
+    },
+    "theme.docs.versionBadge.label": {
+        "message": "Версия: {versionLabel}"
+    },
+    "theme.docs.versions.unreleasedVersionLabel": {
+        "message": "Это неопубликованная документация для версии {siteTitle} {versionLabel}.",
+        "description": "The label used to tell the user that he's browsing an unreleased doc version"
+    },
+    "theme.docs.versions.unmaintainedVersionLabel": {
+        "message": "Это документация по {siteTitle} {versionLabel}, которая больше не поддерживается.",
+        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+    },
+    "theme.docs.versions.latestVersionSuggestionLabel": {
+        "message": "Актуальную документацию см. по ссылке {latestVersionLink} ({versionLabel}).",
+        "description": "The label used to tell the user to check the latest version"
+    },
+    "theme.docs.versions.latestVersionLinkLabel": {
+        "message": "последняя версия",
+        "description": "The label used for the latest version suggestion link label"
+    },
+    "theme.common.editThisPage": {
+        "message": "Редактировать эту страницу",
+        "description": "The link label to edit the current page"
+    },
+    "theme.common.headingLinkTitle": {
+        "message": "Прямая ссылка на {заголовок}",
+        "description": "Title for link to heading"
+    },
+    "theme.lastUpdated.atDate": {
+        "message": " версия от {date}",
+        "description": "The words used to describe on which date a page has been last updated"
+    },
+    "theme.lastUpdated.byUser": {
+        "message": " от {user}",
+        "description": "The words used to describe by who the page has been last updated"
+    },
+    "theme.lastUpdated.lastUpdatedAtBy": {
+        "message": "Последнее обновление: {atDate} {byUser}",
+        "description": "The sentence used to display when a page has been last updated, and by who"
+    },
+    "theme.NotFound.title": {
+        "message": "Страница не найдена",
+        "description": "The title of the 404 page"
+    },
+    "theme.navbar.mobileVersionsDropdown.label": {
+        "message": "Версии",
+        "description": "The label for the navbar versions dropdown on mobile view"
+    },
+    "theme.tags.tagsListLabel": {
+        "message": "Теги:",
+        "description": "The label alongside a tag list"
+    },
+    "theme.AnnouncementBar.closeButtonAriaLabel": {
+        "message": "Закрыть",
+        "description": "The ARIA label for close button of announcement bar"
+    },
+    "theme.admonition.caution": {
+        "message": "внимание",
+        "description": "The default label used for the Caution admonition (:::caution)"
+    },
+    "theme.admonition.danger": {
+        "message": "опасность",
+        "description": "The default label used for the Danger admonition (:::danger)"
+    },
+    "theme.admonition.info": {
+        "message": "информация",
+        "description": "The default label used for the Info admonition (:::info)"
+    },
+    "theme.admonition.note": {
+        "message": "примечание",
+        "description": "The default label used for the Note admonition (:::note)"
+    },
+    "theme.admonition.tip": {
+        "message": "совет",
+        "description": "The default label used for the Tip admonition (:::tip)"
+    },
+    "theme.admonition.warning": {
+        "message": "предупреждение",
+        "description": "The default label used for the Warning admonition (:::warning)"
+    },
+    "theme.blog.sidebar.navAriaLabel": {
+        "message": "Навигация по последним записям блога",
+        "description": "The ARIA label for recent posts in the blog sidebar"
+    },
+    "theme.DocSidebarItem.expandCategoryAriaLabel": {
+        "message": "Развернуть боковую панель категории «{label}»",
+        "description": "The ARIA label to expand the sidebar category"
+    },
+    "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+        "message": "Свернуть боковую панель категории «{label}»",
+        "description": "The ARIA label to collapse the sidebar category"
+    },
+    "theme.IconExternalLink.ariaLabel": {
+        "message": "(откроется в новой вкладке)",
+        "description": "The ARIA label for the external link icon"
+    },
+    "theme.NavBar.navAriaLabel": {
+        "message": "Главная",
+        "description": "The ARIA label for the main navigation"
+    },
+    "theme.NotFound.p1": {
+        "message": "Мы не смогли найти то, что вы искали.",
+        "description": "The first paragraph of the 404 page"
+    },
+    "theme.NotFound.p2": {
+        "message": "Пожалуйста, свяжитесь с владельцем сайта, откуда вы перешли по ссылке, и сообщите ему, что ссылка не работает.",
+        "description": "The 2nd paragraph of the 404 page"
+    },
+    "theme.TOCCollapsible.toggleButtonLabel": {
+        "message": "На этой странице",
+        "description": "The label used by the button on the collapsible TOC component"
+    },
+    "theme.navbar.mobileLanguageDropdown.label": {
+        "message": "Языки",
+        "description": "The label for the mobile language switcher dropdown"
+    },
+    "theme.blog.post.readMore": {
+        "message": "Подробнее",
+        "description": "The label used in blog post item excerpts to link to full blog posts"
+    },
+    "theme.blog.post.readMoreLabel": {
+        "message": "Подробнее о {title}",
+        "description": "The ARIA label for the link to full blog posts from excerpts"
+    },
+    "theme.blog.post.readingTime.plurals": {
+        "message": "Время чтения: 1 мин | Время чтения: {readingTime} мин",
+        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.docs.breadcrumbs.home": {
+        "message": "Главная",
+        "description": "The ARIA label for the home page in the breadcrumbs"
+    },
+    "theme.CodeBlock.copy": {
+        "message": "Копировать",
+        "description": "The copy button label on code blocks"
+    },
+    "theme.CodeBlock.copied": {
+        "message": "Скопировано",
+        "description": "The copied button label on code blocks"
+    },
+    "theme.CodeBlock.copyButtonAriaLabel": {
+        "message": "Скопировать код в буфер обмена",
+        "description": "The ARIA label for copy code blocks button"
+    },
+    "theme.CodeBlock.wordWrapToggle": {
+        "message": "Включить/выключить перенос слов",
+        "description": "The title attribute for toggle word wrapping button of code block lines"
+    },
+    "theme.docs.sidebar.collapseButtonTitle": {
+        "message": "Свернуть боковую панель",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.collapseButtonAriaLabel": {
+        "message": "Свернуть боковую панель",
+        "description": "The title attribute for collapse button of doc sidebar"
+    },
+    "theme.docs.sidebar.navAriaLabel": {
+        "message": "Боковая панель «Документы»",
+        "description": "The ARIA label for the sidebar navigation"
+    },
+    "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+        "message": "Свернуть панель навигации",
+        "description": "The ARIA label for close button of mobile sidebar"
+    },
+    "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+        "message": "Отключить панель навигации",
+        "description": "The ARIA label for hamburger menu button of mobile navigation"
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+        "message": "← В главное меню",
+        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+        "message": "Развернуть список",
+        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+        "message": "Свернуть список",
+        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+    },
+    "theme.docs.sidebar.expandButtonTitle": {
+        "message": "Развернуть боковую панель",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.docs.sidebar.expandButtonAriaLabel": {
+        "message": "Развернуть боковую панель",
+        "description": "The ARIA label and title attribute for expand button of doc sidebar"
+    },
+    "theme.SearchBar.noResultsText": {
+        "message": "Результатов нет"
+    },
+    "theme.SearchBar.seeAllOutsideContext": {
+        "message": "Все результаты за пределами «{context}»"
+    },
+    "theme.SearchBar.searchInContext": {
+        "message": "Все результаты по запросу «{context}»"
+    },
+    "theme.SearchBar.seeAll": {
+        "message": "Все результаты"
+    },
+    "theme.SearchBar.label": {
+        "message": "Поиск",
+        "description": "The ARIA label and placeholder for search button"
+    },
+    "theme.SearchPage.existingResultsTitle": {
+        "message": "Результаты поиска по запросу «{query}»",
+        "description": "The search page title for non-empty query"
+    },
+    "theme.SearchPage.emptyResultsTitle": {
+        "message": "Поиск по документации",
+        "description": "The search page title for empty query"
+    },
+    "theme.SearchPage.searchContext.everywhere": {
+        "message": "Везде"
+    },
+    "theme.SearchPage.documentsFound.plurals": {
+        "message": "Найден 1 документ|Документов найдено: {count}",
+        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.SearchPage.noResultsText": {
+        "message": "Документы не найдены",
+        "description": "The paragraph for empty search result"
+    },
+    "theme.blog.post.plurals": {
+        "message": "Одна публикация|Публикаций: {count}",
+        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+    },
+    "theme.blog.tagTitle": {
+        "message": "{nPosts} с тегом «{tagName}»",
+        "description": "The title of the page for a blog tag"
+    },
+    "theme.blog.author.pageTitle": {
+        "message": "{authorName} - {nPosts}",
+        "description": "The title of the page for a blog author"
+    },
+    "theme.blog.authorsList.pageTitle": {
+        "message": "Авторы",
+        "description": "The title of the authors page"
+    },
+    "theme.blog.authorsList.viewAll": {
+        "message": "Показать всех авторов",
+        "description": "The label of the link targeting the blog authors page"
+    },
+    "theme.blog.author.noPosts": {
+        "message": "У этого автора пока нет публикаций.",
+        "description": "The text for authors with 0 blog post"
+    },
+    "theme.contentVisibility.unlistedBanner.title": {
+        "message": "Неиндексированная страница",
+        "description": "The unlisted content banner title"
+    },
+    "theme.contentVisibility.unlistedBanner.message": {
+        "message": "Это неиндексированная страница. Поисковые системы не будут её учитывать. Доступ к ней имеют только те, у кого есть прямая ссылка.",
+        "description": "The unlisted content banner message"
+    },
+    "theme.contentVisibility.draftBanner.title": {
+        "message": "Черновик",
+        "description": "The draft content banner title"
+    },
+    "theme.contentVisibility.draftBanner.message": {
+        "message": "Эта страница — черновик. Она будет доступна только для разработчиков и не войдёт в финальную версию.",
+        "description": "The draft content banner message"
+    },
+    "theme.ErrorPageContent.tryAgain": {
+        "message": "Попробуйте снова",
+        "description": "The label of the button to try again rendering when the React error boundary captures an error"
+    },
+    "theme.common.skipToMainContent": {
+        "message": "Перейти к основному содержанию",
+        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+    },
+    "theme.tags.tagsPageTitle": {
+        "message": "Теги",
+        "description": "The title of the tag list page"
+    },
+    "phishingQuizzes.wsj.alt": {
+        "message": "статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
+    },
+    "phishingQuizzes.wsjMobile.alt": {
+        "message": "статья из «Уолл-стрит джорнал»: «Тесты на фишинг, проклятие всякого сотрудника, становятся всё более изощрёнными» — По мнению исследователей уловки, призванные научить доверчивых сотрудников распознавать онлайновые угрозы, неэффективны"
+    },
+    "phishingQuizzes.research.emphasis": {
+        "message": "контрпродуктивный"
+    },
+    "phishingQuizzes.research.final": {
+        "message": "эффект от симуляций фишинговых атак: пользователи, которые постоянно сталкиваются с симуляциями фишинговых атак, скорее переходят по опасным ссылкам."
+    },
+    "pricing.compliance.detailed": {
+        "message": "✔️ Подробная аналитика для контроля результатов учащихся и уровня сложности вопросов"
+    }
+}

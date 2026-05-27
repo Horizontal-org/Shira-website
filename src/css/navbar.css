@@ -26,7 +26,11 @@
   
   background-color: var(--ifm-color-primary);
   color: var(--ifm-color-primary-lightest);
-
+  
+  /*if not set explicitly the color gets overwritten*/
+  &:hover {
+    color: var(--ifm-color-primary-lightest);
+  }
 }
 
 .navbar a:active {
