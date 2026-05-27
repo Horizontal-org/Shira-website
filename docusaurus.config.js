@@ -68,23 +68,12 @@ const config = {
         theme: {
           customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
+        gtag: {
+          trackingID: 'AW-536484387',
+          anonymizeIP: true,
+        },
       }),
     ],
-  ],
-
-  scripts: [
-    {
-      src: 'https://www.googletagmanager.com/gtag/js?id=AW-536484387',
-      async: true,
-    },
-    {
-      inlineScript: `
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'AW-536484387');
-      `,
-    },
   ],
 
    themes: [
