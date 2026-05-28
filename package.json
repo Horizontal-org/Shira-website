@@ -2,7 +2,8 @@
     "name": "shira-webstie",
     "version": "0.0.0",
     "private": true,
-    "scripts": {
+    "scripts":
+    {
         "docusaurus": "docusaurus",
         "start": "docusaurus start",
         "build": "docusaurus build",
@@ -13,7 +14,8 @@
         "write-translations": "docusaurus write-translations",
         "write-heading-ids": "docusaurus write-heading-ids"
     },
-    "dependencies": {
+    "dependencies":
+    {
         "@docusaurus/core": "^3.10.0",
         "@docusaurus/preset-classic": "^3.10.0",
         "@easyops-cn/docusaurus-search-local": "^0.52.1",
@@ -29,30 +31,37 @@
         "sass": "^1.89.2",
         "styled-components": "^6.4.1"
     },
-    "devDependencies": {
+    "devDependencies":
+    {
         "@docusaurus/faster": "^3.10.0",
         "@docusaurus/module-type-aliases": "^3.10.0",
         "@docusaurus/types": "^3.10.0"
     },
-    "browserslist": {
-        "production": [
+    "browserslist":
+    {
+        "production":
+        [
             ">0.5%",
             "not dead",
             "not op_mini all"
         ],
-        "development": [
+        "development":
+        [
             "last 3 chrome version",
             "last 3 firefox version",
             "last 5 safari version"
         ]
     },
-    "engines": {
+    "engines":
+    {
         "node": ">=18.0"
     },
-    "overrides": {
+    "overrides":
+    {
         "webpackbar": "^7.0.0"
     },
-    "resolutions": {
+    "resolutions":
+    {
         "webpackbar": "^7.0.0"
     }
 }

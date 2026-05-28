@@ -91,6 +91,10 @@ const config = {
         theme: {
           customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
+        gtag: {
+          trackingID: 'AW-536484387',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
