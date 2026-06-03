@@ -1140,5 +1140,8 @@
   },
   "view_plans.comparison.values.support.enterprise": {
     "message": "Dedicated enterprise support"
+  },
+  "homepage.hero.cta": {
+    "message": "Get started"
   }
 }
