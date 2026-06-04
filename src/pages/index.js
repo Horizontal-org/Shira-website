@@ -49,6 +49,10 @@ export default function Home() {
               Shira builds your team&apos;s ability to identify and defeat phishing attacks
             </Translate>
           </p>
+          <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">
+            <Translate id="homepage.hero.cta">Get started</Translate>
+          </Link>
+
         </section>
 
         <section className={classNames(global.row, styles.twoColumns)}>
