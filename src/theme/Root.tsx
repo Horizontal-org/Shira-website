@@ -1,6 +1,12 @@
 import React from 'react';
-import { ThemeProvider } from 'styled-components';
+import { ThemeProvider, createGlobalStyle } from 'styled-components';
 import { defaultTheme } from '@horizontal-org/shira-ui';
+
+const DarkModeButtonFix = createGlobalStyle`
+  [data-theme='dark'] button {
+    color: white;
+  }
+`;
 
 const theme = {
   ...defaultTheme,
@@ -27,6 +33,7 @@ const theme = {
 export default function Root({ children }: { children: React.ReactNode }) {
   return (
     <ThemeProvider theme={theme}>
+      <DarkModeButtonFix />
       {children}
     </ThemeProvider>
   );
