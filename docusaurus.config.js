@@ -135,10 +135,9 @@ const config = {
             position: 'left',
           },
           {
-            to: quizBaseURL,
-            sidebarId: 'takeQuizSidebar',
+            to: '/pricing',
+            label: 'Pricing',
             position: 'left',
-            label: 'Take a quiz',
           },
           {
             type: 'dropdown',
@@ -153,35 +152,43 @@ const config = {
                 label: 'Why phishing quizzes?',
                 to: '/phishing-quizzes',
               },
+              {
+                to: quizBaseURL,
+                sidebarId: 'takeQuizSidebar',
+                label: 'Take a quiz',
+              },
             ],
           },
           {
-            to: '/pricing',
-            label: 'Pricing',
-            position: 'left',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'HelpSidebar',
-            position: 'left',
+            type: 'dropdown',
             label: 'Help',
-          },
-          {
-            to: '/about',
-            label: 'About',
             position: 'left',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'HelpSidebar',
+                label: 'Visit our help center',
+              },
+              {
+                to: '/about',
+                label: 'About',
+              },
+              {
+                label: 'Contact us',
+                to: '/contact',
+              },
+            ],
           },
-
-          /* {
-            type: 'localeDropdown',
-            position: 'right',
-          },*/
 
           {
             to: `${signupFormUrl}?plan=starter`,
             label: 'Sign up/Log in',
             position: 'right',
             className: 'button',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             type: 'search',
