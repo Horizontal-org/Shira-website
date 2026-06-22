@@ -1302,5 +1302,8 @@
     },
     "view_plans.comparison.rows.number_of_admins": {
         "message": ""
+    },
+    "homepage.hero.cta": {
+        "message": "Начать"
     }
 }
