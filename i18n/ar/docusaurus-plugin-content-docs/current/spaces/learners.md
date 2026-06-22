@@ -1,8 +1,8 @@
 ---
 id: learners
 slug: /learners
-sidebar_position: 4
-description: التعرف على المتعلمين في Shira، سواء كانوا مشاركين مجهولين يختبرون وعيهم بالتصيد الاحتيالي، أو متعلمين مسجلين لتتبع نتائج الاختبارات الخاصة.
+sidebar_position: 5
+description: Learn about Shira learners — anonymous participants who take quizzes to test phishing awareness, or registered learners for private quiz tracking.
 
 ---
 
@@ -14,7 +14,7 @@ description: التعرف على المتعلمين في Shira، سواء كان
 * المتعلمون المجهولون
 * المتعلمون المسجلون
 
-### المتعلمون المجهولون {#anonymous}
+### Anonymous learners {/* #anonymous */}
 المتعلمون المجهولون هم مستخدمون *غير مسجلين* في مساحة Shira. المتعلمون
 المجهولون:
 * يمكنكم إنجاز [اختبارات عمومية](/quizzes#privacy) أو [اختبارات
@@ -22,7 +22,7 @@ description: التعرف على المتعلمين في Shira، سواء كان
 * لا يمكن إنجاز [اختبارات خاصة](/quizzes#privacy).
 * لا يمكن تحديده في [نتائج الاختبار](/results).
 
-### المتعلمون المسجلون {#registered}
+### Registered learners {/* #registered */}
 المتعلمون المسجلون هم المستخدمون الذين دعوتهم للانضمام إلى مساحتكم ثم قبلوا
 الدعوة. المتعلمون المسجلون:
 * يمكن إجراء [اختبارات خاصة](/quizzes#privacy).
