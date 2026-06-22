@@ -28,5 +28,11 @@
     },
     "item.label.Why phishing quizzes?": {
         "message": "Pourquoi des quiz sur l'hameçonnage ?"
+    },
+    "item.label.Contact us": {
+        "message": ""
+    },
+    "item.label.Visit our help center": {
+        "message": ""
     }
 }
