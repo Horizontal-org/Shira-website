@@ -1119,5 +1119,188 @@
     },
     "pricing.compliance.detailed": {
         "message": "✔️إحصاءات مفصلة لتتبع نتائج حسب المتعلم والأسئلة"
+    },
+    "view_plans.comparison.rows.custom_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.apps_available": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.customizable_questions": {
+        "message": ""
+    },
+    "view_plans.plans.starter.price": {
+        "message": ""
+    },
+    "view_plans.comparison.values.number_of_admins.enterprise": {
+        "message": ""
+    },
+    "view_plans.comparison.values.custom_quizzes.enterprise": {
+        "message": ""
+    },
+    "view_plans.plans.starter.title": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.support": {
+        "message": ""
+    },
+    "view_plans.comparison.values.support.enterprise": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.apps_available": {
+        "message": ""
+    },
+    "view_plans.comparison.values.cloud": {
+        "message": ""
+    },
+    "view_plans.comparison.compliance": {
+        "message": ""
+    },
+    "view_plans.plans.pro.price": {
+        "message": ""
+    },
+    "view_plans.plans.starter.cta": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.custom_quizzes": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.cta": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.customizable_questions": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.public_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.hosting": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.private_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.admin_management": {
+        "message": ""
+    },
+    "view_plans.comparison.access_control": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.analysis_tools": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.question_library": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.support": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.hosting": {
+        "message": ""
+    },
+    "view_plans.comparison.customer_support": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.detailed_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.preparedness_report": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.preparedness_report": {
+        "message": ""
+    },
+    "view_plans.comparison.values.tailor_made_training.enterprise": {
+        "message": ""
+    },
+    "view_plans.plans.starter.description": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.admin_dashboard": {
+        "message": ""
+    },
+    "view_plans.comparison.values.support.pro": {
+        "message": ""
+    },
+    "view_plans.plans.pro.cta": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.number_of_admins": {
+        "message": ""
+    },
+    "view_plans.comparison.values.cloud_on_premise": {
+        "message": ""
+    },
+    "view_plans.comparison.values.number_of_admins.pro": {
+        "message": ""
+    },
+    "view_plans.plans.pro.title": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.analysis_tools": {
+        "message": ""
+    },
+    "view_plans.plans.pro.description": {
+        "message": ""
+    },
+    "view_plans.comparison.customization": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.title": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.tailor_made_training": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.description": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.phishing_readiness_assessment": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.basic_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.admin_dashboard": {
+        "message": ""
+    },
+    "view_plans.comparison.values.custom_quizzes.free": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.detailed_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.public_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.private_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.tailor_made_training": {
+        "message": ""
+    },
+    "view_plans.comparison.values.number_of_admins.free": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.phishing_readiness_assessment": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.question_library": {
+        "message": ""
+    },
+    "view_plans.learn_more": {
+        "message": ""
+    },
+    "view_plans.comparison.values.custom_quizzes.pro": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.price": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.basic_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.number_of_admins": {
+        "message": ""
     }
 }
