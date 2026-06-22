@@ -12,7 +12,7 @@
         "message": "Découvrez Shira et l'équipe qui se cache derrière ce projet — une initiative d'Horizontal, association à but non lucratif qui développe des outils destinés à protéger la sécurité et la vie privée, pour aider particuliers et organisations à se défendre contre les attaques d'hameçonnage."
     },
     "about.hero.subtitle": {
-        "message": "Aider les individus et les organisations   à renforcer leur résilience face aux attaques de phishing"
+        "message": "Aider les individus et les organisations   à renforcer leur résilience face aux attaques d'hameçonnage"
     },
     "about.hero.cta": {
         "message": "Prendre contact"
@@ -393,7 +393,7 @@
         "message": "Une étude portant sur 14 000 participants et participantes"
     },
     "phishingQuizzes.research.conclusion": {
-        "message": "ont en réalité révélé qu'elles avaient un effet contre-productif."
+        "message": "a en réalité révélé un effet contre-productif des simulations d'hameçonnage."
     },
     "phishingQuizzes.quizzes.title": {
         "message": "Une approche plus efficace : les quiz sur l'hameçonnage"
@@ -591,10 +591,10 @@
         "message": "Les tarifs de Shira"
     },
     "pricing.layout.description": {
-        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs, les professionnels de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz de phishing personnalisables et des outils de gestion respectueux de la vie privée."
+        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs/ éducatrices, les professionnels/ professionnelles de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz de phishing personnalisables et des outils de gestion respectueux de la vie privée."
     },
     "pricing.meta.description": {
-        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs, les professionnels de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz de phishing personnalisables et des outils de gestion respectueux de la vie privée."
+        "message": "Découvrez les offres tarifaires simples et transparentes de Shira pour les éducateurs/ éducatrices, les professionnels/ professionnelles de la sécurité et les organisations. Choisissez entre les options Free, Pro ou Enterprise avec des quiz personnalisables sur l'hameçonnage et des outils de gestion respectueux de la vie privée."
     },
     "pricing.intro.subtitle": {
         "message": "Des plans sur mesure pour les éducateurs et les professionnels de la sécurité"
@@ -1023,6 +1023,189 @@
         "message": "contre-productif"
     },
     "phishingQuizzes.research.final": {
-        "message": "Effet des simulations de phishing : les utilisateurs exposés en permanence à des simulations de phishing sont plus susceptibles de cliquer sur des liens dangereux."
+        "message": "Effet des simulations d'hameçonnage : les utilisateurs ou utilisatrices exposés en permanence à des simulations d'hameçonnage sont plus susceptibles de cliquer sur des liens dangereux."
+    },
+    "view_plans.comparison.rows.custom_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.apps_available": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.customizable_questions": {
+        "message": ""
+    },
+    "view_plans.plans.starter.price": {
+        "message": ""
+    },
+    "view_plans.comparison.values.number_of_admins.enterprise": {
+        "message": ""
+    },
+    "view_plans.comparison.values.custom_quizzes.enterprise": {
+        "message": ""
+    },
+    "view_plans.plans.starter.title": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.support": {
+        "message": ""
+    },
+    "view_plans.comparison.values.support.enterprise": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.apps_available": {
+        "message": ""
+    },
+    "view_plans.comparison.values.cloud": {
+        "message": ""
+    },
+    "view_plans.comparison.compliance": {
+        "message": ""
+    },
+    "view_plans.plans.pro.price": {
+        "message": ""
+    },
+    "view_plans.plans.starter.cta": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.custom_quizzes": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.cta": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.customizable_questions": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.public_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.hosting": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.private_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.admin_management": {
+        "message": ""
+    },
+    "view_plans.comparison.access_control": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.analysis_tools": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.question_library": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.support": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.hosting": {
+        "message": ""
+    },
+    "view_plans.comparison.customer_support": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.detailed_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.preparedness_report": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.preparedness_report": {
+        "message": ""
+    },
+    "view_plans.comparison.values.tailor_made_training.enterprise": {
+        "message": ""
+    },
+    "view_plans.plans.starter.description": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.admin_dashboard": {
+        "message": ""
+    },
+    "view_plans.comparison.values.support.pro": {
+        "message": ""
+    },
+    "view_plans.plans.pro.cta": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.number_of_admins": {
+        "message": ""
+    },
+    "view_plans.comparison.values.cloud_on_premise": {
+        "message": ""
+    },
+    "view_plans.comparison.values.number_of_admins.pro": {
+        "message": ""
+    },
+    "view_plans.plans.pro.title": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.analysis_tools": {
+        "message": ""
+    },
+    "view_plans.plans.pro.description": {
+        "message": ""
+    },
+    "view_plans.comparison.customization": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.title": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.tailor_made_training": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.description": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.phishing_readiness_assessment": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.basic_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.admin_dashboard": {
+        "message": ""
+    },
+    "view_plans.comparison.values.custom_quizzes.free": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.detailed_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.public_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.private_quizzes": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.tailor_made_training": {
+        "message": ""
+    },
+    "view_plans.comparison.values.number_of_admins.free": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.phishing_readiness_assessment": {
+        "message": ""
+    },
+    "view_plans.comparison.tooltips.question_library": {
+        "message": ""
+    },
+    "view_plans.learn_more": {
+        "message": ""
+    },
+    "view_plans.comparison.values.custom_quizzes.pro": {
+        "message": ""
+    },
+    "view_plans.plans.enterprise.price": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.basic_analytics": {
+        "message": ""
+    },
+    "view_plans.comparison.rows.number_of_admins": {
+        "message": ""
     }
 }
