@@ -1,8 +1,8 @@
 ---
 id: results
 slug: /results
-sidebar_position: 5
-description: Просматривайте и анализируйте результаты тестирования вашей команды в Shira. Отслеживайте выполненные тесты и средние баллы. Отмечайте, какие знания о фишинге нужно освежить.
+sidebar_position: 6
+description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
 # Результаты
@@ -19,18 +19,16 @@ description: Просматривайте и анализируйте резул
 **Средний балл**\
 Средний балл всех учащихся, которые прошли тест.
 
-**Коэффициент завершения** [скоро!]\
-Процент учащихся, которые прошли тест, от общего числа учащихся, которым был
-предложен этот тест. Коэффициент завершения доступен только для закрытых тестов.
+**Completion rate** This is the percentage of learners who have submitted the
+quiz out of all the learners assigned this quiz. Completion rate is only
+available for private quizzes.
 
-**Результаты по вопросам** [скоро!]\
-Средний балл, полученный всеми учащимися по каждому конкретному вопросу в тесте.
+**Results by question** This shows you the average score received by all
+learners on each specific question in the quiz.
 
-**Результаты по учащимся** [скоро!]\
-Список зарегистрированных учащихся, которые прошли тест, и их результаты.
-Результаты по учащимся доступны только для закрытых тестов.
+**Results by learner** This shows you the list of registered learners who
+completed the quiz and their score on the quiz. Results by learner are only
+available for private quizzes.
 
-:::note
-Если вы хотели бы видеть в результатах что-то ещё, [свяжитесь с
-нами](/contact)!
-:::
+:::note Если вы хотели бы видеть в результатах что-то ещё, [свяжитесь с
+нами](/contact)! :::
