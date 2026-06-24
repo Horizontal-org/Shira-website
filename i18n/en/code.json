@@ -1115,10 +1115,10 @@
     "message": "1 admin"
   },
   "view_plans.comparison.values.number_of_admins.pro": {
-    "message": "Unlimited (coming soon)"
+    "message": "1 admin"
   },
   "view_plans.comparison.values.number_of_admins.enterprise": {
-    "message": "Unlimited (coming soon)"
+    "message": "Unlimited"
   },
   "view_plans.comparison.values.custom_quizzes.free": {
     "message": "Up to 3 custom quizzes"
