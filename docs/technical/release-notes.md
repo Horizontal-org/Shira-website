@@ -25,7 +25,7 @@ Here’s everything you need to know about the latest features and improvements 
 Up until now, a team had to use a shared account to collaborate in a space. Now, spaces support multiple admins, each with their own account and credentials. It's not yet possible to add additional admins yourself, but just [reach out](/contact) and we'll help.
 
 :::note
-Multi-admins is only available to users on [the Pro or Enterprise plans](/pricing).
+Multi-admins is only available to users on [the Enterprise plan](/pricing).
 :::
 
 #### 🌟 New feature: multilingual spaces!
