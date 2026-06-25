@@ -22,7 +22,7 @@ In your Space settings, you can:
 * manage [your plan, subscription, and payment information](/plans)
 
 ## Permissions {/* #permissions */}
-* Currently, only one admin user can access a space. It will soon be possible to add other admins so that multiple people can manage your space, quizzes, and learners.
+* By default, only one admin user can access a space. [Enterprise](/pricing) users can add more admins (each with their own account and credentials) by [contacting us](/contact). 
 * Only admins can access your Space dashboard. Learners never have access to the Space dashboard, quizzes, or Results.
 
 This table summarizes what learners and admins can do in a Shira Space:
