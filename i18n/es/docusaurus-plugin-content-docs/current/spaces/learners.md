@@ -2,7 +2,7 @@
 id: learners
 slug: /learners
 sidebar_position: 5
-description: Learn about Shira learners — anonymous participants who take quizzes to test phishing awareness, or registered learners for private quiz tracking.
+description: Aprende sobre estudiantes de Shira — personas participantes anónimas que completan los cuestionarios para probar la conciencia en torno al phishing o personas estudiantes registradas para seguimiento privado de cuestionario.
 
 ---
 
