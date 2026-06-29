@@ -30,5 +30,7 @@ learners on each specific question in the quiz.
 completed the quiz and their score on the quiz. Results by learner are only
 available for private quizzes.
 
-:::note Если вы хотели бы видеть в результатах что-то ещё, [свяжитесь с
-нами](/contact)! :::
+:::note
+Если вы хотели бы видеть в результатах что-то ещё, [свяжитесь с
+нами](/contact)!
+:::

@@ -1,8 +1,8 @@
 ---
-id : self-hosting
-slug : /self-hosting
-sidebar_position : 3
-description : Apprenez à auto-héberger votre propre instance Shira.
+id: self-hosting
+slug: /self-hosting
+sidebar_position: 3
+description: Apprenez à auto-héberger votre propre instance Shira.
 
 ---
 # Auto-hébergement

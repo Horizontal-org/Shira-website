@@ -76,7 +76,8 @@ Vous pouvez ensuite dépublier le quiz pour qu'il soit impossible pour les
 apprenants et apprenantes d'y participer. Si le quiz est dépublié, l'URL du quiz
 mènera à une page d'erreur.
 
-:::note Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
+:::note
+Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
 l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
 d'envoyer ses réponses, et sa participation sera perdue .:::
 
@@ -91,7 +92,8 @@ notamment pour :
 - Supprimer des questions : une fois supprimée, il n'y a aucun moyen de
   récupérer une question.
 
-:::note Si des apprenants ou apprenantes ont déjà participé au quiz, la
+:::note
+Si des apprenants ou apprenantes ont déjà participé au quiz, la
 modification de celui-ci peut affecter la fiabilité [des résultats du
 quiz](/results).:::
 
@@ -111,5 +113,7 @@ moment de la duplication.
 Supprimer un quiz signifie que le quiz, toutes ses questions et tous les
 [scores](/results)associés seront supprimés de votre espace.
 
-:::warning La suppression d'un quiz est permanente : une fois supprimés, un quiz
-et ses scores ne peuvent pas être récupérés ! :::
+:::warning
+La suppression d'un quiz est permanente : une fois supprimés, un quiz
+et ses scores ne peuvent pas être récupérés !
+:::

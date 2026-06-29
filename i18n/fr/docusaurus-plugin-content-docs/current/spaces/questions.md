@@ -59,9 +59,9 @@ Actuellement, Shira prend en charge les applications suivantes :
 - Facebook Messenger
 - Application de rencontre
 
-:::note\
+:::note
 [Dites nous](/contact) si votre équipe utilise des applications qui ne figurent
-pas dans cette liste et que vous souhaiteriez voir intégrées à Shira ! \
+pas dans cette liste et que vous souhaiteriez voir intégrées à Shira !
 :::
 
 ## Contenu de la question {/* #content */}

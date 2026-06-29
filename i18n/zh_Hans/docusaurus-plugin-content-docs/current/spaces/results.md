@@ -27,6 +27,6 @@ learners on each specific question in the quiz.
 completed the quiz and their score on the quiz. Results by learner are only
 available for private quizzes.
 
-:::note\
-如果想要在结果中追踪特定内容，[请告诉我们](/contact)! \
+:::note
+如果想要在结果中追踪特定内容，[请告诉我们](/contact)!
 :::
