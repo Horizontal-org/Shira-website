@@ -19,12 +19,12 @@ Depuis votre espace dédié sur Shira, vous pouvez :
 - [dupliquer un quiz existant](#duplicate-quiz)
 - [supprimer des quiz](#delete-quiz)
 
-## Creating quizzes {/* #create-quizzes */}
+## Créer des quiz {/* #create-quizzes */}
 Lorsque vous créez un quiz, vous devez :
 1. Nommer votre quiz
 2. Définir les paramètres de confidentialité de votre quiz
 
-### Quiz name {/* #name */}
+### Nom du quiz {/* #name */}
 Le nom que vous choisissez pour le quiz vous aide, ainsi que vos apprenants et
 apprenantes, à en identifier l'objectif (ex. : "Formation du personnel T4",
 "Attaques les plus courantes de 2026", etc.). Le nom du quiz est visible pour
@@ -34,7 +34,7 @@ les apprenants et apprenantes :
 - Sur l'écran d'accueil lorsque les apprenants et apprenantes commencent le
   quiz.
 
-### Quiz privacy {/* #privacy */}
+### Confidentialité du quiz {/* #privacy */}
 Deux options de confidentialité sont disponibles pour les quiz : public et
 privé.
 
@@ -62,13 +62,13 @@ dupliquer.
   chaque apprenant et apprenante et permet de suivre qui participe au quiz ainsi
   que leurs scores.
 
-## Adding questions to your quiz {/* #questions */}
+## Ajouter des questions à votre quiz {/* #questions */}
 
 Vous pouvez ajouter des questions à votre quiz soit en les créant manuellement,
 soit en important des modèles prédéfinis depuis la Bibliothèque. [En savoir plus
 sur les questions ici](/questions).
 
-## Publishing and unpublishing quizzes {/* #publish-unpublish */}
+## Publier et dépublier des quiz {/* #publish-unpublish */}
 Publier un quiz signifie que vous le rendez accessible aux apprenants et
 apprenantes.
 
@@ -80,7 +80,7 @@ mènera à une page d'erreur.
 l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
 d'envoyer ses réponses, et sa participation sera perdue .:::
 
-## Editing quizzes {/* #edit-quizzes */}
+## Modifier des quiz {/* #edit-quizzes */}
 Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié,
 notamment pour :
 - Ajouter des nouvelles questions au quiz.
@@ -95,7 +95,7 @@ notamment pour :
 modification de celui-ci peut affecter la fiabilité [des résultats du
 quiz](/results).:::
 
-## Duplicating a quiz {/* #duplicate-quiz */}
+## Dupliquer un quiz {/* #duplicate-quiz */}
 Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
 
 Une fois dupliqués, le quiz original et le nouveau sont indépendants l'un de

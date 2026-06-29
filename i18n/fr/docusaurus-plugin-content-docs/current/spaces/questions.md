@@ -64,7 +64,7 @@ Actuellement, Shira prend en charge les applications suivantes :
 pas dans cette liste et que vous souhaiteriez voir intégrées à Shira ! \
 :::
 
-## Le contenu de la question {/* #content */}
+## Contenu de la question {/* #content */}
 Le contenu d'une question correspond au texte de l'e-mail ou du message que vous
 rédigez pour l'afficher dans le questionnaire.
 

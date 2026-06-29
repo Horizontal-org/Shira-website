@@ -14,7 +14,7 @@ description: Learn about Shira learners — anonymous participants who take quiz
 * المتعلمون المجهولون
 * المتعلمون المسجلون
 
-### Anonymous learners {/* #anonymous */}
+### المتعلمون المجهولون {/* #anonymous */}
 المتعلمون المجهولون هم مستخدمون *غير مسجلين* في مساحة Shira. المتعلمون
 المجهولون:
 * يمكنكم إنجاز [اختبارات عمومية](/quizzes#privacy) أو [اختبارات
@@ -22,7 +22,7 @@ description: Learn about Shira learners — anonymous participants who take quiz
 * لا يمكن إنجاز [اختبارات خاصة](/quizzes#privacy).
 * لا يمكن تحديده في [نتائج الاختبار](/results).
 
-### Registered learners {/* #registered */}
+### المتعلمون المسجلون {/* #registered */}
 المتعلمون المسجلون هم المستخدمون الذين دعوتهم للانضمام إلى مساحتكم ثم قبلوا
 الدعوة. المتعلمون المسجلون:
 * يمكن إجراء [اختبارات خاصة](/quizzes#privacy).

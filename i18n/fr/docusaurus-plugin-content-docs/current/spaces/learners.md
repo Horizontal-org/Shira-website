@@ -14,7 +14,7 @@ Il existe deux types d'apprenants et d'apprenantes dans Shira :
 * Apprenants et apprenantes anonymes
 * Apprenants et apprenantes inscrits
 
-### Anonymous learners {/* #anonymous */}
+### Apprenants anonymes {/* #anonymous */}
 Les apprenants et apprenantes anonymes sont des utilisateurs qui *ne sont pas*
 inscrits sur un espace Shira. Les apprenants et apprenantes anonymes :
 * Peuvent participer aux [quiz publics](/quizzes#privacy) ou aux [quiz
@@ -22,7 +22,7 @@ inscrits sur un espace Shira. Les apprenants et apprenantes anonymes :
 * Ne peuvent pas participer aux [quiz privés](/quizzes#privacy).
 * Ne peuvent pas être identifiés dans les [scores](/results) d'un quiz.
 
-### Registered learners {/* #registered */}
+### Apprenants inscrits {/* #registered */}
 Les apprenants et apprenantes inscrits sont des utilisateurs que vous avez
 invités à rejoindre votre Espace et qui ont accepté votre invitation. Les
 apprenants et apprenantes inscrits :

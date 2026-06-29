@@ -16,7 +16,7 @@ Cette politique de confidentialité a été mise à jour pour la dernière fois 
 février 2026.
 
 
-## 1. Introduction {#intro}
+## 1. Introduction {/* #intro */}
 Horizontal est l'entreprise qui développe Shira. Horizontal est profondément
 attachée au respect de la vie privée des utilisateurs et à la protection de
 leurs données.
@@ -33,7 +33,7 @@ la version de Shira disponible sur [https://shira.app](https://shira.app),
 [https://space.shira.app](https://space.shira.app), et
 [https://quiz.shira.app](https://quiz.shira.app).
 
-## 2. Données collectées {#data-collected}
+## 2. Données collectées {/* #data-collected */}
 Les données créées dans Shira ou générées lorsque les utilisateurs utilisent
 Shira peuvent être divisées en trois catégories :
 - Données du compte
@@ -53,8 +53,8 @@ Les utilisateurs de Shira peuvent être divisés en quatre groupes :
 Comme indiqué ci-dessous, pour chacun de ces groupes, différentes données sont
 collectées.
 
-### Données de compte {#account-data}
-#### Que sont les données de compte ? {#what-is-account-data}
+### Données de compte {/* #account-data */}
+#### Que sont les données de compte ? {/* #what-is-account-data */}
 
 Les données de compte sont les données associées au compte Shira d’un
 utilisateur.
@@ -65,7 +65,7 @@ utilisateur.
 
 Les apprenants anonymes et les visiteurs n'ont pas de compte Shira.
 
-#### Quelles données de compte collectons-nous ? {#what-account-data-do-we-collect}
+#### Quelles données de compte collectons-nous ? {/* #what-account-data-do-we-collect */}
 Voici les données de compte que nous collectons concernant les administrateurs :
 - Adresse électronique : il s’agit de l’adresse électronique utilisée par un
   administrateur pour créer un espace et qui reste associée au compte de
@@ -86,7 +86,7 @@ Voici les données de compte que nous recueillons sur les apprenants inscrits :
 Nous ne collectons aucune donnée de compte auprès des apprenants et visiteurs
 anonymes.
 
-#### Comment collectons-nous les données de compte ? {#how-do-we-collect-account-data}
+#### Comment collectons-nous les données de compte ? {/* #how-do-we-collect-account-data */}
 - Les adresses électroniques et la liste des espaces auxquels un utilisateur est
   associé sont collectées lorsqu'un utilisateur remplit un formulaire
   d'invitation (lorsqu'un administrateur remplit le formulaire pour créer un
@@ -95,7 +95,7 @@ anonymes.
 - La date de création du compte est collectée automatiquement lors de la
   création du compte.
 
-#### Comment partageons-nous ou divulguons-nous les données de compte ? {#how-do-we-share-or-disclose-account-data}
+#### Comment partageons-nous ou divulguons-nous les données de compte ? {/* #how-do-we-share-or-disclose-account-data */}
 Nous ne vendrons jamais les données de votre compte à des tiers.
 
 Nous ne divulguerons jamais intentionnellement les données de votre compte à des
@@ -105,14 +105,14 @@ tiers, sauf dans les cas suivants :
 - Selon les besoins nécessaires au fonctionnement et à la fourniture des
   services de Shira (par exemple pour traiter les paiements).
 
-### Données de fonctionnalité {#functionality-data}
+### Données de fonctionnalité {/* #functionality-data */}
 
-#### Que sont les données de fonctionnalité ? {#what-is-functionality-data}
+#### Que sont les données de fonctionnalité ? {/* #what-is-functionality-data */}
 Les données de fonctionnalité sont les données générées lorsque les utilisateurs
 utilisent les fonctionnalités de Shira, telles que les quiz, les questions de
 quiz, les résultats, et plus encore.
 
-#### Quelles données de fonctionnalité collectons-nous ? {#what-functionality-data-do-we-collect}
+#### Quelles données de fonctionnalité collectons-nous ? {/* #what-functionality-data-do-we-collect */}
 Voici les données de fonctionnalité que nous recueillons sur les administrateurs
 :
 - Les informations relatives aux quiz créés et gérés par les Administrateurs, y
@@ -136,11 +136,11 @@ anonymes :
 
 Nous ne collectons pas de données de fonctionnalité concernant les visiteurs.
 
-#### Comment les données de fonctionnalité sont-elles collectées ? {#how-is-functionality-data-collected}
+#### Comment les données de fonctionnalité sont-elles collectées ? {/* #how-is-functionality-data-collected */}
 Nous collectons automatiquement des données de fonctionnalité à partir des
 saisies des utilisateurs lorqu'ils utilisent les fonctionnalités de Shira.
 
-#### Comment partegeons-nous ou divulguons-nous les données de fonctionnalité ? {#how-do-we-share-or-disclose-functionality-data}
+#### Comment partegeons-nous ou divulguons-nous les données de fonctionnalité ? {/* #how-do-we-share-or-disclose-functionality-data */}
 Nous ne vendrons jamais vos données de fonctionnalité à des tiers.
 
 Nous ne divulguerons jamais intentionnellement vos données de fonctionnalité à
@@ -150,9 +150,9 @@ des tiers, sauf dans les cas suivants :
 - Selon les besoins pour faire fonctionner et fournir les services de Shira (par
   exemple, pour afficher les résultats).
 
-### Télémétrie {#telemetry}
+### Télémétrie {/* #telemetry */}
 
-#### Qu'est-ce que la télémétrie ? {#what-is-telemetry}
+#### Qu'est-ce que la télémétrie ? {/* #what-is-telemetry */}
 La télémétrie désigne les données relatives à la manière dont les utilisateurs
 utilisent les fonctionnalités de Shira, à la fréquence d'utilisation de Shira et
 aux problèmes de performance ou d'expérience utilisateur qu'ils peuvent
@@ -161,7 +161,7 @@ rencontrer.
 Les données de télémétrie sont utilisées pour améliorer les performances, les
 fonctionnalités et l'expérience utilisateur de Shira.
 
-#### Quelles données télémétriques collectons-nous ? {#what-telemetry-do-we-collect}
+#### Quelles données télémétriques collectons-nous ? {/* #what-telemetry-do-we-collect */}
 Nous collectons les données de télémétrie suivantes :
 - Le nombre de visites sur https://quiz.shira.app
 - Le nombre de quiz lancés sur https://shira.app, incluant à la fois les quiz
@@ -171,7 +171,7 @@ Nous collectons les données de télémétrie suivantes :
   questionnaires prédéfinis et les questionnaires personnalisés crées par les
   administrateurs de l'espace
 
-#### Comment les données de télémétrie sont-elles collectées ? {#how-is-telemetry-collected}
+#### Comment les données de télémétrie sont-elles collectées ? {/* #how-is-telemetry-collected */}
 La télémétrie est collectée automatiquement via [Divvi
 Up](https://divviup.org/), un service de télémétrie respectueux de la vie
 privée. Grâce à Divvi Up, toutes les données de télémétrie sont anonymisées pour
@@ -196,7 +196,7 @@ Voici comment nous abordons la collecte de télémétrie :
   soient anonymisées, nous minimisons systématiquement la quantité de données
   que nous collectons.
 
-#### Comment partageons-nous ou divulguons-nous les données de télémétrie ? {#how-do-we-share-or-disclose-telemetry}
+#### Comment partageons-nous ou divulguons-nous les données de télémétrie ? {/* #how-do-we-share-or-disclose-telemetry */}
 Nous ne vendrons jamais vos données de télémétrie à des tiers. Nous ne
 divulguerons jamais intentionnellement vos données de télémétrie à des tiers,
 sauf dans les cas suivants :
@@ -206,7 +206,7 @@ sauf dans les cas suivants :
   services de Shira (par exemple pour fournir des données d'utilisation à des
   partenaires ou des sous-traitants)
 
-## 3. Sécurité des données {#data-security}
+## 3. Sécurité des données {/* #data-security */}
 Nous mettons en œuvre les pratiques standard du secteur pour protéger vos
 données contre tout accès non autorisé, notamment :
 - Chiffrement en transit entre votre navigateur et nos serveurs, à l'aide du
@@ -215,14 +215,14 @@ données contre tout accès non autorisé, notamment :
   7519) de l'industrie pour représenter des revendications de manière sécurisée
   entre deux parties
 
-## 4. Vos droits à la protection de la vie privée en Californie {#california}
+## 4. Vos droits à la protection de la vie privée en Californie {/* #california */}
 Si vous résidez en Californie, la loi californienne peut vous accorder des
 droits supplémentaires concernant l'utilisation que nous faisons de vos
 informations personnelles. Pour en savoir plus sur vos droits à la protection de
 la vie privée en Californie, consultez
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Modifications de notre politique de confidentialité {#changes}
+## 5. Modifications de notre politique de confidentialité {/* #changes */}
 De temps à autre, il se peut que l'on actualise notre politique de
 confidentialité.
 
@@ -230,7 +230,7 @@ La date de la dernière révision de la politique de confidentialité est indiqu
 en haut de la page. Il vous incombe de consulter périodiquement cette politique
 de confidentialité pour vérifier tout changement.
 
-## 6. Informations de contact {#contact}
+## 6. Informations de contact {/* #contact */}
 Pour poser des questions ou émettre des commentaires sur cette politique de
 confidentialité et nos pratiques en matière de protection de la vie privée,
 contactez-nous à l'adresse

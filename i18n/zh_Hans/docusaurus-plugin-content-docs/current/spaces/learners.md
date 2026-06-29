@@ -14,13 +14,13 @@ Shira 学员分为两类：
 * 匿名学员
 * 注册学员
 
-### Anonymous learners {/* #anonymous */}
+### 匿名学员 {/* #anonymous */}
 匿名学员是*未*在 Shira 空间注册的用户。匿名学员：
 * 可以参加[公开测验](/quizzes#privacy)或[现成测验](/ready-made)。
 * 无法参加[私有测验](/quizzes#privacy)。
 * 无法在测验[结果](/results)中被识别。
 
-### Registered learners {/* #registered */}
+### 注册学员 {/* #registered */}
 注册学员指受邀加入空间的用户。注册学员：
 * 可以参加[私有测验](/quizzes#privacy)。
 * 可以参加[公开测验](/quizzes#privacy)或[现成测验](/ready-made)，但并不关联测验结果，即无法看到注册用户在公开测验中的表现。

@@ -19,14 +19,14 @@ Cada pregunta está compuesta por varios elementos:
 * [Variables](#variables)
 * [Explicaciones](#explanations)
 
-## Creating a question {/* #create */}
+## Crear una pregunta {/* #create */}
 Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
 1. Puedes crear preguntas desde cero y configurar cada elemento de la pregunta.
 2. You can pull ready-made questions from [the Library](/library). If you pull a
    question from the Library, you can use it as is or adapt it to your specific
    context and needs.
 
-## Question preferences {/* #preferences */}
+## Preferencias de las preguntas {/* #preferences */}
 Al crear una pregunta, debes:
 - Nombrar la pregunta: este nombre, como "Invitación a conferencia" o
   "Notificación de inicio de sesión sospechoso", te ayuda a reconocer las
@@ -37,7 +37,7 @@ Al crear una pregunta, debes:
   **legítimo**. Esto permitirá a Shira determinar si la respuesta de una persona
   usuaria es correcta.
 
-## An app {/* #app */}
+## Una app {/* #app */}
 Una *app* es una interfaz que se ve exactamente igual a la app o plataforma real
 que tus estudiantes usan cotidianamente: Gmail, Outlook, SMS, WhatsApp, etc.
 
@@ -59,14 +59,14 @@ Actualmente, Shira admite las siguientes apps:
 lista y que te gustaría ver en Shira!\
 :::
 
-## The question's content {/* #content */}
+## El contenido de la pregunta {/* #content */}
 El contenido de una pregunta son el correo o mensaje reales que redactas para
 mostrar en la pregunta del cuestionario.
 
 Esto puede incluir cualquier elemento que normalmente sea parte de correos o
 mensajes en la vida real: texto, imágenes, archivos adjuntos, enlaces, etc.
 
-## Explanations {/* #explanations */}
+## Explicaciones {/* #explanations */}
 La explicaciones son textos breves que puedes crear para explicar a tus
 estudiantes por qué el correo o mensaje en la pregunta puede o no ser un ataque
 de phishing. La explicaciones se mostraran después de que una persona estudiante
