@@ -1,5 +1,5 @@
 ---
-id: quizzes
+id : quizzes
 slug: /quizzes
 sidebar_position: 2
 description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
@@ -19,12 +19,12 @@ Depuis votre espace dédié sur Shira, vous pouvez :
 - [dupliquer un quiz existant](#duplicate-quiz)
 - [supprimer des quiz](#delete-quiz)
 
-## Créer des quiz {/* #create-quizzes */}
+## Creating quizzes {/* #create-quizzes */}
 Lorsque vous créez un quiz, vous devez :
 1. Nommer votre quiz
 2. Définir les paramètres de confidentialité de votre quiz
 
-### Nom du quiz {/* #name */}
+### Quiz name {/* #name */}
 Le nom que vous choisissez pour le quiz vous aide, ainsi que vos apprenants et
 apprenantes, à en identifier l'objectif (ex. : "Formation du personnel T4",
 "Attaques les plus courantes de 2026", etc.). Le nom du quiz est visible pour
@@ -34,7 +34,7 @@ les apprenants et apprenantes :
 - Sur l'écran d'accueil lorsque les apprenants et apprenantes commencent le
   quiz.
 
-### Confidentialité du quiz {/* #privacy */}
+### Quiz privacy {/* #privacy */}
 Deux options de confidentialité sont disponibles pour les quiz : public et
 privé.
 
@@ -62,13 +62,13 @@ dupliquer.
   chaque apprenant et apprenante et permet de suivre qui participe au quiz ainsi
   que leurs scores.
 
-## Ajouter des questions à votre quiz {/* #questions */}
+## Adding questions to your quiz {/* #questions */}
 
 Vous pouvez ajouter des questions à votre quiz soit en les créant manuellement,
 soit en important des modèles prédéfinis depuis la Bibliothèque. [En savoir plus
 sur les questions ici](/questions).
 
-## Publier et dépublier des quiz {/* #publish-unpublish */}
+## Publishing and unpublishing quizzes {/* #publish-unpublish */}
 Publier un quiz signifie que vous le rendez accessible aux apprenants et
 apprenantes.
 
@@ -76,12 +76,11 @@ Vous pouvez ensuite dépublier le quiz pour qu'il soit impossible pour les
 apprenants et apprenantes d'y participer. Si le quiz est dépublié, l'URL du quiz
 mènera à une page d'erreur.
 
-:::note
-Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
+:::note Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
 l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
 d'envoyer ses réponses, et sa participation sera perdue .:::
 
-## Modifier des quiz {/* #edit-quizzes */}
+## Editing quizzes {/* #edit-quizzes */}
 Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié,
 notamment pour :
 - Ajouter des nouvelles questions au quiz.
@@ -92,12 +91,11 @@ notamment pour :
 - Supprimer des questions : une fois supprimée, il n'y a aucun moyen de
   récupérer une question.
 
-:::note
-Si des apprenants ou apprenantes ont déjà participé au quiz, la
+:::note Si des apprenants ou apprenantes ont déjà participé au quiz, la
 modification de celui-ci peut affecter la fiabilité [des résultats du
 quiz](/results).:::
 
-## Dupliquer un quiz {/* #duplicate-quiz */}
+## Duplicating a quiz {/* #duplicate-quiz */}
 Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
 
 Une fois dupliqués, le quiz original et le nouveau sont indépendants l'un de
@@ -113,7 +111,5 @@ moment de la duplication.
 Supprimer un quiz signifie que le quiz, toutes ses questions et tous les
 [scores](/results)associés seront supprimés de votre espace.
 
-:::warning
-La suppression d'un quiz est permanente : une fois supprimés, un quiz
-et ses scores ne peuvent pas être récupérés !
-:::
+:::warning La suppression d'un quiz est permanente : une fois supprimés, un quiz
+et ses scores ne peuvent pas être récupérés ! :::
