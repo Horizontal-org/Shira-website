@@ -1,8 +1,8 @@
 ---
 id: self-hosting
 slug: /self-hosting
-sidebar_position: 2
-description: التعرف على كيفية استضافة Shira، منصة التدريب مفتوحة المصدر لمكافحة التصيد الاحتيالي، مع إرشادات قادمة حول كيفية إعداد نسختكم وإدارة الاختبارات بشكل مستقل.
+sidebar_position: 3
+description: Learn how to self-host your own Shira instance.
 
 ---
 # الاستضافة الذاتية

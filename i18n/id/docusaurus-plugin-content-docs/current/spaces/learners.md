@@ -1,7 +1,7 @@
 ---
 id: learners
 slug: /learners
-sidebar_position: 4
+sidebar_position: 5
 description: Learn about Shira learners — anonymous participants who take quizzes to test phishing awareness, or registered learners for private quiz tracking.
 
 ---
@@ -14,7 +14,7 @@ There are two types of learners in Shira:
 * Anonymous learners
 * Registered learners
 
-### Anonymous learners {#anonymous}
+### Anonymous learners {/* #anonymous */}
 Anonymous learners are users who are *not* registered in a Shira space.
 Anonymous learners:
 * Can take [public quizzes](/quizzes#privacy) or [ready-made
@@ -22,7 +22,7 @@ Anonymous learners:
 * Cannot take [private quizzes](/quizzes#privacy).
 * Cannot be identified in a quiz's [results](/results).
 
-### Registered learners {#registered}
+### Registered learners {/* #registered */}
 Registered learners are users who you have invited to join your Space and who
 have accepted your invitation. Registered learners:
 * Can take [private quizzes](/quizzes#privacy).

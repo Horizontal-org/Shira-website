@@ -1,8 +1,8 @@
 ---
 id: self-hosting
 slug: /self-hosting
-sidebar_position: 2
-description: Shira — платформа для обучения распознаванию фишинга с открытым исходным кодом. Ожидается руководство по настройке Shira на своём сервере и независимому управлению тестами.
+sidebar_position: 3
+description: Learn how to self-host your own Shira instance.
 
 ---
 # Собственный хостинг

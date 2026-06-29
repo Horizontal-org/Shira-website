@@ -1,7 +1,7 @@
 ---
 id: learners
 slug: /learners
-sidebar_position: 4
+sidebar_position: 5
 description: Aprende sobre estudiantes de Shira — personas participantes anónimas que completan los cuestionarios para probar la conciencia en torno al phishing o personas estudiantes registradas para seguimiento privado de cuestionario.
 
 ---
@@ -14,7 +14,7 @@ Hay dos tipos de Estudiantes en Shira:
 * Personas estudiantes anónimas
 * Estudiantes en registro
 
-### Estudiantes en anonimato {#anonymous}
+### Estudiantes en anonimato {/* #anonymous */}
 Quienes aprenden de manera anónima son las personas usuarias que *no* están
 registradas en un espacio Shira. Las personas estudiantes anónimas:
 * Pueden completar [cuestionarios públicos](/quizzes#privacy) o [cuestionarios
@@ -22,7 +22,7 @@ registradas en un espacio Shira. Las personas estudiantes anónimas:
 * No pueden realizar [cuestionarios privados](/quizzes#privacy).
 * No se pueden identificar en los [resultados](/results) de un cuestionario.
 
-### Personas estudiantes registradas {#registered}
+### Personas estudiantes registradas {/* #registered */}
 Las personas estudiantes registradas son aquellas que has invitado a unirse a tu
 Espacio Shira y quienes han aceptado tu invitación. Personas registradas:
 * Pueden completar [cuestionarios privados](/quizzes#privacy).

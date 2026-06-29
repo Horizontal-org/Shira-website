@@ -19,14 +19,14 @@ Cada pregunta está compuesta por varios elementos:
 * [Variables](#variables)
 * [Explicaciones](#explanations)
 
-## Crear una pregunta {#create}
+## Crear una pregunta {/* #create */}
 Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
 1. Puedes crear preguntas desde cero y configurar cada elemento de la pregunta.
-2. Puedes importar preguntas predefinidas desde la Biblioteca. Si sacas una
+2. Puedes importar preguntas predefinidas desde [la Biblioteca](/library). Si sacas una
    pregunta de la Biblioteca, puedes usarla tal cual es o adaptarla a tu
    contexto y necesidades específicas.
 
-## Preferencias de las preguntas {#preferences}
+## Preferencias de las preguntas {/* #preferences */}
 Al crear una pregunta, debes:
 - Nombrar la pregunta: este nombre, como "Invitación a conferencia" o
   "Notificación de inicio de sesión sospechoso", te ayuda a reconocer las
@@ -37,7 +37,7 @@ Al crear una pregunta, debes:
   **legítimo**. Esto permitirá a Shira determinar si la respuesta de una persona
   usuaria es correcta.
 
-## Una app {#app}
+## Una app {/* #app */}
 Una *app* es una interfaz que se ve exactamente igual a la app o plataforma real
 que tus estudiantes usan cotidianamente: Gmail, Outlook, SMS, WhatsApp, etc.
 
@@ -59,14 +59,14 @@ Actualmente, Shira admite las siguientes apps:
 lista y que te gustaría ver en Shira!
 :::
 
-## El contenido de la pregunta {#content}
+## El contenido de la pregunta {/* #content */}
 El contenido de una pregunta son el correo o mensaje reales que redactas para
 mostrar en la pregunta del cuestionario.
 
 Esto puede incluir cualquier elemento que normalmente sea parte de correos o
 mensajes en la vida real: texto, imágenes, archivos adjuntos, enlaces, etc.
 
-## Explicaciones {#explanations}
+## Explicaciones {/* #explanations */}
 La explicaciones son textos breves que puedes crear para explicar a tus
 estudiantes por qué el correo o mensaje en la pregunta puede o no ser un ataque
 de phishing. La explicaciones se mostraran después de que una persona estudiante
@@ -83,7 +83,7 @@ El orden de las explicaciones que ves cuando creas las preguntas es el mismo
 orden en el cual se presentan las preguntas a quienes estudian durante el
 cuestionario.
 
-## Variables {#variables}
+## Variables {/* #variables */}
 Las variables son marcadores que puedes utilizar para insertar información
 personalizada dentro de una pregunta.
 
