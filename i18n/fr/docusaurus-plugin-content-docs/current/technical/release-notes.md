@@ -11,7 +11,8 @@ description: Restez informé des dernières fonctionnalités et améliorations d
 :::tip Voici tout ce que vous devez savoir sur les dernières fonctionnalités et
 améliorations de Shira. S'il manque quelque chose, vous pouvez [suggérer de
 nouvelles fonctionnalités ou améliorations
-ici](https://github.com/Horizontal-org/shira/discussions). : ::
+ici](https://github.com/Horizontal-org/shira/discussions).
+:::
 
 ## Shira 2.0 {/* #shira-20 */}
 *Sortie le 20 mai 2026*
