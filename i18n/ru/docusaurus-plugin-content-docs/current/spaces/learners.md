@@ -2,7 +2,7 @@
 id: learners
 slug: /learners
 sidebar_position: 5
-description: О пользователях Shira — анонимных учащихся, которые проходят тесты на знание фишинга, и зарегистрированных учащихся (если нужно мониторить результаты закрытых тестов).
+description: Learn about Shira learners — anonymous participants who take quizzes to test phishing awareness, or registered learners for private quiz tracking.
 
 ---
 
@@ -14,7 +14,7 @@ description: О пользователях Shira — анонимных учащ
 * Анонимные учащиеся
 * Зарегистрированные учащиеся
 
-### Анонимные учащиеся {/* #anonymous */}
+### Anonymous learners {/* #anonymous */}
 Анонимные учащиеся — пользователи, которые *не* зарегистрированы в пространстве
 Shira. Анонимные учащиеся:
 * могут проходить [открытые тесты](/quizzes#privacy) и [готовые
@@ -22,7 +22,7 @@ Shira. Анонимные учащиеся:
 * не могут проходить [закрытые тесты](/quizzes#privacy);
 * не могут быть идентифицированы в [результатах](/results) теста.
 
-### Зарегистрированные учащиеся {/* #registered */}
+### Registered learners {/* #registered */}
 Зарегистрированные учащиеся — пользователи, которые получили и приняли ваше
 приглашение присоединиться к вашему пространству. Зарегистрированные учащиеся:
 * могут проходить [закрытые тесты](/quizzes#privacy);
