@@ -1,7 +1,7 @@
 ---
 id: results
 slug: /results
-sidebar_position: 5
+sidebar_position: 6
 description: Visualiza y analiza el de desempeño de tu equipo en los cuestionarios de Shira — haz seguimiento de los cuestionarios completados, puntuaciones promedio, e identifica áreas de mejora en la concientización sobre phishing.
 
 ---
@@ -24,16 +24,16 @@ por estudiantes.
 Esta es la puntuación promedio recibida por todas las personas estudiantes que
 completaron el cuestionario.
 
-**Tasa de finalización** [próximamente]\
+**Tasa de finalización**\
 Es el porcentaje de estudiantes que han enviado el cuestionario con respecto la
 totalidad de estudiantes a quienes se le asignó el cuestionario. La tasa de
 finalización solo está disponible para cuestionarios privados.
 
-**Resultados por pregunta** [próximamente]\
+**Resultados por pregunta**\
 Esto te muestra la puntuación promedio recibida por todas las personas
 estudiantes en cada pregunta específica del cuestionario.
 
-**Resultados por estudiante** [próximamente]\
+**Resultados por estudiante**\
 Esto te muestra la lista de personas estudiantes registradas que han completado
 el cuestionario y su puntuación en el cuestionario. Los resultados por
 estudiante solo están disponibles para cuestionarios privados.

@@ -38,5 +38,11 @@
     "item.label.Why phishing quizzes?": {
         "message": "为何选择钓鱼测验？",
         "description": "Navbar item with label Why phishing quizzes?"
+    },
+    "item.label.Contact us": {
+        "message": ""
+    },
+    "item.label.Visit our help center": {
+        "message": ""
     }
 }

@@ -15,7 +15,7 @@ import TOCInline from '@theme/TOCInline';
 Esta política de privacidad se actualizó por última vez el 9 de Febrero de 2026.
 
 
-## 1. Introducción {#intro}
+## 1. Introducción {/* #intro */}
 Horizontal es la organización que desarrolla Shira. Horizontal está
 profundamente comprometida con la privacidad de las personas usuarias y la
 protección de sus datos.
@@ -32,7 +32,7 @@ de Shira disponible en [https://shira.app](https://shira.app),
 [https://space.shira.app](https://space.shira.app), y
 [https://quiz.shira.app](https://quiz.shira.app).
 
-## 2. Datos recopilados {#data-collected}
+## 2. Datos recopilados {/* #data-collected */}
 Los datos que se crean en Shira o que son generados cuando las personas usuarias
 utilizan Shira puede ser divididos en tres categorías:
 - Datos de la cuenta
@@ -53,8 +53,8 @@ Las personas usuarias de Shira pueden ser divididas en cuatro grupos:
 Como se detalla a continuación, para cada uno de esos grupos, se recopila
 recopilan diferentes datos.
 
-### Datos de cuenta {#account-data}
-#### ¿Qué son los datos de cuenta? {#what-is-account-data}
+### Datos de cuenta {/* #account-data */}
+#### ¿Qué son los datos de cuenta? {/* #what-is-account-data */}
 
 Los datos de cuenta son los datos asociados a la cuenta Shira de una persona
 usuaria.
@@ -65,7 +65,7 @@ usuaria.
 
 Las personas Estudiantes Anónimas y Visitantes no tienen cuentas de Shira.
 
-#### ¿Qué datos de la cuenta recopilamos? {#what-account-data-do-we-collect}
+#### ¿Qué datos de la cuenta recopilamos? {/* #what-account-data-do-we-collect */}
 Estos son los datos sobre cuenta que recopilamos sobre Admins:
 - Dirección de correo electrónico: esta es la dirección de correo electrónico
   que una persona Admin utiliza para crear un espacio y que permanece
@@ -88,7 +88,7 @@ Registradas:
 No recopilamos datos de ninguna cuenta de personas Estudiantes Anónimas y
 Visitantes.
 
-#### ¿Cómo recopilamos los datos de la cuenta? {#how-do-we-collect-account-data}
+#### ¿Cómo recopilamos los datos de la cuenta? {/* #how-do-we-collect-account-data */}
 - Las direcciones de correo electrónico y la lista de Espacios con las que está
   asociada una persona usuaria son recopilados cuando una persona usuaria llena
   un formulario de invitación (cuando una persona Admin llena el formulario para
@@ -97,7 +97,7 @@ Visitantes.
 - La fecha de creación de la cuenta es recopilada automáticamente cuando la
   cuenta es creada.
 
-#### ¿Cómo compartimos o divulgamos los datos de la cuenta? {#how-do-we-share-or-disclose-account-data}
+#### ¿Cómo compartimos o divulgamos los datos de la cuenta? {/* #how-do-we-share-or-disclose-account-data */}
 Nunca venderemos los datos de tu cuenta a terceras partes.
 
 Nunca divulgaremos de manera intencional los datos de tu cuenta a terceras
@@ -107,14 +107,14 @@ partes, excepto en los siguientes casos:
 - Si son necesarios para operar y proveer los servicios de Shira (p. ej. para
   procesar pagos).
 
-### Datos de funcionalidad {#functionality-data}
+### Datos de funcionalidad {/* #functionality-data */}
 
-#### ¿Qué son los datos de funcionalidad? {#what-is-functionality-data}
+#### ¿Qué son los datos de funcionalidad? {/* #what-is-functionality-data */}
 Los datos de funcionalidad son los datos generados cuando las personas usuarias
 utilizan las funcionalidades de Shira, como los cuestionarios, preguntas de
 cuestionarios, resultados, y más.
 
-#### ¿Qué datos de funcionalidad recopilamos? {#what-functionality-data-do-we-collect}
+#### ¿Qué datos de funcionalidad recopilamos? {/* #what-functionality-data-do-we-collect */}
 Estos son los datos de funcionalidad que recopilamos sobre Admins:
 - Información sobre los cuestionarios creados y gestionados por Admins,
   incluyendo el nombre del cuestionario y estado (publicado, despublicado,
@@ -141,11 +141,11 @@ Anónimas:
 
 No recopilamos datos de funcionalidad sobre Visitantes.
 
-#### ¿Cómo se recopilan los datos de funcionalidad? {#how-is-functionality-data-collected}
+#### ¿Cómo se recopilan los datos de funcionalidad? {/* #how-is-functionality-data-collected */}
 Recopilamos datos de funcionalidad automáticamente de las entradas de las
 personas usuarias en la medida en que utilizan las funciones de Shira.
 
-#### ¿Cómo compartimos o divulgamos datos de funcionalidad? {#how-do-we-share-or-disclose-functionality-data}
+#### ¿Cómo compartimos o divulgamos datos de funcionalidad? {/* #how-do-we-share-or-disclose-functionality-data */}
 Nunca venderemos tus datos de funcionalidad a terceras partes.
 
 Nunca divulgaremos intencionalmente tus datos de funcionalidad a terceras
@@ -155,9 +155,9 @@ partes, excepto en los siguientes casos:
 - Si son necesarios para operar y ofrecer los servicios de Shira (p. ej. para
   mostrar Resultados).
 
-### Telemetría {#telemetry}
+### Telemetría {/* #telemetry */}
 
-#### ¿Qué es telemetría? {#what-is-telemetry}
+#### ¿Qué es telemetría? {/* #what-is-telemetry */}
 La telemetría son datos sobre cómo las personas usuarias utilizan las funciones
 de Shira, con qué frecuencia usan Shira, y qué problemas de rendimiento o de
 experiencia las personas usuarias puedan estar experimentando.
@@ -165,7 +165,7 @@ experiencia las personas usuarias puedan estar experimentando.
 Los datos de telemetría son utilizados para mejorar el rendimiento, las
 funciones, y experiencia de las personas usuarias de Shira.
 
-#### ¿Qué datos de telemetría recopilamos? {#what-telemetry-do-we-collect}
+#### ¿Qué datos de telemetría recopilamos? {/* #what-telemetry-do-we-collect */}
 Recopilamos los siguientes datos de telemetría:
 - El número de visitas a https://quiz.shira.app
 - El número de cuestionarios iniciados en https://shira.app, incluyendo tanto
@@ -175,7 +175,7 @@ Recopilamos los siguientes datos de telemetría:
   los cuestionarios predefinidos como cuestionarios personalizados creados por
   admins de Espacios.
 
-#### ¿Cómo se recopilan los datos de telemetría? {#how-is-telemetry-collected}
+#### ¿Cómo se recopilan los datos de telemetría? {/* #how-is-telemetry-collected */}
 Los datos de telemetría son recopilados automáticamente a través de [Divvi
 Up](https://divviup.org/), un servicio de telemetría que respeta la privacidad.
 Gracias a Divvi Up, toda la telemetría es anonimizada para asegurar que no
@@ -199,7 +199,7 @@ Así es como abordamos la recopilación de telemetría:
 - Recopilamos la menor cantidad de datos posible: Aunque todos los datos son
   anonimizados, siempre minimizamos la cantidad de datos que recopilamos.
 
-#### ¿Cómo compartimos o divulgamos la telemetría? {#how-do-we-share-or-disclose-telemetry}
+#### ¿Cómo compartimos o divulgamos la telemetría? {/* #how-do-we-share-or-disclose-telemetry */}
 Nunca venderemos tus datos de telemetría a ninguna tercera parte. Nunca
 divulgaremos intencionalmente tus datos de telemetría a ninguna tercera parte,
 excepto en los siguientes casos:
@@ -208,7 +208,7 @@ excepto en los siguientes casos:
 - Si son necesarios para operar y ofrecer los servicios de Shira (p. ej. para
   proporcionar datos de uso a socios o contratistas)
 
-## 3. Seguridad de los datos {#data-security}
+## 3. Seguridad de los datos {/* #data-security */}
 Implementamos prácticas estándar de la industria para proteger tus datos del
 acceso no autorizado, incluyendo:
 - Cifrado en tránsito entre tu navegador y nuestros servidores, utilizando el
@@ -216,20 +216,20 @@ acceso no autorizado, incluyendo:
 - JSON Web Tokens, que son un método abierto, estándar de la industria RFC 7519
   para representar reclamaciones de manera segura entre dos partes
 
-## 4. Tus Derechos de Privacidad en California {#california}
+## 4. Tus Derechos de Privacidad en California {/* #california */}
 Si eres residente de California, la ley de California puede otorgarte derechos
 adicionales sobre nuestro uso de tu información personal. Para aprender más
 sobre tus derechos de privacidad de California, visita
 [https://www.oag.ca.gov/privacy/ccpa](https://www.oag.ca.gov/privacy/ccpa).
 
-## 5. Cambios a Nuestras Políticas de Privacidad {#changes}
+## 5. Cambios a Nuestras Políticas de Privacidad {/* #changes */}
 Podemos actualizar nuestra política de privacidad de vez en cuando.
 
 La fecha en la que la política de privacidad fue revisada por última vez se
 identifica en la parte superior de la página. Es tu responsabilidad visitar
 periódicamente esta política de privacidad para verificar cualquier cambio.
 
-## 6. Información de Contacto {#contact}
+## 6. Información de Contacto {/* #contact */}
 Para realizar cualquier pregunta o comentar sobre esta política de privacidad y
 nuestras prácticas de privacidad, contáctanos en
 [contact@wearehorizontal.org](mailto:contact@wearehorizontal.org).
