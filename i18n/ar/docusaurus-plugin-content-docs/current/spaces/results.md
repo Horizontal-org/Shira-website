@@ -19,16 +19,17 @@ description: View and analyze your team’s quiz performance in Shira — track 
 **معدل النتائج**\
 يمثل هذا العدد متوسط الدرجات التي حققها كافة المتعلمين الذين أتموا الاختبار.
 
-**Completion rate** This is the percentage of learners who have submitted the
-quiz out of all the learners assigned this quiz. Completion rate is only
-available for private quizzes.
+**نسبة الإنجاز**\
+تمثل هذه القيمة النسبة المئوية للمتعلمين الذين أتموا الاختبار من إجمالي المسجلين
+فيه. تتوفر هذه الميزة في الاختبارات الخاصة فقط.
 
-**Results by question** This shows you the average score received by all
-learners on each specific question in the quiz.
+**النتائج حسب السؤال**\
+هذا يعرض لكم متوسط الدرجات التي حصل عليها جميع المتعلمين لكل سؤال محدد في
+الاختبار.
 
-**Results by learner** This shows you the list of registered learners who
-completed the quiz and their score on the quiz. Results by learner are only
-available for private quizzes.
+**النتائج حسب المتعلم**\
+يعرض لكم قائمة المتعلمين المسجلين الذين أكملوا الاختبار ودرجتهم فيه. النتائج حسب
+المتعلم متاحة فقط للاختبارات الخاصة.
 
 :::noteإذا كانت هناك أشياء محددة ترغبون في تتبُّعها في النتائج،
 [أخبرونا](/contact)! :::

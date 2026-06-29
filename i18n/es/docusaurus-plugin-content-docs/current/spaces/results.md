@@ -24,16 +24,19 @@ por estudiantes.
 Esta es la puntuación promedio recibida por todas las personas estudiantes que
 completaron el cuestionario.
 
-**Completion rate** This is the percentage of learners who have submitted the
-quiz out of all the learners assigned this quiz. Completion rate is only
-available for private quizzes.
+**Tasa de finalización**\
+Es el porcentaje de estudiantes que han enviado el cuestionario con respecto la
+totalidad de estudiantes a quienes se le asignó el cuestionario. La tasa de
+finalización solo está disponible para cuestionarios privados.
 
-**Results by question** This shows you the average score received by all
-learners on each specific question in the quiz.
+**Resultados por pregunta**\
+Esto te muestra la puntuación promedio recibida por todas las personas
+estudiantes en cada pregunta específica del cuestionario.
 
-**Results by learner** This shows you the list of registered learners who
-completed the quiz and their score on the quiz. Results by learner are only
-available for private quizzes.
+**Resultados por estudiante**\
+Esto te muestra la lista de personas estudiantes registradas que han completado
+el cuestionario y su puntuación en el cuestionario. Los resultados por
+estudiante solo están disponibles para cuestionarios privados.
 
 :::note\
 Si hay elementos específicos que te gustaría monitorear en Resultados, ¡[déjanos

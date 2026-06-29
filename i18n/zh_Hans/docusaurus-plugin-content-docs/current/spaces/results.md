@@ -16,16 +16,14 @@ description: View and analyze your team’s quiz performance in Shira — track 
 **平均分数**\
 表示所有参加测验的学员获得的平均分数。
 
-**Completion rate** This is the percentage of learners who have submitted the
-quiz out of all the learners assigned this quiz. Completion rate is only
-available for private quizzes.
+**完成率**\
+在所有被分配该测验的学员中，提交测验的学员所占的百分比。完成率仅适用于私有测验。
 
-**Results by question** This shows you the average score received by all
-learners on each specific question in the quiz.
+**题目结果**\
+对于测验中每道具体题目，所有学员获得的平均分数。
 
-**Results by learner** This shows you the list of registered learners who
-completed the quiz and their score on the quiz. Results by learner are only
-available for private quizzes.
+**学员结果**\
+完成测验的注册学员列表及其测验分数。学员结果仅适用于私有测验。
 
 :::note\
 如果想要在结果中追踪特定内容，[请告诉我们](/contact)! \

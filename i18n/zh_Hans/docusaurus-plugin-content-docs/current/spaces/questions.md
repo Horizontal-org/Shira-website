@@ -20,9 +20,7 @@ description: 了解如何在 Shira 中创建和自定义测验题目，包括偏
 ## Creating a question {/* #create */}
 可通过两种方式，来创建题目并将其添加到测验：
 1. 您可以从零创建题目，并自行配置每个题目组件。
-2. You can pull ready-made questions from [the Library](/library). If you pull a
-   question from the Library, you can use it as is or adapt it to your specific
-   context and needs.
+2. 使用[题库](/library)中的现成题目。可直接使用这些题目，也可根据具体使用场景和需求进行调整。
 
 ## Question preferences {/* #preferences */}
 创建题目时，必须：

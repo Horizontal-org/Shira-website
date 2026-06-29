@@ -22,9 +22,8 @@ description: التعرف على كيفية إنشاء أسئلة الاختبا
 ## Creating a question {/* #create */}
 لإنشاء أسئلة وإضافتها إلى الاختبار، هناك خياران اثنان:
 1. يمكنكم إنشاء الأسئلة من الصفر وتخصيص كافة مكونات الأسئلة بنفسكم.
-2. You can pull ready-made questions from [the Library](/library). If you pull a
-   question from the Library, you can use it as is or adapt it to your specific
-   context and needs.
+2. يمكن سحب أسئلة جاهزة من [المكتبة](/library). إذا أخذتم سؤالا من المكتبة، يمكن استخدامه
+   كما هو أو تكييفه حسب السياق وعند الحاجة.
 
 ## Question preferences {/* #preferences */}
 عند إنشاء سؤال، يجب:

@@ -22,9 +22,9 @@ Cada pregunta está compuesta por varios elementos:
 ## Creating a question {/* #create */}
 Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
 1. Puedes crear preguntas desde cero y configurar cada elemento de la pregunta.
-2. You can pull ready-made questions from [the Library](/library). If you pull a
-   question from the Library, you can use it as is or adapt it to your specific
-   context and needs.
+2. Puedes importar preguntas predefinidas desde [la Biblioteca](/library). Si sacas una
+   pregunta de la Biblioteca, puedes usarla tal cual es o adaptarla a tu
+   contexto y necesidades específicas.
 
 ## Question preferences {/* #preferences */}
 Al crear una pregunta, debes:
