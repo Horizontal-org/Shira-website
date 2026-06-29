@@ -1,5 +1,5 @@
 ---
-id : quizzes
+id: quizzes
 slug: /quizzes
 sidebar_position: 2
 description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
