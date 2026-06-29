@@ -4,7 +4,8 @@ slug: /quizzes
 sidebar_position: 2
 description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
 
-…
+---
+
 # Les quiz
 
 Shira place les quiz au cœur de toute campagne ou programme de sensibilisation à
@@ -79,7 +80,8 @@ mènera à une page d'erreur.
 :::note
 Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
 l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
-d'envoyer ses réponses, et sa participation sera perdue .:::
+d'envoyer ses réponses, et sa participation sera perdue .
+:::
 
 ## Modifier des quiz {/* #edit-quizzes */}
 Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié,
@@ -95,7 +97,8 @@ notamment pour :
 :::note
 Si des apprenants ou apprenantes ont déjà participé au quiz, la
 modification de celui-ci peut affecter la fiabilité [des résultats du
-quiz](/results).:::
+quiz](/results).
+:::
 
 ## Dupliquer un quiz {/* #duplicate-quiz */}
 Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
