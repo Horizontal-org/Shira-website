@@ -21,9 +21,8 @@ description: Как создавать и настраивать вопросы 
 ## Создание вопроса {/* #create */}
 Создать вопрос и добавить его в тест можно двумя путями:
 1. можете создавать вопросы с нуля и самостоятельно настраивать каждый вопрос;
-2. You can pull ready-made questions from [the Library](/library). If you pull a
-   question from the Library, you can use it as is or adapt it to your specific
-   context and needs.
+2. можете взять готовые вопросы из [библиотеки](/library) (используйте как есть или
+   адаптируйте к своему контексту и потребностям).
 
 ## Параметры вопроса {/* #preferences */}
 При создании вопроса нужно выполнить следующие условия.
