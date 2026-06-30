@@ -2,7 +2,7 @@
 id: results
 slug: /results
 sidebar_position: 6
-description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
+description: Просматривайте и анализируйте результаты тестирования вашей команды в Shira. Отслеживайте выполненные тесты и средние баллы. Отмечайте, какие знания о фишинге нужно освежить.
 
 ---
 # Результаты
@@ -30,5 +30,7 @@ description: View and analyze your team’s quiz performance in Shira — track 
 Список зарегистрированных учащихся, которые прошли тест, и их результаты.
 Результаты по учащимся доступны только для закрытых тестов.
 
-:::note Если вы хотели бы видеть в результатах что-то ещё, [свяжитесь с
-нами](/contact)! :::
+:::note
+Если вы хотели бы видеть в результатах что-то ещё, [свяжитесь с
+нами](/contact)!
+:::

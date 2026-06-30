@@ -52,8 +52,10 @@ Currently, Shira supports the following apps:
 - Facebook Messenger
 - Dating App
 
-:::note [Let us know](/contact) if your team relies on apps that aren't in this
-list and that you would like to see in Shira! :::
+:::note
+[Let us know](/contact) if your team relies on apps that aren't in this
+list and that you would like to see in Shira!
+:::
 
 ## The question's content {/* #content */}
 A question's content is the actual email or message that you draft to display in
