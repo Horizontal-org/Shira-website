@@ -5,7 +5,6 @@ sidebar_position: 2
 description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
 
 ---
-
 # Les quiz
 
 Shira place les quiz au cœur de toute campagne ou programme de sensibilisation à

@@ -40,9 +40,9 @@
         "description": "Navbar item with label Why phishing quizzes?"
     },
     "item.label.Contact us": {
-        "message": ""
+        "message": "Contáctanos"
     },
     "item.label.Visit our help center": {
-        "message": ""
+        "message": "Visita nuestro centro de ayuda"
     }
 }
