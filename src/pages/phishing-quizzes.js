@@ -71,7 +71,7 @@ export default function PhishingQuizzes() {
           </div>
 
           <div className={classNames(global.center, styles.iframeWrapper)}>
-            <a href="https://www.wsj.com/tech/cybersecurity/phishing-tests-the-bane-of-work-life-are-getting-meaner-76f30173">
+            <a href="https://archive.ph/nzcTj" target="_blank" rel="noopener noreferrer">
               <img
                 className={styles.phishingQuizzessEducationDesktopImage}
                 src={WsjImage}
