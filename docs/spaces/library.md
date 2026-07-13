@@ -13,7 +13,7 @@ The template library is where you can find ready-made quiz and question template
 Using a template from the library creates a copy of the template into your space. After you use a template, the original template and the quiz or question in your space are separate and independent from each other.
 :::
 
-## Quiz templates {/* #question-library */}
+## Quiz templates {/* #quiz-templates */}
 Quiz templates are ready-made quizzes that you can import into your Space. 
 
 To get started with quiz templates:
@@ -29,10 +29,10 @@ To get started with quiz templates:
    - Customize it to match your specific needs.
 
 :::note
-As of v2.1, only the Shira team can contribute quiz templates to the library. Other organizations will be able to contribute starting with v2.2.
+As of v2.1, only the Shira team can contribute quiz templates to the library. Other organizations will be able to contribute starting with v2.2. You can [read about new releases here](/release-notes.md).
 :::
 
-## Question templates {/* #question-library */}
+## Question templates {/* #question-templates */}
 Question templates are ready-made questions that you can import into an existing quiz in your Space. 
 
 To get started with question templates:
