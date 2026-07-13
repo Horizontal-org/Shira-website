@@ -17,4 +17,4 @@ In addition, Shira is open-source so anyone can [review the code that powers the
 
 Finally, before releasing major new features, we commission security audits by independent third-party security firms. The results from these audits are publicly available:
 - July 2023: [security audit by Subgraph on Shira 1.0](/assets/subgraph-audit-july-2023.pdf)
-- May 2026: [security audit by Convocation Design on Shira 2.0](/assets/convocation-audit-may-2026.pdf)
+- June 2026: [security audit by Convocation Design on Shira 2.0](/assets/convocation-audit-june-2026.pdf)
