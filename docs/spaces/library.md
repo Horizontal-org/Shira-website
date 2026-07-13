@@ -29,7 +29,7 @@ To get started with quiz templates:
    - Customize it to match your specific needs.
 
 :::note
-As of v2.1, only the Shira team can contribute quiz templates to the library. Other organizations will be able to contribute starting with v2.2. You can [read about new releases here](/release-notes.md).
+As of v2.1, only the Shira team can contribute quiz templates to the library. Other organizations will be able to contribute starting with v2.2. You can [read about new releases here](/release-notes).
 :::
 
 ## Question templates {/* #question-templates */}
