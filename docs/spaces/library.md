@@ -6,7 +6,7 @@ description: Learn about ready-made templates to get you started with Shira as q
 
 ---
 
-# Template Library
+# Template Library (/* #library */)
 The template library is where you can find ready-made quiz and question templates, allowing you to get started with Shira as quickly and seamlessly as possible, without having to build your quizzes from scratch.
 
 :::note
