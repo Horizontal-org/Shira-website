@@ -20,7 +20,7 @@ In your Shira Space, you can:
 ## Creating quizzes {/* #create-quizzes */}
 To create a quiz, you have two options:
 1. You can create a quiz from scratch. 
-2. You can use a ready-made [template](/library). If you use a template, you can use it as is or adapt it to your specific context and needs.
+2. You can use a ready-made [template](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 In both cases, you must:
 1. Name your quiz
