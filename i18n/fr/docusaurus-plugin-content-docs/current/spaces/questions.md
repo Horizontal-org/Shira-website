@@ -22,12 +22,10 @@ Chaque question est composée de plusieurs éléments :
 ## Créer une question {/* #create */}
 Pour créer des questions et les ajouter à votre quiz, deux options vous sont
 proposées :
-1. Il est possible de personnaliser vos questions dans leur intégralité et de
-   définir vous-même l'ensemble de leurs composantes.
-2. Vous pouvez importer des questions prêtes à l'emploi depuis [la
-   Bibliothèque](/library). Si vous importez une question depuis la
-   Bibliothèque, vous pouvez l'utiliser telle quelle ou l'adapter à votre
-   contexte et à vos besoins spécifiques.
+1. You can create questions from scratch and configure each of the questions'
+   components yourself.
+2. You can use ready-made [templates](/templates). If you use a template, you
+   can use it as is or adapt it to your specific context and needs.
 
 ## Préférences de la question {/* #preferences */}
 Lorsque vous créez une question, vous devez :
@@ -59,12 +57,12 @@ Actuellement, Shira prend en charge les applications suivantes :
 - Facebook Messenger
 - Application de rencontre
 
-:::note
+:::note\
 [Dites nous](/contact) si votre équipe utilise des applications qui ne figurent
-pas dans cette liste et que vous souhaiteriez voir intégrées à Shira !
+pas dans cette liste et que vous souhaiteriez voir intégrées à Shira ! \
 :::
 
-## Contenu de la question {/* #content */}
+## Le contenu de la question {/* #content */}
 Le contenu d'une question correspond au texte de l'e-mail ou du message que vous
 rédigez pour l'afficher dans le questionnaire.
 
