@@ -2,7 +2,7 @@
 id: results
 slug: /results
 sidebar_position: 6
-description: Dans Shira, consultez et analysez les performances de votre équipe aux quiz— suivez les quiz complétés, les scores moyens et identifiez les points à améliorer en matière de sensibilisation au phishing .
+description: View and analyze your team’s quiz performance in Shira — track completed quizzes, average scores, and identify areas for improvement in phishing awareness.
 
 ---
 # Scores
@@ -24,21 +24,16 @@ apprenants et apprenantes.
 Il s'agit du score moyen obtenu par l'ensemble des apprenants et apprenantes
 ayant participé au quiz.
 
-**Completion rate**\
-Il s'agit du pourcentage d'apprenants ayant envoyé leur quiz par rapport au
-nombre total d'apprenants auxquels ce quiz a été attribué. Le taux de complétion
-est uniquement disponible pour les quiz privés.
+**Completion rate** This is the percentage of learners who have submitted the
+quiz out of all the learners assigned this quiz. Completion rate is only
+available for private quizzes.
 
-**Results by question**\
-Ceci vous indique le score moyen obtenu par tous les apprenants à chaque
-question spécifique du quiz.
+**Results by question** This shows you the average score received by all
+learners on each specific question in the quiz.
 
-**Results by learner**\
-Vous trouverez ici la liste des apprenants inscrits ayant répondu au quiz, ainsi
-que leur score. Les résultats par apprenant ne sont disponibles que pour les
-quiz privés.
+**Results by learner** This shows you the list of registered learners who
+completed the quiz and their score on the quiz. Results by learner are only
+available for private quizzes.
 
-:::note
-, S'il y a des éléments précis que vous souhaitez consulter dans les
-scores [faites-le nous savoir](/contact)!
-:::
+:::note, S'il y a des éléments précis que vous souhaitez consulter dans les
+scores [faites-le nous savoir](/contact)! :::

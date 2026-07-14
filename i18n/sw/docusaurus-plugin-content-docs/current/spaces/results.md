@@ -31,7 +31,5 @@ learners on each specific question in the quiz.
 completed the quiz and their score on the quiz. Results by learner are only
 available for private quizzes.
 
-:::note
-If there are specific things you'd like to track in Results, [let us
-know](/contact)!
-:::
+:::note If there are specific things you'd like to track in Results, [let us
+know](/contact)! :::
