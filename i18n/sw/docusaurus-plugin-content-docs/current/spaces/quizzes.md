@@ -20,7 +20,12 @@ In your Shira Space, you can:
 - [delete quizzes](#delete-quiz)
 
 ## Creating quizzes {/* #create-quizzes */}
-When you create a quiz, you must:
+To create a quiz, you have two options:
+1. You can create a quiz from scratch.
+2. You can use a ready-made [template](/templates). If you use a template, you
+   can use it as is or adapt it to your specific context and needs.
+
+In both cases, you must:
 1. Name your quiz
 2. Set the privacy of your quiz
 
@@ -67,11 +72,9 @@ Publishing a quiz means that you are making it accessible to learners.
 You can then unpublish the quiz to make it impossible for learners to take it.
 If the quiz is unpublished, the quiz URL will lead to an error page.
 
-:::note
-If you unpublish a quiz *while* a learner is taking it, the learner will
+:::note If you unpublish a quiz *while* a learner is taking it, the learner will
 see an error message at the end of the quiz when they try to submit their
-answers, and their submission will be lost.
-:::
+answers, and their submission will be lost. :::
 
 ## Editing quizzes {/* #edit-quizzes */}
 You can edit any quiz, whether it is published or unpublished, including:
@@ -82,10 +85,8 @@ You can edit any quiz, whether it is published or unpublished, including:
   quiz.
 - Deleting questions: once deleted, there is no way of retrieving a question.
 
-:::note
-If some learners have already taken the quiz, editing this quiz may
-affect the reliability of [the quizz's results](/results).
-:::
+:::note If some learners have already taken the quiz, editing this quiz may
+affect the reliability of [the quizz's results](/results). :::
 
 ## Duplicating a quiz {/* #duplicate-quiz */}
 Duplicating a quiz means creating an exact copy of an existing quiz.
@@ -103,7 +104,5 @@ duplication.
 Deleting a quiz means that the quiz, all the questions inside the quiz, and any
 [results](/results) associated with this quiz are deleted from your space.
 
-:::warning
-Deleting a quiz is permanent: once deleted, a quiz and its results
-cannot be recovered!
-:::
+:::warning Deleting a quiz is permanent: once deleted, a quiz and its results
+cannot be recovered! :::
