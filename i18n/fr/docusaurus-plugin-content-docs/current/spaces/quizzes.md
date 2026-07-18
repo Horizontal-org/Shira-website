@@ -76,11 +76,11 @@ Vous pouvez ensuite dépublier le quiz pour qu'il soit impossible pour les
 apprenants et apprenantes d'y participer. Si le quiz est dépublié, l'URL du quiz
 mènera à une page d'erreur.
 
-:::note
+<Admonition type="note">
 Si vous dépubliez un quiz *pendant* qu'un apprenant y participe,
 l'apprenant verra un message d'erreur à la fin du quiz lorsqu'il tentera
 d'envoyer ses réponses, et sa participation sera perdue .
-:::
+</Admonition>
 
 ## Modifier des quiz {/* #edit-quizzes */}
 Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié,
@@ -93,11 +93,11 @@ notamment pour :
 - Supprimer des questions : une fois supprimée, il n'y a aucun moyen de
   récupérer une question.
 
-:::note
+<Admonition type="note">
 Si des apprenants ou apprenantes ont déjà participé au quiz, la
 modification de celui-ci peut affecter la fiabilité [des résultats du
 quiz](/results).
-:::
+</Admonition>
 
 ## Dupliquer un quiz {/* #duplicate-quiz */}
 Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
@@ -115,7 +115,7 @@ moment de la duplication.
 Supprimer un quiz signifie que le quiz, toutes ses questions et tous les
 [scores](/results)associés seront supprimés de votre espace.
 
-:::warning
+<Admonition type="warning">
 La suppression d'un quiz est permanente : une fois supprimés, un quiz
 et ses scores ne peuvent pas être récupérés !
-:::
+</Admonition>

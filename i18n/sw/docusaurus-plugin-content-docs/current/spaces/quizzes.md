@@ -67,11 +67,11 @@ Publishing a quiz means that you are making it accessible to learners.
 You can then unpublish the quiz to make it impossible for learners to take it.
 If the quiz is unpublished, the quiz URL will lead to an error page.
 
-:::note
+<Admonition type="note">
 If you unpublish a quiz *while* a learner is taking it, the learner will
 see an error message at the end of the quiz when they try to submit their
 answers, and their submission will be lost.
-:::
+</Admonition>
 
 ## Editing quizzes {/* #edit-quizzes */}
 You can edit any quiz, whether it is published or unpublished, including:
@@ -82,10 +82,10 @@ You can edit any quiz, whether it is published or unpublished, including:
   quiz.
 - Deleting questions: once deleted, there is no way of retrieving a question.
 
-:::note
+<Admonition type="note">
 If some learners have already taken the quiz, editing this quiz may
 affect the reliability of [the quizz's results](/results).
-:::
+</Admonition>
 
 ## Duplicating a quiz {/* #duplicate-quiz */}
 Duplicating a quiz means creating an exact copy of an existing quiz.
@@ -103,7 +103,7 @@ duplication.
 Deleting a quiz means that the quiz, all the questions inside the quiz, and any
 [results](/results) associated with this quiz are deleted from your space.
 
-:::warning
+<Admonition type="warning">
 Deleting a quiz is permanent: once deleted, a quiz and its results
 cannot be recovered!
-:::
+</Admonition>

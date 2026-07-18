@@ -8,11 +8,11 @@ description: Stay up to date with the latest Shira features and improvements, in
 
 # Release Notes
 
-:::tip
+<Admonition type="tip">
 Here’s everything you need to know about the latest features and
 improvements in Shira. If something is missing, you can [suggest new features or
 improvements here](https://github.com/Horizontal-org/shira/discussions).
-:::
+</Admonition>
 
 ## Shira 2.0 {/* #shira-20 */}
 *Released on 20 May 2026*

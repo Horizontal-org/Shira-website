@@ -8,10 +8,10 @@ description: 及时了解 Shira 最新功能和改进，包括空间、可定制
 
 # 发布说明
 
-:::tip
+<Admonition type="tip">
 这里包含关于 Shira
 最新功能与改进的所有重要信息。如有遗漏，请[在此处提交建议新功能或改进意见](https://github.com/Horizontal-org/shira/discussions)。
-:::
+</Admonition>
 
 ## Shira 2.0 {/* #shira-20 */}
 *Released on 20 May 2026*

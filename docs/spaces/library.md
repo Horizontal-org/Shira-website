@@ -9,9 +9,9 @@ description: Learn about the Shira library, where you can find ready-made resour
 # Library
 The library is where you can find ready-made resources curated by the Shira team. These resources allow you to get started with Shira as quickly and seamlessly as possible, without having to build your quizzes from scratch.
 
-:::note
+<Admonition type="note">
 For now, the main resource available in the Shira library are quiz questions, but we are working hard to add full-fledged quizzes!
-:::
+</Admonition>
 
 ## Question library {/* #question-library */}
 The question library includes questions covering all [apps](/questions#app), in a variety of languages. Questions often already include [explanations](/questions#explanations).

@@ -11,9 +11,9 @@ import LoginLink from '@site/src/components/LoginLink';
 # Plans FAQ
 
 
-:::note
+<Admonition type="note">
 The most up-to-date information about pricing and the features included in each plan is available on [the Shira pricing page](/pricing). 
-:::
+</Admonition>
 
 ## Signing up, upgrading, downgrading {/* #signing-up-upgrading-downgrading */}
 

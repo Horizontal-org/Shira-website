@@ -8,11 +8,11 @@ description: البقاء على اطلاع بأحدث ميزات وتحسينا
 
 # ملاحظات الإصدار
 
-:::tip
+<Admonition type="tip">
 هنا كل ما تحتاجون معرفته حول أحدث الميزات والتحسينات في Shira. في حال وجود
 نقص، يمكن [اقتراح ميزات أو تحسينات جديدة من
 هنا](https://github.com/Horizontal-org/shira/discussions).
-:::
+</Admonition>
 
 ## Shira 2.0 {/* #shira-20 */}
 *Released on 20 May 2026*

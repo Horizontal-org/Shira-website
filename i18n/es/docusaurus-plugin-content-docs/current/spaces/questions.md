@@ -54,10 +54,10 @@ Actualmente, Shira admite las siguientes apps:
 - Facebook Messenger
 - App de Citas
 
-:::note
+<Admonition type="note">
 ¡[Déjanos saber](/contact) si tu equipo depende de apps que no están en esta
 lista y que te gustaría ver en Shira!
-:::
+</Admonition>
 
 ## El contenido de la pregunta {/* #content */}
 El contenido de una pregunta son el correo o mensaje reales que redactas para

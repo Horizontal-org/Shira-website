@@ -27,6 +27,6 @@ This shows you the average score received by all learners on each specific quest
 **Results by learner**
 This shows you the list of registered learners who completed the quiz and their score on the quiz. Results by learner are only available for private quizzes.
 
-:::note
+<Admonition type="note">
 If there are specific things you'd like to track in Results, [let us know](/contact)!
-:::
+</Admonition>
