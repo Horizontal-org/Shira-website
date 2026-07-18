@@ -161,11 +161,11 @@ export default function Pricing() {
             })},
             {type: 'text', value: translate({
               id: 'view_plans.comparison.values.number_of_admins.pro',
-              message: 'Unlimited (coming soon)',
+              message: '1 admin',
             })},
             {type: 'text', value: translate({
               id: 'view_plans.comparison.values.number_of_admins.enterprise',
-              message: 'Unlimited (coming soon)',
+              message: 'Unlimited',
             })},
           ],
         },
