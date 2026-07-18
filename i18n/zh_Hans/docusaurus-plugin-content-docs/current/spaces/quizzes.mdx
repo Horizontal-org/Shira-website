@@ -24,6 +24,10 @@ import Admonition from '@theme/Admonition';
 1. 命名测验
 2. 设置测验隐私
 
+In both cases, you must:
+1. Name your quiz
+2. Set the privacy of your quiz
+
 ### 测验名称 {/* #name */}
 测验名称应表明测验目的（例如，“第四季度员工培训”、“2026 年最常见攻击”等）。测验名称对学员可见：
 - 在学员收到的分配测验邮件中（仅适用于[私有测验](#privacy)）
@@ -54,7 +58,7 @@ import Admonition from '@theme/Admonition';
 取消发布测验之后，学员将无法参加该测验，测验链接将导向错误页面。
 
 <Admonition type="note">
-在取消发布该测验时，如果学员*正在*参加测验，那么测验结束提交答案后，将在结束中显示错误消息，并且提交内容将丢失。
+If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost. 
 </Admonition>
 
 ## 编辑测验 {/* #edit-quizzes */}
@@ -65,7 +69,7 @@ import Admonition from '@theme/Admonition';
 - 删除题目：题目一旦删除，无法恢复。
 
 <Admonition type="note">
-如果已有学员参加过测验，编辑该测验可能会影响[测验结果](/results)。
+If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
 </Admonition>
 
 ## 复制测验 {/* #duplicate-quiz */}
@@ -80,5 +84,5 @@ import Admonition from '@theme/Admonition';
 删除测验意味着，在您的空间中删除测验及其所有题目以及该测验关联的所有[结果](/results)。
 
 <Admonition type="warning">
-删除测验是永久性的：一旦删除，测验及其结果将无法恢复！
+Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
 </Admonition>
