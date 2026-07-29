@@ -267,6 +267,10 @@ const config = {
                 label: 'Shira is open source',
                 href: 'https://github.com/Horizontal-org/shira/',
               },
+              {
+                to: '/case-studies',
+                label: 'Case studies',
+              },
             ],
           },
         ],
