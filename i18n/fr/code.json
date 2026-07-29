@@ -1035,7 +1035,7 @@
         "message": ""
     },
     "view_plans.plans.starter.price": {
-        "message": ""
+        "message": "Gratuit"
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
         "message": ""
@@ -1044,7 +1044,7 @@
         "message": ""
     },
     "view_plans.plans.starter.title": {
-        "message": ""
+        "message": "Initial"
     },
     "view_plans.comparison.tooltips.support": {
         "message": ""
@@ -1065,7 +1065,7 @@
         "message": ""
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "Lancez-vous"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
         "message": ""
@@ -1119,7 +1119,7 @@
         "message": ""
     },
     "view_plans.plans.starter.description": {
-        "message": ""
+        "message": "Pour tester et se familiariser avec Shira"
     },
     "view_plans.comparison.rows.admin_dashboard": {
         "message": ""
@@ -1140,7 +1140,7 @@
         "message": ""
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "Pro"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
         "message": ""
