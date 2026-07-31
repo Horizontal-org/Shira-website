@@ -169,7 +169,7 @@ export default function About() {
                 className={classNames(styles.button, global.buttonDark)}
                 to="/security"
               >
-                <Translate id="bout.why.auditCta">Security Audits</Translate>
+                <Translate id="about.why.auditCta">Security Audits</Translate>
               </Link>
 
               <Link
