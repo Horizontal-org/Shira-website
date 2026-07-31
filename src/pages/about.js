@@ -165,12 +165,12 @@ export default function About() {
             </div>
 
             <div className={classNames(styles.whyShiraButtons, global.row, global.center)}>
-              <a
+              <Link
                 className={classNames(styles.button, global.buttonDark)}
-                href={useBaseUrl('assets/shira-final.pdf')}
+                to="/security"
               >
                 <Translate id="about.why.auditCta">Security Audits</Translate>
-              </a>
+              </Link>
 
               <Link
                 className={classNames(styles.button, global.buttonDark)}
