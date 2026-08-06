@@ -7,63 +7,57 @@ sidebar_position: 1
 pagination_prev: null
 pagination_next: 'ready-made'
 ---
-import React from 'react'; import { useDocsSidebar } from
-'@docusaurus/theme-common/internal';
+import React from 'react';
+import { useDocsSidebar } from '@docusaurus/theme-common/internal';
 
-import {useCurrentSidebarCategory} from '@docusaurus/theme-common'; import
-DocCard from '@theme/DocCard'; import Link from '@docusaurus/Link'; import
-global from '/src/css/custom.module.scss'; import classNames from 'classnames';
-import SignupLink from '@site/src/components/SignupLink'; import QuizLink from
-'@site/src/components/QuizLink';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+import DocCard from '@theme/DocCard';
+import Link from '@docusaurus/Link';
+import global from '/src/css/custom.module.scss';
+import classNames from 'classnames';
+import SignupLink from '@site/src/components/SignupLink';
+import QuizLink from '@site/src/components/QuizLink';
 
-# Bienvenue au Centre d'assistance Shira !
+# Bienvenue au Centre d'assistance Shira !
 
-Shira est un outil de sensibilisation contre l'hameçonnage. Grâce à Shira, vous
-pouvez former n'importe qui à repérer les tentatives d'hameçonnage par e-mail,
-SMS et messagerie.
+Shira est un outil de sensibilisation contre l'hameçonnage. Grâce à Shira, vous pouvez former n'importe qui à repérer les tentatives d'hameçonnage par e-mail, SMS et messagerie.
 
-Shira propose, dans un environnement d'apprentissage contrôlé, des simulations
-hameçonnage identiques à autant que possible à ce que votre équipe pourrait
-recevoir concrètement. Shira repose sur [des études qui ont
-démontré](/phishing-quizzes) que, pour développer les compétences en matière de
-lutte contre l'hameçonnage, la formation est bien plus efficace que l'envoi de
-faux e-mails d'hameçonnage dans la boîte de réception des apprenants et
-apprenantes.
+Shira propose, dans un environnement d'apprentissage contrôlé, des simulations hameçonnage identiques à autant que possible à ce que votre équipe pourrait recevoir concrètement. Shira repose sur [des études qui ont démontré](/phishing-quizzes) que, pour développer les compétences en matière de lutte contre l'hameçonnage, la formation est bien plus efficace que l'envoi de faux e-mails d'hameçonnage dans la boîte de réception des apprenants et apprenantes.
 
-Ce centre d'assistance vous guidera dans l'utilisation de Shira pour former
-votre équipe ou votre communauté. Si vous ne trouvez pas ici la réponse à
-certaines de vos questions, [n'hésitez pas à nous contacter !](/contact)
+Ce centre d'assistance vous guidera dans l'utilisation de Shira pour former votre équipe ou votre communauté. Si vous ne trouvez pas ici la réponse à certaines de vos questions, [n'hésitez pas à nous contacter !](/contact)
 
-### Quiz prêts à l'emploi {/* #ready-made-quizzes */}
-Nos [quiz prédéfinis](/ready-made) invitent les utilisateurs et utilisatrices à
-répondre à un questionnaire personnalisé de 10 questions, qui se rapproche
-autant que possible de ce à quoi ils seront confrontés dans la réalité. Ce
-service est gratuit et accessible à tous et à toutes.
+### Ready-made quizzes {/* #ready-made-quizzes */}
+Nos [quiz prédéfinis](/ready-made) invitent les utilisateurs et utilisatrices à répondre à un questionnaire personnalisé de 10 questions, qui se rapproche autant que possible de ce à quoi ils seront confrontés dans la réalité. Ce service est gratuit et accessible à tous et à toutes.
 
-Vous pouvez [en savoir plus sur les tests prédéfinis ici](/ready-made) ou
-<QuizLink>teste vous-même un quiz prédéfini !</QuizLink>
+Vous pouvez [en savoir plus sur les tests prédéfinis ici](/ready-made) ou</QuizLink>
 
 
-### Espace Shira {/* #shira-space */}
-Un [Espace Shira](/spaces) est conçu pour les équipes et les organisations et
-offre des fonctionnalités avancées telles que :
-- créer vous-même vos questions de quizz, en adaptant leur contenu
-  spécifiquement à votre équipe.
-- Le paramétrage de la confidentialité de votre quiz en mode public (accessible
-  à toute personne disposant de l'URL) ou privé (accessible uniquement aux
-  apprenants et apprenantes inscrits auprès de votre organisation). Les quiz
-  privés seront bientôt disponibles !
+### Shira Space {/* #shira-space */}
+Un [Espace Shira](/spaces) est conçu pour les équipes et les organisations et offre des fonctionnalités avancées telles que :
+- créer vous-même vos questions de quizz, en adaptant leur contenu spécifiquement à votre équipe.
+- Le paramétrage de la confidentialité de votre quiz en mode public (accessible à toute personne disposant de l'URL) ou privé (accessible uniquement aux apprenants et apprenantes inscrits auprès de votre organisation). Les quiz privés seront bientôt disponibles !
 - Suivi des scores des utilisateurs pour identifier des axes d'amélioration.
+- tracking user Results to understand where your users can improve.
 
-Si vous êtes prêt à vous lancer, vous pouvez <SignupLink>créer votre espace
-ici</SignupLink> ou vous informer davantage sur les Espaces :
+Si vous êtes prêt à vous lancer, vous pouvez <SignupLink>créer votre espace ici</SignupLink> ou vous informer davantage sur les Espaces :
 
 <FeaturedDocs />
 
-export function FeaturedDocs() { const category = useCurrentSidebarCategory();
-const spacesItems = category.items.find( (item) => item.type === 'category' &&
-item.items?.some( (child) => child.docId?.startsWith('spaces/') ) ).items;
+export function FeaturedDocs() {
+  const category = useCurrentSidebarCategory();
+  const spacesItems = category.items.find(
+    (item) =>
+      item.type === 'category' &&
+      item.items?.some(
+        (child) => child.docId?.startsWith('spaces/')
+      )
+  ).items;
 
-return ( <div className={classNames(global.shiraDocCards)}>
-{spacesItems.map((item, idx) => ( <DocCard key={idx} item={item} /> ))} </div>
-); }
+  return (
+    <div className={classNames(global.shiraDocCards)}>
+      {spacesItems.map((item, idx) => (
+        <DocCard key={idx} item={item} />
+      ))}
+    </div>
+  );
+}
