@@ -1121,187 +1121,187 @@
         "message": "✔️إحصاءات مفصلة لتتبع نتائج حسب المتعلم والأسئلة"
     },
     "view_plans.comparison.rows.custom_quizzes": {
-        "message": ""
+        "message": "عدد الاختبارات المخصصة"
     },
     "view_plans.comparison.tooltips.apps_available": {
-        "message": ""
+        "message": "أنشئوا أسئلة الاختبارات باستخدام واجهات تشبه تماما التطبيقات الفعلية التي يستخدمها المتعلمون"
     },
     "view_plans.comparison.tooltips.customizable_questions": {
-        "message": ""
+        "message": "أنشئوا أسئلة اختبار تناسب احتياجات المتعلمين"
     },
     "view_plans.plans.starter.price": {
-        "message": ""
+        "message": "مجانية"
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": ""
+        "message": "غير محدود"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": ""
+        "message": "غير محدود"
     },
     "view_plans.plans.starter.title": {
-        "message": ""
+        "message": "الأولية"
     },
     "view_plans.comparison.tooltips.support": {
-        "message": ""
+        "message": "سرعة الاستجابة لضمان تجربة سلسة"
     },
     "view_plans.comparison.values.support.enterprise": {
-        "message": ""
+        "message": "Dedicated enterprise support"
     },
     "view_plans.comparison.rows.apps_available": {
-        "message": ""
+        "message": "التطبيقات المتاحة"
     },
     "view_plans.comparison.values.cloud": {
-        "message": ""
+        "message": "سحابي"
     },
     "view_plans.comparison.compliance": {
-        "message": ""
+        "message": "الامتثال"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "$50/month + $1 per quiz taken"
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "بدء الآن"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
-        "message": ""
+        "message": "عدد الاختبارات التي يمكنكم إنشاؤها في مساحتكم"
     },
     "view_plans.plans.enterprise.cta": {
-        "message": ""
+        "message": "للتواصل معنا"
     },
     "view_plans.comparison.rows.customizable_questions": {
-        "message": ""
+        "message": "أسئلة الاختبار قابلة للتخصيص بالكامل"
     },
     "view_plans.comparison.rows.public_quizzes": {
-        "message": ""
+        "message": "الاختبارات العمومية"
     },
     "view_plans.comparison.tooltips.hosting": {
-        "message": ""
+        "message": "دعوا فريق Shira يستضيف ويحافظ على Shira (السحابي) أو تثبيته على خوادمك (في الموقع)"
     },
     "view_plans.comparison.rows.private_quizzes": {
-        "message": ""
+        "message": "الاختبارات الخاصة"
     },
     "view_plans.comparison.admin_management": {
-        "message": ""
+        "message": "التسيير الإداري"
     },
     "view_plans.comparison.access_control": {
-        "message": ""
+        "message": "التحكم في الوصول"
     },
     "view_plans.comparison.rows.analysis_tools": {
-        "message": ""
+        "message": "أدوات التحليل والامتثال"
     },
     "view_plans.comparison.rows.question_library": {
-        "message": ""
+        "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": ""
+        "message": "الدعم"
     },
     "view_plans.comparison.rows.hosting": {
-        "message": ""
+        "message": "استضافة"
     },
     "view_plans.comparison.customer_support": {
-        "message": ""
+        "message": "Customer support"
     },
     "view_plans.comparison.tooltips.detailed_analytics": {
-        "message": ""
+        "message": "تتبع نتائج حسب المتعلم والأسئلة"
     },
     "view_plans.comparison.rows.preparedness_report": {
-        "message": ""
+        "message": "Preparedness Report & Action Plan"
     },
     "view_plans.comparison.tooltips.preparedness_report": {
-        "message": ""
+        "message": "Concise report highlighting top risks and recommended training modules and timelines"
     },
     "view_plans.comparison.values.tailor_made_training.enterprise": {
-        "message": ""
+        "message": "متاح عند الطلب"
     },
     "view_plans.plans.starter.description": {
-        "message": ""
+        "message": "لتجربة المنصة والتعرف على مزايا Shira"
     },
     "view_plans.comparison.rows.admin_dashboard": {
-        "message": ""
+        "message": "لوحة تحكم المسؤول"
     },
     "view_plans.comparison.values.support.pro": {
-        "message": ""
+        "message": "Priority support"
     },
     "view_plans.plans.pro.cta": {
-        "message": ""
+        "message": "ابدؤوا الفترة التجريبية المجانية لمدة 14 يوماً"
     },
     "view_plans.comparison.tooltips.number_of_admins": {
-        "message": ""
+        "message": "المسؤولون هم مستخدمون يمكنهم إنشاء وإدارة حملات التوعية حول التصيد الاحتيالي"
     },
     "view_plans.comparison.values.cloud_on_premise": {
-        "message": ""
+        "message": "سحابي ومحلي"
     },
     "view_plans.comparison.values.number_of_admins.pro": {
-        "message": ""
+        "message": "مسؤول واحد"
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "الباقة الاحترافية"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
-        "message": ""
+        "message": "صدِّروا نتائج فريقكم إلى تقارير بصيغة CSV أو بصيغة PDF"
     },
     "view_plans.plans.pro.description": {
-        "message": ""
+        "message": "جربوا القوة الكاملة لـ Shira"
     },
     "view_plans.comparison.customization": {
-        "message": ""
+        "message": "التخصيص"
     },
     "view_plans.plans.enterprise.title": {
-        "message": ""
+        "message": "باقة الشركات"
     },
     "view_plans.comparison.rows.tailor_made_training": {
-        "message": ""
+        "message": "تدريب المستخدمين على المقاس"
     },
     "view_plans.plans.enterprise.description": {
-        "message": ""
+        "message": "تفصيل Shira للمنظمات الكبيرة ومزودي الخدمات"
     },
     "view_plans.comparison.rows.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Phishing Readiness Assessment"
     },
     "view_plans.comparison.tooltips.basic_analytics": {
-        "message": ""
+        "message": "تتبع النتائج على مستوى الاختبار"
     },
     "view_plans.comparison.tooltips.admin_dashboard": {
-        "message": ""
+        "message": "مكان مركزي لإدارة حملات التوعية الخاصة بكم حول التصيد الاحتيالي"
     },
     "view_plans.comparison.values.custom_quizzes.free": {
-        "message": ""
+        "message": "3 اختبارات مخصصة على الأكثر"
     },
     "view_plans.comparison.rows.detailed_analytics": {
-        "message": ""
+        "message": "التحليلات المفصلة"
     },
     "view_plans.comparison.tooltips.public_quizzes": {
-        "message": ""
+        "message": "يمكن لأي شخص أن يجتاز اختباركم من خلال رابط سهل المشاركة"
     },
     "view_plans.comparison.tooltips.private_quizzes": {
-        "message": ""
+        "message": "يستطيع المتعلمون المسجلون في مساحتكم فقط خوض اختباراتكم"
     },
     "view_plans.comparison.tooltips.tailor_made_training": {
-        "message": ""
+        "message": "ورشات عمل تطوير المهارات التي يخصصها فريق Shira لمنظمتكم"
     },
     "view_plans.comparison.values.number_of_admins.free": {
-        "message": ""
+        "message": "مسؤول واحد"
     },
     "view_plans.comparison.tooltips.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Snapshot of current organizational vulnerability to phishing attacks"
     },
     "view_plans.comparison.tooltips.question_library": {
-        "message": ""
+        "message": "Access dozens of ready-made question templates"
     },
     "view_plans.learn_more": {
-        "message": ""
+        "message": "التعرف على المزيد"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": ""
+        "message": "غير محدود"
     },
     "view_plans.plans.enterprise.price": {
-        "message": ""
+        "message": "تسعير مخصص"
     },
     "view_plans.comparison.rows.basic_analytics": {
-        "message": ""
+        "message": "التحليلات الأساسية"
     },
     "view_plans.comparison.rows.number_of_admins": {
-        "message": ""
+        "message": "عدد المسؤولين"
     },
     "homepage.hero.cta": {
         "message": "بدء الآن"

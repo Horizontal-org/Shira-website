@@ -1026,187 +1026,187 @@
         "message": "Effet des simulations d'hameçonnage : les utilisateurs ou utilisatrices exposés en permanence à des simulations d'hameçonnage sont plus susceptibles de cliquer sur des liens dangereux."
     },
     "view_plans.comparison.rows.custom_quizzes": {
-        "message": ""
+        "message": "Nombre de quiz personnalisés"
     },
     "view_plans.comparison.tooltips.apps_available": {
-        "message": ""
+        "message": "Créez des questions via des interfaces identiques aux applications réelles utilisées par vos apprenants et apprenantes"
     },
     "view_plans.comparison.tooltips.customizable_questions": {
-        "message": ""
+        "message": "Créez des questions de quiz adaptées aux besoins de vos apprenants et apprenantes"
     },
     "view_plans.plans.starter.price": {
-        "message": ""
+        "message": "Gratuit"
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": ""
+        "message": "Illimité"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": ""
+        "message": "Illimité"
     },
     "view_plans.plans.starter.title": {
-        "message": ""
+        "message": "Initial"
     },
     "view_plans.comparison.tooltips.support": {
-        "message": ""
+        "message": "Temps de réponse rapide pour garantir une expérience fluide"
     },
     "view_plans.comparison.values.support.enterprise": {
-        "message": ""
+        "message": "Support entreprise dédié"
     },
     "view_plans.comparison.rows.apps_available": {
-        "message": ""
+        "message": "Applications disponibles"
     },
     "view_plans.comparison.values.cloud": {
-        "message": ""
+        "message": "Cloud"
     },
     "view_plans.comparison.compliance": {
-        "message": ""
+        "message": "Conformité"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "$50/month + $1 per quiz taken"
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "Lancez-vous"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
-        "message": ""
+        "message": "Le nombre de quiz que vous pouvez créer dans votre Espace"
     },
     "view_plans.plans.enterprise.cta": {
-        "message": ""
+        "message": "Contactez-nous"
     },
     "view_plans.comparison.rows.customizable_questions": {
-        "message": ""
+        "message": "Des questions pleinement personnalisables"
     },
     "view_plans.comparison.rows.public_quizzes": {
-        "message": ""
+        "message": "Quiz publics"
     },
     "view_plans.comparison.tooltips.hosting": {
-        "message": ""
+        "message": "Laissez l'équipe Shira héberger et maintenir votre instance (cloud) ou installez-la sur vos serveurs (sur site)"
     },
     "view_plans.comparison.rows.private_quizzes": {
-        "message": ""
+        "message": "Quiz privés"
     },
     "view_plans.comparison.admin_management": {
-        "message": ""
+        "message": "Gestion des administrateurs"
     },
     "view_plans.comparison.access_control": {
-        "message": ""
+        "message": "Contrôle d'accès"
     },
     "view_plans.comparison.rows.analysis_tools": {
-        "message": ""
+        "message": "Outils d'analyse et de conformité"
     },
     "view_plans.comparison.rows.question_library": {
-        "message": ""
+        "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": ""
+        "message": "Assistance"
     },
     "view_plans.comparison.rows.hosting": {
-        "message": ""
+        "message": "Hébergement"
     },
     "view_plans.comparison.customer_support": {
-        "message": ""
+        "message": "Assistance clientèle"
     },
     "view_plans.comparison.tooltips.detailed_analytics": {
-        "message": ""
+        "message": "Consultez les scores par apprenant.e et par question"
     },
     "view_plans.comparison.rows.preparedness_report": {
-        "message": ""
+        "message": "Rapport de préparation et plan d'action"
     },
     "view_plans.comparison.tooltips.preparedness_report": {
-        "message": ""
+        "message": "Rapport concis mettant en évidence les principaux risques ainsi que les modules de formation et les délais recommandés"
     },
     "view_plans.comparison.values.tailor_made_training.enterprise": {
-        "message": ""
+        "message": "Disponible sur demande"
     },
     "view_plans.plans.starter.description": {
-        "message": ""
+        "message": "Pour tester et se familiariser avec Shira"
     },
     "view_plans.comparison.rows.admin_dashboard": {
-        "message": ""
+        "message": "Tableau de bord administrateur"
     },
     "view_plans.comparison.values.support.pro": {
-        "message": ""
+        "message": "Assistance prioritaire"
     },
     "view_plans.plans.pro.cta": {
-        "message": ""
+        "message": "Commencer l'essai gratuit de 14 jours"
     },
     "view_plans.comparison.tooltips.number_of_admins": {
-        "message": ""
+        "message": "Les administrateurs ou administratrices sont des utilisateurs et utilisatrices qui peuvent créer et gérer des campagnes de sensibilisation à l'hameçonnage"
     },
     "view_plans.comparison.values.cloud_on_premise": {
-        "message": ""
+        "message": "Cloud et sur site"
     },
     "view_plans.comparison.values.number_of_admins.pro": {
-        "message": ""
+        "message": "1 administrateur"
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "Pro"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
-        "message": ""
+        "message": "Exportez les scores de votre équipe en rapports CSV ou PDF"
     },
     "view_plans.plans.pro.description": {
-        "message": ""
+        "message": "Expérimentez toutes les possibilités de Shira"
     },
     "view_plans.comparison.customization": {
-        "message": ""
+        "message": "Personnalisation"
     },
     "view_plans.plans.enterprise.title": {
-        "message": ""
+        "message": "Entreprise"
     },
     "view_plans.comparison.rows.tailor_made_training": {
-        "message": ""
+        "message": "Formation utilisateur.ice sur mesure"
     },
     "view_plans.plans.enterprise.description": {
-        "message": ""
+        "message": "Adaptez Shira pour les grandes organisations tout comme pour les prestataires de services"
     },
     "view_plans.comparison.rows.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Évaluation du niveau de préparation au phishing"
     },
     "view_plans.comparison.tooltips.basic_analytics": {
-        "message": ""
+        "message": "Consultez les scores par quiz"
     },
     "view_plans.comparison.tooltips.admin_dashboard": {
-        "message": ""
+        "message": "Un lieu centralisé pour gérer vos campagnes de sensibilisation à l'hameçonnage"
     },
     "view_plans.comparison.values.custom_quizzes.free": {
-        "message": ""
+        "message": "Jusqu'à 3 quiz personnalisés"
     },
     "view_plans.comparison.rows.detailed_analytics": {
-        "message": ""
+        "message": "Analyses détaillées"
     },
     "view_plans.comparison.tooltips.public_quizzes": {
-        "message": ""
+        "message": "N'importe qui peut répondre à votre quiz via une URL facile à partager"
     },
     "view_plans.comparison.tooltips.private_quizzes": {
-        "message": ""
+        "message": "Seuls les apprenants et apprenantes inscrits dans votre espace peuvent répondre à vos quiz"
     },
     "view_plans.comparison.tooltips.tailor_made_training": {
-        "message": ""
+        "message": "Des ateliers sur mesure conçus par l'équipe Shira pour développer les compétences des membres de votre organisation"
     },
     "view_plans.comparison.values.number_of_admins.free": {
-        "message": ""
+        "message": "1 administrateur"
     },
     "view_plans.comparison.tooltips.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Aperçu instantané de la vulnérabilité actuelle de l'organisation face aux attaques de phishing"
     },
     "view_plans.comparison.tooltips.question_library": {
-        "message": ""
+        "message": "Access dozens of ready-made question templates"
     },
     "view_plans.learn_more": {
-        "message": ""
+        "message": "En savoir plus"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": ""
+        "message": "Illimité"
     },
     "view_plans.plans.enterprise.price": {
-        "message": ""
+        "message": "Tarifs personnalisés"
     },
     "view_plans.comparison.rows.basic_analytics": {
-        "message": ""
+        "message": "Analyses de base"
     },
     "view_plans.comparison.rows.number_of_admins": {
-        "message": ""
+        "message": "Nombre d'administrateur.ice.s"
     },
     "homepage.hero.cta": {
         "message": "Lancez-vous"

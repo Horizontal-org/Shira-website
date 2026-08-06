@@ -1121,187 +1121,187 @@
         "message": "✔️ 详细分析，追踪学员和题目层面的结果"
     },
     "view_plans.comparison.rows.custom_quizzes": {
-        "message": ""
+        "message": "定制测验数量"
     },
     "view_plans.comparison.tooltips.apps_available": {
-        "message": ""
+        "message": "创建测验题目，界面与学员实际所用的应用完全一致"
     },
     "view_plans.comparison.tooltips.customizable_questions": {
-        "message": ""
+        "message": "根据学员需求定制测验题目"
     },
     "view_plans.plans.starter.price": {
-        "message": ""
+        "message": "免费版"
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": ""
+        "message": "不限数量"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": ""
+        "message": "不限数量"
     },
     "view_plans.plans.starter.title": {
-        "message": ""
+        "message": "入门版"
     },
     "view_plans.comparison.tooltips.support": {
-        "message": ""
+        "message": "快速响应，确保流畅的体验"
     },
     "view_plans.comparison.values.support.enterprise": {
-        "message": ""
+        "message": "Dedicated enterprise support"
     },
     "view_plans.comparison.rows.apps_available": {
-        "message": ""
+        "message": "可用应用"
     },
     "view_plans.comparison.values.cloud": {
-        "message": ""
+        "message": "云端"
     },
     "view_plans.comparison.compliance": {
-        "message": ""
+        "message": "合规管理"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "$50/month + $1 per quiz taken"
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "开始使用"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
-        "message": ""
+        "message": "在空间中可创建的测验数量"
     },
     "view_plans.plans.enterprise.cta": {
-        "message": ""
+        "message": "联系我们"
     },
     "view_plans.comparison.rows.customizable_questions": {
-        "message": ""
+        "message": "测验题目全面可定制"
     },
     "view_plans.comparison.rows.public_quizzes": {
-        "message": ""
+        "message": "公开测验"
     },
     "view_plans.comparison.tooltips.hosting": {
-        "message": ""
+        "message": "由 Shira 团队托管维护您的 Shira 云或在您的本地服务器上部署"
     },
     "view_plans.comparison.rows.private_quizzes": {
-        "message": ""
+        "message": "私有测验"
     },
     "view_plans.comparison.admin_management": {
-        "message": ""
+        "message": "管理员管理"
     },
     "view_plans.comparison.access_control": {
-        "message": ""
+        "message": "访问控制"
     },
     "view_plans.comparison.rows.analysis_tools": {
-        "message": ""
+        "message": "分析与合规工具"
     },
     "view_plans.comparison.rows.question_library": {
-        "message": ""
+        "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": ""
+        "message": "支持"
     },
     "view_plans.comparison.rows.hosting": {
-        "message": ""
+        "message": "托管"
     },
     "view_plans.comparison.customer_support": {
-        "message": ""
+        "message": "Customer support"
     },
     "view_plans.comparison.tooltips.detailed_analytics": {
-        "message": ""
+        "message": "追踪学员和题目层面的结果"
     },
     "view_plans.comparison.rows.preparedness_report": {
-        "message": ""
+        "message": "Preparedness Report & Action Plan"
     },
     "view_plans.comparison.tooltips.preparedness_report": {
-        "message": ""
+        "message": "Concise report highlighting top risks and recommended training modules and timelines"
     },
     "view_plans.comparison.values.tailor_made_training.enterprise": {
-        "message": ""
+        "message": "可根据需求提供"
     },
     "view_plans.plans.starter.description": {
-        "message": ""
+        "message": "试用和了解 Shira"
     },
     "view_plans.comparison.rows.admin_dashboard": {
-        "message": ""
+        "message": "管理员仪表板"
     },
     "view_plans.comparison.values.support.pro": {
-        "message": ""
+        "message": "Priority support"
     },
     "view_plans.plans.pro.cta": {
-        "message": ""
+        "message": "开始 14 天免费试用"
     },
     "view_plans.comparison.tooltips.number_of_admins": {
-        "message": ""
+        "message": "管理员指可创建并管理钓鱼培训活动的用户"
     },
     "view_plans.comparison.values.cloud_on_premise": {
-        "message": ""
+        "message": "云端和本地部署"
     },
     "view_plans.comparison.values.number_of_admins.pro": {
-        "message": ""
+        "message": "1 位管理员"
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "专业版"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
-        "message": ""
+        "message": "导出团队结果为 CSV 或 PDF 报告"
     },
     "view_plans.plans.pro.description": {
-        "message": ""
+        "message": "体验 Shira 完整功能"
     },
     "view_plans.comparison.customization": {
-        "message": ""
+        "message": "自定义"
     },
     "view_plans.plans.enterprise.title": {
-        "message": ""
+        "message": "企业版"
     },
     "view_plans.comparison.rows.tailor_made_training": {
-        "message": ""
+        "message": "量身定制的用户培训"
     },
     "view_plans.plans.enterprise.description": {
-        "message": ""
+        "message": "为大型组织和服务提供商量身定制 Shira"
     },
     "view_plans.comparison.rows.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Phishing Readiness Assessment"
     },
     "view_plans.comparison.tooltips.basic_analytics": {
-        "message": ""
+        "message": "追踪测验层面的结果"
     },
     "view_plans.comparison.tooltips.admin_dashboard": {
-        "message": ""
+        "message": "统一入口，集中管理钓鱼培训活动"
     },
     "view_plans.comparison.values.custom_quizzes.free": {
-        "message": ""
+        "message": "最多 3 个定制测验"
     },
     "view_plans.comparison.rows.detailed_analytics": {
-        "message": ""
+        "message": "详细分析"
     },
     "view_plans.comparison.tooltips.public_quizzes": {
-        "message": ""
+        "message": "轻松分享测验 URL，任何人都可参加"
     },
     "view_plans.comparison.tooltips.private_quizzes": {
-        "message": ""
+        "message": "只有空间的注册学员才能参加测验"
     },
     "view_plans.comparison.tooltips.tailor_made_training": {
-        "message": ""
+        "message": "能力提升工作坊，由 Shira 团队为您的组织量身打造"
     },
     "view_plans.comparison.values.number_of_admins.free": {
-        "message": ""
+        "message": "1 位管理员"
     },
     "view_plans.comparison.tooltips.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Snapshot of current organizational vulnerability to phishing attacks"
     },
     "view_plans.comparison.tooltips.question_library": {
-        "message": ""
+        "message": "Access dozens of ready-made question templates"
     },
     "view_plans.learn_more": {
-        "message": ""
+        "message": "了解更多"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": ""
+        "message": "不限数量"
     },
     "view_plans.plans.enterprise.price": {
-        "message": ""
+        "message": "可定制定价"
     },
     "view_plans.comparison.rows.basic_analytics": {
-        "message": ""
+        "message": "基础分析"
     },
     "view_plans.comparison.rows.number_of_admins": {
-        "message": ""
+        "message": "管理员数量"
     },
     "homepage.hero.cta": {
         "message": "开始使用"
