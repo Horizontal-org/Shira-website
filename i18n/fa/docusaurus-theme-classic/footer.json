@@ -1,1 +1,47 @@
-{}
+{
+    "link.item.label.Shira is open source": {
+        "message": "Shira is open source"
+    },
+    "link.item.label.Learn about the Shira team": {
+        "message": "Learn about the Shira team"
+    },
+    "link.title.Use Shira": {
+        "message": "Use Shira"
+    },
+    "link.title.About": {
+        "message": "About"
+    },
+    "link.item.label.Learn about phishing": {
+        "message": "Learn about phishing"
+    },
+    "link.title.Learn": {
+        "message": "Learn"
+    },
+    "link.item.label.Contact us": {
+        "message": "Contact us"
+    },
+    "link.item.label.Visit our help center": {
+        "message": "Visit our help center"
+    },
+    "link.item.label.Explore Shira features": {
+        "message": "Explore Shira features"
+    },
+    "link.item.label.Build a custom quiz": {
+        "message": "Build a custom quiz"
+    },
+    "link.item.label.Effective phishing education": {
+        "message": "Effective phishing education"
+    },
+    "link.title.Get help": {
+        "message": "Get help"
+    },
+    "copyright": {
+        "message": "Shira is a product of <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
+    },
+    "link.item.label.Take a ready-made quiz": {
+        "message": "Take a ready-made quiz"
+    },
+    "logo.alt": {
+        "message": "Shira Logo"
+    }
+}
