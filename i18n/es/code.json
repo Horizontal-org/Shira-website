@@ -1160,7 +1160,7 @@
         "message": "$50/month + $1 per quiz taken"
     },
     "view_plans.plans.starter.cta": {
-        "message": "Get started"
+        "message": "Comenzar"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
         "message": "La cantidad de cuestionarios que puedes crear en tu Espacio"
@@ -1235,7 +1235,7 @@
         "message": "1 admin"
     },
     "view_plans.plans.pro.title": {
-        "message": "Pro"
+        "message": "Profesional (\"Pro\")"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
         "message": "Exporta los resultados de tu equipo a informes CSV o PDF"
