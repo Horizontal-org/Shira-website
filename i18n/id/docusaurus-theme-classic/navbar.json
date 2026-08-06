@@ -1,0 +1,38 @@
+{
+    "item.label.Pricing": {
+        "message": "Pricing"
+    },
+    "item.label.Why phishing quizzes?": {
+        "message": "Why phishing quizzes?"
+    },
+    "item.label.Help": {
+        "message": "Help"
+    },
+    "item.label.What is Phishing?": {
+        "message": "What is Phishing?"
+    },
+    "item.label.Contact us": {
+        "message": "Contact us"
+    },
+    "item.label.Take a quiz": {
+        "message": "Take a quiz"
+    },
+    "item.label.Visit our help center": {
+        "message": "Visit our help center"
+    },
+    "item.label.Features": {
+        "message": "Features"
+    },
+    "item.label.About": {
+        "message": "About"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "Sign up/Log in"
+    },
+    "item.label.Learn": {
+        "message": "Learn"
+    },
+    "logo.alt": {
+        "message": "Shira Logo"
+    }
+}

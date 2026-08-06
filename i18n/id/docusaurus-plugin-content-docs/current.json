@@ -1,0 +1,17 @@
+{
+    "sidebar.HelpSidebar.category.Spaces": {
+        "message": "Spaces"
+    },
+    "sidebar.HelpSidebar.link.Contact & Support": {
+        "message": "Contact & Support"
+    },
+    "sidebar.HelpSidebar.category.Technical Stuff": {
+        "message": "Technical Stuff"
+    },
+    "sidebar.HelpSidebar.category.Shira Help Center": {
+        "message": "Shira Help Center"
+    },
+    "version.label": {
+        "message": "Next"
+    }
+}
