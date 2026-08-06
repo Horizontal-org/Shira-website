@@ -105,7 +105,7 @@
         "message": "Get Started"
     },
     "about.why.privacy.title": {
-        "message": "3. Privacy-friendly"
+        "message": "3. Ramah privasi"
     },
     "features.intro.your3": {
         "message": "your"
@@ -114,7 +114,7 @@
         "message": "Learn about Phishing"
     },
     "homepage.why.title": {
-        "message": "Why Shira?"
+        "message": "Kenapa harus Shira?"
     },
     "features.intro.your2": {
         "message": "your"
@@ -279,7 +279,7 @@
         "message": "Phishers instill fear by suggesting the recipient has made a mistake, like missing a payment. This fear can push individuals to act quickly, often without verifying the message's source, leading to compromised security."
     },
     "about.why.easy.title": {
-        "message": "1. Easy to use"
+        "message": "1. Mudah digunakan"
     },
     "phishingQuizzes.problem.falseSecurity.text": {
         "message": "If employees successfully identify simulated phishing attempts, they may develop a false sense of security."
@@ -366,7 +366,7 @@
         "message": "Hosting"
     },
     "about.horizontal.cta": {
-        "message": "Learn about Horizontal"
+        "message": "Pelajari tentang Horizontal"
     },
     "phishing.how.fake.label": {
         "message": "Fake Websites:"
@@ -432,7 +432,7 @@
         "message": "Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
     },
     "theme.docs.paginator.next": {
-        "message": "Next"
+        "message": "Berikutnya"
     },
     "theme.blog.author.pageTitle": {
         "message": "{authorName} - {nPosts}"
@@ -462,7 +462,7 @@
         "message": "Helping individuals and organizations build their resilience against phishing attacks"
     },
     "about.why.title": {
-        "message": "Why Shira?"
+        "message": "Kenapa harus Shira?"
     },
     "homepage.meta.longDescription": {
         "message": "Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
@@ -717,7 +717,7 @@
         "message": "danger"
     },
     "about.why.easy.description": {
-        "message": "Shira was created considering communities that are the most at-risk of phishing attacks, especially users with limited tech literacy."
+        "message": "Shira diciptakan dengan mempertimbangkan komunitas yang paling berisiko terhadap serangan phising, terutama pengguna dengan literasi teknologi yang terbatas."
     },
     "view_plans.plans.enterprise.title": {
         "message": "Enterprise"
@@ -798,7 +798,7 @@
         "message": "Many of us naturally want to assist others. Phishers create scenarios that prompt recipients to help, such as claiming a colleague or relative is in trouble. This manipulation can lead individuals to provide personal information, believing they are being supportive."
     },
     "about.why.privacyCta": {
-        "message": "Privacy policy"
+        "message": "Kebijakan Privasi"
     },
     "view_plans.comparison.values.custom_quizzes.free": {
         "message": "Up to 3 custom quizzes"
@@ -960,7 +960,7 @@
         "message": "No results"
     },
     "about.horizontal.title": {
-        "message": "Who makes Shira?"
+        "message": "Siapa yang membuat Shira?"
     },
     "theme.common.headingLinkTitle": {
         "message": "Direct link to {heading}"
