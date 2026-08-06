@@ -1145,22 +1145,22 @@
         "message": "Tiempo de respuesta rápido para garantizar una experiencia fluida"
     },
     "view_plans.comparison.values.support.enterprise": {
-        "message": ""
+        "message": "Dedicated enterprise support"
     },
     "view_plans.comparison.rows.apps_available": {
         "message": "Apps disponibles"
     },
     "view_plans.comparison.values.cloud": {
-        "message": ""
+        "message": "Cloud"
     },
     "view_plans.comparison.compliance": {
         "message": "Cumplimiento"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "$50/month + $1 per quiz taken"
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "Get started"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
         "message": "La cantidad de cuestionarios que puedes crear en tu Espacio"
@@ -1190,7 +1190,7 @@
         "message": "Herramientas de análisis y de cumplimiento"
     },
     "view_plans.comparison.rows.question_library": {
-        "message": ""
+        "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
         "message": "Soporte"
@@ -1205,10 +1205,10 @@
         "message": "Monitorea resultados en niveles de estudiante y pregunta"
     },
     "view_plans.comparison.rows.preparedness_report": {
-        "message": ""
+        "message": "Preparedness Report & Action Plan"
     },
     "view_plans.comparison.tooltips.preparedness_report": {
-        "message": ""
+        "message": "Concise report highlighting top risks and recommended training modules and timelines"
     },
     "view_plans.comparison.values.tailor_made_training.enterprise": {
         "message": "Disponible a solicitud"
@@ -1220,7 +1220,7 @@
         "message": "Panel de Admin"
     },
     "view_plans.comparison.values.support.pro": {
-        "message": ""
+        "message": "Priority support"
     },
     "view_plans.plans.pro.cta": {
         "message": "Iniciar prueba gratuita de 14 días"
@@ -1232,10 +1232,10 @@
         "message": "Cloud y en infraestructura propia"
     },
     "view_plans.comparison.values.number_of_admins.pro": {
-        "message": ""
+        "message": "1 admin"
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "Pro"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
         "message": "Exporta los resultados de tu equipo a informes CSV o PDF"
@@ -1256,7 +1256,7 @@
         "message": "Adapta Shira a grandes organizaciones y proveedores de servicio"
     },
     "view_plans.comparison.rows.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Phishing Readiness Assessment"
     },
     "view_plans.comparison.tooltips.basic_analytics": {
         "message": "Monitorea resultados a nivel de cuestionario"
@@ -1280,13 +1280,13 @@
         "message": "Taller de desarrollo de habilidades personalizado por el equipo de Shira para tu organización"
     },
     "view_plans.comparison.values.number_of_admins.free": {
-        "message": ""
+        "message": "1 admin"
     },
     "view_plans.comparison.tooltips.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Snapshot of current organizational vulnerability to phishing attacks"
     },
     "view_plans.comparison.tooltips.question_library": {
-        "message": ""
+        "message": "Access dozens of ready-made question templates"
     },
     "view_plans.learn_more": {
         "message": "Aprende más"
