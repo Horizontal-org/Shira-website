@@ -1062,7 +1062,7 @@
         "message": "Conformité"
     },
     "view_plans.plans.pro.price": {
-        "message": "$50/month + $1 per quiz taken"
+        "message": "50 $/mois + 1 $ par quiz effectué"
     },
     "view_plans.plans.starter.cta": {
         "message": "Lancez-vous"
