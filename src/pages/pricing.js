@@ -64,7 +64,7 @@ export default function Pricing() {
       }),
       price: translate({
         id: 'view_plans.plans.pro.price',
-        message: '$50/month + $1 per quiz taken',
+        message: '100 USD/month',
       }),
       description: translate({
         id: 'view_plans.plans.pro.description',
