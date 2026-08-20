@@ -5,7 +5,7 @@ sidebar_position: 2
 description: تعلُّم كيفية إنشاء الاختبارات وإدارتها وتخصيصها في Shira لتدريب فريق العمل على التوعية بالتصيد الاحتيالي، بما في ذلك نشر وتحرير ونسخ وحذف الاختبارات.
 
 ---
-import Admonition from '@theme/Admonition';
+import { Note, Warning } from '@site/src/components/Admonitions';
 
 # الاختبارات
 
@@ -56,9 +56,9 @@ In both cases, you must:
 
 يمكنكم بعد ذلك إلغاء نشر الاختبار لمنع المتعلمين من إجرائه. وفي حال إلغاء نشر الاختبار، فإن رابط الاختبار سيُظهر صفحة الخطأ.
 
-<Admonition type="note">
+<Note>
 If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost.
-</Admonition>
+</Note>
 
 ## Editing quizzes {/* #edit-quizzes */}
 يمكنك تحرير أي اختبار، سواء كان منشورا أو غير منشور، بما في ذلك:
@@ -67,9 +67,9 @@ If you unpublish a quiz *while* a learner is taking it, the learner will see an 
 - تنظيم الأسئلة: إن ترتيب الأسئلة التي ترونها في مساحتكم سيكون هو نفس ترتيب الأسئلة التي ستُعرَض بها على المتعلمين عند إجراء الاختبار.
 - حذف الأسئلة: بمجرد الحذف، لا توجد طريقة لاسترجاع السؤال.
 
-<Admonition type="note">
+<Note>
 If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
-</Admonition>
+</Note>
 
 ## Duplicating a quiz {/* #duplicate-quiz */}
 تكرار اختبار يعني إنشاء نسخة مطابقة من اختبار موجود.
@@ -82,6 +82,6 @@ If some learners have already taken the quiz, editing this quiz may affect the r
 ## Deleting a quiz {/* #delete-quiz */}
 إن حذف الاختبار يعني أن الحذف من مساحتكم يشمل الاختبار، وجميع الأسئلة داخله، وكل [النتائج](/results) المرتبطة به.
 
-<Admonition type="warning">
+<Warning>
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
-</Admonition>
+</Warning>

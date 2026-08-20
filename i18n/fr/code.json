@@ -1062,7 +1062,7 @@
         "message": "Conformité"
     },
     "view_plans.plans.pro.price": {
-        "message": "$50/month + $1 per quiz taken"
+        "message": "100 USD/mois"
     },
     "view_plans.plans.starter.cta": {
         "message": "Lancez-vous"
@@ -1098,7 +1098,7 @@
         "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": "Assistance"
+        "message": "Assistance prioritaire"
     },
     "view_plans.comparison.rows.hosting": {
         "message": "Hébergement"

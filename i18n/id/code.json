@@ -225,7 +225,7 @@
         "message": "Unlisted page"
     },
     "view_plans.plans.pro.price": {
-        "message": "$50/month + $1 per quiz taken"
+        "message": "100 USD/bulan"
     },
     "phishingQuizzes.problem.desensitize.title": {
         "message": "Desensitize users:"
