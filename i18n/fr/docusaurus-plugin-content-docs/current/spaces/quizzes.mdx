@@ -5,7 +5,7 @@ sidebar_position: 2
 description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
 
 ---
-import Admonition from '@theme/Admonition';
+import { Note, Warning } from '@site/src/components/Admonitions';
 
 # Les quiz
 
@@ -56,9 +56,9 @@ Publier un quiz signifie que vous le rendez accessible aux apprenants et apprena
 
 Vous pouvez ensuite dépublier le quiz pour qu'il soit impossible pour les apprenants et apprenantes d'y participer. Si le quiz est dépublié, l'URL du quiz mènera à une page d'erreur.
 
-<Admonition type="note">
+<Note>
 If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost.
-</Admonition>
+</Note>
 
 ## Editing quizzes {/* #edit-quizzes */}
 Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié, notamment pour :
@@ -67,9 +67,9 @@ Vous pouvez modifier n'importe quel quiz, qu'il soit publié ou dépublié, nota
 - Réorganiser les questions : l'ordre des questions que vous voyez dans votre espace est le même que celui dans lequel les questions seront présentées aux apprenants et apprenantes lorsqu'ils feront le quiz.
 - Supprimer des questions : une fois supprimée, il n'y a aucun moyen de récupérer une question.
 
-<Admonition type="note">
+<Note>
 If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
-</Admonition>
+</Note>
 
 ## Duplicating a quiz {/* #duplicate-quiz */}
 Dupliquer un quiz signifie créer une copie conforme d'un quiz existant.
@@ -82,6 +82,6 @@ Vous pouvez définir les paramètres de confidentialité (public ou privé) au m
 ## Deleting a quiz {/* #delete-quiz */}
 Supprimer un quiz signifie que le quiz, toutes ses questions et tous les [scores](/results)associés seront supprimés de votre espace.
 
-<Admonition type="warning">
+<Warning>
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
-</Admonition>
+</Warning>
