@@ -1193,7 +1193,7 @@
         "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": "Поддержка"
+        "message": "Приоритетная поддержка"
     },
     "view_plans.comparison.rows.hosting": {
         "message": "Хостинг"
