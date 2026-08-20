@@ -1157,7 +1157,7 @@
         "message": "Соответствие требованиям"
     },
     "view_plans.plans.pro.price": {
-        "message": "$50/month + $1 per quiz taken"
+        "message": "100 USD/месяц"
     },
     "view_plans.plans.starter.cta": {
         "message": "Начать"
@@ -1193,7 +1193,7 @@
         "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": "Поддержка"
+        "message": "Приоритетная поддержка"
     },
     "view_plans.comparison.rows.hosting": {
         "message": "Хостинг"

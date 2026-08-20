@@ -1157,7 +1157,7 @@
         "message": "合规管理"
     },
     "view_plans.plans.pro.price": {
-        "message": "$50/month + $1 per quiz taken"
+        "message": "100美元/月"
     },
     "view_plans.plans.starter.cta": {
         "message": "开始使用"
