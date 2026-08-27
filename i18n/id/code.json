@@ -93,16 +93,16 @@
         "message": "While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls."
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": "Unlimited"
+        "message": "Tidak terbatas"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": "Unlimited"
+        "message": "Tidak terbatas"
     },
     "contact.getInTouch": {
         "message": "Get in touch:"
     },
     "features.intro.getStarted": {
-        "message": "Get Started"
+        "message": "Get started"
     },
     "about.why.privacy.title": {
         "message": "3. Ramah privasi"
@@ -135,7 +135,7 @@
         "message": "On this page"
     },
     "theme.tags.tagsListLabel": {
-        "message": "Tags:"
+        "message": "Tags"
     },
     "theme.colorToggle.ariaLabel.mode.system": {
         "message": "system mode"
@@ -198,7 +198,7 @@
         "message": "Draft page"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
-        "message": "Close"
+        "message": "Tutup"
     },
     "view_plans.comparison.compliance": {
         "message": "Compliance"
@@ -240,7 +240,7 @@
         "message": "The number of quizzes you can create in your Space"
     },
     "view_plans.plans.enterprise.cta": {
-        "message": "Contact us"
+        "message": "Hubungi kami"
     },
     "theme.SearchBar.seeAll": {
         "message": "See all results"
@@ -336,7 +336,7 @@
         "message": "Missing a feature?"
     },
     "view_plans.comparison.access_control": {
-        "message": "Access control"
+        "message": "Kendali akses"
     },
     "phishingQuizzes.benefits.coverage.text": {
         "message": "Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios."
@@ -351,7 +351,7 @@
         "message": "This website runs on green hosting - verified by thegreenwebfoundation.org"
     },
     "theme.SearchBar.label": {
-        "message": "Search"
+        "message": "Cari"
     },
     "phishing.consequences.operational.label": {
         "message": "Operational Disruption:"
@@ -360,7 +360,7 @@
         "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": "Support"
+        "message": "Bantuan"
     },
     "view_plans.comparison.rows.hosting": {
         "message": "Hosting"
@@ -381,7 +381,7 @@
         "message": "Email phishing simulations 📧"
     },
     "theme.admonition.warning": {
-        "message": "warning"
+        "message": "Peringatan"
     },
     "homepage.why.customizable.description": {
         "message": "Realistic phishing messages to simulate real scenarios users face daily."
@@ -504,7 +504,7 @@
         "message": "To try things out and get familiar with Shira"
     },
     "theme.ErrorPageContent.tryAgain": {
-        "message": "Try again"
+        "message": "Coba lagi"
     },
     "about.how.green": {
         "message": "This website runs on green energy."
@@ -513,13 +513,13 @@
         "message": "Gamification 🕹️"
     },
     "theme.navbar.mobileVersionsDropdown.label": {
-        "message": "Versions"
+        "message": "Versi"
     },
     "about.horizontal.translationText": {
         "message": "To contribute to the translation of Shira into new languages, email us at"
     },
     "features.needMore.cta": {
-        "message": "Contact us"
+        "message": "Hubungi kami"
     },
     "contact.links.github": {
         "message": "Post a feature idea or vote on existing requests"
@@ -552,13 +552,13 @@
         "message": "Multilingual 🌐"
     },
     "about.horizontal.donationLink": {
-        "message": "making a donation here"
+        "message": "memberikan donasi di sini."
     },
     "phishing.why.title": {
         "message": "Why does phishing work?"
     },
     "theme.docs.breadcrumbs.home": {
-        "message": "Home page"
+        "message": "Halaman Depan"
     },
     "phishingQuizzes.wsjMobile.alt": {
         "message": "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
@@ -663,7 +663,7 @@
         "message": "Archive"
     },
     "about.why.customizable.title": {
-        "message": "2. Customizable"
+        "message": "2. Dapat diubah suai"
     },
     "phishing.attackers.passwords.text": {
         "message": "Attackers seek to steal passwords and login credentials to access victims' online accounts. With this information, they can commit fraud, steal data, or blackmail victims by threatening to expose sensitive information."
@@ -708,7 +708,7 @@
         "message": "tip"
     },
     "view_plans.comparison.customization": {
-        "message": "Customization"
+        "message": "Penyesuaian"
     },
     "about.how.community": {
         "message": "Shira is multilingual and co-created with at-risk users."
@@ -843,7 +843,7 @@
         "message": "Collapse the dropdown"
     },
     "theme.navbar.mobileLanguageDropdown.label": {
-        "message": "Languages"
+        "message": "Bahasa"
     },
     "theme.SearchPage.documentsFound.plurals": {
         "message": "1 document found|{count} documents found"
@@ -894,7 +894,7 @@
         "message": "Search results for \"{query}\""
     },
     "theme.blog.post.readMore": {
-        "message": "Read more"
+        "message": "Read More"
     },
     "about.horizontal.imageAlt": {
         "message": "Horizontal logo"
@@ -936,7 +936,7 @@
         "message": "Snapshot of current organizational vulnerability to phishing attacks"
     },
     "theme.admonition.info": {
-        "message": "info"
+        "message": "Info"
     },
     "phishing.common.title": {
         "message": "The most common attack"
@@ -969,7 +969,7 @@
         "message": "Create anxiety and mistrust:"
     },
     "view_plans.learn_more": {
-        "message": "Learn more"
+        "message": "Pelajari Selengkapnya"
     },
     "phishing.how.deceptive.label": {
         "message": "Deceptive Communication:"
@@ -978,7 +978,7 @@
         "message": "Shira"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": "Unlimited"
+        "message": "Tidak terbatas"
     },
     "phishing.how.urgent.text": {
         "message": "The message usually contains a sense of urgency, prompting the recipient to act quickly—such as clicking a link or providing personal information."
@@ -1038,7 +1038,7 @@
         "message": "Expand the dropdown"
     },
     "theme.docs.paginator.previous": {
-        "message": "Previous"
+        "message": "Sebelumnya"
     },
     "view_plans.comparison.rows.number_of_admins": {
         "message": "Number of admins"
@@ -1053,7 +1053,7 @@
         "message": "One min read|{readingTime} min read"
     },
     "theme.NotFound.title": {
-        "message": "Page Not Found"
+        "message": "Halaman tidak ditemukan"
     },
     "phishingQuizzes.education.paragraph2": {
         "message": "However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."

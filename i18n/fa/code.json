@@ -93,16 +93,16 @@
         "message": "While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls."
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": "Unlimited"
+        "message": "نامحدود"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": "Unlimited"
+        "message": "نامحدود"
     },
     "contact.getInTouch": {
         "message": "Get in touch:"
     },
     "features.intro.getStarted": {
-        "message": "Get Started"
+        "message": "شروع کنید"
     },
     "about.why.privacy.title": {
         "message": "3. میانه ی خوب با حفظ حریم خصوصی"
@@ -198,7 +198,7 @@
         "message": "Draft page"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
-        "message": "Close"
+        "message": "بستن"
     },
     "view_plans.comparison.compliance": {
         "message": "Compliance"
@@ -336,7 +336,7 @@
         "message": "Missing a feature?"
     },
     "view_plans.comparison.access_control": {
-        "message": "Access control"
+        "message": "کنترل دسترسی"
     },
     "phishingQuizzes.benefits.coverage.text": {
         "message": "Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios."
@@ -351,7 +351,7 @@
         "message": "This website runs on green hosting - verified by thegreenwebfoundation.org"
     },
     "theme.SearchBar.label": {
-        "message": "Search"
+        "message": "جستجو"
     },
     "phishing.consequences.operational.label": {
         "message": "Operational Disruption:"
@@ -360,7 +360,7 @@
         "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": "Support"
+        "message": "پشتیبانی"
     },
     "view_plans.comparison.rows.hosting": {
         "message": "Hosting"
@@ -381,7 +381,7 @@
         "message": "Email phishing simulations 📧"
     },
     "theme.admonition.warning": {
-        "message": "warning"
+        "message": "اخطار"
     },
     "homepage.why.customizable.description": {
         "message": "Realistic phishing messages to simulate real scenarios users face daily."
@@ -504,7 +504,7 @@
         "message": "To try things out and get familiar with Shira"
     },
     "theme.ErrorPageContent.tryAgain": {
-        "message": "Try again"
+        "message": "تلاش دوباره"
     },
     "about.how.green": {
         "message": "This website runs on green energy."
@@ -513,7 +513,7 @@
         "message": "Gamification 🕹️"
     },
     "theme.navbar.mobileVersionsDropdown.label": {
-        "message": "Versions"
+        "message": "نسخه ها"
     },
     "about.horizontal.translationText": {
         "message": "To contribute to the translation of Shira into new languages, email us at"
@@ -552,13 +552,13 @@
         "message": "Multilingual 🌐"
     },
     "about.horizontal.donationLink": {
-        "message": "making a donation here"
+        "message": "اهدای کمک در اینجا"
     },
     "phishing.why.title": {
         "message": "Why does phishing work?"
     },
     "theme.docs.breadcrumbs.home": {
-        "message": "Home page"
+        "message": "صفحه اصلی"
     },
     "phishingQuizzes.wsjMobile.alt": {
         "message": "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
@@ -660,10 +660,10 @@
         "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
     },
     "theme.blog.archive.description": {
-        "message": "Archive"
+        "message": "بایگانی"
     },
     "about.why.customizable.title": {
-        "message": "2. Customizable"
+        "message": "2. قابل تنظیم"
     },
     "phishing.attackers.passwords.text": {
         "message": "Attackers seek to steal passwords and login credentials to access victims' online accounts. With this information, they can commit fraud, steal data, or blackmail victims by threatening to expose sensitive information."
@@ -774,7 +774,7 @@
         "message": "Get started"
     },
     "theme.blog.archive.title": {
-        "message": "Archive"
+        "message": "بایگانی"
     },
     "features.meta.title": {
         "message": "Shira's Features"
@@ -843,13 +843,13 @@
         "message": "Collapse the dropdown"
     },
     "theme.navbar.mobileLanguageDropdown.label": {
-        "message": "Languages"
+        "message": "زبان‌ها"
     },
     "theme.SearchPage.documentsFound.plurals": {
         "message": "1 document found|{count} documents found"
     },
     "theme.CodeBlock.copy": {
-        "message": "Copy"
+        "message": "کپی"
     },
     "view_plans.comparison.rows.detailed_analytics": {
         "message": "Detailed analytics"
@@ -894,7 +894,7 @@
         "message": "Search results for \"{query}\""
     },
     "theme.blog.post.readMore": {
-        "message": "Read more"
+        "message": "Read More"
     },
     "about.horizontal.imageAlt": {
         "message": "Horizontal logo"
@@ -969,7 +969,7 @@
         "message": "Create anxiety and mistrust:"
     },
     "view_plans.learn_more": {
-        "message": "Learn more"
+        "message": "اطلاعات بیشتر"
     },
     "phishing.how.deceptive.label": {
         "message": "Deceptive Communication:"
@@ -978,7 +978,7 @@
         "message": "Shira"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": "Unlimited"
+        "message": "نامحدود"
     },
     "phishing.how.urgent.text": {
         "message": "The message usually contains a sense of urgency, prompting the recipient to act quickly—such as clicking a link or providing personal information."
@@ -1038,7 +1038,7 @@
         "message": "Expand the dropdown"
     },
     "theme.docs.paginator.previous": {
-        "message": "Previous"
+        "message": "قبلی"
     },
     "view_plans.comparison.rows.number_of_admins": {
         "message": "Number of admins"
@@ -1053,7 +1053,7 @@
         "message": "One min read|{readingTime} min read"
     },
     "theme.NotFound.title": {
-        "message": "Page Not Found"
+        "message": "صفحه یافت نشد"
     },
     "phishingQuizzes.education.paragraph2": {
         "message": "However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."
