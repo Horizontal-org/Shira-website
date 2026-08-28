@@ -97,15 +97,28 @@ export default function Home() {
         </section>
 
         <section className={classNames(global.row, global.center, styles.context)}>
-          <p>
-            <Translate id="homepage.context.description">
-              For years, phishing has been one of the most common attacks
-              facing individuals and organizations. While it was initially
-              limited to emails, phishing now also happens via SMS, messaging apps,
-              and social media. Building users’ skills to identify and defeat phishing
-              attacks is more needed than ever before.
-            </Translate>
-          </p>
+          <div className={styles.contextText}>
+            <div className={styles.contextStat}>
+              <span className={styles.contextStatNumber}>70+</span>
+              <span className={styles.contextStatLabel}>
+                <Translate id="homepage.context.stat">
+                  people and organizations already use Shira to build phishing resilience
+                </Translate>
+              </span>
+            </div>
+            <p>
+              <Translate id="homepage.context.description">
+                For years, phishing has been one of the most common attacks
+                facing individuals and organizations. While it was initially
+                limited to emails, phishing now also happens via SMS, messaging apps,
+                and social media. Building users’ skills to identify and defeat phishing
+                attacks is more needed than ever before.
+              </Translate>
+            </p>
+            <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">
+              <Translate id="homepage.context.cta">Explore our plans</Translate>
+            </Link>
+          </div>
           <img
             src={ContextImage}
             alt={translate({
