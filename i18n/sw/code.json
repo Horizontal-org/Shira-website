@@ -102,7 +102,7 @@
         "message": "Get in touch:"
     },
     "features.intro.getStarted": {
-        "message": "Get Started"
+        "message": "Get started"
     },
     "about.why.privacy.title": {
         "message": "3. Faragha-kirafiki"
@@ -198,7 +198,7 @@
         "message": "Draft page"
     },
     "theme.AnnouncementBar.closeButtonAriaLabel": {
-        "message": "Close"
+        "message": "Funga"
     },
     "view_plans.comparison.compliance": {
         "message": "Compliance"
@@ -225,7 +225,7 @@
         "message": "Unlisted page"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "100 USD/month"
     },
     "phishingQuizzes.problem.desensitize.title": {
         "message": "Desensitize users:"
@@ -336,7 +336,7 @@
         "message": "Missing a feature?"
     },
     "view_plans.comparison.access_control": {
-        "message": "Access control"
+        "message": "Dhibiti ufikiaji"
     },
     "phishingQuizzes.benefits.coverage.text": {
         "message": "Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios."
@@ -351,7 +351,7 @@
         "message": "This website runs on green hosting - verified by thegreenwebfoundation.org"
     },
     "theme.SearchBar.label": {
-        "message": "Search"
+        "message": "Tafuta"
     },
     "phishing.consequences.operational.label": {
         "message": "Operational Disruption:"
@@ -360,7 +360,7 @@
         "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": "Support"
+        "message": "saidia"
     },
     "view_plans.comparison.rows.hosting": {
         "message": "Hosting"
@@ -381,7 +381,7 @@
         "message": "Email phishing simulations 📧"
     },
     "theme.admonition.warning": {
-        "message": "warning"
+        "message": "Onyo"
     },
     "homepage.why.customizable.description": {
         "message": "Realistic phishing messages to simulate real scenarios users face daily."
@@ -552,7 +552,7 @@
         "message": "Multilingual 🌐"
     },
     "about.horizontal.donationLink": {
-        "message": "making a donation here"
+        "message": "toa mchango hapa."
     },
     "phishing.why.title": {
         "message": "Why does phishing work?"
@@ -843,7 +843,7 @@
         "message": "Collapse the dropdown"
     },
     "theme.navbar.mobileLanguageDropdown.label": {
-        "message": "Languages"
+        "message": "Lugha"
     },
     "theme.SearchPage.documentsFound.plurals": {
         "message": "1 document found|{count} documents found"
@@ -894,7 +894,7 @@
         "message": "Search results for \"{query}\""
     },
     "theme.blog.post.readMore": {
-        "message": "Read more"
+        "message": "Soma Zaidi"
     },
     "about.horizontal.imageAlt": {
         "message": "Horizontal logo"
@@ -969,7 +969,7 @@
         "message": "Create anxiety and mistrust:"
     },
     "view_plans.learn_more": {
-        "message": "Learn more"
+        "message": "jifunze zaidi"
     },
     "phishing.how.deceptive.label": {
         "message": "Deceptive Communication:"
@@ -1038,7 +1038,7 @@
         "message": "Expand the dropdown"
     },
     "theme.docs.paginator.previous": {
-        "message": "Previous"
+        "message": "Iliyopita"
     },
     "view_plans.comparison.rows.number_of_admins": {
         "message": "Number of admins"
@@ -1053,7 +1053,7 @@
         "message": "One min read|{readingTime} min read"
     },
     "theme.NotFound.title": {
-        "message": "Page Not Found"
+        "message": "Kurasa haipatikani"
     },
     "phishingQuizzes.education.paragraph2": {
         "message": "However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."
