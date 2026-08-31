@@ -8,23 +8,27 @@ import Admonition from '@theme/Admonition';
 // (e.g. type="nota") and losing its styling. Hardcoding type here in JS
 // keeps it out of the .mdx source entirely; only the admonition body stays
 // translatable.
+//
+// `title` is only forwarded when set: @theme/Admonition merges its default
+// title (e.g. "note") with `{...props}`, so passing `title={undefined}`
+// would still overwrite that default with undefined and blank the heading.
 
 export const Note = ({title, children}) => (
-  <Admonition type="note" title={title}>{children}</Admonition>
+  <Admonition type="note" {...(title ? {title} : {})}>{children}</Admonition>
 );
 
 export const Tip = ({title, children}) => (
-  <Admonition type="tip" title={title}>{children}</Admonition>
+  <Admonition type="tip" {...(title ? {title} : {})}>{children}</Admonition>
 );
 
 export const Warning = ({title, children}) => (
-  <Admonition type="warning" title={title}>{children}</Admonition>
+  <Admonition type="warning" {...(title ? {title} : {})}>{children}</Admonition>
 );
 
 export const Danger = ({title, children}) => (
-  <Admonition type="danger" title={title}>{children}</Admonition>
+  <Admonition type="danger" {...(title ? {title} : {})}>{children}</Admonition>
 );
 
 export const Info = ({title, children}) => (
-  <Admonition type="info" title={title}>{children}</Admonition>
+  <Admonition type="info" {...(title ? {title} : {})}>{children}</Admonition>
 );
