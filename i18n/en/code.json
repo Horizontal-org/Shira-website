@@ -1144,6 +1144,249 @@
   "homepage.hero.cta": {
     "message": "Get started"
   },
+  "case-studies.meta.title": {
+    "message": "Case Studies"
+  },
+  "case-studies.meta.description": {
+    "message": "Real organizations, real training, real impact — stories from trainers and organizations using Shira around the world."
+  },
+  "case-studies.meta.longDescription": {
+    "message": "Real organizations, real training, real impact — stories from trainers and organizations using Shira around the world."
+  },
+  "case-studies.hero.pretitle": {
+    "message": "Case Studies"
+  },
+  "case-studies.hero.title.RealOrg": {
+    "message": "Real organizations."
+  },
+  "case-studies.hero.title.RealTraining": {
+    "message": "Real training."
+  },
+  "case-studies.hero.title.RealImpact": {
+    "message": "Real impact."
+  },
+  "case-studies.hero.description": {
+    "message": "Shira is being used by trainers, nonprofits, and digital security educators across the world, from Buenos Aires to West Asia. These are their stories."
+  },
+  "case-studies.hero.imageAlt": {
+    "message": "Illustration of people celebrating with a book, a checkmark, and security shields"
+  },
+  "case-studies.huesped.logoAlt": {
+    "message": "Fundación Huésped logo"
+  },
+  "case-studies.huesped.org": {
+    "message": "Fundación Huésped"
+  },
+  "case-studies.huesped.industry": {
+    "message": "Public Health & Human Rights"
+  },
+  "case-studies.huesped.location": {
+    "message": "Latin America"
+  },
+  "case-studies.huesped.quote": {
+    "message": "Our users are more alert and active in identifying threats, and our support department is receiving many more alerts about suspicious emails."
+  },
+  "case-studies.huesped.quoteAuthor": {
+    "message": "Daniela Mibashan, Program Manager, Digital Innovation Lab"
+  },
+  "case-studies.huesped.summary": {
+    "message": "Fundación Huésped, an Argentine nonprofit working at the intersection of public health, human rights, and access to information, partnered with Shira through its Digital Innovation Lab to build a phishing training program for its 200-person staff using real phishing examples their own employees had received."
+  },
+  "case-studies.card.whatTheyValued": {
+    "message": "What they valued"
+  },
+  "case-studies.huesped.highlight1": {
+    "message": "Personalized content"
+  },
+  "case-studies.huesped.highlight2": {
+    "message": "User-friendly"
+  },
+  "case-studies.huesped.highlight3": {
+    "message": "Interactive interface"
+  },
+  "case-studies.huesped.usage.heading": {
+    "message": "How they used Shira"
+  },
+  "case-studies.huesped.usage.feature1": {
+    "message": "Enterprise plan"
+  },
+  "case-studies.huesped.usage.item4": {
+    "message": "Rolled out training across their 200-person staff."
+  },
+  "case-studies.huesped.usage.feature2": {
+    "message": "Real-life attack simulation"
+  },
+  "case-studies.huesped.usage.item1": {
+    "message": "Built from real phishing emails their staff received."
+  },
+  "case-studies.huesped.usage.feature3": {
+    "message": "Email phishing simulations"
+  },
+  "case-studies.huesped.usage.item2": {
+    "message": "Customized Gmail templates to their team's risks."
+  },
+  "case-studies.huesped.details.challenge.heading": {
+    "message": "The Challenge"
+  },
+  "case-studies.huesped.details.challenge.text": {
+    "message": "Like many nonprofits, Huésped handles sensitive information daily, from patient data to research to donor records. Phishing is one of the most common entry points for attacks on organizations like theirs. The team needed a training approach that felt real and relevant to their staff."
+  },
+  "case-studies.huesped.details.solution.heading": {
+    "message": "The Solution"
+  },
+  "case-studies.huesped.details.solution.text": {
+    "message": "Huésped's Digital Innovation Lab built quizzes using real phishing examples their own employees had actually received. Shira's template library, which replicates everyday tools like Gmail, gave them a realistic starting point that they customized to reflect the specific risks their staff faces."
+  },
+  "case-studies.huesped.details.results.heading": {
+    "message": "The Results"
+  },
+  "case-studies.huesped.details.results.text": {
+    "message": "Staff vigilance increased noticeably: inquiries to the IT support department about suspicious emails rose significantly, a clear sign that people were more alert and actively applying what they'd learned."
+  },
+  "case-studies.card.readLess": {
+    "message": "Show less"
+  },
+  "case-studies.card.readMore": {
+    "message": "Read more"
+  },
+  "case-studies.amir.logoAlt": {
+    "message": "Miaan Group logo"
+  },
+  "case-studies.amir.org": {
+    "message": "Miaan Group"
+  },
+  "case-studies.amir.industry": {
+    "message": "Digital Rights & Security"
+  },
+  "case-studies.amir.location": {
+    "message": "Middle East"
+  },
+  "case-studies.amir.quote": {
+    "message": "The quizzes on Shira are realistic, designed based on real attacks, and create a better experience in terms of training communities."
+  },
+  "case-studies.amir.quoteAuthor": {
+    "message": "Amir Rashidi, Director of Digital Rights and Security"
+  },
+  "case-studies.amir.summary": {
+    "message": "Amir Rashidi is a Director of Digital Rights and Security working with activists, journalists, and human rights defenders across the Middle East, communities operating in some of the region's most high-risk environments. He has used Shira to train these groups, and was also part of Shira's advisory board, contributing directly to its design."
+  },
+  "case-studies.amir.highlight1": {
+    "message": "Realistic simulations"
+  },
+  "case-studies.amir.highlight2": {
+    "message": "Relevant to real attacks"
+  },
+  "case-studies.amir.highlight3": {
+    "message": "Easy to work with"
+  },
+  "case-studies.amir.usage.heading": {
+    "message": "How they used Shira"
+  },
+  "case-studies.amir.usage.feature1": {
+    "message": "Real-life attack simulation"
+  },
+  "case-studies.amir.usage.item1": {
+    "message": "Concrete scenarios instead of abstract conversations."
+  },
+  "case-studies.amir.usage.feature2": {
+    "message": "Training reach"
+  },
+  "case-studies.amir.usage.item2": {
+    "message": "Ran around 20 trainings reaching roughly 150 people."
+  },
+  "case-studies.amir.usage.feature3": {
+    "message": "Language accessibility"
+  },
+  "case-studies.amir.usage.item3": {
+    "message": "Delivered mostly in English, with Amir translating live into Farsi."
+  },
+  "case-studies.amir.details.challenge.heading": {
+    "message": "The Challenge"
+  },
+  "case-studies.amir.details.challenge.text": {
+    "message": "For Amir's community, social engineering conversations tend to happen in the abstract. They were mostly theoretical explanations to people with little to no technical background. Before Shira, he relied on Google's phishing quiz, translated for his audiences through Google Translate. It wasn't built for their context, and it showed."
+  },
+  "case-studies.amir.details.solution.heading": {
+    "message": "The Solution"
+  },
+  "case-studies.amir.details.solution.text": {
+    "message": "Trainings ran mostly online, with careful attention to participant safety: cameras off, pseudonyms instead of real names, and a single trusted contact who knew people's real identities. Where infrastructure was unreliable, Amir recorded materials so participants could access them despite connectivity issues."
+  },
+  "case-studies.amir.details.results.heading": {
+    "message": "The Results"
+  },
+  "case-studies.amir.details.results.text": {
+    "message": "Over roughly 20 trainings, Amir brought Shira to around 150 people, running close to 150 quizzes in total."
+  },
+  "case-studies.nothing2hide.logoAlt": {
+    "message": "Nothing2Hide logo"
+  },
+  "case-studies.nothing2hide.org": {
+    "message": "Nothing2Hide"
+  },
+  "case-studies.nothing2hide.industry": {
+    "message": "Digital Security & Journalism"
+  },
+  "case-studies.nothing2hide.location": {
+    "message": "Europe"
+  },
+  "case-studies.nothing2hide.quote": {
+    "message": "Shira allows us to very easily create phishing quizzes with highly realistic views that replicate the interfaces of the tools used by the people we work with."
+  },
+  "case-studies.nothing2hide.quoteAuthor": {
+    "message": "Grégoire Pouget, Co-Founder and Executive Director"
+  },
+  "case-studies.nothing2hide.summary": {
+    "message": "Nothing2Hide runs a digital security helpline (Tech4Press) and delivers digital safety training for journalists, activists, and campaigners working in repressive environments."
+  },
+  "case-studies.nothing2hide.highlight1": {
+    "message": "Multi-platform realism"
+  },
+  "case-studies.nothing2hide.highlight2": {
+    "message": "Pre-built questions"
+  },
+  "case-studies.nothing2hide.highlight3": {
+    "message": "Time-saving"
+  },
+  "case-studies.nothing2hide.usage.heading": {
+    "message": "How they used Shira"
+  },
+  "case-studies.nothing2hide.usage.feature1": {
+    "message": "Messaging app & email phishing simulations"
+  },
+  "case-studies.nothing2hide.usage.item1": {
+    "message": "Matches tools their community uses daily."
+  },
+  "case-studies.nothing2hide.usage.feature2": {
+    "message": "Pre-built questions"
+  },
+  "case-studies.nothing2hide.usage.item2": {
+    "message": "Skips starting from a blank page."
+  },
+  "case-studies.nothing2hide.usage.feature3": {
+    "message": "Rollout timeline"
+  },
+  "case-studies.nothing2hide.usage.item3": {
+    "message": "Rolling out across their organization in mid-2026."
+  },
+  "case-studies.nothing2hide.details.solution.heading": {
+    "message": "The Solution"
+  },
+  "case-studies.nothing2hide.details.solution.text": {
+    "message": "What stood out to Nothing2Hide was Shira's range beyond the inbox: quizzes with highly realistic views that replicate the interfaces people actually use. Not just Gmail, but WhatsApp, Outlook, and other everyday tools. They also valued the question library. Importing existing questions saves time, but more importantly, it means training material doesn't have to start from a blank page."
+  },
+  "case-studies.nothing2hide.details.results.heading": {
+    "message": "Results"
+  },
+  "case-studies.nothing2hide.details.results.text": {
+    "message": "They are getting ready to roll out Shira across their organization. Check back soon for results."
+  },
+  "case-studies.cta.title": {
+    "message": "Want to be the next story?"
+  },
+  "case-studies.cta.button": {
+    "message": "Get in touch"
+  },
   "about.stats.years.label": {
     "message": "years of experience in digital security training"
   },

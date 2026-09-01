@@ -1,0 +1,318 @@
+.flexAndCenter {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.hero {
+  padding: 6rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heroText {
+  max-width: 40rem;
+}
+
+.heroText h4 {
+  font-weight: 400;
+  opacity: 0.85;
+  margin-bottom: 0.5rem;
+}
+
+.heroText h1 {
+  line-height: 1.15;
+}
+
+.heroText p {
+  font-size: 1.15rem;
+  font-weight: 300;
+  line-height: 1.5;
+  opacity: 0.9;
+}
+
+.heroImage {
+  max-height: 22rem;
+  border-radius: 16px;
+}
+
+@media (max-width: 1110px) {
+  .heroImage {
+    max-height: 16rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 4rem 2rem;
+    flex-direction: column;
+  }
+
+  .heroImage {
+    max-height: 12rem;
+    margin-top: 2rem;
+  }
+}
+
+.cardsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  padding: 4rem 2rem;
+  width: 100%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.card {
+  border-radius: 20px;
+  padding: 3rem;
+  width: 100%;
+}
+
+.cardBody {
+  display: grid;
+  grid-template-columns: 1fr 26rem;
+  grid-template-areas:
+    "orgMeta quote"
+    "rest quote";
+  column-gap: 3rem;
+  row-gap: 0;
+  align-items: start;
+}
+
+.orgMeta {
+  grid-area: orgMeta;
+  min-width: 0;
+}
+
+.restContent {
+  grid-area: rest;
+  min-width: 0;
+}
+
+.orgHeader h3 {
+  font-size: 2rem;
+  margin-bottom: 0.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.orgHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.6rem;
+}
+
+.orgLogo {
+  flex-shrink: 0;
+  width: 4.5rem;
+  height: 4.5rem;
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding: 0.4rem;
+  object-fit: contain;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.orgLink {
+  font-size: 0.85rem;
+  font-weight: 500;
+  opacity: 1;
+  text-decoration: none;
+}
+
+.orgLink:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+.metaRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.eyebrowLabel {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  color: var(--ifm-color-primary-dark);
+}
+
+.industryTag {
+  composes: eyebrowLabel;
+}
+
+.location {
+  font-size: 0.9rem;
+  opacity: 0.65;
+}
+
+.quotePanel {
+  grid-area: quote;
+  width: 26rem;
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-lightest);
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+  padding: 2.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.quoteMark {
+  font-size: 5rem;
+  font-weight: 700;
+  font-family: Georgia, serif;
+  line-height: 1;
+  opacity: 0.85;
+  color: inherit;
+  margin-bottom: 0rem;
+}
+
+.quoteTextWrapper {
+  border-left: 2px solid color-mix(in srgb, currentColor 35%, transparent);
+  padding-left: 1rem;
+}
+
+.quote {
+  margin: 0;
+  border: none;
+  padding: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.5;
+  color: inherit;
+}
+
+.quoteAuthor {
+  margin-top: 1.25rem;
+  padding-left: 1rem;
+  font-size: 0.85rem;
+  font-style: normal;
+  font-weight: 600;
+  color: inherit;
+  opacity: 0.85;
+}
+
+.highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.summary {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  margin: 1rem 0 1.5rem;
+}
+
+.highlightsLabel {
+  composes: eyebrowLabel;
+  margin: 1.75rem 0 0.75rem;
+}
+
+.highlightPill {
+  background-color: rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.highlightPill::before {
+  content: "✓ ";
+  color: var(--ifm-color-primary);
+  font-weight: 700;
+}
+
+.detailsBlock {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  margin-top: 1rem;
+  padding-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.detailSection h4 {
+  margin-bottom: 0.5rem;
+}
+
+.detailSection p {
+  line-height: 1.5;
+}
+
+.detailList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.detailList li {
+  position: relative;
+  padding-left: 1.4rem;
+  line-height: 1.5;
+}
+
+.detailList li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--ifm-color-primary-dark);
+  font-weight: 700;
+}
+
+.button.readMoreButton {
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+  margin-top: 2rem;
+  appearance: none;
+  -webkit-appearance: none;
+  font: inherit;
+  color: var(--ifm-color-primary-lightest);
+}
+
+.button.readMoreButton:hover {
+  text-decoration: underline;
+}
+
+.ctaSection {
+  padding: 5rem 2rem;
+  text-align: center;
+}
+
+@media (max-width: 1110px) {
+  .card {
+    padding: 2rem 1.5rem;
+  }
+
+  .cardBody {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "orgMeta"
+      "quote"
+      "rest";
+    row-gap: 1.5rem;
+    column-gap: 0;
+  }
+
+  .quotePanel {
+    width: 100%;
+    padding: 1.75rem;
+    position: static;
+  }
+}
