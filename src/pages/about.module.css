@@ -1,80 +1,274 @@
-.aboutShira,
-.aboutHorizontal,
-.howItIsMade, {
+.aboutShira {
+  position: relative;
+  overflow: hidden;
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 100%;
-  justify-content: space-evenly;
+  min-height: 22rem;
+  text-align: center;
+  padding: 2rem 0;
 }
-
-.aboutShiraText,
-.aboutHorizontalText, 
-.howItIsMadeText, {
+.heroBg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: none;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  opacity: 0.12;
+  z-index: 0;
+  pointer-events: none;
+}
+.aboutShiraText {
+  position: relative;
+  z-index: 1;
   max-width: 700px;
+  min-width: 0;
 }
-
 .aboutShira img {
   height: 8rem;
 }
-
-.aboutHorizontal img {
-  height: 12rem;
-  margin-top: 4em;
-}
-
-
-.aboutHorizontal .button {
-  width: fit-content;
-}
-.howItIsMade h2 {
-  max-width: 300px;
-}
-
-.howItIsMade {
-  align-items: center;
-  justify-content: center;
-}
-
-.whyShira  h2 {
+.stats {
   display: flex;
-  padding: 2rem;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 3rem;
+  padding: 2rem 0;
+  text-align: center;
 }
-
-.whyShira  h2 img {
-  float: left;
-  max-height: 6rem;
+.statItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-
-.whyShiraText {
-  justify-content: space-evenly;
+.statNumber {
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 1;
 }
-
-.whyShiraReason {
-  width: 30%;
+.statLabel {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  opacity: 0.75;
+  max-width: 10rem;
 }
-
-@media (max-width: 768px) {
-  .whyShiraReason {
-    width: 100%;
+@media (max-width: 480px) {
+  .stats {
+    flex-direction: column;
+    gap: 1.25rem;
   }
 }
-
-.whyShiraReason h3 {
-  margin-bottom: 2rem;
+.aboutHorizontalText {
+  max-width: 900px;
+  min-width: 0;
+  margin: 0 auto;
+  padding-bottom: 2rem;
 }
-
-.whyShiraButtons {
+.aboutHorizontal .button {
+  width: fit-content;
+  display: block;
+  margin: 0 auto;
+}
+.aboutHorizontalHeader {
   display: flex;
   align-items: center;
-  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
 }
-
-.whyShiraButtons .button {
-  margin: 1rem;
+.horizontalLogo {
+  flex-shrink: 0;
+  width: 4.5rem;
+  height: 4.5rem;
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding: 0.4rem;
+  object-fit: contain;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
-
+.aboutHorizontalHeader h2 {
+  margin-bottom: 0;
+}
+.builtSection {
+  max-width: 1200px;
+  min-width: 0;
+  margin: 0 auto;
+}
+.builtHeader {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.builtHeaderImage {
+  height: 3.5rem;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.principlesGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.principleCard h3 {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+.principleTagline {
+  font-weight: 600;
+  font-size: 1.05rem;
+  line-height: 1.35;
+  margin-top: 0;
+}
+.principleCard p {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+@media (max-width: 1110px) {
+  .principlesGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .principlesGrid {
+    grid-template-columns: 1fr;
+  }
+}
+.trustCta {
+  text-align: center;
+  margin-top: 2.5rem;
+}
+.trustCta p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.trustCta .button {
+  display: inline-block;
+  width: fit-content;
+}
+.getStartedRow {
+  max-width: 900px;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+}
+.getStartedText {
+  max-width: 500px;
+  min-width: 0;
+}
+.getStartedImage {
+  max-height: 12rem;
+  max-width: 100%;
+  align-self: center;
+  flex-shrink: 0;
+}
+@media (max-width: 768px) {
+  .getStartedRow {
+    flex-direction: column;
+  }
+  .getStartedImage {
+    max-height: 8rem;
+    max-width: 100%;
+    align-self: center;
+    margin-top: 2rem;
+  }
+}
+.getStartedSubtitle {
+  margin-top: 0.75rem;
+  opacity: 0.9;
+}
+.getStartedButtons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+@media (max-width: 768px) {
+  .getStartedButtons {
+    justify-content: center;
+  }
+}
+.narrativeSection {
+  max-width: 900px;
+  min-width: 0;
+  margin: 0 auto;
+}
+.narrativeSection p {
+  margin-top: 1.5rem;
+}
+.underline {
+  text-decoration: underline;
+  text-decoration-color: var(--ifm-color-primary);
+}
+.whyHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+}
+.whyHeaderLogo {
+  flex-shrink: 0;
+  height: 11rem;
+  max-width: 100%;
+}
+.whyHeaderTitle {
+  flex-shrink: 0;
+  max-width: 260px;
+}
+.whyHeaderText {
+  max-width: 500px;
+  min-width: 0;
+}
+.whyHeaderText p {
+  margin-top: 1.5rem;
+}
+.narrativeTextFull {
+  margin-top: 2rem;
+}
+.narrativeTextFull p {
+  margin-top: 1.25rem;
+}
+.narrativeTextFull h2 {
+  margin-top: 2.5rem;
+}
+.otfRow {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+.otfRow p {
+  margin-top: 0;
+}
+.otfLogo {
+  flex-shrink: 0;
+  max-width: 11rem;
+  height: auto;
+}
+.goingText {
+  min-width: 0;
+}
+@media (max-width: 768px) {
+  .whyHeader {
+    flex-direction: column;
+  }
+  .whyHeaderLogo {
+    height: 6rem;
+  }
+  .otfRow {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+:global(.main) {
+  overflow-x: hidden;
+}
 .flexAndCenter {
   width: 100%;
   display: flex;

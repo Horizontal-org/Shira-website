@@ -64,7 +64,7 @@ export default function Pricing() {
       }),
       price: translate({
         id: 'view_plans.plans.pro.price',
-        message: '$50/month + $1 per quiz taken',
+        message: '100 USD/month',
       }),
       description: translate({
         id: 'view_plans.plans.pro.description',
@@ -161,11 +161,11 @@ export default function Pricing() {
             })},
             {type: 'text', value: translate({
               id: 'view_plans.comparison.values.number_of_admins.pro',
-              message: 'Unlimited (coming soon)',
+              message: '1 admin',
             })},
             {type: 'text', value: translate({
               id: 'view_plans.comparison.values.number_of_admins.enterprise',
-              message: 'Unlimited (coming soon)',
+              message: 'Unlimited',
             })},
           ],
         },

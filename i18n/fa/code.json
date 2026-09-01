@@ -1,1300 +1,1061 @@
 {
-    "about.meta.title": {
-        "message": ""
-    },
-    "about.meta.description": {
-        "message": ""
-    },
-    "about.meta.longDescription": {
-        "message": ""
-    },
-    "about.hero.title": {
-        "message": ""
-    },
-    "about.hero.subtitle": {
-        "message": ""
-    },
-    "about.hero.cta": {
-        "message": ""
-    },
-    "about.hero.imageAlt": {
-        "message": ""
-    },
-    "about.horizontal.imageAlt": {
-        "message": ""
-    },
-    "about.horizontal.title": {
-        "message": ""
-    },
-    "about.horizontal.description": {
-        "message": ""
-    },
-    "about.horizontal.donationText": {
-        "message": ""
-    },
-    "about.horizontal.donationLink": {
-        "message": ""
-    },
-    "about.horizontal.translationText": {
-        "message": ""
-    },
-    "about.horizontal.cta": {
-        "message": ""
-    },
-    "about.why.imageAlt": {
-        "message": ""
-    },
-    "about.why.title": {
-        "message": ""
-    },
-    "about.why.easy.title": {
-        "message": ""
-    },
-    "about.why.easy.description": {
-        "message": ""
-    },
-    "about.why.customizable.title": {
-        "message": ""
-    },
-    "about.why.customizable.description": {
-        "message": ""
-    },
-    "about.why.privacy.title": {
-        "message": ""
-    },
-    "about.why.privacy.description": {
-        "message": ""
-    },
-    "about.why.auditCta": {
-        "message": ""
-    },
-    "about.why.privacyCta": {
-        "message": ""
-    },
-    "about.how.title": {
-        "message": ""
-    },
-    "about.how.opensource": {
-        "message": ""
-    },
-    "about.how.design": {
-        "message": ""
-    },
-    "about.how.community": {
-        "message": ""
-    },
-    "about.how.communityLink": {
-        "message": ""
-    },
-    "about.how.green": {
-        "message": ""
-    },
-    "about.how.greenAlt": {
-        "message": ""
-    },
-    "contact.title": {
-        "message": ""
-    },
-    "contact.description": {
-        "message": ""
-    },
-    "contact.metaDescription": {
-        "message": ""
-    },
     "contact.heading": {
-        "message": ""
+        "message": "Let’s talk!"
     },
     "contact.intro.part1": {
-        "message": ""
-    },
-    "contact.intro.helpCenter": {
-        "message": ""
-    },
-    "contact.intro.part2": {
-        "message": ""
-    },
-    "contact.getInTouch": {
-        "message": ""
-    },
-    "contact.links.emailText": {
-        "message": ""
-    },
-    "contact.links.github": {
-        "message": ""
-    },
-    "contact.links.demo": {
-        "message": ""
-    },
-    "contact.links.newsletter": {
-        "message": ""
-    },
-    "features.meta.title": {
-        "message": ""
-    },
-    "features.meta.description": {
-        "message": ""
-    },
-    "features.meta.longDescription": {
-        "message": ""
-    },
-    "features.intro.audience": {
-        "message": ""
-    },
-    "features.intro.title": {
-        "message": ""
-    },
-    "features.intro.your1": {
-        "message": ""
-    },
-    "features.intro.your2": {
-        "message": ""
-    },
-    "features.intro.your3": {
-        "message": ""
-    },
-    "features.intro.pricing": {
-        "message": ""
-    },
-    "features.intro.getStarted": {
-        "message": ""
-    },
-    "features.images.fishAlt": {
-        "message": ""
-    },
-    "features.images.bubblesAlt": {
-        "message": ""
-    },
-    "features.allFeatures.title": {
-        "message": ""
-    },
-    "features.allFeatures.description": {
-        "message": ""
-    },
-    "features.list.ui.title": {
-        "message": ""
-    },
-    "features.list.ui.description": {
-        "message": ""
-    },
-    "features.list.roles.title": {
-        "message": ""
-    },
-    "features.list.roles.description": {
-        "message": ""
-    },
-    "features.list.realLife.title": {
-        "message": ""
-    },
-    "features.list.realLife.description": {
-        "message": ""
-    },
-    "features.list.email.title": {
-        "message": ""
-    },
-    "features.list.email.description": {
-        "message": ""
-    },
-    "features.list.sms.title": {
-        "message": ""
-    },
-    "features.list.sms.description": {
-        "message": ""
-    },
-    "features.list.messaging.title": {
-        "message": ""
-    },
-    "features.list.messaging.description": {
-        "message": ""
-    },
-    "features.list.mobile.title": {
-        "message": ""
-    },
-    "features.list.mobile.description": {
-        "message": ""
-    },
-    "features.list.compliance.title": {
-        "message": ""
-    },
-    "features.list.compliance.description": {
-        "message": ""
-    },
-    "features.list.analytics.title": {
-        "message": ""
-    },
-    "features.list.analytics.description": {
-        "message": ""
-    },
-    "features.list.explanations.title": {
-        "message": ""
-    },
-    "features.list.explanations.description": {
-        "message": ""
-    },
-    "features.list.gamification.title": {
-        "message": ""
-    },
-    "features.list.gamification.description": {
-        "message": ""
-    },
-    "features.list.multilingual.title": {
-        "message": ""
-    },
-    "features.list.multilingual.description": {
-        "message": ""
-    },
-    "features.list.library.title": {
-        "message": ""
-    },
-    "features.list.library.description": {
-        "message": ""
-    },
-    "features.needMore.title": {
-        "message": ""
-    },
-    "features.needMore.subtitle": {
-        "message": ""
-    },
-    "features.needMore.cta": {
-        "message": ""
-    },
-    "homepage.meta.title": {
-        "message": ""
-    },
-    "homepage.meta.description": {
-        "message": ""
-    },
-    "homepage.meta.longDescription": {
-        "message": ""
-    },
-    "homepage.hero.title": {
-        "message": ""
-    },
-    "homepage.hero.subtitle": {
-        "message": ""
-    },
-    "homepage.learners.title": {
-        "message": ""
-    },
-    "homepage.learners.description": {
-        "message": ""
-    },
-    "homepage.learners.cta": {
-        "message": ""
-    },
-    "homepage.educators.title": {
-        "message": ""
-    },
-    "homepage.educators.description": {
-        "message": ""
-    },
-    "homepage.educators.cta": {
-        "message": ""
-    },
-    "homepage.context.description": {
-        "message": ""
-    },
-    "homepage.context.imageAlt": {
-        "message": ""
-    },
-    "homepage.why.title": {
-        "message": ""
-    },
-    "homepage.why.intro": {
-        "message": ""
-    },
-    "homepage.why.easy.title": {
-        "message": ""
-    },
-    "homepage.why.easy.description": {
-        "message": ""
-    },
-    "homepage.why.customizable.title": {
-        "message": ""
-    },
-    "homepage.why.customizable.description": {
-        "message": ""
-    },
-    "homepage.why.privacy.title": {
-        "message": ""
-    },
-    "homepage.why.privacy.description": {
-        "message": ""
-    },
-    "phishingQuizzes.meta.title": {
-        "message": ""
-    },
-    "phishingQuizzes.meta.description": {
-        "message": ""
-    },
-    "phishingQuizzes.meta.longDescription": {
-        "message": ""
-    },
-    "phishingQuizzes.education.title": {
-        "message": ""
-    },
-    "phishingQuizzes.education.paragraph1": {
-        "message": ""
-    },
-    "phishingQuizzes.education.paragraph2": {
-        "message": ""
-    },
-    "phishingQuizzes.education.wsjAltDesktop": {
-        "message": ""
-    },
-    "phishingQuizzes.education.wsjAltMobile": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.intro": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.anxiety.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.anxiety.text": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.emailFocus.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.emailFocus.text": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.falseSecurity.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.falseSecurity.text": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.clickRates.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.clickRates.text": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.desensitize.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.desensitize.text": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.punishment.title": {
-        "message": ""
-    },
-    "phishingQuizzes.problem.punishment.text": {
-        "message": ""
-    },
-    "phishingQuizzes.research.text": {
-        "message": ""
-    },
-    "phishingQuizzes.research.link": {
-        "message": ""
-    },
-    "phishingQuizzes.research.conclusion": {
-        "message": ""
-    },
-    "phishingQuizzes.quizzes.title": {
-        "message": ""
-    },
-    "phishingQuizzes.quizzes.description": {
-        "message": ""
-    },
-    "phishingQuizzes.quizzes.benefitsIntro": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.controlled.title": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.controlled.text": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.interactive.title": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.interactive.text": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.coverage.title": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.coverage.text": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.confidence.title": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.confidence.text": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.tailored.title": {
-        "message": ""
-    },
-    "phishingQuizzes.benefits.tailored.text": {
-        "message": ""
-    },
-    "phishingQuizzes.cta": {
-        "message": ""
-    },
-    "phishing.layout.title": {
-        "message": ""
-    },
-    "phishing.layout.description": {
-        "message": ""
-    },
-    "phishing.meta.description": {
-        "message": ""
-    },
-    "phishing.intro.title": {
-        "message": ""
-    },
-    "phishing.intro.definition": {
-        "message": ""
-    },
-    "phishing.intro.protection": {
-        "message": ""
-    },
-    "phishing.images.fish.alt": {
-        "message": ""
-    },
-    "phishing.common.title": {
-        "message": ""
-    },
-    "phishing.common.rank": {
-        "message": ""
-    },
-    "phishing.common.channels": {
-        "message": ""
-    },
-    "phishing.images.bubbles.alt": {
-        "message": ""
-    },
-    "phishing.attackers.title": {
-        "message": ""
-    },
-    "phishing.attackers.passwords.label": {
-        "message": ""
-    },
-    "phishing.attackers.passwords.text": {
-        "message": ""
-    },
-    "phishing.attackers.money.label": {
-        "message": ""
-    },
-    "phishing.attackers.money.text": {
-        "message": ""
-    },
-    "phishing.attackers.confidential.label": {
-        "message": ""
-    },
-    "phishing.attackers.confidential.text": {
-        "message": ""
-    },
-    "phishing.attackers.malware.label": {
-        "message": ""
-    },
-    "phishing.attackers.malware.text": {
-        "message": ""
-    },
-    "phishing.why.title": {
-        "message": ""
-    },
-    "phishing.why.intro": {
-        "message": ""
-    },
-    "phishing.why.polite.label": {
-        "message": ""
-    },
-    "phishing.why.polite.text": {
-        "message": ""
-    },
-    "phishing.why.helpful.label": {
-        "message": ""
-    },
-    "phishing.why.helpful.text": {
-        "message": ""
-    },
-    "phishing.why.embarrassed.label": {
-        "message": ""
-    },
-    "phishing.why.embarrassed.text": {
-        "message": ""
-    },
-    "phishing.why.urgent.label": {
-        "message": ""
-    },
-    "phishing.why.urgent.text": {
-        "message": ""
-    },
-    "phishing.consequences.title": {
-        "message": ""
-    },
-    "phishing.consequences.identity.label": {
-        "message": ""
+        "message": "Do you have questions about Shira that are not answered in our"
     },
     "phishing.consequences.identity.text": {
-        "message": ""
+        "message": "Cybercriminals can use your personal information to impersonate you."
     },
-    "phishing.consequences.financial.label": {
-        "message": ""
-    },
-    "phishing.consequences.financial.text": {
-        "message": ""
-    },
-    "phishing.consequences.data.label": {
-        "message": ""
-    },
-    "phishing.consequences.data.text": {
-        "message": ""
-    },
-    "phishing.consequences.operational.label": {
-        "message": ""
-    },
-    "phishing.consequences.operational.text": {
-        "message": ""
-    },
-    "phishing.images.worm.alt": {
-        "message": ""
-    },
-    "phishing.how.title": {
-        "message": ""
-    },
-    "phishing.how.intro": {
-        "message": ""
-    },
-    "phishing.how.deceptive.label": {
-        "message": ""
-    },
-    "phishing.how.deceptive.text": {
-        "message": ""
-    },
-    "phishing.how.urgent.label": {
-        "message": ""
-    },
-    "phishing.how.urgent.text": {
-        "message": ""
-    },
-    "phishing.how.fake.label": {
-        "message": ""
-    },
-    "phishing.how.fake.text": {
-        "message": ""
-    },
-    "phishing.how.data.label": {
-        "message": ""
-    },
-    "phishing.how.data.text": {
-        "message": ""
-    },
-    "pricing.layout.title": {
-        "message": ""
-    },
-    "pricing.layout.description": {
-        "message": ""
-    },
-    "pricing.meta.description": {
-        "message": ""
-    },
-    "pricing.intro.subtitle": {
-        "message": ""
-    },
-    "pricing.intro.title": {
-        "message": ""
-    },
-    "pricing.starter.title": {
-        "message": ""
-    },
-    "pricing.starter.description": {
-        "message": ""
-    },
-    "pricing.starter.price": {
-        "message": ""
-    },
-    "pricing.starter.note": {
-        "message": ""
-    },
-    "pricing.cta.getStarted": {
-        "message": ""
-    },
-    "pricing.starter.includes": {
-        "message": ""
-    },
-    "pricing.admin.title": {
-        "message": ""
-    },
-    "pricing.admin.cloud": {
-        "message": ""
-    },
-    "pricing.admin.dashboard": {
-        "message": ""
-    },
-    "pricing.admin.oneAdmin": {
-        "message": ""
-    },
-    "pricing.customization.title": {
-        "message": ""
-    },
-    "pricing.customization.questions": {
-        "message": ""
-    },
-    "pricing.customization.library": {
-        "message": ""
-    },
-    "pricing.customization.quizzes": {
-        "message": ""
-    },
-    "pricing.customization.questionsPerQuiz": {
-        "message": ""
-    },
-    "pricing.customization.apps": {
-        "message": ""
-    },
-    "pricing.access.title": {
-        "message": ""
-    },
-    "pricing.access.public": {
-        "message": ""
-    },
-    "pricing.pro.title": {
-        "message": ""
-    },
-    "pricing.pro.description": {
-        "message": ""
-    },
-    "pricing.pro.price": {
-        "message": ""
-    },
-    "pricing.pro.billing": {
-        "message": ""
-    },
-    "pricing.pro.includes": {
-        "message": ""
-    },
-    "pricing.admin.unlimitedSoon": {
-        "message": ""
-    },
-    "pricing.pro.unlimitedQuizzes": {
-        "message": ""
-    },
-    "pricing.pro.unlimitedQuestions": {
-        "message": ""
-    },
-    "pricing.pro.apps": {
-        "message": ""
-    },
-    "pricing.access.private": {
-        "message": ""
-    },
-    "pricing.compliance.title": {
-        "message": ""
-    },
-    "pricing.compliance.track": {
-        "message": ""
-    },
-    "pricing.compliance.detailed": {
-        "message": ""
-    },
-    "pricing.compliance.tools": {
-        "message": ""
-    },
-    "pricing.enterprise.title": {
-        "message": ""
-    },
-    "pricing.enterprise.description": {
-        "message": ""
-    },
-    "pricing.enterprise.price": {
-        "message": ""
-    },
-    "pricing.enterprise.note": {
-        "message": ""
-    },
-    "pricing.enterprise.includes": {
-        "message": ""
-    },
-    "pricing.enterprise.deployment": {
-        "message": ""
-    },
-    "pricing.admin.unlimited": {
-        "message": ""
-    },
-    "pricing.enterprise.unlimitedQuizzes": {
-        "message": ""
-    },
-    "pricing.enterprise.unlimitedQuestions": {
-        "message": ""
-    },
-    "pricing.enterprise.customLimit": {
-        "message": ""
-    },
-    "pricing.enterprise.support": {
-        "message": ""
-    },
-    "pricing.enterprise.training": {
-        "message": ""
-    },
-    "pricing.enterprise.priority": {
-        "message": ""
-    },
-    "theme.ErrorPageContent.title": {
-        "message": "",
-        "description": "The title of the fallback page when the page crashed"
-    },
-    "theme.BackToTopButton.buttonAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the back to top button"
-    },
-    "theme.blog.archive.title": {
-        "message": "",
-        "description": "The page & hero title of the blog archive page"
-    },
-    "theme.blog.archive.description": {
-        "message": "",
-        "description": "The page & hero description of the blog archive page"
-    },
-    "theme.blog.paginator.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the blog pagination"
-    },
-    "theme.blog.paginator.newerEntries": {
-        "message": "",
-        "description": "The label used to navigate to the newer blog posts page (previous page)"
-    },
-    "theme.blog.paginator.olderEntries": {
-        "message": "",
-        "description": "The label used to navigate to the older blog posts page (next page)"
-    },
-    "theme.blog.post.paginator.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the blog posts pagination"
-    },
-    "theme.blog.post.paginator.newerPost": {
-        "message": "",
-        "description": "The blog post button label to navigate to the newer/previous post"
-    },
-    "theme.blog.post.paginator.olderPost": {
-        "message": "",
-        "description": "The blog post button label to navigate to the older/next post"
-    },
-    "theme.tags.tagsPageLink": {
-        "message": "",
-        "description": "The label of the link targeting the tag list page"
-    },
-    "theme.docs.breadcrumbs.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the breadcrumbs"
-    },
-    "theme.colorToggle.ariaLabel.mode.system": {
-        "message": "",
-        "description": "The name for the system color mode"
-    },
-    "theme.colorToggle.ariaLabel.mode.light": {
-        "message": "",
-        "description": "The name for the light color mode"
-    },
-    "theme.colorToggle.ariaLabel.mode.dark": {
-        "message": "",
-        "description": "The name for the dark color mode"
-    },
-    "theme.colorToggle.ariaLabel": {
-        "message": "",
-        "description": "The ARIA label for the color mode toggle"
-    },
-    "theme.docs.DocCard.categoryDescription.plurals": {
-        "message": "",
-        "description": "The default description for a category card in the generated index about how many items this category includes"
-    },
-    "theme.docs.paginator.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the docs pagination"
-    },
-    "theme.docs.paginator.previous": {
-        "message": "",
-        "description": "The label used to navigate to the previous doc"
-    },
-    "theme.docs.paginator.next": {
-        "message": "",
-        "description": "The label used to navigate to the next doc"
-    },
-    "theme.docs.tagDocListPageTitle.nDocsTagged": {
-        "message": "",
-        "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.docs.tagDocListPageTitle": {
-        "message": "",
-        "description": "The title of the page for a docs tag"
-    },
-    "theme.docs.versionBadge.label": {
-        "message": ""
-    },
-    "theme.docs.versions.unreleasedVersionLabel": {
-        "message": "",
-        "description": "The label used to tell the user that he's browsing an unreleased doc version"
-    },
-    "theme.docs.versions.unmaintainedVersionLabel": {
-        "message": "",
-        "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-    },
-    "theme.docs.versions.latestVersionSuggestionLabel": {
-        "message": "",
-        "description": "The label used to tell the user to check the latest version"
-    },
-    "theme.docs.versions.latestVersionLinkLabel": {
-        "message": "",
-        "description": "The label used for the latest version suggestion link label"
-    },
-    "theme.common.editThisPage": {
-        "message": "",
-        "description": "The link label to edit the current page"
-    },
-    "theme.common.headingLinkTitle": {
-        "message": "",
-        "description": "Title for link to heading"
-    },
-    "theme.lastUpdated.atDate": {
-        "message": "",
-        "description": "The words used to describe on which date a page has been last updated"
-    },
-    "theme.lastUpdated.byUser": {
-        "message": "",
-        "description": "The words used to describe by who the page has been last updated"
-    },
-    "theme.lastUpdated.lastUpdatedAtBy": {
-        "message": "",
-        "description": "The sentence used to display when a page has been last updated, and by who"
-    },
-    "theme.NotFound.title": {
-        "message": "",
-        "description": "The title of the 404 page"
-    },
-    "theme.navbar.mobileVersionsDropdown.label": {
-        "message": "",
-        "description": "The label for the navbar versions dropdown on mobile view"
-    },
-    "theme.tags.tagsListLabel": {
-        "message": "",
-        "description": "The label alongside a tag list"
-    },
-    "theme.AnnouncementBar.closeButtonAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for close button of announcement bar"
-    },
-    "theme.admonition.caution": {
-        "message": "",
-        "description": "The default label used for the Caution admonition (:::caution)"
-    },
-    "theme.admonition.danger": {
-        "message": "",
-        "description": "The default label used for the Danger admonition (:::danger)"
-    },
-    "theme.admonition.info": {
-        "message": "",
-        "description": "The default label used for the Info admonition (:::info)"
-    },
-    "theme.admonition.note": {
-        "message": "",
-        "description": "The default label used for the Note admonition (:::note)"
-    },
-    "theme.admonition.tip": {
-        "message": "",
-        "description": "The default label used for the Tip admonition (:::tip)"
-    },
-    "theme.admonition.warning": {
-        "message": "",
-        "description": "The default label used for the Warning admonition (:::warning)"
-    },
-    "theme.blog.sidebar.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for recent posts in the blog sidebar"
-    },
-    "theme.DocSidebarItem.expandCategoryAriaLabel": {
-        "message": "",
-        "description": "The ARIA label to expand the sidebar category"
-    },
-    "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-        "message": "",
-        "description": "The ARIA label to collapse the sidebar category"
-    },
-    "theme.IconExternalLink.ariaLabel": {
-        "message": "",
-        "description": "The ARIA label for the external link icon"
-    },
-    "theme.NavBar.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the main navigation"
-    },
-    "theme.NotFound.p1": {
-        "message": "",
-        "description": "The first paragraph of the 404 page"
-    },
-    "theme.NotFound.p2": {
-        "message": "",
-        "description": "The 2nd paragraph of the 404 page"
-    },
-    "theme.TOCCollapsible.toggleButtonLabel": {
-        "message": "",
-        "description": "The label used by the button on the collapsible TOC component"
-    },
-    "theme.navbar.mobileLanguageDropdown.label": {
-        "message": "",
-        "description": "The label for the mobile language switcher dropdown"
-    },
-    "theme.blog.post.readMore": {
-        "message": "",
-        "description": "The label used in blog post item excerpts to link to full blog posts"
-    },
-    "theme.blog.post.readMoreLabel": {
-        "message": "",
-        "description": "The ARIA label for the link to full blog posts from excerpts"
-    },
-    "theme.blog.post.readingTime.plurals": {
-        "message": "",
-        "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.docs.breadcrumbs.home": {
-        "message": "",
-        "description": "The ARIA label for the home page in the breadcrumbs"
-    },
-    "theme.CodeBlock.copy": {
-        "message": "",
-        "description": "The copy button label on code blocks"
-    },
-    "theme.CodeBlock.copied": {
-        "message": "",
-        "description": "The copied button label on code blocks"
-    },
-    "theme.CodeBlock.copyButtonAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for copy code blocks button"
-    },
-    "theme.CodeBlock.wordWrapToggle": {
-        "message": "",
-        "description": "The title attribute for toggle word wrapping button of code block lines"
-    },
-    "theme.docs.sidebar.collapseButtonTitle": {
-        "message": "",
-        "description": "The title attribute for collapse button of doc sidebar"
-    },
-    "theme.docs.sidebar.collapseButtonAriaLabel": {
-        "message": "",
-        "description": "The title attribute for collapse button of doc sidebar"
-    },
-    "theme.docs.sidebar.navAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for the sidebar navigation"
-    },
-    "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for close button of mobile sidebar"
-    },
-    "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-        "message": "",
-        "description": "The ARIA label for hamburger menu button of mobile navigation"
-    },
-    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-        "message": "",
-        "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
-    },
-    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-        "message": "",
-        "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
-    },
-    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-        "message": "",
-        "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
-    },
-    "theme.docs.sidebar.expandButtonTitle": {
-        "message": "",
-        "description": "The ARIA label and title attribute for expand button of doc sidebar"
-    },
-    "theme.docs.sidebar.expandButtonAriaLabel": {
-        "message": "",
-        "description": "The ARIA label and title attribute for expand button of doc sidebar"
-    },
-    "theme.SearchBar.noResultsText": {
-        "message": ""
-    },
-    "theme.SearchBar.seeAllOutsideContext": {
-        "message": ""
-    },
-    "theme.SearchBar.searchInContext": {
-        "message": ""
-    },
-    "theme.SearchBar.seeAll": {
-        "message": ""
-    },
-    "theme.SearchBar.label": {
-        "message": "",
-        "description": "The ARIA label and placeholder for search button"
-    },
-    "theme.SearchPage.existingResultsTitle": {
-        "message": "",
-        "description": "The search page title for non-empty query"
-    },
-    "theme.SearchPage.emptyResultsTitle": {
-        "message": "",
-        "description": "The search page title for empty query"
-    },
-    "theme.SearchPage.searchContext.everywhere": {
-        "message": ""
-    },
-    "theme.SearchPage.documentsFound.plurals": {
-        "message": "",
-        "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.SearchPage.noResultsText": {
-        "message": "",
-        "description": "The paragraph for empty search result"
-    },
-    "theme.blog.post.plurals": {
-        "message": "",
-        "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-    },
-    "theme.blog.tagTitle": {
-        "message": "",
-        "description": "The title of the page for a blog tag"
-    },
-    "theme.blog.author.pageTitle": {
-        "message": "",
-        "description": "The title of the page for a blog author"
-    },
-    "theme.blog.authorsList.pageTitle": {
-        "message": "",
-        "description": "The title of the authors page"
-    },
-    "theme.blog.authorsList.viewAll": {
-        "message": "",
-        "description": "The label of the link targeting the blog authors page"
-    },
-    "theme.blog.author.noPosts": {
-        "message": "",
-        "description": "The text for authors with 0 blog post"
-    },
-    "theme.contentVisibility.unlistedBanner.title": {
-        "message": "",
-        "description": "The unlisted content banner title"
-    },
-    "theme.contentVisibility.unlistedBanner.message": {
-        "message": "",
-        "description": "The unlisted content banner message"
-    },
-    "theme.contentVisibility.draftBanner.title": {
-        "message": "",
-        "description": "The draft content banner title"
-    },
-    "theme.contentVisibility.draftBanner.message": {
-        "message": "",
-        "description": "The draft content banner message"
-    },
-    "theme.ErrorPageContent.tryAgain": {
-        "message": "",
-        "description": "The label of the button to try again rendering when the React error boundary captures an error"
-    },
-    "theme.common.skipToMainContent": {
-        "message": "",
-        "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
-    },
-    "theme.tags.tagsPageTitle": {
-        "message": "",
-        "description": "The title of the tag list page"
-    },
-    "phishingQuizzes.wsj.alt": {
-        "message": ""
-    },
-    "phishingQuizzes.wsjMobile.alt": {
-        "message": ""
-    },
-    "phishingQuizzes.research.emphasis": {
-        "message": ""
-    },
-    "phishingQuizzes.research.final": {
-        "message": ""
+    "homepage.context.description": {
+        "message": "For years, phishing has been one of the most common attacks facing individuals and organizations. While it was initially limited to emails, phishing now also happens via SMS, messaging apps, and social media. Building users’ skills to identify and defeat phishing attacks is more needed than ever before."
     },
     "view_plans.comparison.rows.custom_quizzes": {
-        "message": ""
+        "message": "Number of custom quizzes"
+    },
+    "phishing.images.fish.alt": {
+        "message": "Decorative illustration of a fish"
+    },
+    "phishingQuizzes.problem.punishment.text": {
+        "message": "Simulated phishing emails can create a culture of fear, where users are more focused on avoiding punishment than on learning."
+    },
+    "features.list.explanations.description": {
+        "message": "Embed your own explanations to point users to elements that suggest that an email or message looks like phishing."
+    },
+    "features.images.fishAlt": {
+        "message": "Illustration of a fish representing phishing"
+    },
+    "phishingQuizzes.benefits.interactive.title": {
+        "message": "Interactive Engagement:"
+    },
+    "theme.docs.DocCard.categoryDescription.plurals": {
+        "message": "1 item|{count} items"
+    },
+    "homepage.educators.description": {
+        "message": "Each organization has its own needs and faces its own threats. Build phishing quizzes tailored to your organization’s needs and monitor your team’s success rates — without any coding."
+    },
+    "phishingQuizzes.benefits.interactive.text": {
+        "message": "These quizzes encourage active participation and provide immediate feedback."
+    },
+    "phishing.meta.description": {
+        "message": "Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
+    },
+    "phishingQuizzes.wsj.alt": {
+        "message": "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
     },
     "view_plans.comparison.tooltips.apps_available": {
-        "message": ""
+        "message": "Create quiz questions using interfaces that look exactly like actual apps your learners use"
+    },
+    "theme.tags.tagsPageTitle": {
+        "message": "Tags"
+    },
+    "phishing.why.urgent.text": {
+        "message": "Urgency is a strong motivator. Phishers craft messages that create a false sense of urgency, claiming accounts will be suspended or payments are overdue. This panic can cloud judgment, causing individuals to overlook warning signs and act impulsively."
     },
     "view_plans.comparison.tooltips.customizable_questions": {
-        "message": ""
+        "message": "Create quiz questions adapted to the needs of your learners"
+    },
+    "about.horizontal.description": {
+        "message": "Shira is a project by Horizontal, a technology non-profit that builds security and privacy technology to help people be safer online."
+    },
+    "phishingQuizzes.benefits.tailored.title": {
+        "message": "Tailored Learning Objectives:"
+    },
+    "features.list.sms.description": {
+        "message": "Create quizzes that simulate SMS phishing attempts with realistic text messages."
+    },
+    "phishing.consequences.data.text": {
+        "message": "Sensitive company information can be exposed, leading to reputational damage."
+    },
+    "phishingQuizzes.benefits.confidence.text": {
+        "message": "Employees learn from mistakes in a supportive environment."
+    },
+    "theme.admonition.caution": {
+        "message": "caution"
+    },
+    "phishing.attackers.passwords.label": {
+        "message": "Passwords:"
     },
     "view_plans.plans.starter.price": {
-        "message": ""
+        "message": "Free"
+    },
+    "phishingQuizzes.problem.punishment.title": {
+        "message": "Focus on punishment rather than prevention:"
+    },
+    "about.why.auditCta": {
+        "message": "Security Audits"
+    },
+    "phishingQuizzes.research.text": {
+        "message": "Research finds that phishing simulation campaigns do not effectively train people in identifying phishing attacks."
+    },
+    "phishing.common.channels": {
+        "message": "While phishing has been traditionally associated with email scams, today it takes place across a wide variety of mediums: email, but also SMS, messaging apps, social media platforms, and phone calls."
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": ""
+        "message": "نامحدود"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": ""
+        "message": "نامحدود"
+    },
+    "contact.getInTouch": {
+        "message": "Get in touch:"
+    },
+    "features.intro.getStarted": {
+        "message": "شروع کنید"
+    },
+    "about.why.privacy.title": {
+        "message": "3. میانه ی خوب با حفظ حریم خصوصی"
+    },
+    "features.intro.your3": {
+        "message": "your"
+    },
+    "phishing.layout.title": {
+        "message": "Learn about Phishing"
+    },
+    "homepage.why.title": {
+        "message": "چرا Shira؟"
+    },
+    "features.intro.your2": {
+        "message": "your"
     },
     "view_plans.plans.starter.title": {
-        "message": ""
+        "message": "Starter"
+    },
+    "pricing.meta.description": {
+        "message": "Explore Shira's simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
     },
     "view_plans.comparison.tooltips.support": {
-        "message": ""
+        "message": "Quick response time to ensure a smooth experience"
+    },
+    "features.list.messaging.description": {
+        "message": "Create quizzes that replicate phishing through popular messaging apps like WhatsApp or Facebook Messenger."
+    },
+    "theme.TOCCollapsible.toggleButtonLabel": {
+        "message": "On this page"
+    },
+    "theme.tags.tagsListLabel": {
+        "message": "Tags:"
+    },
+    "theme.colorToggle.ariaLabel.mode.system": {
+        "message": "system mode"
+    },
+    "about.why.imageAlt": {
+        "message": "decorative image of a hook"
+    },
+    "theme.colorToggle.ariaLabel.mode.light": {
+        "message": "light mode"
+    },
+    "theme.DocSidebarItem.expandCategoryAriaLabel": {
+        "message": "Expand sidebar category '{label}'"
+    },
+    "phishingQuizzes.benefits.coverage.title": {
+        "message": "Coverage of Diverse Phishing Tactics:"
     },
     "view_plans.comparison.values.support.enterprise": {
-        "message": ""
+        "message": "Dedicated enterprise support"
+    },
+    "contact.description": {
+        "message": "Learn about how to contact the Shira team"
+    },
+    "phishing.why.polite.text": {
+        "message": "People often feel compelled to respond to messages from authority figures or trusted sources. Phishers exploit this by using polite language, making recipients more likely to comply with requests for sensitive information without questioning the message's legitimacy."
+    },
+    "features.intro.title": {
+        "message": "Create {your1} own phishing quizzes for {your2} team to address {your3} threats"
+    },
+    "features.list.mobile.description": {
+        "message": "We often face phishing attacks from our mobile devices. In Shira, users can take quizzes from their mobile devices to prepare for attacks they will face in real life."
+    },
+    "phishingQuizzes.meta.title": {
+        "message": "Learn about Phishing Quizzes"
+    },
+    "phishingQuizzes.quizzes.benefitsIntro": {
+        "message": "Benefits include:"
+    },
+    "features.allFeatures.description": {
+        "message": "Nobody knows your team’s needs better than you. Shira gives you full control in creating learning experiences that are tailored to your organization’s specific needs, the attacks you receive, and your colleagues’ skill level."
+    },
+    "phishing.how.title": {
+        "message": "How phishing works"
     },
     "view_plans.comparison.rows.apps_available": {
-        "message": ""
+        "message": "Apps available"
+    },
+    "phishingQuizzes.research.conclusion": {
+        "message": "actually showed a"
+    },
+    "phishing.how.intro": {
+        "message": "Phishing attacks often involve the following steps:"
     },
     "view_plans.comparison.values.cloud": {
-        "message": ""
+        "message": "Cloud"
+    },
+    "about.meta.title": {
+        "message": "About Shira"
+    },
+    "theme.contentVisibility.draftBanner.title": {
+        "message": "Draft page"
+    },
+    "theme.AnnouncementBar.closeButtonAriaLabel": {
+        "message": "بستن"
     },
     "view_plans.comparison.compliance": {
-        "message": ""
+        "message": "Compliance"
+    },
+    "features.allFeatures.title": {
+        "message": "All the features you need to keep your team safe"
+    },
+    "phishingQuizzes.research.final": {
+        "message": "effect of phishing simulations."
+    },
+    "theme.BackToTopButton.buttonAriaLabel": {
+        "message": "Scroll back to top"
+    },
+    "theme.blog.post.paginator.newerPost": {
+        "message": "Newer post"
+    },
+    "contact.intro.part2": {
+        "message": "? Would you like to explore a possible partnership? Are you a non-profit or a grassroots organization and cannot afford the full cost of Shira?"
+    },
+    "theme.docs.sidebar.collapseButtonAriaLabel": {
+        "message": "Collapse sidebar"
+    },
+    "theme.contentVisibility.unlistedBanner.title": {
+        "message": "Unlisted page"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "100 دلار در ماه"
+    },
+    "phishingQuizzes.problem.desensitize.title": {
+        "message": "Desensitize users:"
+    },
+    "theme.SearchPage.noResultsText": {
+        "message": "No documents were found"
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "Get started"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
-        "message": ""
+        "message": "The number of quizzes you can create in your Space"
     },
     "view_plans.plans.enterprise.cta": {
-        "message": ""
+        "message": "Contact us"
+    },
+    "theme.SearchBar.seeAll": {
+        "message": "See all results"
+    },
+    "features.list.analytics.description": {
+        "message": "Track user progress and identify areas for improvement, whether it's the type of apps your users are most vulnerable on or the specific users who need extra support."
+    },
+    "phishing.attackers.title": {
+        "message": "What do attackers try to obtain?"
+    },
+    "theme.blog.tagTitle": {
+        "message": "{nPosts} tagged with \"{tagName}\""
     },
     "view_plans.comparison.rows.customizable_questions": {
-        "message": ""
+        "message": "Fully customizable quiz questions"
+    },
+    "homepage.meta.description": {
+        "message": "Use Shira to build your team's ability to identify and defeat phishing attacks."
     },
     "view_plans.comparison.rows.public_quizzes": {
-        "message": ""
+        "message": "Public quizzes"
     },
     "view_plans.comparison.tooltips.hosting": {
-        "message": ""
+        "message": "Let the Shira team host and maintain your Shira (cloud) or install it on your servers (on-premise)"
+    },
+    "phishing.how.deceptive.text": {
+        "message": "Attackers send messages that appear to come from legitimate sources, such as banks, online services, or even colleagues."
+    },
+    "pricing.layout.title": {
+        "message": "Shira's pricing"
+    },
+    "features.list.library.title": {
+        "message": "Question library 📚"
+    },
+    "phishing.why.embarrassed.text": {
+        "message": "Phishers instill fear by suggesting the recipient has made a mistake, like missing a payment. This fear can push individuals to act quickly, often without verifying the message's source, leading to compromised security."
+    },
+    "about.why.easy.title": {
+        "message": "1. استفاده آسان"
+    },
+    "phishingQuizzes.problem.falseSecurity.text": {
+        "message": "If employees successfully identify simulated phishing attempts, they may develop a false sense of security."
+    },
+    "theme.CodeBlock.copyButtonAriaLabel": {
+        "message": "Copy code to clipboard"
     },
     "view_plans.comparison.rows.private_quizzes": {
-        "message": ""
+        "message": "Private quizzes"
+    },
+    "features.list.compliance.description": {
+        "message": "Ensure that your team actually completes your quizzes and monitor success rates."
+    },
+    "theme.NotFound.p2": {
+        "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken."
+    },
+    "theme.docs.breadcrumbs.navAriaLabel": {
+        "message": "Breadcrumbs"
+    },
+    "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+        "message": "Close navigation bar"
+    },
+    "about.why.customizable.description": {
+        "message": "Shira shows emails and messages that are as realistic as possible to simulate what internet users actually experience in their daily lives and the phishing attacks they are likely to face."
+    },
+    "phishing.intro.protection": {
+        "message": "Understanding phishing is the first step in protecting yourself and your organization."
+    },
+    "phishing.common.rank": {
+        "message": "Phishing is consistently ranked as the most common attack experienced by individuals and organizations."
+    },
+    "phishingQuizzes.quizzes.description": {
+        "message": "Phishing quizzes provide a controlled learning environment that is more effective for skill-building than traditional phishing simulations."
+    },
+    "phishing.consequences.financial.text": {
+        "message": "Unauthorized transactions can drain your accounts."
+    },
+    "theme.ErrorPageContent.title": {
+        "message": "This page crashed."
+    },
+    "about.how.opensource": {
+        "message": "Shira is open-source and licensed under MIT 2.0."
+    },
+    "phishing.why.helpful.label": {
+        "message": "Urge to be helpful:"
+    },
+    "features.images.bubblesAlt": {
+        "message": "Fish with bubbles illustration"
     },
     "view_plans.comparison.admin_management": {
-        "message": ""
+        "message": "Admin management"
+    },
+    "features.needMore.title": {
+        "message": "Missing a feature?"
     },
     "view_plans.comparison.access_control": {
-        "message": ""
+        "message": "کنترل دسترسی"
+    },
+    "phishingQuizzes.benefits.coverage.text": {
+        "message": "Phishing quizzes can incorporate SMS, social media, and voice phishing scenarios."
+    },
+    "features.list.library.description": {
+        "message": "Create your quiz questions from scratch or head to the Shira Library to pull question templates created by digital security trainers."
     },
     "view_plans.comparison.rows.analysis_tools": {
-        "message": ""
+        "message": "Analysis and compliance tools"
+    },
+    "about.how.greenAlt": {
+        "message": "This website runs on green hosting - verified by thegreenwebfoundation.org"
+    },
+    "theme.SearchBar.label": {
+        "message": "جستجو"
+    },
+    "phishing.consequences.operational.label": {
+        "message": "Operational Disruption:"
     },
     "view_plans.comparison.rows.question_library": {
-        "message": ""
+        "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": ""
+        "message": "پشتیبانی"
     },
     "view_plans.comparison.rows.hosting": {
-        "message": ""
+        "message": "Hosting"
+    },
+    "about.horizontal.cta": {
+        "message": "درباره Horizontal بیشتر بدانید"
+    },
+    "phishing.how.fake.label": {
+        "message": "Fake Websites:"
+    },
+    "phishing.intro.definition": {
+        "message": "Phishing is a malicious attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising as a trustworthy entity in electronic communications. Phishing can also tempt you to download and install malware."
+    },
+    "theme.SearchBar.searchInContext": {
+        "message": "See all results within \"{context}\""
+    },
+    "features.list.email.title": {
+        "message": "Email phishing simulations 📧"
+    },
+    "theme.admonition.warning": {
+        "message": "اخطار"
+    },
+    "homepage.why.customizable.description": {
+        "message": "Realistic phishing messages to simulate real scenarios users face daily."
+    },
+    "theme.blog.sidebar.navAriaLabel": {
+        "message": "Blog recent posts navigation"
+    },
+    "theme.SearchPage.emptyResultsTitle": {
+        "message": "Search the documentation"
+    },
+    "homepage.why.privacy.description": {
+        "message": "We do not collect or share any sensitive or personally-identifiable user data."
+    },
+    "theme.lastUpdated.lastUpdatedAtBy": {
+        "message": "Last updated{atDate}{byUser}"
     },
     "view_plans.comparison.customer_support": {
-        "message": ""
+        "message": "Customer support"
+    },
+    "phishingQuizzes.problem.title": {
+        "message": "The problem with phishing simulations"
+    },
+    "homepage.why.easy.title": {
+        "message": "Easy to use"
+    },
+    "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+        "message": "Toggle navigation bar"
+    },
+    "phishing.why.polite.label": {
+        "message": "Urge to be polite:"
+    },
+    "theme.lastUpdated.atDate": {
+        "message": " on {date}"
+    },
+    "phishing.layout.description": {
+        "message": "Learn what phishing is, how it works, and why it’s effective. Discover the most common phishing attacks, what attackers seek, and the serious consequences for individuals and organizations."
+    },
+    "theme.blog.authorsList.pageTitle": {
+        "message": "Authors"
+    },
+    "theme.blog.paginator.newerEntries": {
+        "message": "Newer entries"
+    },
+    "theme.docs.sidebar.expandButtonTitle": {
+        "message": "Expand sidebar"
+    },
+    "about.meta.longDescription": {
+        "message": "Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
+    },
+    "theme.docs.paginator.next": {
+        "message": "بعدی"
+    },
+    "theme.blog.author.pageTitle": {
+        "message": "{authorName} - {nPosts}"
+    },
+    "phishing.attackers.confidential.text": {
+        "message": "Phishing targets confidential information like Social Security numbers and business data. This information can be used for identity theft, sold on the dark web, or exploited for corporate espionage."
+    },
+    "features.list.multilingual.description": {
+        "message": "Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian."
     },
     "view_plans.comparison.tooltips.detailed_analytics": {
-        "message": ""
+        "message": "Track results at the learner and question levels"
+    },
+    "phishing.images.worm.alt": {
+        "message": "Decorative illustration of a worm"
     },
     "view_plans.comparison.rows.preparedness_report": {
-        "message": ""
+        "message": "Preparedness Report & Action Plan"
+    },
+    "contact.links.newsletter": {
+        "message": "Subscribe to our newsletter"
+    },
+    "phishing.consequences.data.label": {
+        "message": "Data Breaches:"
+    },
+    "about.hero.subtitle": {
+        "message": "Helping individuals and organizations build their resilience against phishing attacks"
+    },
+    "about.why.title": {
+        "message": "چرا Shira؟"
+    },
+    "homepage.meta.longDescription": {
+        "message": "Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
+    },
+    "phishing.consequences.title": {
+        "message": "Phishing attacks can lead to severe consequences"
     },
     "view_plans.comparison.tooltips.preparedness_report": {
-        "message": ""
+        "message": "Concise report highlighting top risks and recommended training modules and timelines"
+    },
+    "theme.colorToggle.ariaLabel.mode.dark": {
+        "message": "dark mode"
+    },
+    "theme.contentVisibility.draftBanner.message": {
+        "message": "This page is a draft. It will only be visible in dev and be excluded from the production build."
+    },
+    "theme.NavBar.navAriaLabel": {
+        "message": "Main"
+    },
+    "theme.blog.post.readMoreLabel": {
+        "message": "Read more about {title}"
+    },
+    "theme.SearchPage.searchContext.everywhere": {
+        "message": "Everywhere"
     },
     "view_plans.comparison.values.tailor_made_training.enterprise": {
-        "message": ""
+        "message": "Available upon request"
+    },
+    "phishingQuizzes.education.title": {
+        "message": "Why education beats simulation"
+    },
+    "theme.colorToggle.ariaLabel": {
+        "message": "Switch between dark and light mode (currently {mode})"
+    },
+    "homepage.why.easy.description": {
+        "message": "Created for communities most at risk of phishing attacks, even with limited tech literacy."
     },
     "view_plans.plans.starter.description": {
-        "message": ""
+        "message": "To try things out and get familiar with Shira"
+    },
+    "theme.ErrorPageContent.tryAgain": {
+        "message": "تلاش دوباره"
+    },
+    "about.how.green": {
+        "message": "This website runs on green energy."
+    },
+    "features.list.gamification.title": {
+        "message": "Gamification 🕹️"
+    },
+    "theme.navbar.mobileVersionsDropdown.label": {
+        "message": "نسخه ها"
+    },
+    "about.horizontal.translationText": {
+        "message": "To contribute to the translation of Shira into new languages, email us at"
+    },
+    "features.needMore.cta": {
+        "message": "Contact us"
+    },
+    "contact.links.github": {
+        "message": "Post a feature idea or vote on existing requests"
+    },
+    "homepage.educators.title": {
+        "message": "For educators and security professionals"
+    },
+    "homepage.context.imageAlt": {
+        "message": "decorative image of a magnifier glass"
+    },
+    "features.list.roles.title": {
+        "message": "Role-based access control 🔒"
+    },
+    "theme.docs.versions.unmaintainedVersionLabel": {
+        "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained."
     },
     "view_plans.comparison.rows.admin_dashboard": {
-        "message": ""
+        "message": "Admin dashboard"
+    },
+    "phishingQuizzes.research.link": {
+        "message": "One study with 14,000 participants"
+    },
+    "features.intro.pricing": {
+        "message": "Pricing"
+    },
+    "phishing.consequences.identity.label": {
+        "message": "Identity Theft:"
+    },
+    "features.list.multilingual.title": {
+        "message": "Multilingual 🌐"
+    },
+    "about.horizontal.donationLink": {
+        "message": "اهدای کمک در اینجا"
+    },
+    "phishing.why.title": {
+        "message": "Why does phishing work?"
+    },
+    "theme.docs.breadcrumbs.home": {
+        "message": "صفحه اصلی"
+    },
+    "phishingQuizzes.wsjMobile.alt": {
+        "message": "news article from the Wall Street Journal: 'Phishing Tests, the Bane of Work Life, Are Getting Meaner'- Researchers say the ruses, aimed at teaching gullible employees about the dangers lurking online, don’t even work"
     },
     "view_plans.comparison.values.support.pro": {
-        "message": ""
+        "message": "Priority support"
+    },
+    "homepage.learners.cta": {
+        "message": "Take a quiz"
+    },
+    "theme.blog.paginator.navAriaLabel": {
+        "message": "Blog list page navigation"
+    },
+    "contact.metaDescription": {
+        "message": "Learn about how to contact the Shira team"
+    },
+    "theme.blog.author.noPosts": {
+        "message": "This author has not written any posts yet."
+    },
+    "contact.links.demo": {
+        "message": "Schedule a demo call directly here"
+    },
+    "phishing.attackers.money.text": {
+        "message": "Financial gain is a key motive for phishing. Attackers impersonate legitimate organizations to trick victims into providing credit card details or making payments, often through fake invoices or donation requests."
+    },
+    "about.hero.cta": {
+        "message": "Get in touch"
+    },
+    "theme.docs.paginator.navAriaLabel": {
+        "message": "Docs pages"
+    },
+    "contact.intro.helpCenter": {
+        "message": "help center"
+    },
+    "phishingQuizzes.problem.falseSecurity.title": {
+        "message": "False Sense of Security:"
+    },
+    "theme.blog.post.plurals": {
+        "message": "One post|{count} posts"
+    },
+    "about.hero.title": {
+        "message": "Shira"
+    },
+    "phishingQuizzes.problem.desensitize.text": {
+        "message": "Repeatedly sending fake phishing emails can desensitize users to the threat."
+    },
+    "theme.admonition.note": {
+        "message": "note"
+    },
+    "about.how.design": {
+        "message": "At Horizontal, we design and develop centering the needs of users facing high risks of digital attacks."
+    },
+    "theme.blog.post.paginator.navAriaLabel": {
+        "message": "Blog post page navigation"
+    },
+    "theme.docs.sidebar.expandButtonAriaLabel": {
+        "message": "Expand sidebar"
+    },
+    "features.list.explanations.title": {
+        "message": "Explanations 📝"
+    },
+    "homepage.why.customizable.title": {
+        "message": "Customizable"
+    },
+    "phishingQuizzes.problem.emailFocus.title": {
+        "message": "Narrow Focus on Email:"
     },
     "view_plans.plans.pro.cta": {
-        "message": ""
+        "message": "Start 14-day free trial"
+    },
+    "phishing.how.data.label": {
+        "message": "Data Theft:"
+    },
+    "about.how.title": {
+        "message": "How is Shira developed?"
+    },
+    "features.list.gamification.description": {
+        "message": "An engaging learning experience promotes better knowledge retention."
     },
     "view_plans.comparison.tooltips.number_of_admins": {
-        "message": ""
+        "message": "Admins are users who can create and manage phishing education campaigns"
+    },
+    "theme.lastUpdated.byUser": {
+        "message": " by {user}"
+    },
+    "phishing.why.urgent.label": {
+        "message": "Panic about urgent messages:"
+    },
+    "phishing.how.fake.text": {
+        "message": "If the victim clicks on a link, they are often directed to a fraudulent website that looks similar to the legitimate one. Here, they may be asked to enter sensitive information such as their password or banking information."
+    },
+    "phishingQuizzes.meta.description": {
+        "message": "Learn about Phishing quizzes"
+    },
+    "features.list.messaging.title": {
+        "message": "Messaging app phishing simulations 💬"
+    },
+    "theme.contentVisibility.unlistedBanner.message": {
+        "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it."
+    },
+    "theme.blog.archive.description": {
+        "message": "بایگانی"
+    },
+    "about.why.customizable.title": {
+        "message": "2. قابل تنظیم"
+    },
+    "phishing.attackers.passwords.text": {
+        "message": "Attackers seek to steal passwords and login credentials to access victims' online accounts. With this information, they can commit fraud, steal data, or blackmail victims by threatening to expose sensitive information."
+    },
+    "phishing.how.urgent.label": {
+        "message": "Urgent Call to Action:"
     },
     "view_plans.comparison.values.cloud_on_premise": {
-        "message": ""
+        "message": "Cloud & on-premise"
     },
     "view_plans.comparison.values.number_of_admins.pro": {
-        "message": ""
+        "message": "1 admin"
+    },
+    "homepage.why.privacy.title": {
+        "message": "Privacy-friendly"
+    },
+    "features.meta.longDescription": {
+        "message": "Explore Shira's features for educators and security professionals — create realistic phishing quizzes, simulate real attacks, track team progress, and build lasting phishing awareness."
+    },
+    "phishing.attackers.money.label": {
+        "message": "Money:"
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "Pro"
+    },
+    "theme.docs.tagDocListPageTitle": {
+        "message": "{nDocsTagged} with \"{tagName}\""
+    },
+    "features.intro.audience": {
+        "message": "For educators and security professionals"
+    },
+    "about.hero.imageAlt": {
+        "message": "shira logo: it is an S in blue and light green colors"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
-        "message": ""
+        "message": "Export your team's results into CSV or PDF reports"
     },
     "view_plans.plans.pro.description": {
-        "message": ""
+        "message": "Experience the full power of Shira"
+    },
+    "theme.admonition.tip": {
+        "message": "tip"
     },
     "view_plans.comparison.customization": {
-        "message": ""
+        "message": "Customization"
+    },
+    "about.how.community": {
+        "message": "Shira is multilingual and co-created with at-risk users."
+    },
+    "theme.admonition.danger": {
+        "message": "danger"
+    },
+    "about.why.easy.description": {
+        "message": "Shira با توجه به جوامعی که بیشترین خطر حملات فیشینگ را دارند، به ویژه کاربران با سواد فناوری محدود، ایجاد شده است."
     },
     "view_plans.plans.enterprise.title": {
-        "message": ""
+        "message": "Enterprise"
+    },
+    "homepage.hero.title": {
+        "message": "Preparedness. Knowledge. Resilience."
+    },
+    "phishing.intro.title": {
+        "message": "What is phishing?"
     },
     "view_plans.comparison.rows.tailor_made_training": {
-        "message": ""
+        "message": "Tailor-made user training"
+    },
+    "phishingQuizzes.benefits.tailored.text": {
+        "message": "Quizzes can be customized to focus on specific skills and knowledge gaps."
+    },
+    "phishing.attackers.malware.text": {
+        "message": "Phishers may trick victims into downloading malware through malicious links or attachments. Once installed, malware can steal personal information, monitor activity, or take control of devices, leading to serious data breaches."
+    },
+    "homepage.learners.description": {
+        "message": "Get started right away with one of our free, ready-made quizzes. Customize the quiz to learn to identify phishing in the apps you use every day — Gmail, SMS, WhatsApp, etc — with examples tailored to your language and field of work."
+    },
+    "about.why.privacy.description": {
+        "message": "We do not collect, save, or share any sensitive or personally-identifiable data about users visiting Shira or taking quizzes. To learn more, check out our privacy policy and security audits performed by independent security firms."
+    },
+    "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+        "message": "← Back to main menu"
     },
     "view_plans.plans.enterprise.description": {
-        "message": ""
+        "message": "Tailor Shira for large organizations and service providers"
+    },
+    "features.list.roles.description": {
+        "message": "Different access levels for admins and learners."
     },
     "view_plans.comparison.rows.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Phishing Readiness Assessment"
+    },
+    "phishingQuizzes.problem.clickRates.title": {
+        "message": "Overemphasis on Click Rates:"
+    },
+    "theme.blog.paginator.olderEntries": {
+        "message": "Older entries"
     },
     "view_plans.comparison.tooltips.basic_analytics": {
-        "message": ""
+        "message": "Track results at the quiz level"
     },
     "view_plans.comparison.tooltips.admin_dashboard": {
-        "message": ""
+        "message": "A central place to manage your phishing education campaigns"
+    },
+    "theme.docs.sidebar.navAriaLabel": {
+        "message": "Docs sidebar"
     },
     "homepage.hero.cta": {
-        "message": ""
+        "message": "Get started"
+    },
+    "theme.blog.archive.title": {
+        "message": "بایگانی"
+    },
+    "features.meta.title": {
+        "message": "Shira's Features"
+    },
+    "homepage.learners.title": {
+        "message": "For learners"
+    },
+    "features.list.analytics.title": {
+        "message": "Analytics 📈"
+    },
+    "features.intro.your1": {
+        "message": "your"
+    },
+    "homepage.why.intro": {
+        "message": "Whether you’re just taking our ready-made, free quizzes, or you’re building your own custom quizzes to train your team, Shira is:"
+    },
+    "phishing.consequences.financial.label": {
+        "message": "Financial Loss:"
+    },
+    "phishing.why.helpful.text": {
+        "message": "Many of us naturally want to assist others. Phishers create scenarios that prompt recipients to help, such as claiming a colleague or relative is in trouble. This manipulation can lead individuals to provide personal information, believing they are being supportive."
+    },
+    "about.why.privacyCta": {
+        "message": "سیاست حفظ حریم خصوصی"
     },
     "view_plans.comparison.values.custom_quizzes.free": {
-        "message": ""
+        "message": "Up to 3 custom quizzes"
+    },
+    "phishing.why.embarrassed.label": {
+        "message": "Fear of being embarrassed:"
+    },
+    "phishingQuizzes.problem.intro": {
+        "message": "Phishing simulations, while widely used, come with several issues that organizations should consider:"
+    },
+    "homepage.hero.subtitle": {
+        "message": "Shira builds your team's ability to identify and defeat phishing attacks"
+    },
+    "phishing.images.bubbles.alt": {
+        "message": "Decorative illustration of bubbles"
+    },
+    "theme.blog.authorsList.viewAll": {
+        "message": "View all authors"
+    },
+    "phishingQuizzes.quizzes.title": {
+        "message": "A more effective approach: phishing quizzes"
+    },
+    "phishingQuizzes.benefits.controlled.text": {
+        "message": "Phishing quizzes create a safe and low-stakes space for employees to practice their skills."
+    },
+    "phishingQuizzes.research.emphasis": {
+        "message": "counterproductive"
+    },
+    "features.list.compliance.title": {
+        "message": "Compliance ✅"
+    },
+    "phishingQuizzes.education.paragraph1": {
+        "message": "Phishing simulations have become a standard component of anti-phishing training programs. These simulations involve sending employees emails that mimic the tactics used by cybercriminals to trick individuals into revealing sensitive information or clicking on malicious links. Employees are assessed based on their responses to these simulated emails, particularly whether they clicked on a link or provided any sensitive information."
+    },
+    "phishingQuizzes.cta": {
+        "message": "Get started"
+    },
+    "phishingQuizzes.benefits.confidence.title": {
+        "message": "Confidence Building:"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+        "message": "Collapse the dropdown"
+    },
+    "theme.navbar.mobileLanguageDropdown.label": {
+        "message": "زبان‌ها"
+    },
+    "theme.SearchPage.documentsFound.plurals": {
+        "message": "1 document found|{count} documents found"
+    },
+    "theme.CodeBlock.copy": {
+        "message": "کپی"
     },
     "view_plans.comparison.rows.detailed_analytics": {
-        "message": ""
+        "message": "Detailed analytics"
+    },
+    "theme.docs.tagDocListPageTitle.nDocsTagged": {
+        "message": "One doc tagged|{count} docs tagged"
+    },
+    "features.list.ui.title": {
+        "message": "User-friendly interface 🎨"
+    },
+    "theme.SearchBar.seeAllOutsideContext": {
+        "message": "See all results outside \"{context}\""
+    },
+    "phishing.why.intro": {
+        "message": "Phishers capitalize on our:"
+    },
+    "theme.blog.post.paginator.olderPost": {
+        "message": "Older post"
+    },
+    "contact.title": {
+        "message": "Contact the Shira team"
+    },
+    "theme.tags.tagsPageLink": {
+        "message": "View all tags"
+    },
+    "features.meta.description": {
+        "message": "Explore Shira's features for educators and security professionals."
     },
     "view_plans.comparison.tooltips.public_quizzes": {
-        "message": ""
+        "message": "Anyone can take your quiz through an easy-to-share URL"
+    },
+    "theme.docs.versions.unreleasedVersionLabel": {
+        "message": "This is unreleased documentation for {siteTitle} {versionLabel} version."
     },
     "view_plans.comparison.tooltips.private_quizzes": {
-        "message": ""
+        "message": "Only learners registered in your space can take your quizzes"
+    },
+    "theme.NotFound.p1": {
+        "message": "We could not find what you were looking for."
+    },
+    "theme.SearchPage.existingResultsTitle": {
+        "message": "Search results for \"{query}\""
+    },
+    "theme.blog.post.readMore": {
+        "message": "Read More"
+    },
+    "about.horizontal.imageAlt": {
+        "message": "Horizontal logo"
+    },
+    "features.list.email.description": {
+        "message": "Create quizzes that mimic phishing emails on Gmail and Outlook, including sender information, subject line, email body, links, images and file attachments."
+    },
+    "theme.CodeBlock.copied": {
+        "message": "Copied"
     },
     "view_plans.comparison.tooltips.tailor_made_training": {
-        "message": ""
+        "message": "Skill-building workshops customized by the Shira team for your organization"
+    },
+    "features.list.ui.description": {
+        "message": "Intuitive dashboard for easy navigation and management of quizzes and users."
+    },
+    "theme.CodeBlock.wordWrapToggle": {
+        "message": "Toggle word wrap"
+    },
+    "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+        "message": "Collapse sidebar category '{label}'"
     },
     "view_plans.comparison.values.number_of_admins.free": {
-        "message": ""
+        "message": "1 admin"
+    },
+    "phishingQuizzes.benefits.controlled.title": {
+        "message": "Controlled Learning Environment:"
+    },
+    "phishing.attackers.confidential.label": {
+        "message": "Confidential information:"
+    },
+    "theme.docs.sidebar.collapseButtonTitle": {
+        "message": "Collapse sidebar"
+    },
+    "about.horizontal.donationText": {
+        "message": "You can help us improve and sustain Shira by"
     },
     "view_plans.comparison.tooltips.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Snapshot of current organizational vulnerability to phishing attacks"
+    },
+    "theme.admonition.info": {
+        "message": "info"
+    },
+    "phishing.common.title": {
+        "message": "The most common attack"
+    },
+    "phishing.how.data.text": {
+        "message": "Once the victim provides their information, attackers can use it for identity theft, financial fraud, or other malicious purposes."
     },
     "view_plans.comparison.tooltips.question_library": {
-        "message": ""
+        "message": "Access dozens of ready-made question templates"
+    },
+    "about.meta.description": {
+        "message": "Learn about Shira and the team behind it — a project by Horizontal, a non-profit creating security and privacy tools that help individuals and organizations defend against phishing attacks."
+    },
+    "features.list.realLife.title": {
+        "message": "Real-Life Attack Simulation ⚡"
+    },
+    "theme.common.skipToMainContent": {
+        "message": "Skip to main content"
+    },
+    "theme.SearchBar.noResultsText": {
+        "message": "No results"
+    },
+    "about.horizontal.title": {
+        "message": "چه کسی Shira را می سازد؟"
+    },
+    "theme.common.headingLinkTitle": {
+        "message": "Direct link to {heading}"
+    },
+    "phishingQuizzes.problem.anxiety.title": {
+        "message": "Create anxiety and mistrust:"
     },
     "view_plans.learn_more": {
-        "message": ""
+        "message": "اطلاعات بیشتر"
+    },
+    "phishing.how.deceptive.label": {
+        "message": "Deceptive Communication:"
+    },
+    "homepage.meta.title": {
+        "message": "Shira"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": ""
+        "message": "نامحدود"
+    },
+    "phishing.how.urgent.text": {
+        "message": "The message usually contains a sense of urgency, prompting the recipient to act quickly—such as clicking a link or providing personal information."
+    },
+    "theme.docs.versions.latestVersionSuggestionLabel": {
+        "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel})."
+    },
+    "features.list.mobile.title": {
+        "message": "Mobile support 📱"
     },
     "view_plans.plans.enterprise.price": {
-        "message": ""
+        "message": "Custom pricing"
     },
     "view_plans.comparison.rows.basic_analytics": {
-        "message": ""
+        "message": "Basic analytics"
+    },
+    "phishingQuizzes.problem.clickRates.text": {
+        "message": "Focusing solely on whether employees clicked on a link can overlook other important aspects of phishing awareness."
+    },
+    "phishing.consequences.operational.text": {
+        "message": "Phishing can result in downtime and loss of productivity."
+    },
+    "theme.docs.versionBadge.label": {
+        "message": "Version: {versionLabel}"
+    },
+    "features.list.sms.title": {
+        "message": "SMS phishing simulations 💬"
+    },
+    "features.list.realLife.description": {
+        "message": "Include in your quizzes details from actual phishing attacks the company has experienced to best prepare your team."
+    },
+    "phishingQuizzes.problem.emailFocus.text": {
+        "message": "Many phishing simulations primarily target email threats, overlooking other channels like SMS, messaging apps, or social media."
+    },
+    "homepage.educators.cta": {
+        "message": "Create your own quiz"
+    },
+    "theme.docs.versions.latestVersionLinkLabel": {
+        "message": "latest version"
+    },
+    "contact.links.emailText": {
+        "message": "Write to us at"
+    },
+    "phishing.attackers.malware.label": {
+        "message": "For victims to install malware:"
+    },
+    "theme.common.editThisPage": {
+        "message": "Edit this page"
+    },
+    "features.needMore.subtitle": {
+        "message": "Get in touch. We’ll make it happen."
+    },
+    "theme.IconExternalLink.ariaLabel": {
+        "message": "(opens in new tab)"
+    },
+    "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+        "message": "Expand the dropdown"
+    },
+    "theme.docs.paginator.previous": {
+        "message": "قبلی"
     },
     "view_plans.comparison.rows.number_of_admins": {
-        "message": ""
+        "message": "Number of admins"
+    },
+    "pricing.layout.description": {
+        "message": "Explore Shira's simple and transparent pricing plans for educators, security professionals, and organizations. Choose between Free, Pro, or Enterprise options with customizable phishing quizzes and privacy-friendly management tools."
+    },
+    "phishingQuizzes.problem.anxiety.text": {
+        "message": "Users may become anxious or mistrustful of emails, even legitimate ones, which can lead to decreased productivity and increased stress."
+    },
+    "theme.blog.post.readingTime.plurals": {
+        "message": "One min read|{readingTime} min read"
+    },
+    "theme.NotFound.title": {
+        "message": "صفحه یافت نشد"
+    },
+    "phishingQuizzes.education.paragraph2": {
+        "message": "However, this approach has several drawbacks and is not as effective as providing comprehensive anti-phishing education."
     }
 }

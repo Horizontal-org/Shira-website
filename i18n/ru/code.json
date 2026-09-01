@@ -1121,187 +1121,187 @@
         "message": "✔️ Подробная аналитика для контроля результатов учащихся и уровня сложности вопросов"
     },
     "view_plans.comparison.rows.custom_quizzes": {
-        "message": ""
+        "message": "Число настраиваемых тестов"
     },
     "view_plans.comparison.tooltips.apps_available": {
-        "message": ""
+        "message": "Создание вопросов теста в интерфейсах привычных вашим учащимся приложений"
     },
     "view_plans.comparison.tooltips.customizable_questions": {
-        "message": ""
+        "message": "Создание вопросов, адаптированных к вашим учащимся"
     },
     "view_plans.plans.starter.price": {
-        "message": ""
+        "message": "Бесплатно"
     },
     "view_plans.comparison.values.number_of_admins.enterprise": {
-        "message": ""
+        "message": "Без ограничений"
     },
     "view_plans.comparison.values.custom_quizzes.enterprise": {
-        "message": ""
+        "message": "Без ограничений"
     },
     "view_plans.plans.starter.title": {
-        "message": ""
+        "message": "Starter"
     },
     "view_plans.comparison.tooltips.support": {
-        "message": ""
+        "message": "Быстрая реакция ради удобства пользователей"
     },
     "view_plans.comparison.values.support.enterprise": {
-        "message": ""
+        "message": "Dedicated enterprise support"
     },
     "view_plans.comparison.rows.apps_available": {
-        "message": ""
+        "message": "Доступные приложения"
     },
     "view_plans.comparison.values.cloud": {
-        "message": ""
+        "message": "Облако"
     },
     "view_plans.comparison.compliance": {
-        "message": ""
+        "message": "Соответствие требованиям"
     },
     "view_plans.plans.pro.price": {
-        "message": ""
+        "message": "100 USD/месяц"
     },
     "view_plans.plans.starter.cta": {
-        "message": ""
+        "message": "Начать"
     },
     "view_plans.comparison.tooltips.custom_quizzes": {
-        "message": ""
+        "message": "Число тестов, которые можно создать в вашем пространстве"
     },
     "view_plans.plans.enterprise.cta": {
-        "message": ""
+        "message": "Свяжитесь с нами"
     },
     "view_plans.comparison.rows.customizable_questions": {
-        "message": ""
+        "message": "Полностью настраиваемые вопросы теста"
     },
     "view_plans.comparison.rows.public_quizzes": {
-        "message": ""
+        "message": "Открытые тесты"
     },
     "view_plans.comparison.tooltips.hosting": {
-        "message": ""
+        "message": "Позвольте команде Shira позаботиться о ваших тестах или помочь с установкой на ваш сервер"
     },
     "view_plans.comparison.rows.private_quizzes": {
-        "message": ""
+        "message": "Закрытые тексты"
     },
     "view_plans.comparison.admin_management": {
-        "message": ""
+        "message": "Возможности администратора"
     },
     "view_plans.comparison.access_control": {
-        "message": ""
+        "message": "Контроль доступа"
     },
     "view_plans.comparison.rows.analysis_tools": {
-        "message": ""
+        "message": "Инструменты аналитики и соответствия"
     },
     "view_plans.comparison.rows.question_library": {
-        "message": ""
+        "message": "Access to the question's library"
     },
     "view_plans.comparison.rows.support": {
-        "message": ""
+        "message": "Приоритетная поддержка"
     },
     "view_plans.comparison.rows.hosting": {
-        "message": ""
+        "message": "Хостинг"
     },
     "view_plans.comparison.customer_support": {
-        "message": ""
+        "message": "Customer support"
     },
     "view_plans.comparison.tooltips.detailed_analytics": {
-        "message": ""
+        "message": "Контроль над результатами на уровне учащегося и вопроса"
     },
     "view_plans.comparison.rows.preparedness_report": {
-        "message": ""
+        "message": "Preparedness Report & Action Plan"
     },
     "view_plans.comparison.tooltips.preparedness_report": {
-        "message": ""
+        "message": "Concise report highlighting top risks and recommended training modules and timelines"
     },
     "view_plans.comparison.values.tailor_made_training.enterprise": {
-        "message": ""
+        "message": "По запросу"
     },
     "view_plans.plans.starter.description": {
-        "message": ""
+        "message": "Попробовать и освоить Shira"
     },
     "view_plans.comparison.rows.admin_dashboard": {
-        "message": ""
+        "message": "Панель администратора"
     },
     "view_plans.comparison.values.support.pro": {
-        "message": ""
+        "message": "Priority support"
     },
     "view_plans.plans.pro.cta": {
-        "message": ""
+        "message": "14-дневная пробная версия"
     },
     "view_plans.comparison.tooltips.number_of_admins": {
-        "message": ""
+        "message": "Пользователи с правами администратора могут создавать образовательные программы по фишингу и управлять ими"
     },
     "view_plans.comparison.values.cloud_on_premise": {
-        "message": ""
+        "message": "Облако / свой сервер"
     },
     "view_plans.comparison.values.number_of_admins.pro": {
-        "message": ""
+        "message": "1 администратор"
     },
     "view_plans.plans.pro.title": {
-        "message": ""
+        "message": "Pro"
     },
     "view_plans.comparison.tooltips.analysis_tools": {
-        "message": ""
+        "message": "Экспорт результатов вашей команды в CSV или PDF"
     },
     "view_plans.plans.pro.description": {
-        "message": ""
+        "message": "Все возможности Shira"
     },
     "view_plans.comparison.customization": {
-        "message": ""
+        "message": "Настройка для себя"
     },
     "view_plans.plans.enterprise.title": {
-        "message": ""
+        "message": "Enterprise"
     },
     "view_plans.comparison.rows.tailor_made_training": {
-        "message": ""
+        "message": "Индивидуальное обучение пользователей"
     },
     "view_plans.plans.enterprise.description": {
-        "message": ""
+        "message": "Shira для крупных организаций и сервис-провайдеров"
     },
     "view_plans.comparison.rows.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Phishing Readiness Assessment"
     },
     "view_plans.comparison.tooltips.basic_analytics": {
-        "message": ""
+        "message": "Контроль результатов тестов"
     },
     "view_plans.comparison.tooltips.admin_dashboard": {
-        "message": ""
+        "message": "Здесь вы можете управлять своими образовательными программами о фишинге"
     },
     "view_plans.comparison.values.custom_quizzes.free": {
-        "message": ""
+        "message": "До 3 настраиваемых тестов"
     },
     "view_plans.comparison.rows.detailed_analytics": {
-        "message": ""
+        "message": "Подробная аналитика"
     },
     "view_plans.comparison.tooltips.public_quizzes": {
-        "message": ""
+        "message": "Любой может пройти ваш тест по обычной ссылке"
     },
     "view_plans.comparison.tooltips.private_quizzes": {
-        "message": ""
+        "message": "Только зарегистрированные в вашем пространстве пользователи могут проходить ваши тесты"
     },
     "view_plans.comparison.tooltips.tailor_made_training": {
-        "message": ""
+        "message": "Тренинги по укреплению навыков от команды Shira для вашей организации"
     },
     "view_plans.comparison.values.number_of_admins.free": {
-        "message": ""
+        "message": "1 администратор"
     },
     "view_plans.comparison.tooltips.phishing_readiness_assessment": {
-        "message": ""
+        "message": "Snapshot of current organizational vulnerability to phishing attacks"
     },
     "view_plans.comparison.tooltips.question_library": {
-        "message": ""
+        "message": "Access dozens of ready-made question templates"
     },
     "view_plans.learn_more": {
-        "message": ""
+        "message": "Подробнее"
     },
     "view_plans.comparison.values.custom_quizzes.pro": {
-        "message": ""
+        "message": "Без ограничений"
     },
     "view_plans.plans.enterprise.price": {
-        "message": ""
+        "message": "Индивидуальные цены"
     },
     "view_plans.comparison.rows.basic_analytics": {
-        "message": ""
+        "message": "Базовая аналитика"
     },
     "view_plans.comparison.rows.number_of_admins": {
-        "message": ""
+        "message": "Число администраторов"
     },
     "homepage.hero.cta": {
         "message": "Начать"

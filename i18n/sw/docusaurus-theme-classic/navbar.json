@@ -1,48 +1,38 @@
 {
-    "logo.alt": {
-        "message": "",
-        "description": "The alt text of navbar logo"
-    },
-    "item.label.Features": {
-        "message": "",
-        "description": "Navbar item with label Features"
-    },
-    "item.label.Take a quiz": {
-        "message": "",
-        "description": "Navbar item with label Take a quiz"
-    },
-    "item.label.Learn": {
-        "message": "",
-        "description": "Navbar item with label Learn"
-    },
     "item.label.Pricing": {
-        "message": "",
-        "description": "Navbar item with label Pricing"
-    },
-    "item.label.Help": {
-        "message": "",
-        "description": "Navbar item with label Help"
-    },
-    "item.label.About": {
-        "message": "",
-        "description": "Navbar item with label About"
-    },
-    "item.label.Sign up/Log in": {
-        "message": "",
-        "description": "Navbar item with label Sign up/Log in"
-    },
-    "item.label.What is Phishing?": {
-        "message": "",
-        "description": "Navbar item with label What is Phishing?"
+        "message": "Pricing"
     },
     "item.label.Why phishing quizzes?": {
-        "message": "",
-        "description": "Navbar item with label Why phishing quizzes?"
+        "message": "Why phishing quizzes?"
+    },
+    "item.label.Help": {
+        "message": "Msaada"
+    },
+    "item.label.What is Phishing?": {
+        "message": "What is Phishing?"
     },
     "item.label.Contact us": {
-        "message": ""
+        "message": "Contact us"
+    },
+    "item.label.Take a quiz": {
+        "message": "Take a quiz"
     },
     "item.label.Visit our help center": {
-        "message": ""
+        "message": "Visit our help center"
+    },
+    "item.label.Features": {
+        "message": "Features"
+    },
+    "item.label.About": {
+        "message": "Kuhusu"
+    },
+    "item.label.Sign up/Log in": {
+        "message": "Sign up/Log in"
+    },
+    "item.label.Learn": {
+        "message": "Learn"
+    },
+    "logo.alt": {
+        "message": "Shira Logo"
     }
 }
