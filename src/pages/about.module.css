@@ -15,7 +15,6 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: none;
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -201,10 +200,6 @@
 }
 .narrativeSection p {
   margin-top: 1.5rem;
-}
-.underline {
-  text-decoration: underline;
-  text-decoration-color: var(--ifm-color-primary);
 }
 .whyHeader {
   display: flex;

@@ -5,7 +5,7 @@ import styles from './case-studies.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Translate, { translate } from '@docusaurus/Translate';
-import HeroPlaceholder from "@site/static/img/case-studies-hero-placeholder.png";
+import HeroPlaceholder from "@site/static/img/fish-bubbles.png";
 import HuespedLogo from "@site/static/img/huesped-logo.png";
 import Nothing2HideLogo from "@site/static/img/nothing2ide-logo.png";
 import MiaanGroupLogo from "@site/static/img/miaan-group-logo.png";
@@ -54,8 +54,7 @@ export default function CaseStudies() {
 
               <p>
                 <Translate id="case-studies.hero.description">
-                  Shira is being used by trainers, nonprofits, and digital security educators
-                  across the world, from Buenos Aires to West Asia. These are their stories.
+                  Shira is being used by businesses, nonprofits, and digital security educators across the world in a wide variety of contexts, with one common thread: vulnerability to phishing attacks.
                 </Translate>
               </p>
             </div>
@@ -131,9 +130,13 @@ export default function CaseStudies() {
 
                 <footer className={styles.quoteAuthor}>
 
-                  <Translate id="case-studies.huesped.quoteAuthor">
-                      Daniela Mibashan, Program Manager, Digital Innovation Lab
-                    </Translate>
+                  <Translate id="case-studies.huesped.quoteAuthor.name">
+                    Daniela Mibashan
+                  </Translate>
+                  <br/>
+                  <Translate id="case-studies.huesped.quoteAuthor.role">
+                    Program Manager, Innovation Lab at Fundación Huésped.
+                  </Translate>
 
                 </footer>
 
@@ -142,10 +145,10 @@ export default function CaseStudies() {
               <div className={styles.restContent}>
                 <p className={styles.summary}>
                   <Translate id="case-studies.huesped.summary">
-                    Fundación Huésped, an Argentine nonprofit working at the intersection of public
-                    health, human rights, and access to information, partnered with Shira through
-                    its Digital Innovation Lab to build a phishing training program for its
-                    200-person staff using real phishing examples their own employees had received.
+                    Fundación Huésped, an Argentine nonprofit working at the intersection of public health, 
+                    human rights, and access to information, partnered with Shira through its Innovation Lab. 
+                    Fundación Huésped built a phishing training program for its 200-person staff using real 
+                    phishing attacks their own employees had received in previous months.
                   </Translate>
                 </p>
 
@@ -170,7 +173,7 @@ export default function CaseStudies() {
                 <ul className={styles.detailList}>
                   <li>
                     <strong><Translate id="case-studies.huesped.usage.feature1">Enterprise plan</Translate></strong>: <Translate id="case-studies.huesped.usage.item4">
-                      Rolled out training across their 200-person staff.
+                      Worked closely with the Shira team to build and deploy a custom training program for their 200-person staff.
                     </Translate>
                   </li>
                   <li>
@@ -193,7 +196,7 @@ export default function CaseStudies() {
                       </h4>
                       <p>
                         <Translate id="case-studies.huesped.details.challenge.text">
-                          Like many nonprofits, Huésped handles sensitive information daily, from
+                          Like many nonprofits, Fundación Huésped handles sensitive information daily, from
                           patient data to research to donor records. Phishing is one of the most
                           common entry points for attacks on organizations like theirs. The team
                           needed a training approach that felt real and relevant to their staff.
@@ -206,7 +209,7 @@ export default function CaseStudies() {
                       </h4>
                       <p>
                         <Translate id="case-studies.huesped.details.solution.text">
-                          Huésped's Digital Innovation Lab built quizzes using real phishing
+                          Fundación Huésped's Innovation Lab built quizzes using real phishing
                           examples their own employees had actually received. Shira's template
                           library, which replicates everyday tools like Gmail, gave them a
                           realistic starting point that they customized to reflect the specific
@@ -303,9 +306,13 @@ export default function CaseStudies() {
 
                 <footer className={styles.quoteAuthor}>
 
-                  <Translate id="case-studies.amir.quoteAuthor">
-                      Amir Rashidi, Director of Digital Rights and Security
-                    </Translate>
+                  <Translate id="case-studies.amir.quoteAuthor.name">
+                    Amir Rashidi
+                  </Translate>
+                  <br/>
+                  <Translate id="case-studies.amir.quoteAuthor.role">
+                    Director of Digital Rights and Security, Miaan Group
+                  </Translate>
 
                 </footer>
 
@@ -314,11 +321,7 @@ export default function CaseStudies() {
               <div className={styles.restContent}>
                 <p className={styles.summary}>
                   <Translate id="case-studies.amir.summary">
-                    Amir Rashidi is a Director of Digital Rights and Security working with
-                    activists, journalists, and human rights defenders across the Middle East,
-                    communities operating in some of the region's most high-risk environments. He
-                    has used Shira to train these groups, and was also part of Shira's advisory
-                    board, contributing directly to its design.
+                    Miaan Group works with activists, journalists, and human rights defenders across the Middle East and supports communities operating in some of the region's most high-risk environments. Miaan has used Shira to train these groups and also joined Shira's advisory board, contributing directly to its design.
                   </Translate>
                 </p>
 
@@ -330,7 +333,7 @@ export default function CaseStudies() {
                     <Translate id="case-studies.amir.highlight1">Realistic simulations</Translate>
                   </span>
                   <span className={styles.highlightPill}>
-                    <Translate id="case-studies.amir.highlight2">Relevant to real attacks</Translate>
+                    <Translate id="case-studies.amir.highlight2">Scalable</Translate>
                   </span>
                   <span className={styles.highlightPill}>
                     <Translate id="case-studies.amir.highlight3">Easy to work with</Translate>
@@ -347,13 +350,8 @@ export default function CaseStudies() {
                     </Translate>
                   </li>
                   <li>
-                    <strong><Translate id="case-studies.amir.usage.feature2">Training reach</Translate></strong>: <Translate id="case-studies.amir.usage.item2">
-                      Ran around 20 trainings reaching roughly 150 people.
-                    </Translate>
-                  </li>
-                  <li>
-                    <strong><Translate id="case-studies.amir.usage.feature3">Language accessibility</Translate></strong>: <Translate id="case-studies.amir.usage.item3">
-                      Delivered mostly in English, with Amir translating live into Farsi.
+                    <strong><Translate id="case-studies.amir.usage.feature2">Training</Translate></strong>: <Translate id="case-studies.amir.usage.item2">
+                      Ran 20 training workshops reaching over 150 people.
                     </Translate>
                   </li>
                 </ul>
@@ -477,9 +475,13 @@ export default function CaseStudies() {
 
                 <footer className={styles.quoteAuthor}>
 
-                  <Translate id="case-studies.nothing2hide.quoteAuthor">
-                      Grégoire Pouget, Co-Founder and Executive Director
-                    </Translate>
+                  <Translate id="case-studies.nothing2hide.quoteAuthor.name">
+                    Grégoire Pouget
+                  </Translate>
+                  <br/>
+                  <Translate id="case-studies.nothing2hide.quoteAuthor.role">
+                    Co-Founder and Executive Director, Nothing2Hide
+                  </Translate>
 
                 </footer>
 
@@ -488,9 +490,7 @@ export default function CaseStudies() {
               <div className={styles.restContent}>
                 <p className={styles.summary}>
                   <Translate id="case-studies.nothing2hide.summary">
-                    Nothing2Hide runs a digital security helpline (Tech4Press) and delivers digital
-                    safety training for journalists, activists, and campaigners working in
-                    repressive environments.
+                    Nothing2Hide runs a digital security helpline (Tech4Society) and delivers digital safety training for journalists, activists, and campaigners working in repressive environments.
                   </Translate>
                 </p>
 
@@ -514,13 +514,13 @@ export default function CaseStudies() {
                 </p>
                 <ul className={styles.detailList}>
                   <li>
-                    <strong><Translate id="case-studies.nothing2hide.usage.feature1">Messaging app & email phishing simulations</Translate></strong>: <Translate id="case-studies.nothing2hide.usage.item1">
-                      Matches tools their community uses daily.
+                    <strong><Translate id="case-studies.nothing2hide.usage.feature1">Messaging apps & email</Translate></strong>: <Translate id="case-studies.nothing2hide.usage.item1">
+                      Quizzes matched the tools their community uses daily.
                     </Translate>
                   </li>
                   <li>
                     <strong><Translate id="case-studies.nothing2hide.usage.feature2">Pre-built questions</Translate></strong>: <Translate id="case-studies.nothing2hide.usage.item2">
-                      Skips starting from a blank page.
+                      Worked from ready-made templates.
                     </Translate>
                   </li>
                   <li>
@@ -581,7 +581,7 @@ export default function CaseStudies() {
 
         <section className={classNames(global.center, global.backgroundLight, styles.ctaSection)}>
           <h2>
-            <Translate id="case-studies.cta.title">Want to be the next story?</Translate>
+            <Translate id="case-studies.cta.title">Ready to get started?</Translate>
           </h2>
           <Link className={classNames(styles.button, global.buttonDark)} to="/contact">
             <Translate id="case-studies.cta.button">Get in touch</Translate>

@@ -182,7 +182,9 @@ export default function About() {
 
               <p>
                 <Translate id="about.started.scene">
-                  In 2022, a Horizontal trainer stood in front of a room, teaching people about phishing, one workshop at a time. For most people, falling for phishing means stolen data or money. But for the human rights defenders, journalists, and activists Horizontal works with, a single message can threaten not just their data, but their safety, and the
+                  In 2022, a Horizontal trainer stood in front of a room, teaching people about phishing, one workshop at a time. 
+                  For most people, falling for phishing means stolen data or money. But for the human rights defenders, journalists, 
+                  and activists Horizontal works with, a single message can threaten not just their data, but their safety, and the
                 </Translate>{' '}
                 <strong>
                   <Translate id="about.started.sceneBold">safety of the people around them.</Translate>
@@ -191,7 +193,9 @@ export default function About() {
 
               <p>
                 <Translate id="about.started.advisors">
-                  The problem was that most tools to teach phishing recognition were generic, punitive, or built to catch people out, not to help them learn. So a dozen advisors, working across different regions, spent close to a year telling us what their people actually struggled with, and that shaped everything: which platforms to simulate, which contexts to leave out.
+                  That trainer kept running into the same problem: most tools to teach phishing recognition were generic, punitive, or built to catch people out, 
+                  not to help them learn. So we brought in a dozen advisors, working across different regions, who spent close to a year telling us what 
+                  their people actually struggled with, and that shaped everything: which platforms to simulate, which contexts to leave out.
                 </Translate>
               </p>
 
