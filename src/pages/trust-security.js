@@ -6,6 +6,9 @@ import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Translate, { translate } from '@docusaurus/Translate';
 import TrustSecurityHero from "@site/static/img/worm.png";
+import BlogIntroducingShira from "@site/static/img/blog-introducing-shira.png";
+import BlogPrivateQuizzes from "@site/static/img/blog-private-quizzes.png";
+import BlogShira20 from "@site/static/img/blog-fish-tail.png";
 
 export default function TrustSecurity() {
   return (
@@ -167,19 +170,25 @@ export default function TrustSecurity() {
             </h2>
 
             <div className={styles.resourceItems}>
-              {/* Same URL repeated 3x until the final blogposts are selected */}
               <Link
                 className={styles.resourceCard}
                 to="https://blog.wearehorizontal.org/introducing-shira/"
               >
-                <div className={styles.resourceImagePlaceholder} />
+                <img
+                  className={styles.resourceImagePlaceholder}
+                  src={BlogIntroducingShira}
+                  alt={translate({
+                    id: 'trustSecurity.resources.placeholder1.alt',
+                     message: 'Illustration of fish and hooks with the words "don\'t get phished" and "shira.app"',
+                  })}
+                />
                 <div className={styles.resourceBody}>
                   <span className={styles.resourceTag}>
                     <Translate id="trustSecurity.resources.tag">Blog</Translate>
                   </span>
                   <p className={styles.resourceTitle}>
                     <Translate id="trustSecurity.resources.placeholder1">
-                      Blogpost title placeholder 1
+                      Introducing Shira: Learn to Identify and Defeat Phishing Attacks
                     </Translate>
                   </p>
                   <span className={styles.resourceLink}>
@@ -188,17 +197,24 @@ export default function TrustSecurity() {
                 </div>
               </Link>
               <Link
-                className={styles.resourceCard}
-                to="https://blog.wearehorizontal.org/introducing-shira/"
+                  className={styles.resourceCard}
+                  to="https://blog.wearehorizontal.org/private-quizzes-are-here/"
               >
-                <div className={styles.resourceImagePlaceholder} />
+                <img
+                  className={styles.resourceImagePlaceholder}
+                  src={BlogPrivateQuizzes}
+                  alt={translate({
+                    id: 'trustSecurity.resources.placeholder2.alt',
+                    message: 'Shira illustrations',
+                  })}
+                />
                 <div className={styles.resourceBody}>
                   <span className={styles.resourceTag}>
                     <Translate id="trustSecurity.resources.tag">Blog</Translate>
                   </span>
                   <p className={styles.resourceTitle}>
                     <Translate id="trustSecurity.resources.placeholder2">
-                      Blogpost title placeholder 2
+                      Private Quizzes Are Here!
                     </Translate>
                   </p>
                   <span className={styles.resourceLink}>
@@ -208,16 +224,23 @@ export default function TrustSecurity() {
               </Link>
               <Link
                 className={styles.resourceCard}
-                to="https://blog.wearehorizontal.org/introducing-shira/"
+                to="https://blog.wearehorizontal.org/introducing-shira-2-0-end-to-end-phishing-training/"
               >
-                <div className={styles.resourceImagePlaceholder} />
+                <img
+                className={styles.resourceImagePlaceholder}
+                src={BlogShira20}
+               alt={translate({
+                  id: 'trustSecurity.resources.placeholder1.alt',
+                  message: 'Illustration of fish and hooks with the words "don\'t get phished" and "shira.app"',
+                })}
+              />
                 <div className={styles.resourceBody}>
                   <span className={styles.resourceTag}>
                     <Translate id="trustSecurity.resources.tag">Blog</Translate>
                   </span>
                   <p className={styles.resourceTitle}>
                     <Translate id="trustSecurity.resources.placeholder3">
-                      Blogpost title placeholder 3
+                      Introducing Shira 2.0 — End-to-End Phishing Training
                     </Translate>
                   </p>
                   <span className={styles.resourceLink}>

@@ -7,7 +7,7 @@
   width: 100%;
   min-height: 22rem;
   text-align: center;
-  padding: 2rem 0;
+  padding: 2rem 1.5;
 }
 .heroBg {
   position: absolute;
@@ -15,7 +15,6 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: none;
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -36,14 +35,17 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 3rem;
+  gap: 2.25rem;
   padding: 2rem 0;
-  text-align: center;
 }
-.statItem {
+.statCard {
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
+  border-radius: 16px;
+  padding: 1.5rem 2rem;
+  width: 220px;
 }
 .statNumber {
   font-size: 2.25rem;
@@ -59,13 +61,12 @@
 @media (max-width: 480px) {
   .stats {
     flex-direction: column;
+    align-items: center;
     gap: 1.25rem;
   }
 }
 .aboutHorizontalText {
-  max-width: 900px;
   min-width: 0;
-  margin: 0 auto;
   padding-bottom: 2rem;
 }
 .aboutHorizontal .button {
@@ -93,9 +94,7 @@
   margin-bottom: 0;
 }
 .builtSection {
-  max-width: 1200px;
-  min-width: 0;
-  margin: 0 auto;
+  width: 100%;
 }
 .builtHeader {
   display: flex;
@@ -112,6 +111,10 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
   margin-top: 2rem;
+}
+.principleCard {
+  border-radius: 20px;
+  padding: 2.5rem 2rem;
 }
 .principleCard h3 {
   font-size: 1.4rem;
@@ -189,22 +192,19 @@
   gap: 1rem;
   margin-top: 1.5rem;
 }
+.getStartedButtons .button {
+  margin: 0;
+}
 @media (max-width: 768px) {
   .getStartedButtons {
     justify-content: center;
   }
 }
 .narrativeSection {
-  max-width: 900px;
-  min-width: 0;
-  margin: 0 auto;
+  width: 100%;
 }
 .narrativeSection p {
   margin-top: 1.5rem;
-}
-.underline {
-  text-decoration: underline;
-  text-decoration-color: var(--ifm-color-primary);
 }
 .whyHeader {
   display: flex;
@@ -222,11 +222,12 @@
   max-width: 260px;
 }
 .whyHeaderText {
-  max-width: 500px;
+  flex: 1;
   min-width: 0;
 }
 .whyHeaderText p {
   margin-top: 1.5rem;
+  font-size: 1.25rem;
 }
 .narrativeTextFull {
   margin-top: 2rem;
@@ -257,6 +258,8 @@
 @media (max-width: 768px) {
   .whyHeader {
     flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
   .whyHeaderLogo {
     height: 6rem;

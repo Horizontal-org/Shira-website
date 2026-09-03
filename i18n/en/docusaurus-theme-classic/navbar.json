@@ -46,5 +46,9 @@
   "item.label.Contact us": {
     "message": "Contact us",
     "description": "Navbar item with label Contact us"
+  },
+  "item.label.Case studies": {
+    "message": "Case studies",
+    "description": "Navbar item with label Case studies"
   }
 }

@@ -130,14 +130,23 @@ const config = {
         },
         items: [
           {
-            to: '/features',
-            label: 'Features',
+            type: 'dropdown',
+            label: 'About',
             position: 'left',
-          },
-          {
-            to: '/pricing',
-            label: 'Pricing',
-            position: 'left',
+            items: [
+              {
+                to: '/features',
+                label: 'Features',
+              },
+              {
+                to: '/pricing',
+                label: 'Pricing',
+              },
+              {
+                to: '/case-studies',
+                label: 'Case studies',
+              },
+            ],
           },
           {
             type: 'dropdown',
@@ -261,6 +270,10 @@ const config = {
               {
                 label: 'Shira is open source',
                 href: 'https://github.com/Horizontal-org/shira/',
+              },
+              {
+                to: '/case-studies',
+                label: 'Case studies',
               },
             ],
           },

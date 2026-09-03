@@ -8,6 +8,11 @@ import Translate, { translate } from '@docusaurus/Translate';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
 import FishImage from "@site/static/img/fish.png"
 import BubblesImage from"@site/static/img/fish-bubbles.png"
+import FeatureGmailSimulation from "@site/static/img/feature-gmail-simulation.png";
+import FeatureMobileQuiz from "@site/static/img/feature-mobile-quiz.png";
+import FeatureExplanationTooltip from "@site/static/img/feature-explanation-tooltip.png";
+import FeatureResultsAnalytics from "@site/static/img/feature-results-analytics.png";
+import FeatureUseTemplate from "@site/static/img/feature-use-template.png";
 
 
 export default function Features() {
@@ -100,71 +105,142 @@ export default function Features() {
           </section>
         </div>
 
-        <section className={classNames(styles.feauturesBox)}>
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.ui.title">User-friendly interface 🎨</Translate></h3>
-            <p><Translate id="features.list.ui.description">Intuitive dashboard for easy navigation and management of quizzes and users.</Translate></p>
+        {/* ---------- Feature groups, zigzag layout: screenshot next to a cluster of related features ---------- */}
+        <section className={classNames(styles.featureGroups, global.sectionMaxWidth)}>
+
+          {/* Group 1: Real-world simulations */}
+          <div className={classNames(styles.featureGroupRow, global.backgroundLight)}>
+            <h2 className={styles.featureGroupTitle}>
+                <Translate id="features.group.realWorld.title">Real-world simulations</Translate>
+              </h2>
+            <img
+              className={styles.featureGroupImage}
+              src={FeatureGmailSimulation}
+              alt={translate({
+                id: 'features.group.realWorld.imageAlt',
+                message: 'Screenshot of a simulated phishing email in Gmail, with buttons to mark it as phishing, unsure, or legitimate',
+              })}
+            />
+            <ul className={styles.featureGroupList}>
+                <li>
+                  <strong><Translate id="features.list.realLife.title">Real-Life Attack Simulation ⚡</Translate></strong>
+                  <p><Translate id="features.list.realLife.description">Include in your quizzes details from actual phishing attacks the organization has experienced to best prepare your team.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.email.title">Email phishing simulations 📧</Translate></strong>
+                  <p><Translate id="features.list.email.description">Create quizzes that mimic phishing emails on Gmail and Outlook, including sender information, subject line, email body, links, images and file attachments.</Translate></p>
+                </li>
+              </ul>
           </div>
 
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.roles.title">Role-based access control 🔒</Translate></h3>
-            <p><Translate id="features.list.roles.description">Different access levels for admins and learners.</Translate></p>
+          {/* Group 2: Mobile support */}
+          <div className={classNames(styles.featureGroupRow, styles.featureGroupRowReverse, global.backgroundLight)}>
+            <h2 className={styles.featureGroupTitle}>
+                <Translate id="features.group.mobile.title">Mobile-ready</Translate>
+              </h2>
+            <img
+              className={styles.featureGroupImage}
+              src={FeatureMobileQuiz}
+              alt={translate({
+                id: 'features.group.mobile.imageAlt',
+                message: 'Screenshot of a Shira quiz running in a mobile browser, showing a simulated messaging app phishing attempt',
+              })}
+            />
+            <ul className={styles.featureGroupList}>
+                <li>
+                  <strong><Translate id="features.list.mobile.title">Mobile support 📱</Translate></strong>
+                  <p><Translate id="features.list.mobile.description">We often face phishing attacks from our mobile devices. In Shira, users can take quizzes from their mobile devices to prepare for attacks they will face in real life.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.messaging.title">SMS and Messaging app phishing simulations 💬</Translate></strong>
+                  <p><Translate id="features.list.messaging.description">Create quizzes that replicate phishing through SMS and popular messaging apps like WhatsApp or Facebook Messenger.</Translate></p>
+                </li>
+              </ul>
           </div>
 
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.realLife.title">Real-Life Attack Simulation ⚡</Translate></h3>
-            <p><Translate id="features.list.realLife.description">Include in your quizzes details from actual phishing attacks the company has experienced to best prepare your team.</Translate></p>
+          {/* Group 3: Guided learning */}
+          <div className={classNames(styles.featureGroupRow, global.backgroundLight)}>
+            <h2 className={styles.featureGroupTitle}>
+                <Translate id="features.group.learning.title">Guided learning</Translate>
+              </h2>
+            <img
+              className={styles.featureGroupImage}
+              src={FeatureExplanationTooltip}
+              alt={translate({
+                id: 'features.group.learning.imageAlt',
+                message: 'Screenshot of a simulated messaging app showing a tooltip explaining why a message looks like phishing',
+              })}
+            />
+            <ul className={styles.featureGroupList}>
+                <li>
+                  <strong><Translate id="features.list.explanations.title">Explanations 📝</Translate></strong>
+                  <p><Translate id="features.list.explanations.description">Embed your own explanations to point users to elements that suggest that an email or message looks like phishing.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.gamification.title">Gamification 🕹️</Translate></strong>
+                  <p><Translate id="features.list.gamification.description">An engaging learning experience promotes better knowledge retention.</Translate></p>
+                </li>
+              </ul>
           </div>
 
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.email.title">Email phishing simulations 📧</Translate></h3>
-            <p><Translate id="features.list.email.description">Create quizzes that mimic phishing emails on Gmail and Outlook, including sender information, subject line, email body, links, images and file attachments.</Translate></p>
+          {/* Group 4: Track your team */}
+          <div className={classNames(styles.featureGroupRow, styles.featureGroupRowReverse, global.backgroundLight)}>
+            <h2 className={styles.featureGroupTitle}>
+                <Translate id="features.group.tracking.title">Track your team</Translate>
+              </h2>
+            <img
+              className={styles.featureGroupImage}
+              src={FeatureResultsAnalytics}
+              alt={translate({
+                id: 'features.group.tracking.imageAlt',
+                message: 'Screenshot of a Shira results dashboard showing completed quizzes and average scores by question',
+              })}
+            />
+            <ul className={styles.featureGroupList}>
+                <li>
+                  <strong><Translate id="features.list.analytics.title">Analytics 📈</Translate></strong>
+                  <p><Translate id="features.list.analytics.description">Track user progress and identify areas for improvement, whether it's the type of apps your users are most vulnerable on or the specific users who need extra support.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.compliance.title">Compliance ✅</Translate></strong>
+                  <p><Translate id="features.list.compliance.description">Ensure that your team actually completes your quizzes and monitor success rates.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.roles.title">Role-based access control 🔒</Translate></strong>
+                  <p><Translate id="features.list.roles.description">Different access levels for admins and learners.</Translate></p>
+                </li>
+              </ul>
           </div>
 
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.sms.title">SMS phishing simulations 💬</Translate></h3>
-            <p><Translate id="features.list.sms.description">Create quizzes that simulate SMS phishing attempts with realistic text messages.</Translate></p>
+          {/* Group 5: Easy to setup */}
+          <div className={classNames(styles.featureGroupRow, global.backgroundLight)}>
+            <h2 className={styles.featureGroupTitle}>
+                <Translate id="features.group.content.title">Easy to set up</Translate>
+              </h2>
+            <img
+              className={styles.featureGroupImage}
+              src={FeatureUseTemplate}
+              alt={translate({
+                id: 'features.group.content.imageAlt',
+                message: 'Screenshot of a ready-made quiz template with a list of questions, ready to use',
+              })}
+            />
+            <ul className={styles.featureGroupList}>
+                <li>
+                  <strong><Translate id="features.list.library.title">Question library 📚</Translate></strong>
+                  <p><Translate id="features.list.library.description">Create your quiz questions from scratch or head to the Shira Library to pull question templates created by digital security trainers.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.ui.title">User-friendly interface 🎨</Translate></strong>
+                  <p><Translate id="features.list.ui.description">Intuitive dashboard for easy navigation and management of quizzes and users.</Translate></p>
+                </li>
+                <li>
+                  <strong><Translate id="features.list.multilingual.title">Multilingual 🌐</Translate></strong>
+                  <p><Translate id="features.list.multilingual.description">Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian.</Translate></p>
+                </li>
+              </ul>
           </div>
 
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.messaging.title">Messaging app phishing simulations 💬</Translate></h3>
-            <p><Translate id="features.list.messaging.description">Create quizzes that replicate phishing through popular messaging apps like WhatsApp or Facebook Messenger.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.mobile.title">Mobile support 📱</Translate></h3>
-            <p><Translate id="features.list.mobile.description">We often face phishing attacks from our mobile devices. In Shira, users can take quizzes from their mobile devices to prepare for attacks they will face in real life.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.compliance.title">Compliance ✅</Translate></h3>
-            <p><Translate id="features.list.compliance.description">Ensure that your team actually completes your quizzes and monitor success rates.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.analytics.title">Analytics 📈</Translate></h3>
-            <p><Translate id="features.list.analytics.description">Track user progress and identify areas for improvement, whether it's the type of apps your users are most vulnerable on or the specific users who need extra support.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.explanations.title">Explanations 📝</Translate></h3>
-            <p><Translate id="features.list.explanations.description">Embed your own explanations to point users to elements that suggest that an email or message looks like phishing.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.gamification.title">Gamification 🕹️</Translate></h3>
-            <p><Translate id="features.list.gamification.description">An engaging learning experience promotes better knowledge retention.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.multilingual.title">Multilingual 🌐</Translate></h3>
-            <p><Translate id="features.list.multilingual.description">Shira is fully available in English, Spanish, French, Mandarin, Arabic and Russian.</Translate></p>
-          </div>
-
-          <div className={classNames(styles.featureElement, global.backgroundLight)}>
-            <h3><Translate id="features.list.library.title">Question library 📚</Translate></h3>
-            <p><Translate id="features.list.library.description">Create your quiz questions from scratch or head to the Shira Library to pull question templates created by digital security trainers.</Translate></p>
-          </div>
         </section>
 
         <section className={classNames(global.center, global.backgroundLight)}>

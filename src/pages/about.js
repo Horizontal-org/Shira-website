@@ -77,21 +77,27 @@ export default function About() {
               </div>
 
               <p>
-                <Translate id="about.horizontal.description">
-                  Shira is built by Horizontal, a distributed team of security trainers and technologists. Digital security has been one of our core areas of work for nearly a decade: we've helped and trained frontline defenders, activists, and journalists to protect themselves online, in some of the highest-risk contexts in the world.
-                </Translate>
+                <Translate id="about.horizontal.description.part1">
+                  Shira is built by
+                </Translate>{' '}
+              <Link to="https://wearehorizontal.org">
+                Horizontal
+              </Link>
+              <Translate id="about.horizontal.description.part2">
+                , a non-profit dedicated to digital privacy and security. We are a distributed team of security trainers and technologists who have been on digital security for nearly a decade: we've helped and trained human rights defenders, journalists, and non-profits protect themselves online, in some of the highest-risk contexts in the world.
+              </Translate>
               </p>
 
               <div className={styles.stats}>
-                <div className={styles.statItem}>
+                <div className={classNames(styles.statCard, global.backgroundLight)}>
                   <span className={styles.statNumber}>10</span>
                   <span className={styles.statLabel}>
                     <Translate id="about.stats.years.label">
-                      years of experience in digital security training
+                      years fighting phishing
                     </Translate>
                   </span>
                 </div>
-                <div className={styles.statItem}>
+                <div className={classNames(styles.statCard, global.backgroundLight)}>
                   <span className={styles.statNumber}>40</span>
                   <span className={styles.statLabel}>
                     <Translate id="about.stats.countries.label">
@@ -99,11 +105,11 @@ export default function About() {
                     </Translate>
                   </span>
                 </div>
-                <div className={styles.statItem}>
-                  <span className={styles.statNumber}>1,000+</span>
+                <div className={classNames(styles.statCard, global.backgroundLight)}>
+                  <span className={styles.statNumber}>850+</span>
                   <span className={styles.statLabel}>
                     <Translate id="about.stats.orgsTrained.label">
-                      organizations trained
+                      organizations reached
                     </Translate>
                   </span>
                 </div>
@@ -111,13 +117,13 @@ export default function About() {
 
               <p>
                 <Translate id="about.horizontal.tellaIntro">
-                  Shira is that experience, built into a tool. It's the same team behind
+                  Shira is that experience, built into a tool. Shira is made by the same team behind
                 </Translate>{' '}
                 <Link to="https://tella-app.org/">
                   Tella
-                </Link>{' '}
+                </Link>
                 <Translate id="about.horizontal.tellaDescription">
-                  our tool for protecting people's physical and digital security, used by over 25,000 people worldwide.
+                  , an app used by over 25,000 people worldwide to protect their sensitive files and data on their phone.
                 </Translate>
               </p>
 
@@ -153,19 +159,14 @@ export default function About() {
 
               <div className={styles.whyHeaderText}>
                 <p>
-                  <strong>
-                    <Translate id="about.why.missionLead">
-                      Phishing is one of the simplest ways attackers exploit people
-                    </Translate>
-                  </strong>
                   <Translate id="about.why.mission">
-                    , compromising someone's safety, or their community's, with a single message. We care about human rights, and too often, technology becomes part of the threat instead of a shield against it.
+                    Phishing is one of the most common ways attacks exploit people and compromise organizations. 
                   </Translate>
                 </p>
 
                 <p>
                   <Translate id="about.why.priorTools">
-                    Before Shira, we taught phishing recognition face to face, workshop by workshop. But most tools built for it were punitive by design, generic, and disconnected from the real threats our partners faced.
+                    And yet, most tools built to train vulnerable against phishing were punitive by design, generic, and disconnected from the real threats they faced every day.
                   </Translate>
                 </p>
               </div>
@@ -174,7 +175,7 @@ export default function About() {
         </div>
 
         <div className={classNames(styles.flexAndCenter)}>
-          <section className={styles.narrativeSection}>
+          <section className={classNames(styles.narrativeSection, global.sectionMaxWidth)}>
             <div className={styles.narrativeTextFull}>
               <h2>
                 <Translate id="about.started.title">How it started</Translate>
@@ -182,7 +183,9 @@ export default function About() {
 
               <p>
                 <Translate id="about.started.scene">
-                  In 2022, a Horizontal trainer stood in front of a room, teaching people about phishing, one workshop at a time. For most people, falling for phishing means stolen data or money. But for the human rights defenders, journalists, and activists Horizontal works with, a single message can threaten not just their data, but their safety, and the
+                  For most people, falling for a phishing attack means stolen data or money. But for the human rights defenders, 
+                  journalists, and activists Horizontal works with, a single message can threaten not just their data, 
+                  but their safety, and the
                 </Translate>{' '}
                 <strong>
                   <Translate id="about.started.sceneBold">safety of the people around them.</Translate>
@@ -191,26 +194,33 @@ export default function About() {
 
               <p>
                 <Translate id="about.started.advisors">
-                  The problem was that most tools to teach phishing recognition were generic, punitive, or built to catch people out, not to help them learn. So a dozen advisors, working across different regions, spent close to a year telling us what their people actually struggled with, and that shaped everything: which platforms to simulate, which contexts to leave out.
+                  In 2022, a Horizontal trainer stood in front of a room of human rights activists. 
+                  As part of this digital security training, the trainer aimed to teach participants to 
+                  recognize phishing attacks and what to do when faced with one. The trainer was unsatisfied 
+                  with the tools available, too generic and lacking in customizability, so they used screenshots 
+                  of phishing emails and text messages to teach the audience.
+                </Translate>
+              </p>
+
+              <p>
+                <Translate id="about.started.workshops">
+                  Back from the workshop, Horizontal decided to take this on. We gathered an advisory board of a dozen digital safety and cybersecurity experts, educators, and researchers from around the world. We talked to people about what they lacked in existing tools and what they wanted in a phishing education platform: which platforms to simulate, which contexts to leave out.
                 </Translate>
               </p>
 
               <div className={styles.otfRow}>
                 <p>
                   <Translate id="about.started.otf">
-                    So we built our own:
+                    And we built it.
                   </Translate>{' '}
-                  <strong>
-                    <Translate id="about.started.otfBold">starting as a simple quiz</Translate>
-                  </strong>
                   <Translate id="about.started.otfMiddle">
-                    , with support from the
+                    With support from the
                   </Translate>{' '}
                   <Link to="https://www.opentech.fund/">
                     Open Technology Fund
                   </Link>
                   <Translate id="about.started.otfEnd">
-                    , and growing from there.
+                    , we started with a simple quiz. And we grew it from there. And we grew it from there.
                   </Translate>
                 </p>
                 <img
@@ -254,13 +264,13 @@ export default function About() {
 
                 <p>
                   <Translate id="about.going.today">
-                    That range shaped what Shira is today:
+                    This diversity of trainers and organizations shaped what Shira is today: a platform that is inherently open and is customizable in every possible way.
                   </Translate>{' '}
                   <strong>
-                    <Translate id="about.going.todayBold">organizations build their own library of questions</Translate>
+                    <Translate id="about.going.todayBold">Organizations can build their own library of questions</Translate>
                   </strong>
                   <Translate id="about.going.todayEnd">
-                    , choose between an open campaign or a private space only their team can access, invite hundreds of people at once, and see how each learner performed, question by question. Shira also grew to cover how people actually receive phishing attempts, not only email, but SMS, WhatsApp, and other messaging apps, on both mobile and desktop.
+                    , choose between open campaigns or private spaces only their team can access, invite hundreds of people at once, and see how each learner performed. Shira also grew to cover how people actually receive phishing attempts, not only email, but SMS, WhatsApp, and other messaging apps, on both mobile and desktop.
                   </Translate>
                 </p>
 
@@ -280,7 +290,7 @@ export default function About() {
         </div>
 
         <div className={classNames(global.backgroundLight, styles.flexAndCenter)}>
-          <section className={styles.builtSection}>
+          <section className={styles.builtSection, global.sectionMaxWidth}>
             <div className={styles.builtHeader}>
               <h2>
                 <Translate id="about.built.title">How we built it</Translate>
@@ -296,49 +306,40 @@ export default function About() {
             </div>
 
             <div className={styles.principlesGrid}>
-              <div className={styles.principleCard}>
+              <div className={classNames(styles.principleCard, global.backgroundLightest)}>
                 <h3><Translate id="about.built.horizontality.title">Horizontality</Translate></h3>
                 <p className={styles.principleTagline}>
                   <Translate id="about.built.horizontality.tagline">
-                    Collective decision making is part of our DNA.
+                    Collective decision-making is part of our DNA.
                   </Translate>
                 </p>
                 <p>
                   <Translate id="about.built.horizontality.description">
-                    Every time we release something new, we ask the people using Shira the same question: what do you need us to build next? Private quizzes, the feature more people asked for than any other, exists because enough people wrote back and said so.
+                    Every time we release something new, we ask the people using Shira the same question: 
                   </Translate>{' '}
-                  <Link to="https://github.com/Horizontal-org/shira/discussions">
+                  <Link to="/contact">
                     <Translate id="about.built.horizontality.cta">
-                      Post a feature idea or vote on existing requests
+                      what do you need us to build next?
                     </Translate>
                   </Link>
                 </p>
               </div>
 
-              <div className={styles.principleCard}>
+              <div className={classNames(styles.principleCard, global.backgroundLightest)}>
                 <h3><Translate id="about.built.community.title">Community</Translate></h3>
                 <p className={styles.principleTagline}>
                   <Translate id="about.built.community.tagline">
-                    We don't build for communities, we build with them.
+                    We don't build for users, we build with them.
                   </Translate>
                 </p>
                 <p>
                   <Translate id="about.built.community.description1">
-                    It started with a year of conversations with advisors across different regions, and it's still how the library grows: trainers add their own examples, and volunteers translate Shira into new languages on their own.
+                    We are a non-profit and we develop Shira not just for the benefits of our users, but with their active involvement at every step of the process.
                   </Translate>
-                </p>
-                <p>
-                  <Translate id="about.built.community.contribute">
-                    Want to contribute adding examples to the library or translating Shira to a new language?
-                  </Translate>{' '}
-                  <Link to="/contact">
-                    <Translate id="about.built.community.contributeCta">Get in touch</Translate>
-                  </Link>
-                  .
                 </p>
               </div>
 
-              <div className={styles.principleCard}>
+              <div className={classNames(styles.principleCard, global.backgroundLightest)}>
                 <h3><Translate id="about.built.holism.title">Holism</Translate></h3>
                 <p className={styles.principleTagline}>
                   <Translate id="about.built.holism.tagline">
@@ -347,19 +348,12 @@ export default function About() {
                 </p>
                 <p>
                   <Translate id="about.built.holism.description">
-                    We don't share user data with third-party services. We
-                  </Translate>{' '}
-                  <Link to="https://docs.postalserver.io/">host our own email</Link>{' '}
-                  <Translate id="about.built.holism.and">and</Translate>{' '}
-                  <Link to="https://garagehq.deuxfleurs.fr/">images</Link>
-                  <Translate id="about.built.holism.rest">
-                    , both open source, and part of our infrastructure runs on a
-                  </Translate>{' '}
-                  <Link to="https://greenhost.net/">sustainable provider</Link>.
+                    From privacy to open-source and the environment.
+                  </Translate>
                 </p>
               </div>
 
-              <div className={styles.principleCard}>
+              <div className={classNames(styles.principleCard, global.backgroundLightest)}>
                 <h3><Translate id="about.built.open.title">Open</Translate></h3>
                 <p className={styles.principleTagline}>
                   <Translate id="about.built.open.tagline">
@@ -370,9 +364,9 @@ export default function About() {
                   <Translate id="about.built.open.description1">
                     Every line of
                   </Translate>{' '}
-                  <Link to="https://github.com/Horizontal-org/shira">Shira's code is public</Link>.{' '}
+                  <Link to="https://github.com/Horizontal-org/shira">Shira code is public</Link>.{' '}
                   <Translate id="about.built.open.description2">
-                    Anyone deciding whether to trust us with their team's security can look at it directly, they don't have to take our word for it.
+                    Anyone deciding whether to trust us with their team's security can look at it directly.
                   </Translate>
                 </p>
               </div>

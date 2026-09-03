@@ -189,6 +189,11 @@ section {
 
 }
 
+.backgroundLightest {
+  background-color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
+}
+
 .center {
   align-items: center;
   justify-content: center;
