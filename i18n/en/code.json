@@ -24,7 +24,7 @@
     "message": "Horizontal logo"
   },
   "about.horizontal.title": {
-    "message": "Who we are?"
+    "message": "Who we are"
   },
   "about.horizontal.description": {
     "message": "Shira is built by Horizontal, a distributed team of security trainers and technologists. Digital security has been one of our core areas of work for nearly a decade: we've helped and trained frontline defenders, activists, and journalists to protect themselves online, in some of the highest-risk contexts in the world."
@@ -45,7 +45,7 @@
     "message": "decorative image of a hook"
   },
   "about.why.title": {
-    "message": "Why we created Shira?"
+    "message": "Why we created Shira"
   },
   "about.why.easy.title": {
     "message": "1. Easy to use"
@@ -183,7 +183,7 @@
     "message": "Real-Life Attack Simulation ⚡"
   },
   "features.list.realLife.description": {
-    "message": "Include in your quizzes details from actual phishing attacks the company has experienced to best prepare your team."
+    "message": "Include in your quizzes details from actual phishing attacks the organization has experienced to best prepare your team."
   },
   "features.list.email.title": {
     "message": "Email phishing simulations 📧"
@@ -198,10 +198,10 @@
     "message": "Create quizzes that simulate SMS phishing attempts with realistic text messages."
   },
   "features.list.messaging.title": {
-    "message": "Messaging app phishing simulations 💬"
+    "message": "SMS and Messaging app phishing simulations 💬"
   },
   "features.list.messaging.description": {
-    "message": "Create quizzes that replicate phishing through popular messaging apps like WhatsApp or Facebook Messenger."
+    "message": "Create quizzes that replicate phishing through SMS and popular messaging apps like WhatsApp or Facebook Messenger."
   },
   "features.list.mobile.title": {
     "message": "Mobile support 📱"
@@ -1208,7 +1208,7 @@
     "message": "Enterprise plan"
   },
   "case-studies.huesped.usage.item4": {
-    "message": "Worked closely with the Shira team to build and deploy a custom training program for their 200-person staff"
+    "message": "Worked closely with the Shira team to build and deploy a custom training program for their 200-person staff."
   },
   "case-studies.huesped.usage.feature2": {
     "message": "Real-life attack simulation"
@@ -1373,55 +1373,49 @@
     "message": "Get in touch"
   },
   "about.stats.years.label": {
-    "message": "years of experience in digital security training"
+    "message": "years fighting phishing"
   },
   "about.stats.countries.label": {
     "message": "countries reached"
   },
   "about.stats.orgsTrained.label": {
-    "message": "organizations trained"
+    "message": "organizations reached"
   },
   "about.horizontal.tellaIntro": {
-    "message": "Shira is that experience, built into a tool. It's the same team behind"
+    "message": "Shira is that experience, built into a tool. Shira is made by the same team behind"
   },
   "about.horizontal.tellaDescription": {
-    "message": "our tool for protecting people's physical and digital security, used by over 25,000 people worldwide."
+    "message": ", an app used by over 25,000 people worldwide to protect their sensitive files and data on their phone."
   },
   "about.why.logoAlt": {
     "message": "shira logo: it is an S in blue and light green colors"
   },
-  "about.why.missionLead": {
-    "message": "Phishing is one of the simplest ways attackers exploit people"
-  },
   "about.why.mission": {
-    "message": ", compromising someone's safety, or their community's, with a single message. We care about human rights, and too often, technology becomes part of the threat instead of a shield against it."
+    "message": "Phishing is one of the most common ways attacks exploit people and compromise organizations."
   },
   "about.why.priorTools": {
-    "message": "Before Shira, we taught phishing recognition face to face, workshop by workshop. But most tools built for it were punitive by design, generic, and disconnected from the real threats our partners faced."
+    "message": "And yet, most tools built to train vulnerable against phishing were punitive by design, generic, and disconnected from the real threats they faced every day."
   },
   "about.started.title": {
     "message": "How it started"
   },
   "about.started.scene": {
-    "message": "In 2022, a Horizontal trainer stood in front of a room, teaching people about phishing, one workshop at a time. For most people, falling for phishing means stolen data or money. But for the human rights defenders, journalists, and activists Horizontal works with, a single message can threaten not just their data, but their safety, and the"
+    "message": "For most people, falling for a phishing attack means stolen data or money. But for the human rights defenders, journalists, and activists Horizontal works with, a single message can threaten not just their data, but their safety, and the"
   },
   "about.started.sceneBold": {
     "message": "safety of the people around them."
   },
   "about.started.advisors": {
-    "message": "That trainer kept running into the same problem: most tools to teach phishing recognition were generic, punitive, or built to catch people out, not to help them learn. So we brought in a dozen advisors, working across different regions, who spent close to a year telling us what their people actually struggled with, and that shaped everything: which platforms to simulate, which contexts to leave out."
+    "message": "In 2022, a Horizontal trainer stood in front of a room of human rights activists. As part of this digital security training, the trainer aimed to teach participants to recognize phishing attacks and what to do when faced with one. The trainer was unsatisfied with the tools available, too generic and lacking in customizability, so they used screenshots of phishing emails and text messages to teach the audience."
   },
   "about.started.otf": {
-    "message": "So we built our own:"
-  },
-  "about.started.otfBold": {
-    "message": "starting as a simple quiz"
+    "message": "And we built it."
   },
   "about.started.otfMiddle": {
-    "message": ", with support from the"
+    "message": "With support from the"
   },
   "about.started.otfEnd": {
-    "message": ", and growing from there."
+    "message": ", we started with a simple quiz. And we grew it from there."
   },
   "about.started.otfLogoAlt": {
     "message": "Open Technology Fund logo"
@@ -1448,13 +1442,13 @@
     "message": "used it in very different ways: one digital security group ran it across a dozen workshops for human rights organizations, a reproductive health nonprofit used it to train 200 staff internally."
   },
   "about.going.today": {
-    "message": "That range shaped what Shira is today:"
+    "message": "This diversity of trainers and organizations shaped what Shira is today: a platform that is inherently open and is customizable in every possible way."
   },
   "about.going.todayBold": {
-    "message": "organizations build their own library of questions"
+    "message": "Organizations can build their own library of questions"
   },
   "about.going.todayEnd": {
-    "message": ", choose between an open campaign or a private space only their team can access, invite hundreds of people at once, and see how each learner performed, question by question. Shira also grew to cover how people actually receive phishing attempts, not only email, but SMS, WhatsApp, and other messaging apps, on both mobile and desktop."
+    "message": ", choose between open campaigns or private spaces only their team can access, invite hundreds of people at once, and see how each learner performed. Shira also grew to cover how people actually receive phishing attempts, not only email, but SMS, WhatsApp, and other messaging apps, on both mobile and desktop."
   },
   "about.going.ctaQuestion": {
     "message": "Want to see how organizations use Shira day to day?"
@@ -1472,22 +1466,22 @@
     "message": "Horizontality"
   },
   "about.built.horizontality.tagline": {
-    "message": "Collective decision making is part of our DNA."
+    "message": "Collective decision-making is part of our DNA."
   },
   "about.built.horizontality.description": {
-    "message": "Every time we release something new, we ask the people using Shira the same question: what do you need us to build next? Private quizzes, the feature more people asked for than any other, exists because enough people wrote back and said so."
+    "message": "Every time we release something new, we ask the people using Shira the same question: "
   },
   "about.built.horizontality.cta": {
-    "message": "Post a feature idea or vote on existing requests"
+    "message": "what do you need us to build next?"
   },
   "about.built.community.title": {
     "message": "Community"
   },
   "about.built.community.tagline": {
-    "message": "We don't build for communities, we build with them."
+    "message": "We don't build for users, we build with them."
   },
   "about.built.community.description1": {
-    "message": "It started with a year of conversations with advisors across different regions, and it's still how the library grows: trainers add their own examples, and volunteers translate Shira into new languages on their own."
+    "message": "We are a non-profit and we develop Shira not just for the benefits of our users, but with their active involvement at every step of the process."
   },
   "about.built.community.contribute": {
     "message": "Want to contribute adding examples to the library or translating Shira to a new language?"
@@ -1502,7 +1496,7 @@
     "message": "We think critically about our footprint, in what we build and how we operate."
   },
   "about.built.holism.description": {
-    "message": "We don't share user data with third-party services. We"
+    "message": "From privacy to open-source and the environment."
   },
   "about.built.holism.and": {
     "message": "and"
@@ -1520,7 +1514,7 @@
     "message": "Every line of"
   },
   "about.built.open.description2": {
-    "message": "Anyone deciding whether to trust us with their team's security can look at it directly, they don't have to take our word for it."
+    "message": "Anyone deciding whether to trust us with their team's security can look at it directly."
   },
   "about.built.ctaQuestion": {
     "message": "Want the details for your own security review?"
@@ -1607,7 +1601,7 @@
     "message": "Open source 💻"
   },
   "trustSecurity.openSource.description": {
-    "message": "Every line of Shira's code is public on GitHub, under an MIT 2.0 license, so you don't have to take our word for how it works."
+    "message": "Every line of Shira code is public on GitHub, under an MIT 2.0 license, so you don't have to take our word for how it works."
   },
   "trustSecurity.openSource.cta": {
     "message": "See our code"
@@ -1665,5 +1659,53 @@
   },
   "case-studies.nothing2hide.quoteAuthor.role": {
     "message": "Co-Founder and Executive Director, Nothing2Hide"
+  },
+  "about.horizontal.description.part1": {
+    "message": "Shira is built by"
+  },
+  "about.horizontal.description.part2": {
+    "message": ", a non-profit dedicated to digital privacy and security. We are a distributed team of security trainers and technologists who have been on digital security for nearly a decade: we've helped and trained human rights defenders, journalists, and non-profits protect themselves online, in some of the highest-risk contexts in the world."
+  },
+  "about.started.workshops": {
+    "message": "Back from the workshop, Horizontal decided to take this on. We gathered an advisory board of a dozen digital safety and cybersecurity experts, educators, and researchers from around the world. We talked to people about what they lacked in existing tools and what they wanted in a phishing education platform: which platforms to simulate, which contexts to leave out."
+  },
+  "about.started.we": {
+    "message": ", we"
+  },
+  "features.group.realWorld.imageAlt": {
+    "message": "Screenshot of a simulated phishing email in Gmail, with buttons to mark it as phishing, unsure, or legitimate"
+  },
+  "features.group.realWorld.title": {
+    "message": "Real-world simulations"
+  },
+  "features.group.mobile.imageAlt": {
+    "message": "Screenshot of a Shira quiz running in a mobile browser, showing a simulated messaging app phishing attempt"
+  },
+  "features.group.mobile.title": {
+    "message": "Mobile-ready"
+  },
+  "features.group.learning.imageAlt": {
+    "message": "Screenshot of a simulated messaging app showing a tooltip explaining why a message looks like phishing"
+  },
+  "features.group.learning.title": {
+    "message": "Guided learning"
+  },
+  "features.group.tracking.imageAlt": {
+    "message": "Screenshot of a Shira results dashboard showing completed quizzes and average scores by question"
+  },
+  "features.group.tracking.title": {
+    "message": "Track your team"
+  },
+  "features.group.content.imageAlt": {
+    "message": "Screenshot of a ready-made quiz template with a list of questions, ready to use"
+  },
+  "features.group.content.title": {
+    "message": "Easy to set up"
+  },
+  "trustSecurity.resources.placeholder1.alt": {
+    "message": "Illustration of fish and hooks with the words \"don't get phished\" and \"shira.app\""
+  },
+  "trustSecurity.resources.placeholder2.alt": {
+    "message": "Shira illustrations"
   }
 }

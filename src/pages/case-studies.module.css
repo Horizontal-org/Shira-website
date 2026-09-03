@@ -316,3 +316,6 @@
     position: static;
   }
 }
+:global(.main) {
+  font-family: "Open Sans", sans-serif;
+}
