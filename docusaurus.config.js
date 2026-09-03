@@ -130,29 +130,23 @@ const config = {
         },
         items: [
           {
+            to: '/features',
+            label: 'Features',
+          },
+          {
             type: 'dropdown',
-            label: 'About',
+            label: 'Resources',
             position: 'left',
             items: [
-              {
-                to: '/features',
-                label: 'Features',
-              },
-              {
-                to: '/pricing',
-                label: 'Pricing',
+               {
+                type: 'docSidebar',
+                sidebarId: 'HelpSidebar',
+                label: 'Help center',
               },
               {
                 to: '/case-studies',
                 label: 'Case studies',
               },
-            ],
-          },
-          {
-            type: 'dropdown',
-            label: 'Learn',
-            position: 'left',
-            items: [
               {
                 label: 'What is Phishing?',
                 to: '/phishing',
@@ -170,17 +164,12 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Help',
+            label: 'About ',
             position: 'left',
             items: [
               {
-                type: 'docSidebar',
-                sidebarId: 'HelpSidebar',
-                label: 'Visit our help center',
-              },
-              {
                 to: '/about',
-                label: 'About',
+                label: 'About Shira',
               },
               {
                 label: 'Contact us',
@@ -188,7 +177,10 @@ const config = {
               },
             ],
           },
-
+          {
+            to: '/pricing',
+            label: 'Pricing',
+          },
           {
             to: `${signupFormUrl}?plan=starter`,
             label: 'Sign up/Log in',
@@ -257,7 +249,7 @@ const config = {
             ],
           },
           {
-            title: 'About',
+            title: 'About Shira',
             items: [
               {
                 label: 'Learn about us',
