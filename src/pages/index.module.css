@@ -16,6 +16,7 @@
   left: 0;
   right: 0;
   opacity: .1;
+  z-index: -1;  
   width: 100%;
   height: 100%;
   background-image: url('/img/shira-about.png');
@@ -25,14 +26,33 @@
 }
 .hero h1 {
   max-width: 1000px;
-  color: var(--ifm-color-primary-darker);
+  color: var(--ifm-color-primary-dark); 
   margin-bottom: 1rem;
 }
+
 .hero p {
   margin-bottom: 2rem;
   font-size: 1.25rem;
 }
+
+@media (min-width: 769px) {
+  .hero h1 {
+    max-width: 700px;
+  }
+  .hero p {
+    max-width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 @media (max-width: 768px) {
+  .hero {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 3rem;
+    height: auto;
+  }
   .columnLight,
   .columnGreen {
     padding: 2rem 1rem;
@@ -73,7 +93,7 @@
 .hero p {
   font-size: 1.25rem;
 }
-/* override .centerColumnLight  */
+
 @media (max-width: 768px) {
   .columnLight,
   .columnGreen {
@@ -84,10 +104,11 @@
 }
 .context {
   padding: 3rem 2rem;
-  text-align: center;
+  text-align: left;
   display: flex;
   flex-shrink: 1;
   justify-content: space-evenly;
+  gap: 2rem;
 }
 .context p {
   font-size: 1.1rem;
@@ -99,6 +120,17 @@
   aspect-ratio: auto;
 }
 @media (max-width: 768px) {
+  .context {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 1rem;
+  }
+  .context .wideImage {
+    order: 2;
+  }
+  .context .wideImage.closingImage {
+    order: -1;
+  }
   .context p {
     text-align: center;
     padding: 1rem;
@@ -106,7 +138,7 @@
   .context img {
     width: 90%;
     height: auto;
-    margin-top: 1rem;
+    margin-top: 0;
   }
 }
 .twoColumns {
@@ -168,6 +200,7 @@
   max-width: 600px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
 }
 .contextStat {
   display: flex;
@@ -207,8 +240,108 @@
   .contextText {
     align-items: center;
   }
-  .contextText .button {
+}
+.problemSection {
+  width: 100%;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.problemGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.problemCard {
+  border-radius: 20px;
+  padding: 2.5rem 2rem;
+  text-align: left;
+  padding-bottom: 1.5rem;
+}
+.problemCard h3 {
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+}
+.problemCard p {
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+@media (max-width: 1110px) {
+  .problemGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 768px) {
+  .problemGrid {
+    grid-template-columns: 1fr;
+  }
+}
+.context .wideImage {
+  width: 480px;
+  height: auto;
+  align-self: center;
+  border-radius: 12px;
+}
+.contextText .button {
+  margin-left: 0;
+}
+
+.whyChooseGrid {
+  grid-template-columns: repeat(2, 1fr);
+  align-items: start;
+  align-items: start;
+  max-width: 1000px;
+  margin: 2rem auto 0;
+}
+@media (max-width: 768px) {
+  .problemGrid.whyChooseGrid {
+    grid-template-columns: 1fr;
+  }
+}
+.whyChooseItem {
+  margin-top: 1.25rem;
+}
+.whyChooseItem:first-of-type {
+  margin-top: 0.75rem;
+}
+.whyChooseItemTitle {
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+.problemGrid.whyChooseGrid .problemCard {
+  padding-bottom: 1.5rem;
+}
+.contextText ol {
+  text-align: left;
+}
+.audienceCta {
+  text-align: center;
+  margin-top: 2rem;
+}
+.closingTitle {
+  color: var(--ifm-color-primary-dark);
+}
+@media (max-width: 768px) {
+  .hero .button,
+  .contextText .button,
+  .audienceCta .button {
     width: fit-content;
-    margin: 0 auto;
+    max-width: 100%;
+    white-space: normal;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .productPreviewText {
+    display: contents;
+  }
+  .productPreviewText h2,
+  .productPreviewText p {
+    order: 1;
+  }
+  .productPreviewCta {
+    order: 3;
   }
 }
