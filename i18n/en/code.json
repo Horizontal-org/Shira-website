@@ -264,10 +264,10 @@
     "message": "Shira helps individuals and organizations learn to spot and defeat phishing attacks through interactive, privacy-friendly quizzes, customizable for real-world apps like Gmail, SMS, and WhatsApp, context and language."
   },
   "homepage.hero.title": {
-    "message": "Preparedness. Knowledge. Resilience."
+    "message": "Make your team phishing-resistant"
   },
   "homepage.hero.subtitle": {
-    "message": "Shira builds your team's ability to identify and defeat phishing attacks"
+    "message": "Shira helps mission-driven organizations train their teams to recognize and stop phishing across email, SMS, messaging apps, and social media."
   },
   "homepage.learners.title": {
     "message": "For learners"
@@ -1142,7 +1142,7 @@
     "message": "Dedicated enterprise support"
   },
   "homepage.hero.cta": {
-    "message": "Get started"
+    "message": "Start your organization’s training"
   },
   "case-studies.meta.title": {
     "message": "Case Studies"
@@ -1707,5 +1707,188 @@
   },
   "trustSecurity.resources.placeholder2.alt": {
     "message": "Shira illustrations"
+  },
+  "homepage.hero.title.line1": {
+    "message": "Make your team"
+  },
+  "homepage.hero.title.line2": {
+    "message": "phishing-resistant"
+  },
+  "homepage.trust.statement.part1": {
+    "message": "Shira is designed for"
+  },
+  "homepage.trust.statement.bold1": {
+    "message": "mission-driven"
+  },
+  "homepage.trust.statement.part2": {
+    "message": "organizations—education, healthcare, nonprofits, and beyond—"
+  },
+  "homepage.trust.statement.bold2": {
+    "message": "with limited resources and a responsibility to protect the people they serve"
+  },
+  "homepage.trust.experience": {
+    "message": "We have over a decade experience building tools to make people and organizations safer."
+  },
+  "homepage.problem.title": {
+    "message": "9 in 10 organizations faced an identity breach in 2024."
+  },
+  "homepage.problem.common.title": {
+    "message": "Phishing is the most common attack 💰"
+  },
+  "homepage.problem.common.description": {
+    "message": "Phishing remains one of the most common ways attackers gain access to organizations. Phishing serves as the primary entry point for over 75% of cyberattacks."
+  },
+  "homepage.problem.channels.title": {
+    "message": "Reaches your team wherever they communicate 💬"
+  },
+  "homepage.problem.channels.description": {
+    "message": "Phishing is no longer limited to email. Today, phishing also happens through SMS, messaging apps, social media, and other channels people use every day."
+  },
+  "homepage.problem.skills.title": {
+    "message": "Click rates don't build lasting skills ⏳"
+  },
+  "homepage.problem.skills.description": {
+    "message": "Traditional phishing simulations test a single reaction in a single moment. They don't teach people what to look for the next time, across the channels attackers actually use."
+  },
+  "homepage.withShira.imageAlt": {
+    "message": "screenshot of a Shira phishing quiz with questions listed"
+  },
+  "homepage.withShira.title": {
+    "message": "With Shira, you can…"
+  },
+  "homepage.withShira.item1": {
+    "message": "Create training tailored to your organization"
+  },
+  "homepage.withShira.item2": {
+    "message": "Measure progress"
+  },
+  "homepage.withShira.item3": {
+    "message": "Strengthen everyday security habits"
+  },
+  "homepage.withShira.footer": {
+    "message": "All without coding or specialized IT expertise."
+  },
+  "homepage.productPreview.title": {
+    "message": "Build a phishing defense program in minutes"
+  },
+  "homepage.productPreview.description": {
+    "message": "Start with ready-made quizzes from the Shira library and customize them to the needs of your organization, or build quizzes from scratch."
+  },
+  "homepage.productPreview.cta": {
+    "message": "See a sample campaign"
+  },
+  "homepage.productPreview.imageAlt": {
+    "message": "screenshot of the Create new question dialog in Shira"
+  },
+  "homepage.whyChoose.title": {
+    "message": "Why choose Shira?"
+  },
+  "homepage.whyChoose.realistic.title": {
+    "message": "Realistic 📱"
+  },
+  "homepage.whyChoose.realistic.item1.title": {
+    "message": "Realistic and multichannel"
+  },
+  "homepage.whyChoose.realistic.item1.description": {
+    "message": "Practice with realistic phishing scenarios across email, SMS, messaging apps, and social media"
+  },
+  "homepage.whyChoose.realistic.item2.title": {
+    "message": "Built for how people actually work"
+  },
+  "homepage.whyChoose.realistic.item2.description": {
+    "message": "Train people in the tools, languages, and communication channels they use every day, and reinforce safer decisions with short, practical exercises instead of one-off tests."
+  },
+  "homepage.whyChoose.effective.title": {
+    "message": "Effective 📈"
+  },
+  "homepage.whyChoose.effective.item1.title": {
+    "message": "Reinforce learning, not just test it"
+  },
+  "homepage.whyChoose.effective.item1.description": {
+    "message": "Short, practical exercises that reinforce safer decisions over time, instead of one-off simulations."
+  },
+  "homepage.whyChoose.effective.item2.title": {
+    "message": "Track progress and identify knowledge gaps"
+  },
+  "homepage.whyChoose.effective.item2.description": {
+    "message": "See who's improving and where the knowledge gaps are."
+  },
+  "homepage.whyChoose.easy.title": {
+    "message": "Easy to use 💨"
+  },
+  "homepage.whyChoose.easy.item1.title": {
+    "message": "Accessible to every member"
+  },
+  "homepage.whyChoose.easy.item1.description": {
+    "message": "Make phishing education approachable for people with different roles, technical backgrounds, and levels of security experience."
+  },
+  "homepage.whyChoose.easy.item2.title": {
+    "message": "Easy to deploy"
+  },
+  "homepage.whyChoose.easy.item2.description": {
+    "message": "Build and manage training without coding or specialized IT expertise."
+  },
+  "homepage.whyChoose.safe.title": {
+    "message": "Safe and secure 🔒"
+  },
+  "homepage.whyChoose.safe.item1.title": {
+    "message": "Privacy-friendly"
+  },
+  "homepage.whyChoose.safe.item1.description": {
+    "message": "Train your team without collecting or sharing sensitive or personally identifiable information."
+  },
+  "homepage.whyChoose.cta": {
+    "message": "Start your organization's training"
+  },
+  "homepage.audience.title": {
+    "message": "Designed for mission-driven organizations"
+  },
+  "homepage.audience.subtitle": {
+    "message": "We created Shira for organizations with limited resources and a responsibility to protect the people they serve."
+  },
+  "homepage.audience.education.title": {
+    "message": "Education 🎓"
+  },
+  "homepage.audience.education.description": {
+    "message": "Help teachers, administrators, staff, and students recognize phishing messages target school accounts, learning platforms, payroll systems, and campus services."
+  },
+  "homepage.audience.healthcare.title": {
+    "message": "Healthcare 🏥"
+  },
+  "homepage.audience.healthcare.description": {
+    "message": "Prepare clinical, administrative, and support teams to identify suspicious messages and help protect patient information and essential services."
+  },
+  "homepage.audience.nonprofits.title": {
+    "message": "Nonprofits 🌱"
+  },
+  "homepage.audience.nonprofits.description": {
+    "message": "Give staff, volunteers, and distributed teams practical tools to recognize phishing, donation fraud, account takeovers, and other targeted attacks—without requiring a dedicated security team."
+  },
+  "homepage.audience.beyond.title": {
+    "message": "Beyond these sectors 🌍"
+  },
+  "homepage.audience.beyond.description": {
+    "message": "Tailor phishing training to your organization's roles, tools, languages, communication channels, and most pressing risks."
+  },
+  "homepage.audience.cta": {
+    "message": "Create a quiz for your organization"
+  },
+  "homepage.closing.imageAlt": {
+    "message": "decorative illustration of a fish representing phishing"
+  },
+  "homepage.closing.title": {
+    "message": "Security education should be accessible to everyone"
+  },
+  "homepage.closing.part1": {
+    "message": "Shira is a product of"
+  },
+  "homepage.closing.part2": {
+    "message": ", a technology nonprofit dedicated to making online security accessible to everyone."
+  },
+  "homepage.closing.part3": {
+    "message": "We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams and communities"
+  },
+  "homepage.closing.cta": {
+    "message": "Start your organization's training"
   }
 }
