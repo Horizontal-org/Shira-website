@@ -58,5 +58,17 @@
   "logo.alt": {
     "message": "Shira Logo",
     "description": "The alt text of footer logo"
+  },
+  "link.item.label.Case studies": {
+    "message": "Case studies",
+    "description": "The label of footer link with label=Case studies linking to /case-studies"
+  },
+  "link.item.label.Learn about us": {
+    "message": "Learn about us",
+    "description": "The label of footer link with label=Learn about us linking to /about"
+  },
+  "link.item.label.Trust & Security": {
+    "message": "Trust & Security",
+    "description": "The label of footer link with label=Trust & Security linking to /trust-security"
   }
 }

@@ -1,22 +1,91 @@
-.contactShira {
+.flexAndCenter {
+  width: 100%;
   display: flex;
-  padding: 2rem;
   align-items: center;
   justify-content: center;
-  height: 600px;
 }
-
-.contactShiraText {
-  display: flex;
-  align-items: flex-start !important;;
-  flex-direction: column;
-  justify-content: center; 
-  width: 40%;
-  justify-content: space-evenly;
+.hero {
+  padding: 4rem 6rem 2rem;
+  justify-content: space-between;
+  align-items: center;
 }
-
+.heroText {
+  max-width: 40rem;
+}
+.heroText h1 {
+  margin-bottom: 1.5rem;
+}
+.heroText p {
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+.heroImage {
+  max-height: 10rem;
+  max-width: 100%;
+  width: auto;
+  align-self: center;
+  flex-shrink: 0;
+}
+@media (max-width: 1110px) {
+  .heroImage {
+    max-height: 8rem;
+  }
+}
 @media (max-width: 768px) {
-  .contactShiraText {
-    width: 100%;
+  .hero {
+    padding: 3rem 2rem 1rem;
+    flex-direction: column;
+    text-align: center;
+  }
+  .heroImage {
+    max-height: 6rem;
+    width: auto;
+    align-self: center;
+    margin-top: 1.5rem;
+  }
+}
+.getInTouch {
+  padding: 1.5rem 2rem 3rem;
+  max-width: 1300px;
+}
+.getInTouch h2 {
+  text-align: center;
+  margin-bottom: 1.75rem;
+}
+.touchItems {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+.touchItem {
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  padding: 1.5rem;
+}
+.touchItem p {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+.touchItem a {
+  font-size: 0.95rem;
+}
+.emailLine {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 1.05rem;
+}
+@media (max-width: 900px) {
+  .touchItems {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 600px) {
+  .touchItems {
+    grid-template-columns: 100%;
+  }
+  .touchItem {
+    padding: 1.25rem;
   }
 }

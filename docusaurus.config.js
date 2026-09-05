@@ -132,18 +132,21 @@ const config = {
           {
             to: '/features',
             label: 'Features',
-            position: 'left',
-          },
-          {
-            to: '/pricing',
-            label: 'Pricing',
-            position: 'left',
           },
           {
             type: 'dropdown',
-            label: 'Learn',
+            label: 'Resources',
             position: 'left',
             items: [
+               {
+                type: 'docSidebar',
+                sidebarId: 'HelpSidebar',
+                label: 'Help center',
+              },
+              {
+                to: '/case-studies',
+                label: 'Case studies',
+              },
               {
                 label: 'What is Phishing?',
                 to: '/phishing',
@@ -161,17 +164,12 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'Help',
+            label: 'About ',
             position: 'left',
             items: [
               {
-                type: 'docSidebar',
-                sidebarId: 'HelpSidebar',
-                label: 'Visit our help center',
-              },
-              {
                 to: '/about',
-                label: 'About',
+                label: 'About Shira',
               },
               {
                 label: 'Contact us',
@@ -179,7 +177,10 @@ const config = {
               },
             ],
           },
-
+          {
+            to: '/pricing',
+            label: 'Pricing',
+          },
           {
             to: `${signupFormUrl}?plan=starter`,
             label: 'Sign up/Log in',
@@ -248,20 +249,28 @@ const config = {
             ],
           },
           {
-            title: 'About',
+            title: 'About Shira',
             items: [
               {
-                label: 'Learn about the Shira team',
+                label: 'Learn about us',
                 to: '/about',
+              },
+              {
+                label: 'Trust & Security',
+                to: '/trust-security',
               },
               {
                 label: 'Shira is open source',
                 href: 'https://github.com/Horizontal-org/shira/',
               },
+              {
+                to: '/case-studies',
+                label: 'Case studies',
+              },
             ],
           },
         ],
-        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a>`,
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a> </br> <img src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" style="height: 18px; width: auto; margin-top: 6px;" />`,
       },
       prism: {
         theme: prismThemes.github,

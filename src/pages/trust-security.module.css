@@ -1,0 +1,134 @@
+.flexAndCenter {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero {
+  padding: 6rem;
+  justify-content: space-between;
+  align-items: center;
+}
+.heroText {
+  max-width: 40rem;
+}
+.kicker {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
+.heroImage {
+  max-height: 14rem;
+  max-width: 100%;
+  width: auto;
+  align-self: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+}
+@media (max-width: 1110px) {
+  .heroImage {
+    max-height: 10rem;
+  }
+}
+@media (max-width: 768px) {
+  .hero {
+    padding: 4rem 2rem;
+    flex-direction: column;
+  }
+  .heroImage {
+    max-height: 8rem;
+    width: auto;
+    align-self: center;
+    margin-top: 2rem;
+  }
+}
+.trustItems {
+  max-width: 1300px;
+  display: grid;
+  grid-template-columns: 40% 40%;
+  justify-content: space-evenly;
+}
+.trustItem {
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  padding: 3rem;
+  margin-bottom: 2rem;
+  text-decoration: none;
+  color: inherit;
+}
+.trustItem h3 {
+  margin-bottom: 1rem;
+}
+.trustItemBody {
+  flex: 1;
+}
+.trustItem .button {
+  margin: 2rem 0 0 0;
+  align-self: flex-start;
+  width: fit-content;
+}
+@media (max-width: 768px) {
+  .trustItems {
+    grid-template-columns: 100%;
+  }
+  .trustItem {
+    width: 100%;
+    padding: 1.5rem;
+  }
+}
+.resources h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.resourceItems {
+  max-width: 1300px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+.resourceCard {
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+.resourceImagePlaceholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background-color: rgba(0, 0, 0, 0.08);
+  object-fit: cover;
+}
+.resourceBody {
+  padding: 1.5rem;
+}
+.resourceTag {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  color: var(--ifm-color-primary-dark);
+}
+.resourceTitle {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0.75rem 0 1rem;
+}
+.resourceLink {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.resourceCard:hover .resourceLink {
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .resourceItems {
+    grid-template-columns: 100%;
+  }
+}
