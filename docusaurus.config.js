@@ -92,7 +92,7 @@ const config = {
           customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
         gtag: {
-          trackingID: 'AW-536484387',
+          trackingID: 'G-V5X3LJEG2',
           anonymizeIP: true,
         },
       }),
