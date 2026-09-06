@@ -15,6 +15,7 @@
     },
     "dependencies": {
         "@docusaurus/core": "^3.10.2",
+        "@docusaurus/plugin-google-gtag": "^3.10.2",
         "@docusaurus/preset-classic": "^3.10.2",
         "@easyops-cn/docusaurus-search-local": "^0.52.1",
         "@horizontal-org/shira-ui": "^1.0.46",
