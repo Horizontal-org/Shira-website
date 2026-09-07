@@ -2331,5 +2331,233 @@
   },
   "healthcare.closing.cta": {
     "message": "Start your organization's training"
+  },
+  "homepage.audience.education.description.cta": {
+    "message": "Learn about phishing for educational institutions."
+  },
+  "homepage.audience.healthcare.description.cta": {
+    "message": "Learn about phishing for healthcare organizations."
+  },
+  "homepage.audience.nonprofits.description.cta": {
+    "message": "Learn about phishing for nonprofit organizations."
+  },
+  "nonprofits.meta.title": {
+    "message": "Shira for Charities and Nonprofits"
+  },
+  "nonprofits.meta.description": {
+    "message": "Make your charity organization and nonprofit team phishing-resistant."
+  },
+  "nonprofits.meta.longDescription": {
+    "message": "How can nonprofits and charities stop phishing? Shira builds fast, no-code security awareness training for program, admin, and volunteer teams."
+  },
+  "nonprofits.hero.imageAlt": {
+    "message": "Illustration of a fish representing phishing"
+  },
+  "nonprofits.hero.title": {
+    "message": "Protect your donor trust {fromPshishing}"
+  },
+  "nonprofits.hero.title.underline": {
+    "message": "from phishing"
+  },
+  "nonprofits.hero.subtitle": {
+    "message": "Shira helps fundraising, program, finance, and volunteer teams recognize and stop phishing across email, SMS, messaging apps, and social media."
+  },
+  "nonprofits.hero.description": {
+    "message": "Create training tailored to your organization, measure progress, and strengthen everyday security habits, without coding or specialized IT expertise."
+  },
+  "nonprofits.hero.cta.primary": {
+    "message": "Start your organization's training"
+  },
+  "nonprofits.problem.title": {
+    "message": "Phishing can reach your team anywhere"
+  },
+  "nonprofits.problem.subtitle": {
+    "message": "A suspicious message might arrive in a fundraising inbox, a volunteer group chat, a text message, or a social media account. It may look like a donation receipt, a grant approval, or a message from a colleague, a vendor, a board member, or a major donor."
+  },
+  "nonprofits.problem.identity.title": {
+    "message": "Nonprofits face the highest attack rate of any sector"
+  },
+  "nonprofits.problem.identity.description": {
+    "message": "Fraudulent login attempts against nonprofits made up {statLink} last year, more than any other industry. Much of that starts with a stolen password, and phishing remains the most common way attackers get one."
+  },
+  "nonprofits.problem.identity.description.link": {
+    "message": "78% of the sector's total authentications"
+  },
+  "nonprofits.problem.method.title": {
+    "message": "Phishing remains a leading attack method"
+  },
+  "nonprofits.problem.method.description": {
+    "message": "Phishing is one of the most common ways attackers gain access to organizations and serves as the primary entry point for {statLink}."
+  },
+  "nonprofits.problem.method.description.link": {
+    "message": "more than 75% of cyberattacks"
+  },
+  "nonprofits.problem.channels.title": {
+    "message": "Phishing follows the way people communicate"
+  },
+  "nonprofits.problem.channels.description": {
+    "message": "Email is only one part of the picture. Today's phishing attempts also appear through SMS, messaging apps, social media, and other tools people use every day."
+  },
+  "nonprofits.withShira.imageAlt": {
+    "message": "screenshot of a Shira phishing quiz for nonprofit staff"
+  },
+  "nonprofits.withShira.title": {
+    "message": "With Shira, you can…"
+  },
+  "nonprofits.withShira.item1": {
+    "message": "Create training tailored to your organization"
+  },
+  "nonprofits.withShira.item2": {
+    "message": "Measure progress"
+  },
+  "nonprofits.withShira.item3": {
+    "message": "Strengthen everyday security habits"
+  },
+  "nonprofits.withShira.footer": {
+    "message": "All without coding or specialized IT expertise."
+  },
+  "nonprofits.createdFor.title": {
+    "message": "Built for nonprofits and charities"
+  },
+  "nonprofits.createdFor.description1": {
+    "message": "Nonprofits protect more than systems and data. They protect the donors, volunteers, and communities who trust them with their support. With limited resources and high trust, nonprofits present an ideal target for cybercriminals seeking to exploit vulnerabilities."
+  },
+  "nonprofits.createdFor.description2": {
+    "message": "Shira gives nonprofits practical, accessible phishing education designed for the way these teams actually work: small staffs, large volunteer networks, tight budgets, and communication happening across multiple channels."
+  },
+  "nonprofits.createdFor.description3": {
+    "message": "We have more than a decade of experience building tools that help make people and organizations safer online."
+  },
+  "nonprofits.createdFor.cta": {
+    "message": "Try a sample nonprofit campaign"
+  },
+  "nonprofits.buildProgram.title": {
+    "message": "Build a phishing defense program in minutes"
+  },
+  "nonprofits.buildProgram.description1": {
+    "message": "Start with ready-made quizzes from the Shira library and customize them for your organization, or build quizzes from scratch."
+  },
+  "nonprofits.buildProgram.description2": {
+    "message": "Create training for the situations your teams encounter every day, including fake donor management alerts, phishing grant application invites, fake vendor invoices, urgent executive messages, payroll fraud, donor-information requests, and compromised accounts."
+  },
+  "nonprofits.buildProgram.cta": {
+    "message": "Start your organization's training"
+  },
+  "nonprofits.buildProgram.imageAlt": {
+    "message": "screenshot of the Create new question dialog in Shira"
+  },
+  "nonprofits.whyChoose.title": {
+    "message": "Why choose Shira?"
+  },
+  "nonprofits.whyChoose.realistic.title": {
+    "message": "Realistic and multichannel 📱"
+  },
+  "nonprofits.whyChoose.realistic.description1": {
+    "message": "Attacks that reach people outside of email, through SMS, WhatsApp or social media, succeed at higher rates than traditional email phishing. Training only for the inbox leaves that gap open."
+  },
+  "nonprofits.whyChoose.realistic.description2": {
+    "message": "Practice with realistic phishing scenarios across email, SMS, messaging apps, and social media. Train people in the tools, languages, and communication channels they use every day—not just in a simulated inbox."
+  },
+  "nonprofits.whyChoose.workflows.title": {
+    "message": "Built for nonprofit workflows 🫱🏾‍🫲🏼"
+  },
+  "nonprofits.whyChoose.workflows.description1": {
+    "message": "Create exercises for fundraising and development staff, program teams, finance and operations, volunteers, board members, and contractors."
+  },
+  "nonprofits.whyChoose.workflows.description2": {
+    "message": "Tailor training to the systems, roles, and risks that matter most to your organization. Write scenarios in your own words, referencing the systems and situations your teams actually deal with."
+  },
+  "nonprofits.whyChoose.reinforce.title": {
+    "message": "Reinforce learning over time ⏱️"
+  },
+  "nonprofits.whyChoose.reinforce.description1": {
+    "message": "Short, practical exercises help people recognize warning signs and make safer decisions repeatedly."
+  },
+  "nonprofits.whyChoose.reinforce.description2": {
+    "message": "Shira supports ongoing education instead of relying on one-off tests that measure only a single moment."
+  },
+  "nonprofits.whyChoose.track.title": {
+    "message": "Track progress and identify knowledge gaps 📈"
+  },
+  "nonprofits.whyChoose.track.description1": {
+    "message": "See who is improving, understand which topics need more attention, and identify knowledge gaps across teams and roles."
+  },
+  "nonprofits.whyChoose.track.description2": {
+    "message": "Use progress insights to focus your training where it can have the greatest impact."
+  },
+  "nonprofits.whyChoose.accessible.title": {
+    "message": "Accessible to every member of your organization 📖"
+  },
+  "nonprofits.whyChoose.accessible.description1": {
+    "message": "Make phishing education approachable for people with different roles, technical backgrounds, schedules, and levels of security experience."
+  },
+  "nonprofits.whyChoose.accessible.description2": {
+    "message": "Clear, practical exercises help everyone participate."
+  },
+  "nonprofits.whyChoose.deploy.title": {
+    "message": "Easy to deploy 👩🏽‍💻"
+  },
+  "nonprofits.whyChoose.deploy.description1": {
+    "message": "Build and manage training within minutes and without coding or specialized IT expertise."
+  },
+  "nonprofits.whyChoose.deploy.description2": {
+    "message": "Shira helps small security teams and resource-constrained organizations create a practical phishing education program quickly."
+  },
+  "nonprofits.whyChoose.privacy.title": {
+    "message": "Privacy-friendly 🔒"
+  },
+  "nonprofits.whyChoose.privacy.description": {
+    "message": "Shira doesn't collect, process, or store any donor or beneficiary data. Training scenarios use simulated content, not real donor or employee data, so you can train your team without adding new data exposure."
+  },
+  "nonprofits.whyChoose.privacy.cta": {
+    "message": "Read our trust and security details."
+  },
+  "nonprofits.training.title": {
+    "message": "Help your team protect the donors and communities who trust you"
+  },
+  "nonprofits.training.program.title": {
+    "message": "Program teams 🌍"
+  },
+  "nonprofits.training.program.description": {
+    "message": "Help program and service staff spot phishing attempts that impersonate beneficiaries, partner organizations, or case-management systems, and that could disrupt service delivery or expose sensitive participant information."
+  },
+  "nonprofits.training.administrative.title": {
+    "message": "Fundraising teams 💰"
+  },
+  "nonprofits.training.administrative.description": {
+    "message": "Help fundraising and development staff recognize fake donor portal alerts, phishing grant-approval requests, donation platform account takeover attempts, and messages impersonating major donors or funders."
+  },
+  "nonprofits.training.support.title": {
+    "message": "Finance and operations teams 👩🏽‍💼"
+  },
+  "nonprofits.training.support.description": {
+    "message": "Prepare finance and operations staff to identify payroll fraud, vendor impersonation, wire-transfer fraud, and requests involving donor or organizational financial information."
+  },
+  "nonprofits.training.distributed.title": {
+    "message": "Volunteers and board members 🌎"
+  },
+  "nonprofits.training.distributed.description": {
+    "message": "Give volunteers, board members, and distributed teams practical tools to recognize suspicious communication wherever they work."
+  },
+  "nonprofits.training.cta": {
+    "message": "Create a quiz for your team"
+  },
+  "nonprofits.closing.imageAlt": {
+    "message": "decorative illustration of a fish representing phishing"
+  },
+  "nonprofits.closing.title": {
+    "message": "Security education should be accessible to everyone"
+  },
+  "nonprofits.closing.part1": {
+    "message": "Shira is a product of"
+  },
+  "nonprofits.closing.part2": {
+    "message": ", a technology nonprofit dedicated to making online security accessible to everyone."
+  },
+  "nonprofits.closing.part3": {
+    "message": "We built Shira because organizations, especially those without dedicated security teams, deserve practical, affordable tools to protect their teams, beneficiaries, and communities."
+  },
+  "nonprofits.closing.cta": {
+    "message": "Start your organization's training"
   }
 }

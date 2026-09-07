@@ -225,6 +225,10 @@ const config = {
                 label: 'Phishing training for education',
                 to: '/shira-for-education',
               },
+              {
+                label: 'Phishing training for nonprofits',
+                to: '/shira-for-nonprofits',
+              },
             ],
           },
           {
