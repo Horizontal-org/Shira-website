@@ -70,5 +70,17 @@
   "link.item.label.Trust & Security": {
     "message": "Trust & Security",
     "description": "The label of footer link with label=Trust & Security linking to /trust-security"
+  },
+  "link.title.About Shira": {
+    "message": "About Shira",
+    "description": "The title of the footer links column with title=About Shira in the footer"
+  },
+  "link.item.label.Phishing training for healthcare": {
+    "message": "Phishing training for healthcare",
+    "description": "The label of footer link with label=Phishing training for healthcare linking to /shira-for-healthcare"
+  },
+  "link.item.label.Phishing training for education": {
+    "message": "Phishing training for education",
+    "description": "The label of footer link with label=Phishing training for education linking to /shira-for-education"
   }
 }

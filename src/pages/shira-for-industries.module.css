@@ -1,0 +1,142 @@
+:global(.main) {
+  overflow-x: hidden;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+.heroText {
+  max-width: 600px;
+  flex: 1;
+}
+.heroText h2 {
+  font-size: 2.75rem;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+}
+.underline {
+  text-decoration: underline;
+  text-decoration-color: var(--ifm-color-primary);
+}
+.heroText p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+.heroText p:last-of-type {
+  margin-bottom: 2rem;
+}
+.heroImage {
+  max-height: 320px;
+  width: auto;
+  flex-shrink: 0;
+}
+.createdForSection {
+  width: 100%;
+}
+.createdFor {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 3rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+.createdForTitle {
+  flex: 0 1 420px;
+  min-width: 400px;
+}
+.createdForTitle h2 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin-bottom: 0;
+  overflow-wrap: normal !important;
+  word-break: normal !important;
+  hyphens: none !important;
+}
+.createdForText {
+  flex: 1;
+  min-width: 0;
+}
+.createdForText p {
+  margin-bottom: 1.25rem;
+  font-size: 1.05rem;
+}
+.statLinkOnDark {
+  color: var(--ifm-color-primary-lightest);
+  text-decoration: underline;
+}
+.statLinkOnDark:hover {
+  color: var(--ifm-color-primary-lightest);
+}
+.createdForTextLead {
+  font-weight: 600;
+}
+.privacyCardWrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+.privacyCard {
+  max-width: 460px;
+  width: 100%;
+}
+.secondaryButton {
+  display: inline-block;
+  width: fit-content;
+  background: var(--ifm-color-primary-lightest);
+  border: 1px solid var(--ifm-color-primary-darker);
+  color: var(--ifm-color-primary-darkest);
+  border-radius: 30px;
+  padding: 1em 2em;
+  text-transform: uppercase;
+}
+.secondaryButton:hover {
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    padding: 3rem 1.5rem;
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  .heroText {
+    max-width: 100%;
+  }
+  .heroText h2 {
+    font-size: 2rem;
+  }
+  .heroImage {
+    order: -1;
+    width: min(80%, 220px);
+    height: auto;
+    max-height: none;
+    max-width: none;
+    margin: 0 auto;
+  }
+  .wideCta {
+    width: fit-content !important;
+    max-width: 100% !important;
+    white-space: normal !important;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .createdFor {
+    flex-direction: column;
+    text-align: center;
+    padding: 3rem 1.5rem;
+  }
+  .createdForTitle {
+    max-width: 100%;
+    flex: initial;
+    min-width: 0;
+  }
+}
