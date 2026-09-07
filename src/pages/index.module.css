@@ -282,6 +282,19 @@
   align-self: center;
   border-radius: 12px;
 }
+/* When .wideImage is carried by a ZoomableImage trigger, the inner image fills
+   it, so the layout matches a plain <img> with the same class. */
+.context .wideImage img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: inherit;
+}
+@media (max-width: 768px) {
+  .context .wideImage {
+    width: 90%;
+  }
+}
 .contextText .button {
   margin-left: 0;
 }
