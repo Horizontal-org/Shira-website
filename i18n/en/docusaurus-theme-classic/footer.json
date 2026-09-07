@@ -82,5 +82,9 @@
   "link.item.label.Phishing training for education": {
     "message": "Phishing training for education",
     "description": "The label of footer link with label=Phishing training for education linking to /shira-for-education"
+  },
+  "link.item.label.Phishing training for nonprofits": {
+    "message": "Phishing training for nonprofits",
+    "description": "The label of footer link with label=Phishing training for nonprofits linking to /shira-for-nonprofits"
   }
 }

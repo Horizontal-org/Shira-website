@@ -373,7 +373,12 @@ export default function Home() {
                     Help teachers, administrators, staff, and students recognize
                     phishing messages target school accounts, learning platforms,
                     payroll systems, and campus services.
-                  </Translate>
+                  </Translate>{' '}
+                  <Link to="/shira-for-education">
+                    <Translate id="homepage.audience.education.description.cta">
+                      Learn about phishing for educational institutions.
+                    </Translate>
+                  </Link>
                 </p>
               </div>
 
@@ -386,7 +391,13 @@ export default function Home() {
                     Prepare clinical, administrative, and support teams to identify
                     suspicious messages and help protect patient information and
                     essential services.
-                  </Translate>
+                    </Translate>{' '}
+                  <Link to="/shira-for-healthcare">
+                    <Translate id="homepage.audience.healthcare.description.cta">
+                      Learn about phishing for healthcare organizations.
+                    </Translate>
+                  </Link>
+                  
                 </p>
               </div>
 
@@ -399,7 +410,12 @@ export default function Home() {
                     Give staff, volunteers, and distributed teams practical tools to
                     recognize phishing, donation fraud, account takeovers, and other
                     targeted attacks—without requiring a dedicated security team.
-                  </Translate>
+                  </Translate>{' '}
+                  <Link to="/shira-for-healthcare">
+                    <Translate id="homepage.audience.nonprofits.description.cta">
+                      Learn about phishing for nonprofit organizations.
+                    </Translate>
+                  </Link>
                 </p>
               </div>
 
