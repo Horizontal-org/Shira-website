@@ -1890,5 +1890,446 @@
   },
   "homepage.closing.cta": {
     "message": "Start your organization's training"
+  },
+  "education.meta.title": {
+    "message": "Shira for Education"
+  },
+  "education.meta.description": {
+    "message": "Make your education team phishing-resistant."
+  },
+  "education.meta.longDescription": {
+    "message": "Shira helps clinical, administrative, and support teams recognize and stop phishing across email, SMS, messaging apps, and social media."
+  },
+  "education.hero.imageAlt": {
+    "message": "Illustration of a fish representing phishing"
+  },
+  "education.hero.title": {
+    "message": "Make your school or institution {phishingResistant}"
+  },
+  "education.hero.title.underline": {
+    "message": "phishing-resistant"
+  },
+  "education.hero.subtitle": {
+    "message": "Shira helps faculty, administrative staff, and IT teams recognize and stop phishing recognize and stop phishing across email, SMS, messaging apps, and social media."
+  },
+  "education.hero.description": {
+    "message": "Create training tailored to your institution, measure progress, and strengthen everyday security habits—without coding or specialized IT expertise."
+  },
+  "education.hero.cta.primary": {
+    "message": "Start your institution's training"
+  },
+  "education.problem.title": {
+    "message": "Phishing can reach your team anywhere"
+  },
+  "education.problem.subtitle": {
+    "message": "A suspicious message might arrive in a staff inbox, a department group chat, a text message, or even a social media account. It may look like a student-portal alert, an enrollment or financial-aid notification, or a message from a colleague, a vendor, IT support, or a student."
+  },
+  "education.problem.identity.title": {
+    "message": "Educational institutions face persistent identity risks"
+  },
+  "education.problem.identity.description": {
+    "message": "Stolen credentials appear in {statLink} involving hacking actions in the education sector."
+  },
+  "education.problem.identity.description.link": {
+    "message": "65% of breaches"
+  },
+  "education.problem.method.title": {
+    "message": "The human element is the biggest gap"
+  },
+  "education.problem.method.description": {
+    "message": "{statLink} data breaches—more than in almost any other industry."
+  },
+  "education.problem.method.description.link": {
+    "message": "The human element is involved in 68% of education sector"
+  },
+  "education.problem.channels.title": {
+    "message": "Phishing follows the way people communicate"
+  },
+  "education.problem.channels.description": {
+    "message": "Email is only one part of the picture. Today's phishing attempts also appear through SMS, messaging apps, social media, and other tools people use every day."
+  },
+  "education.withShira.imageAlt": {
+    "message": "screenshot of a Shira phishing quiz for nurse practitioners"
+  },
+  "education.withShira.title": {
+    "message": "With Shira, you can…"
+  },
+  "education.withShira.item1": {
+    "message": "Create training tailored to your institution"
+  },
+  "education.withShira.item2": {
+    "message": "Measure progress"
+  },
+  "education.withShira.item3": {
+    "message": "Strengthen everyday security habits"
+  },
+  "education.withShira.footer": {
+    "message": "All without coding or specialized IT expertise."
+  },
+  "education.createdFor.title": {
+    "message": "Built for education institutions"
+  },
+  "education.createdFor.description1": {
+    "message": "Educational institutions protect more than systems and data. They protect students, staff, and the trust of the families and communities that depend on them."
+  },
+  "education.createdFor.description2": {
+    "message": "Education has one of the highest breach rates of any sector, with 79% of reported security incidents resulting in a confirmed breach. Unlike organizations with dedicated security teams, many educational institutions operate with limited IT resources—training your staff is one of the highest-leverage ways to close that gap."
+  },
+  "education.createdFor.description3": {
+    "message": "Shira gives education organizations practical, accessible phishing education designed for the way school and university teams actually work—with limited resources, busy schedules, and communication happening across multiple channels. We have more than a decade of experience building tools that help make people and organizations safer online."
+  },
+  "education.createdFor.cta": {
+    "message": "Try a sample education campaign"
+  },
+  "education.buildProgram.title": {
+    "message": "Build a phishing defense program in minutes"
+  },
+  "education.buildProgram.description1": {
+    "message": "Start with ready-made quizzes from the Shira library and customize them for your institution, or build quizzes from scratch."
+  },
+  "education.buildProgram.description2": {
+    "message": "Create training for the situations your teams encounter every day, including fake student-portal or LMS notifications, phishing financial-aid or tuition messages, fake vendor invoices, urgent messages impersonating administrators, payroll fraud, requests involving student or staff records, and compromised accounts."
+  },
+  "education.buildProgram.cta": {
+    "message": "Start your institution's training"
+  },
+  "education.buildProgram.imageAlt": {
+    "message": "screenshot of the Create new question dialog in Shira"
+  },
+  "education.whyChoose.title": {
+    "message": "Why choose Shira?"
+  },
+  "education.whyChoose.realistic.title": {
+    "message": "Realistic and multichannel 📱"
+  },
+  "education.whyChoose.realistic.description1": {
+    "message": "Attacks that reach people outside of email, through SMS, WhatsApp or social media, succeed at higher rates than traditional email phishing. Training only for the inbox leaves that gap open."
+  },
+  "education.whyChoose.realistic.description2": {
+    "message": "Practice with realistic phishing scenarios across email, SMS, messaging apps, and social media. Train people in the tools, languages, and communication channels they use every day—not just in a simulated inbox."
+  },
+  "education.whyChoose.workflows.title": {
+    "message": "Built for education workflows 👩🏾‍🏫"
+  },
+  "education.whyChoose.workflows.description1": {
+    "message": "Create exercises for faculty, administrative staff, IT, contractors, and support teams."
+  },
+  "education.whyChoose.workflows.description2": {
+    "message": "Tailor training to the systems, roles, and risks that matter most to your institution. Write scenarios in your own words, referencing the systems and situations your teams actually deal with."
+  },
+  "education.whyChoose.reinforce.title": {
+    "message": "Reinforce learning over time ⏱️"
+  },
+  "education.whyChoose.reinforce.description1": {
+    "message": "Short, practical exercises help people recognize warning signs and make safer decisions repeatedly."
+  },
+  "education.whyChoose.reinforce.description2": {
+    "message": "Shira supports ongoing education instead of relying on one-off tests that measure only a single moment."
+  },
+  "education.whyChoose.track.title": {
+    "message": "Track progress and identify knowledge gaps 📈"
+  },
+  "education.whyChoose.track.description1": {
+    "message": "See who is improving, understand which topics need more attention, and identify knowledge gaps across teams and roles."
+  },
+  "education.whyChoose.track.description2": {
+    "message": "Use progress insights to focus your training where it can have the greatest impact."
+  },
+  "education.whyChoose.accessible.title": {
+    "message": "Accessible to every member of your institution 📖"
+  },
+  "education.whyChoose.accessible.description1": {
+    "message": "Make phishing education approachable for people with different roles, technical backgrounds, schedules, and levels of security experience."
+  },
+  "education.whyChoose.accessible.description2": {
+    "message": "Clear, practical exercises help everyone participate."
+  },
+  "education.whyChoose.deploy.title": {
+    "message": "Easy to deploy 👩🏽‍💻"
+  },
+  "education.whyChoose.deploy.description1": {
+    "message": "Build and manage training within minutes and without coding or specialized IT expertise."
+  },
+  "education.whyChoose.deploy.description2": {
+    "message": "Shira helps small security teams and resource-constrained organizations create a practical phishing education program quickly."
+  },
+  "education.whyChoose.privacy.title": {
+    "message": "Privacy-friendly 🔒"
+  },
+  "education.whyChoose.privacy.description": {
+    "message": "Shira doesn't collect, process, or store student or staff records. Training scenarios use simulated content, not real institutional data, so you can train your team without adding new exposure."
+  },
+  "education.whyChoose.privacy.cta": {
+    "message": "Read our trust and security details."
+  },
+  "education.training.title": {
+    "message": "Help your team protect the students in your care"
+  },
+  "education.training.clinical.title": {
+    "message": "Faculty and academic staff 🧑🏻‍🏫"
+  },
+  "education.training.clinical.description": {
+    "message": "Help faculty recognize suspicious requests, unusual links—including fake student-portal or LMS notifications—fake login pages, and messages impersonating colleagues, administrators, students, or vendors."
+  },
+  "education.training.administrative.title": {
+    "message": "Administrative teams 👨🏾‍💼"
+  },
+  "education.training.administrative.description": {
+    "message": "Prepare administrative staff to identify payroll fraud, vendor impersonation, account takeover attempts, and requests involving student or staff records."
+  },
+  "education.training.support.title": {
+    "message": "Support and operations teams 👷🏻‍♂️"
+  },
+  "education.training.support.description": {
+    "message": "Help IT, facilities, and operations staff spot phishing attempts that could disrupt essential services or expose sensitive information."
+  },
+  "education.training.distributed.title": {
+    "message": "Distributed and partner teams 🌎"
+  },
+  "education.training.distributed.description": {
+    "message": "Give contractors, remote staff, and partner organizations practical tools to recognize suspicious communication wherever they work."
+  },
+  "education.training.cta": {
+    "message": "Create a quiz for your team"
+  },
+  "education.closing.imageAlt": {
+    "message": "decorative illustration of a fish representing phishing"
+  },
+  "education.closing.title": {
+    "message": "Security education should be accessible to everyone"
+  },
+  "education.closing.part1": {
+    "message": "Shira is a product of"
+  },
+  "education.closing.part2": {
+    "message": ", a technology nonprofit dedicated to making online security accessible to everyone."
+  },
+  "education.closing.part3": {
+    "message": "We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams, patients, and communities."
+  },
+  "education.closing.cta": {
+    "message": "Start your organization's training"
+  },
+  "healthcare.meta.title": {
+    "message": "Shira for Healthcare"
+  },
+  "healthcare.meta.description": {
+    "message": "Make your healthcare team phishing-resistant."
+  },
+  "healthcare.meta.longDescription": {
+    "message": "Shira helps clinical, administrative, and support teams recognize and stop phishing across email, SMS, messaging apps, and social media."
+  },
+  "healthcare.hero.imageAlt": {
+    "message": "Illustration of a fish representing phishing"
+  },
+  "healthcare.hero.title": {
+    "message": "Make your healthcare team {phishingResistant}"
+  },
+  "healthcare.hero.title.underline": {
+    "message": "phishing-resistant"
+  },
+  "healthcare.hero.subtitle": {
+    "message": "Shira helps clinical, administrative, and support teams recognize and stop phishing across email, SMS, messaging apps, and social media."
+  },
+  "healthcare.hero.description": {
+    "message": "Create training tailored to your organization, measure progress, and strengthen everyday security habits—without coding or specialized IT expertise."
+  },
+  "healthcare.hero.cta.primary": {
+    "message": "Start your organization's training"
+  },
+  "healthcare.problem.title": {
+    "message": "Phishing can reach your team anywhere"
+  },
+  "healthcare.problem.subtitle": {
+    "message": "A suspicious message might arrive in a clinical inbox, a staff group chat, a text message, or a social media account. It may look like a patient portal alert, a lab result notification, or a message from a colleague, a vendor, an executive, a patient, or a trusted healthcare service."
+  },
+  "healthcare.problem.identity.title": {
+    "message": "Healthcare organizations face persistent identity risks"
+  },
+  "healthcare.problem.identity.description": {
+    "message": "{statLink} faced an identity breach last year."
+  },
+  "healthcare.problem.identity.description.link": {
+    "message": "Nine in ten organizations"
+  },
+  "healthcare.problem.method.title": {
+    "message": "Phishing remains a leading attack method"
+  },
+  "healthcare.problem.method.description": {
+    "message": "Phishing is one of the most common ways attackers gain access to organizations and serves as the primary entry point for {statLink}."
+  },
+  "healthcare.problem.method.description.link": {
+    "message": "more than 75% of cyberattacks"
+  },
+  "healthcare.problem.channels.title": {
+    "message": "Phishing follows the way people communicate"
+  },
+  "healthcare.problem.channels.description": {
+    "message": "Email is only one part of the picture. Today's phishing attempts also appear through SMS, messaging apps, social media, and other tools people use every day."
+  },
+  "healthcare.withShira.imageAlt": {
+    "message": "screenshot of a Shira phishing quiz for nurse practitioners"
+  },
+  "healthcare.withShira.title": {
+    "message": "With Shira, you can…"
+  },
+  "healthcare.withShira.item1": {
+    "message": "Create training tailored to your organization"
+  },
+  "healthcare.withShira.item2": {
+    "message": "Measure progress"
+  },
+  "healthcare.withShira.item3": {
+    "message": "Strengthen everyday security habits"
+  },
+  "healthcare.withShira.footer": {
+    "message": "All without coding or specialized IT expertise."
+  },
+  "healthcare.createdFor.title": {
+    "message": "Built for healthcare organizations"
+  },
+  "healthcare.createdFor.description1": {
+    "message": "Healthcare teams protect more than systems and data. They protect patient information, essential services, and people who rely on them every day. The human element is {statLink}, more than in almost any other industry. Training your team is one of the highest-leverage ways to close that gap."
+  },
+  "healthcare.createdFor.description1.link": {
+    "message": "involved in 54% of healthcare data breaches"
+  },
+  "healthcare.createdFor.description2": {
+    "message": "Shira gives healthcare organizations practical, accessible phishing education designed for the way teams actually work—with limited resources, busy schedules, and communication happening across multiple channels."
+  },
+  "healthcare.createdFor.description3": {
+    "message": "We have more than a decade of experience building tools that help make people and organizations safer online."
+  },
+  "healthcare.createdFor.cta": {
+    "message": "Try a sample healthcare campaign"
+  },
+  "healthcare.buildProgram.title": {
+    "message": "Build a phishing defense program in minutes"
+  },
+  "healthcare.buildProgram.description1": {
+    "message": "Start with ready-made quizzes from the Shira library and customize them for your organization, or build quizzes from scratch."
+  },
+  "healthcare.buildProgram.description2": {
+    "message": "Create training for the situations your teams encounter every day, including fake EHR or lab-result notifications, phishing telehealth invites, fake vendor invoices, urgent executive messages, payroll fraud, patient-information requests, and compromised accounts."
+  },
+  "healthcare.buildProgram.cta": {
+    "message": "Start your organization's training"
+  },
+  "healthcare.buildProgram.imageAlt": {
+    "message": "screenshot of the Create new question dialog in Shira"
+  },
+  "healthcare.whyChoose.title": {
+    "message": "Why choose Shira?"
+  },
+  "healthcare.whyChoose.realistic.title": {
+    "message": "Realistic and multichannel 📱"
+  },
+  "healthcare.whyChoose.realistic.description1": {
+    "message": "Attacks that reach people outside of email, through SMS, WhatsApp or social media, succeed at higher rates than traditional email phishing. Training only for the inbox leaves that gap open."
+  },
+  "healthcare.whyChoose.realistic.description2": {
+    "message": "Practice with realistic phishing scenarios across email, SMS, messaging apps, and social media. Train people in the tools, languages, and communication channels they use every day—not just in a simulated inbox."
+  },
+  "healthcare.whyChoose.workflows.title": {
+    "message": "Built for healthcare workflows 👩🏾‍⚕️"
+  },
+  "healthcare.whyChoose.workflows.description1": {
+    "message": "Create exercises for clinical staff, front-desk teams, billing departments, administrators, support staff, contractors, and volunteers."
+  },
+  "healthcare.whyChoose.workflows.description2": {
+    "message": "Tailor training to the systems, roles, and risks that matter most to your organization. Write scenarios in your own words, referencing the systems and situations your teams actually deal with."
+  },
+  "healthcare.whyChoose.reinforce.title": {
+    "message": "Reinforce learning over time ⏱️"
+  },
+  "healthcare.whyChoose.reinforce.description1": {
+    "message": "Short, practical exercises help people recognize warning signs and make safer decisions repeatedly."
+  },
+  "healthcare.whyChoose.reinforce.description2": {
+    "message": "Shira supports ongoing education instead of relying on one-off tests that measure only a single moment."
+  },
+  "healthcare.whyChoose.track.title": {
+    "message": "Track progress and identify knowledge gaps 📈"
+  },
+  "healthcare.whyChoose.track.description1": {
+    "message": "See who is improving, understand which topics need more attention, and identify knowledge gaps across teams and roles."
+  },
+  "healthcare.whyChoose.track.description2": {
+    "message": "Use progress insights to focus your training where it can have the greatest impact."
+  },
+  "healthcare.whyChoose.accessible.title": {
+    "message": "Accessible to every member of your organization 📖"
+  },
+  "healthcare.whyChoose.accessible.description1": {
+    "message": "Make phishing education approachable for people with different roles, technical backgrounds, schedules, and levels of security experience."
+  },
+  "healthcare.whyChoose.accessible.description2": {
+    "message": "Clear, practical exercises help everyone participate."
+  },
+  "healthcare.whyChoose.deploy.title": {
+    "message": "Easy to deploy 👩🏽‍💻"
+  },
+  "healthcare.whyChoose.deploy.description1": {
+    "message": "Build and manage training within minutes and without coding or specialized IT expertise."
+  },
+  "healthcare.whyChoose.deploy.description2": {
+    "message": "Shira helps small security teams and resource-constrained organizations create a practical phishing education program quickly."
+  },
+  "healthcare.whyChoose.privacy.title": {
+    "message": "Privacy-friendly 🔒"
+  },
+  "healthcare.whyChoose.privacy.description": {
+    "message": "Shira doesn't collect, process, or store any Protected Health Information (PHI). Training scenarios use simulated content, not real patient or employee data, so you can train your team without adding new PHI exposure."
+  },
+  "healthcare.whyChoose.privacy.cta": {
+    "message": "Read our trust and security details."
+  },
+  "healthcare.training.title": {
+    "message": "Training for every healthcare team"
+  },
+  "healthcare.training.clinical.title": {
+    "message": "Clinical teams 🧑🏾‍⚕️"
+  },
+  "healthcare.training.clinical.description": {
+    "message": "Help clinicians recognize suspicious requests, unusual links—including EHR notifications, lab results, or telehealth links—fake login pages, and messages impersonating colleagues, patients, vendors, or trusted healthcare services."
+  },
+  "healthcare.training.administrative.title": {
+    "message": "Administrative teams 🧑🏼‍💼"
+  },
+  "healthcare.training.administrative.description": {
+    "message": "Prepare administrative staff to identify payroll fraud, vendor and payer impersonation, account takeover attempts, and requests involving patient or employee information."
+  },
+  "healthcare.training.support.title": {
+    "message": "Support and operations teams 👷🏻‍♂️"
+  },
+  "healthcare.training.support.description": {
+    "message": "Help front-desk, facilities, billing, IT, and operations staff spot phishing attempts that could disrupt essential services or expose sensitive information."
+  },
+  "healthcare.training.distributed.title": {
+    "message": "Distributed and partner teams 🌎"
+  },
+  "healthcare.training.distributed.description": {
+    "message": "Give remote employees, contractors, volunteers, and partner organizations practical tools to recognize suspicious communication wherever they work."
+  },
+  "healthcare.training.cta": {
+    "message": "Create a quiz for your team"
+  },
+  "healthcare.closing.imageAlt": {
+    "message": "decorative illustration of a fish representing phishing"
+  },
+  "healthcare.closing.title": {
+    "message": "Security education should be accessible to everyone"
+  },
+  "healthcare.closing.part1": {
+    "message": "Shira is a product of"
+  },
+  "healthcare.closing.part2": {
+    "message": ", a technology nonprofit dedicated to making online security accessible to everyone."
+  },
+  "healthcare.closing.part3": {
+    "message": "We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams, patients, and communities."
+  },
+  "healthcare.closing.cta": {
+    "message": "Start your organization's training"
   }
 }

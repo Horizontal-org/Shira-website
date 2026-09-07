@@ -185,7 +185,7 @@ const config = {
             to: `${signupFormUrl}?plan=starter`,
             label: 'Sign up/Log in',
             position: 'right',
-            className: 'button',
+            className: 'button navbar--site-only',
           },
           {
             type: 'localeDropdown',
@@ -194,6 +194,7 @@ const config = {
           {
             type: 'search',
             position: 'right',
+            className: 'navbar--docs-only',
           },
         ],
 
@@ -215,6 +216,14 @@ const config = {
               {
                 label: 'Effective phishing education',
                 to: '/phishing-quizzes',
+              },
+              {
+                label: 'Phishing training for healthcare',
+                to: '/shira-for-healthcare',
+              },
+              {
+                label: 'Phishing training for education',
+                to: '/shira-for-education',
               },
             ],
           },
