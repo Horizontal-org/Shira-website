@@ -12,6 +12,7 @@ import ProductPreviewImage from "@site/static/img/feature-create-new-question.pn
 import FishImage from "@site/static/img/fish-bubbles.png";
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
+import ZoomableImage from '@site/src/components/ZoomableImage';
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -145,7 +146,7 @@ export default function Home() {
         </section>
 
         <section className={classNames(global.backgroundDark, global.row, global.center, styles.context)}>
-          <img
+          <ZoomableImage
             className={styles.wideImage}
             src={FeatureExplanationImage}
             alt={translate({
@@ -201,7 +202,7 @@ export default function Home() {
               <Translate id="homepage.productPreview.cta">See a sample campaign</Translate>
             </Link>
           </div>
-          <img
+          <ZoomableImage
             className={styles.wideImage}
             src={ProductPreviewImage}
             alt={translate({

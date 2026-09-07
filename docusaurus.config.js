@@ -92,7 +92,7 @@ const config = {
           customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
         gtag: {
-          trackingID: 'G-V5X3LJEG2',
+          trackingID: 'G-V5X3LJEG21',
           anonymizeIP: true,
         },
       }),
@@ -182,12 +182,6 @@ const config = {
             label: 'Pricing',
           },
           {
-            to: `${signupFormUrl}?plan=starter`,
-            label: 'Sign up/Log in',
-            position: 'right',
-            className: 'button navbar--site-only',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
@@ -195,6 +189,12 @@ const config = {
             type: 'search',
             position: 'right',
             className: 'navbar--docs-only',
+          },
+          {
+            to: `${signupFormUrl}?plan=starter`,
+            label: 'Sign up/Log in',
+            position: 'right',
+            className: 'button navbar--site-only',
           },
         ],
 
