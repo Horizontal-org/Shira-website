@@ -59,7 +59,7 @@ export default function Home() {
 
         <section className={classNames(global.backgroundDark, styles.whySection, global.row, global.center)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
-            <img src={ShiraLogo} alt="Shira" width={140} />
+            <img src={ShiraLogo} alt="Shira" width={240} />
 
             <div className={styles.reasonsWhy}>
               <p>
@@ -78,12 +78,6 @@ export default function Home() {
                   </Translate>
                 </strong>.
               </p>
-              <p>
-                <Translate id="homepage.trust.experience">
-                  We have over a decade experience building tools to make people and
-                  organizations safer.
-                </Translate>
-              </p>
             </div>
           </div>
         </section>
@@ -92,7 +86,7 @@ export default function Home() {
           <div className={global.sectionMaxWidth}>
             <h2>
               <Translate id="homepage.problem.title">
-                9 in 10 organizations faced an identity breach in 2024.
+                9 in 10 organizations faced an identity breach in 2025
               </Translate>
             </h2>
 
