@@ -192,7 +192,7 @@ const config = {
           },
           {
             to: `${signupFormUrl}?plan=starter`,
-            label: 'Sign up/Log in',
+            label: 'Log in',
             position: 'right',
             className: 'button navbar--site-only',
           },
