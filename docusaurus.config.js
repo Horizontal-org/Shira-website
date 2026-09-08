@@ -283,7 +283,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a> </br> <img src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" style="height: 18px; width: auto; margin-top: 6px;" />`,
+        copyright: `Shira is a product of <a href="http://www.wearehorizontal.org">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT</br> <a href="mailto:contact@wearehorizontal.org">contact@wearehorizontal.org</a> </br> <img src="https://app.greenweb.org/api/v3/greencheckimage/www.shira.app?nocache=true" alt="This website runs on green hosting - verified by thegreenwebfoundation.org" style="height: 18px; width: auto; margin-top: 6px;" />`,
       },
       prism: {
         theme: prismThemes.github,
