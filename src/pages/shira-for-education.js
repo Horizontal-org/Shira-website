@@ -30,7 +30,7 @@ export default function ShiraForEducation() {
         name="description"
         content={translate({
           id: 'education.meta.longDescription',
-          message: 'Shira helps clinical, administrative, and support teams recognize and stop phishing across email, SMS, messaging apps, and social media.',
+          message: 'How can educational institutions stop phishing? Shira helps faculty, staff, and IT teams recognize and stop phishing across email, SMS, and social media.',
         })}
       />
 

@@ -59,7 +59,7 @@ export default function Home() {
 
         <section className={classNames(global.backgroundDark, styles.whySection, global.row, global.center)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
-            <img src={ShiraLogo} alt="Shira" width={140} />
+            <img src={ShiraLogo} alt="Shira" width={240} />
 
             <div className={styles.reasonsWhy}>
               <p>
@@ -78,12 +78,6 @@ export default function Home() {
                   </Translate>
                 </strong>.
               </p>
-              <p>
-                <Translate id="homepage.trust.experience">
-                  We have over a decade experience building tools to make people and
-                  organizations safer.
-                </Translate>
-              </p>
             </div>
           </div>
         </section>
@@ -92,7 +86,7 @@ export default function Home() {
           <div className={global.sectionMaxWidth}>
             <h2>
               <Translate id="homepage.problem.title">
-                9 in 10 organizations faced an identity breach in 2024.
+                9 in 10 organizations faced an identity breach in 2025
               </Translate>
             </h2>
 
@@ -373,7 +367,12 @@ export default function Home() {
                     Help teachers, administrators, staff, and students recognize
                     phishing messages target school accounts, learning platforms,
                     payroll systems, and campus services.
-                  </Translate>
+                  </Translate>{' '}
+                  <Link to="/shira-for-education">
+                    <Translate id="homepage.audience.education.description.cta">
+                      Learn about phishing for educational institutions.
+                    </Translate>
+                  </Link>
                 </p>
               </div>
 
@@ -386,7 +385,13 @@ export default function Home() {
                     Prepare clinical, administrative, and support teams to identify
                     suspicious messages and help protect patient information and
                     essential services.
-                  </Translate>
+                    </Translate>{' '}
+                  <Link to="/shira-for-healthcare">
+                    <Translate id="homepage.audience.healthcare.description.cta">
+                      Learn about phishing for healthcare organizations.
+                    </Translate>
+                  </Link>
+                  
                 </p>
               </div>
 
@@ -399,7 +404,12 @@ export default function Home() {
                     Give staff, volunteers, and distributed teams practical tools to
                     recognize phishing, donation fraud, account takeovers, and other
                     targeted attacks—without requiring a dedicated security team.
-                  </Translate>
+                  </Translate>{' '}
+                  <Link to="/shira-for-healthcare">
+                    <Translate id="homepage.audience.nonprofits.description.cta">
+                      Learn about phishing for nonprofit organizations.
+                    </Translate>
+                  </Link>
                 </p>
               </div>
 
