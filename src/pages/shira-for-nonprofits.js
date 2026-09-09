@@ -11,6 +11,7 @@ import FishImage from "@site/static/img/fish.png";
 import ClosingFishImage from "@site/static/img/fish-bubbles.png";
 import NonprofitQuizImage from "@site/static/img/quiz-nonprofit.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
+import ZoomableImage from '@site/src/components/ZoomableImage';
 
 export default function ShiraForNonprofits() {
   const getSignupUrl = useSignupUrl();
@@ -173,7 +174,7 @@ export default function ShiraForNonprofits() {
         </section>
 
         <section className={classNames(global.row, global.center, indexStyles.context)}>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
             src={NonprofitQuizImage}
             alt={translate({
@@ -281,7 +282,7 @@ export default function ShiraForNonprofits() {
               </Translate>
             </Link>
           </div>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
             src={ProductPreviewImage}
             alt={translate({

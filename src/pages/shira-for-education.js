@@ -9,8 +9,9 @@ import Translate, { translate } from '@docusaurus/Translate';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
 import FishImage from "@site/static/img/fish.png";
 import ClosingFishImage from "@site/static/img/fish-bubbles.png";
-import NursePractitionerQuizImage from "@site/static/img/healthcare-nurse-quiz.png";
+import EnglishDepartmentQuiz from "@site/static/img/quiz-education.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
+import ZoomableImage from '@site/src/components/ZoomableImage';
 
 export default function ShiraForEducation() {
   const getSignupUrl = useSignupUrl();
@@ -175,12 +176,12 @@ export default function ShiraForEducation() {
         </section>
 
         <section className={classNames(global.row, global.center, indexStyles.context)}>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
-            src={NursePractitionerQuizImage}
+            src={EnglishDepartmentQuiz}
             alt={translate({
               id: 'education.withShira.imageAlt',
-              message: 'screenshot of a Shira phishing quiz for nurse practitioners',
+              message: 'screenshot of a Shira phishing quiz for english department',
             })}
           />
           <div className={indexStyles.contextText}>
@@ -290,7 +291,7 @@ export default function ShiraForEducation() {
               </Translate>
             </Link>
           </div>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
             src={ProductPreviewImage}
             alt={translate({

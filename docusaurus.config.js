@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+const loginUrl = 'https://space.shira.app/login';
 
 const signupBaseURL = process.env.SPACE_URL || 'https://alpha.space.shira.app';
 const signupFormUrl = `${signupBaseURL}/get-started`;
@@ -191,7 +192,7 @@ const config = {
             className: 'navbar--docs-only',
           },
           {
-            to: `${signupFormUrl}?plan=starter`,
+            to: loginUrl,
             label: 'Log in',
             position: 'right',
             className: 'button navbar--site-only',
