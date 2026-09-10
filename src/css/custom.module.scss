@@ -8,7 +8,6 @@
 :root {
     --ifm-color-primary: #3f6a3a;
     --ifm-button-background-color: var(--ifm-color-primary);
-    --ifm-navbar-link-color: var(--ifm-color-primary-light);
     --ifm-color-primary-dark: #264d22;
     --ifm-color-primary-darker: #5f6368;
     --ifm-color-primary-darkest: #333030;
@@ -16,7 +15,6 @@
     --ifm-color-primary-lighter: #f3f5e4;
     --ifm-color-primary-lightest: #ffffff;
     --ifm-code-font-size: 95%;
-    --docusaurus-highlighted-code-line-bg: #0000001a;
     --ifm-navbar-link-color: var(--ifm-color-darkest);
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
     --ifm-footer-background-color: #333030;
@@ -28,7 +26,6 @@
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #dbe3a3;
-  --ifm-button-background-color: #dbe3a3;
   --ifm-color-primary-dark: #f3f9cf;
   --ifm-color-primary-darker: #f3f5e4;
   --ifm-color-primary-darkest: #ffffff;
@@ -164,17 +161,6 @@ section {
 }
 
 
-.buttonLight {
-  @extend .button;
-  background-color: var(--ifm-color-primary-light);
-  color: var(--ifm-color-primary);
-
-  /*if not set explicitly the color gets overwritten*/
-  &:hover {
-    color: var(--ifm-color-primary);
-  }
-}
-
 .buttonDark {
   @extend .button;
   background-color: var(--ifm-color-primary);
@@ -235,15 +221,6 @@ section {
     width: 100%;
   }
 }
-
-[data-theme='light'] .navbar .button{
-  @extend .buttonDark;
-}
-
-[data-theme='dark'] .navbar .button{
-  @extend .buttonLight;
-}
-
 
 [data-theme='light'] footer a {
   color: var(--ifm-color-primary-light);
