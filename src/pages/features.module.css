@@ -55,13 +55,21 @@
 }
 .featureGroupImage {
   grid-area: img;
+  max-width: 100%;
+  min-width: 0;
+  justify-self: center;
+  align-self: center;
+}
+/* .featureGroupImage is carried by the ZoomableImage trigger, so the size
+   limits have to live on the inner image: the trigger clips with
+   overflow: hidden, so a max-height on it would crop the screenshot instead
+   of scaling it. Without this the tall mobile screenshot is unusable. */
+.featureGroupImage img {
+  display: block;
   width: auto;
   max-width: 100%;
   max-height: 320px;
-  min-width: 0;
   object-fit: contain;
-  justify-self: center;
-  align-self: center;
 }
 .featureGroupTitle {
   grid-area: title;
