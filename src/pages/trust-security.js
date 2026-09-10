@@ -135,9 +135,9 @@ export default function TrustSecurity() {
               </div>
               <Link
                 className={classNames(styles.button, global.buttonDark)}
-                to="/contact"
+                to="/self-hosting"
               >
-                <Translate id="trustSecurity.selfHosting.cta">Interested? Contact us</Translate>
+                <Translate id="trustSecurity.selfHosting.cta">Self-hosting</Translate>
               </Link>
             </div>
 
