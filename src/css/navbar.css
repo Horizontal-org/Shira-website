@@ -8,6 +8,12 @@
   max-width: 1300px;
 }
 
+/* Locale dropdown, search / login button and the color mode toggle sit right
+   against each other otherwise. */
+.navbar__items--right {
+  gap: 0.75rem;
+}
+
 /* The navbar login button reuses the white secondary-button look from the
    industry landing pages (.secondaryButton in shira-for-industries.module.css). */
 .button {
