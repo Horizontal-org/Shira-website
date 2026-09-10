@@ -9,6 +9,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const signupBaseURL = process.env.SPACE_URL || 'https://alpha.space.shira.app';
 const signupFormUrl = `${signupBaseURL}/get-started`;
 
+const loginUrl = `${signupBaseURL}/login`
+
+
 const quizBaseURL = process.env.QUIZ_URL || 'https://alpha.quiz.shira.app';
 
 
@@ -191,7 +194,7 @@ const config = {
             className: 'navbar--docs-only',
           },
           {
-            to: `${signupFormUrl}?plan=starter`,
+            to: loginUrl,
             label: 'Log in',
             position: 'right',
             className: 'button navbar--site-only',
