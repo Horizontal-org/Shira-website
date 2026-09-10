@@ -50,5 +50,25 @@
   "item.label.Case studies": {
     "message": "Case studies",
     "description": "Navbar item with label Case studies"
+  },
+  "item.label.Resources": {
+    "message": "Resources",
+    "description": "Navbar item with label Resources"
+  },
+  "item.label.About ": {
+    "message": "About ",
+    "description": "Navbar item with label About "
+  },
+  "item.label.Log in": {
+    "message": "Log in",
+    "description": "Navbar item with label Log in"
+  },
+  "item.label.Help center": {
+    "message": "Help center",
+    "description": "Navbar item with label Help center"
+  },
+  "item.label.About Shira": {
+    "message": "About Shira",
+    "description": "Navbar item with label About Shira"
   }
 }
