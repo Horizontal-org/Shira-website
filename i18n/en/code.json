@@ -1721,10 +1721,13 @@
     "message": "mission-driven"
   },
   "homepage.trust.statement.part2": {
-    "message": "organizations—education, healthcare, nonprofits, and beyond—"
+    "message": "organizations—education, healthcare, nonprofits, and beyond—with limited resources and a "
   },
   "homepage.trust.statement.bold2": {
-    "message": "with limited resources and a responsibility to protect the people they serve"
+    "message": "responsibility to protect"
+  },
+  "homepage.trust.statement.part3": {
+    "message": "the people they serve"
   },
   "homepage.trust.experience": {
     "message": "We have over a decade experience building tools to make people and organizations safer."

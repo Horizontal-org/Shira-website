@@ -70,13 +70,16 @@ export default function Home() {
                   <Translate id="homepage.trust.statement.bold1">mission-driven</Translate>
                 </strong>{' '}
                 <Translate id="homepage.trust.statement.part2">
-                  organizations—education, healthcare, nonprofits, and beyond—
+                  organizations—education, healthcare, nonprofits, and beyond—with limited resources and a
                 </Translate>
                 <strong>
                   <Translate id="homepage.trust.statement.bold2">
-                    with limited resources and a responsibility to protect the people they serve
+                     responsibility to protect 
                   </Translate>
-                </strong>.
+                </strong>{' '}
+                <Translate id="homepage.trust.statement.part3">
+                  the people they serve
+                </Translate>
               </p>
             </div>
           </div>
