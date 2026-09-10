@@ -110,7 +110,7 @@ export default function TrustSecurity() {
                 </h3>
                 <p>
                   <Translate id="trustSecurity.openSource.description">
-                    Every line of Shira's code is public on GitHub, under an MIT 2.0 license, so you don't have to take our word for how it works.
+                    Every line of Shira's code is public on GitHub, under an MIT license, so you don't have to take our word for how it works.
                   </Translate>
                 </p>
               </div>

@@ -74,9 +74,6 @@
     "about.how.title": {
         "message": "Shira 是如何开发的？"
     },
-    "about.how.opensource": {
-        "message": "Shira 是开源项目，采用 MIT 2.0 许可协议。"
-    },
     "about.how.design": {
         "message": "在 Horizontal，我们以用户需求为中心，为面临数字攻击的高风险用户设计和开发。"
     },

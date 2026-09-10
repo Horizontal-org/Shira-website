@@ -74,9 +74,6 @@
     "about.how.title": {
         "message": "كيف يتم تطوير Shira؟"
     },
-    "about.how.opensource": {
-        "message": "Shira مفتوح المصدر ومرخص بموجب رخصة MIT 2.0."
-    },
     "about.how.design": {
         "message": "في Horizontal، عند التصميم والتطوير نركز على احتياجات المستخدمين الذين يواجهون مخاطر عالية من الهجمات الرقمية."
     },

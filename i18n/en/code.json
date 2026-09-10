@@ -74,9 +74,6 @@
   "about.how.title": {
     "message": "How is Shira developed?"
   },
-  "about.how.opensource": {
-    "message": "Shira is open-source and licensed under MIT 2.0."
-  },
   "about.how.design": {
     "message": "At Horizontal, we design and develop centering the needs of users facing high risks of digital attacks."
   },
@@ -1601,7 +1598,7 @@
     "message": "Open source 💻"
   },
   "trustSecurity.openSource.description": {
-    "message": "Every line of Shira code is public on GitHub, under an MIT 2.0 license, so you don't have to take our word for how it works."
+    "message": "Every line of Shira's code is public on GitHub, under an MIT license, so you don't have to take our word for how it works."
   },
   "trustSecurity.openSource.cta": {
     "message": "See our code"

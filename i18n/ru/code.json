@@ -74,9 +74,6 @@
     "about.how.title": {
         "message": "Как разрабатывается Shira?"
     },
-    "about.how.opensource": {
-        "message": "Shira — продукт с открытым кодом (лицензия MIT 2.0)."
-    },
     "about.how.design": {
         "message": "В проектировании и разработке Horizontal опирается на нужды пользователей с высоким риском цифровых атак."
     },
