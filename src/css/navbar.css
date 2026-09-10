@@ -8,12 +8,14 @@
   max-width: 1300px;
 }
 
+/* The navbar login button reuses the white secondary-button look from the
+   industry landing pages (.secondaryButton in shira-for-industries.module.css). */
 .button {
   transition: all .1s ease;
   position: relative;
   display: inline-block;
   padding: 1em 2em;
-  border: 0;
+  border: 1px solid var(--ifm-color-primary-darker);
   border-radius: 30px;
   text-align: center;
   white-space: nowrap;
@@ -24,12 +26,12 @@
     transform: translateY(1px);
   }
   
-  background-color: var(--ifm-color-primary);
-  color: var(--ifm-color-primary-lightest);
+  background-color: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
   
   /*if not set explicitly the color gets overwritten*/
   &:hover {
-    color: var(--ifm-color-primary-lightest);
+    color: var(--ifm-color-primary-darkest);
   }
 }
 
