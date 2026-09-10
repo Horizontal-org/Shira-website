@@ -74,9 +74,6 @@
     "about.how.title": {
         "message": "Comment Shira a-t-il été élaboré ?"
     },
-    "about.how.opensource": {
-        "message": "Shira est un logiciel ouvert et sous licence MIT 2.0."
-    },
     "about.how.design": {
         "message": "Chez Horizontal, les besoins des utilisateurs exposés à un risque élevé d’attaques informatiques sont au cœur de notre démarche de conception et de développement."
     },

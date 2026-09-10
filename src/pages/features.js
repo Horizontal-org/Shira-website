@@ -13,6 +13,7 @@ import FeatureMobileQuiz from "@site/static/img/feature-mobile-quiz.png";
 import FeatureExplanationTooltip from "@site/static/img/feature-explanation-tooltip.png";
 import FeatureResultsAnalytics from "@site/static/img/feature-results-analytics.png";
 import FeatureUseTemplate from "@site/static/img/feature-use-template.png";
+import ZoomableImage from '@site/src/components/ZoomableImage';
 
 
 export default function Features() {
@@ -113,7 +114,7 @@ export default function Features() {
             <h2 className={styles.featureGroupTitle}>
                 <Translate id="features.group.realWorld.title">Real-world simulations</Translate>
               </h2>
-            <img
+            <ZoomableImage
               className={styles.featureGroupImage}
               src={FeatureGmailSimulation}
               alt={translate({
@@ -138,7 +139,7 @@ export default function Features() {
             <h2 className={styles.featureGroupTitle}>
                 <Translate id="features.group.mobile.title">Mobile-ready</Translate>
               </h2>
-            <img
+            <ZoomableImage
               className={styles.featureGroupImage}
               src={FeatureMobileQuiz}
               alt={translate({
@@ -163,7 +164,7 @@ export default function Features() {
             <h2 className={styles.featureGroupTitle}>
                 <Translate id="features.group.learning.title">Guided learning</Translate>
               </h2>
-            <img
+            <ZoomableImage
               className={styles.featureGroupImage}
               src={FeatureExplanationTooltip}
               alt={translate({
@@ -188,7 +189,7 @@ export default function Features() {
             <h2 className={styles.featureGroupTitle}>
                 <Translate id="features.group.tracking.title">Track your team</Translate>
               </h2>
-            <img
+            <ZoomableImage
               className={styles.featureGroupImage}
               src={FeatureResultsAnalytics}
               alt={translate({
@@ -217,7 +218,7 @@ export default function Features() {
             <h2 className={styles.featureGroupTitle}>
                 <Translate id="features.group.content.title">Easy to set up</Translate>
               </h2>
-            <img
+            <ZoomableImage
               className={styles.featureGroupImage}
               src={FeatureUseTemplate}
               alt={translate({

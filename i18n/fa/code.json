@@ -320,9 +320,6 @@
     "theme.ErrorPageContent.title": {
         "message": "This page crashed."
     },
-    "about.how.opensource": {
-        "message": "Shira is open-source and licensed under MIT 2.0."
-    },
     "phishing.why.helpful.label": {
         "message": "Urge to be helpful:"
     },

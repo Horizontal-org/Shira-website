@@ -74,18 +74,6 @@
 .statLinkOnDark:hover {
   color: var(--ifm-color-primary-lightest);
 }
-.createdForTextLead {
-  font-weight: 600;
-}
-.privacyCardWrap {
-  display: flex;
-  justify-content: center;
-  margin-top: 2rem;
-}
-.privacyCard {
-  max-width: 460px;
-  width: 100%;
-}
 .secondaryButton {
   display: inline-block;
   width: fit-content;

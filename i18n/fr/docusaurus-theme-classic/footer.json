@@ -42,6 +42,6 @@
         "message": "Shira est un logiciel libre"
     },
     "copyright": {
-        "message": "Shira est un produit de <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, une organisation technologique à but non lucratif dédiée à rendre la sécurité et la confidentialité en ligne accessibles à tous et à toutes. </br> Sous licence MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
+        "message": "Shira est un produit de <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, une organisation technologique à but non lucratif dédiée à rendre la sécurité et la confidentialité en ligne accessibles à tous et à toutes. </br> Sous licence MIT. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
     }
 }

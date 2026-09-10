@@ -301,7 +301,7 @@ export default function ShiraForHealthcare() {
               </Translate>
             </Link>
           </div>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
             src={ProductPreviewImage}
             alt={translate({

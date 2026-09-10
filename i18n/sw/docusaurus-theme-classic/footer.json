@@ -36,7 +36,7 @@
         "message": "Get help"
     },
     "copyright": {
-        "message": "Shira is a product of <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
+        "message": "Shira is a product of <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, a technology non-profit dedicated to making online security and privacy accessible to all. </br> Licensed under MIT. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
     },
     "link.item.label.Take a ready-made quiz": {
         "message": "Take a ready-made quiz"
