@@ -9,8 +9,9 @@ import Translate, { translate } from '@docusaurus/Translate';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
 import FishImage from "@site/static/img/fish.png";
 import ClosingFishImage from "@site/static/img/fish-bubbles.png";
-import NursePractitionerQuizImage from "@site/static/img/healthcare-nurse-quiz.png";
+import NursePractitionerQuizImage from "@site/static/img/quiz-healthcare.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
+import ZoomableImage from '@site/src/components/ZoomableImage';
 
 export default function ShiraForHealthcare() {
   const getSignupUrl = useSignupUrl();
@@ -178,7 +179,7 @@ export default function ShiraForHealthcare() {
         </section>
 
         <section className={classNames(global.row, global.center, indexStyles.context)}>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
             src={NursePractitionerQuizImage}
             alt={translate({
@@ -300,7 +301,7 @@ export default function ShiraForHealthcare() {
               </Translate>
             </Link>
           </div>
-          <img
+          <ZoomableImage
             className={indexStyles.wideImage}
             src={ProductPreviewImage}
             alt={translate({

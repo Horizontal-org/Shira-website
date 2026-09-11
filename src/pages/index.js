@@ -5,7 +5,7 @@ import styles from './index.module.css';
 import global from '../css/custom.module.scss';
 import classNames from 'classnames';
 import Translate, { translate } from '@docusaurus/Translate';
-import ShiraLogo from "@site/static/img/shira-s.png";
+import ShiraWorm from "@site/static/img/worm.png";
 import ContextImage from "@site/static/img/context.png";
 import FeatureExplanationImage from "@site/static/img/feature-quiz-explanation.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
@@ -59,7 +59,7 @@ export default function Home() {
 
         <section className={classNames(global.backgroundDark, styles.whySection, global.row, global.center)}>
           <div className={classNames(global.sectionContainer, global.sectionContainerMobileWrap, global.center)}>
-            <img src={ShiraLogo} alt="Shira" width={240} />
+            <img src={ShiraWorm} alt="Decoratve illustration of a worm in a hook" width={280} />
 
             <div className={styles.reasonsWhy}>
               <p>
@@ -70,13 +70,16 @@ export default function Home() {
                   <Translate id="homepage.trust.statement.bold1">mission-driven</Translate>
                 </strong>{' '}
                 <Translate id="homepage.trust.statement.part2">
-                  organizations—education, healthcare, nonprofits, and beyond—
+                  organizations—education, healthcare, nonprofits, and beyond—with limited resources and a
                 </Translate>
                 <strong>
                   <Translate id="homepage.trust.statement.bold2">
-                    with limited resources and a responsibility to protect the people they serve
+                     responsibility to protect 
                   </Translate>
-                </strong>.
+                </strong>{' '}
+                <Translate id="homepage.trust.statement.part3">
+                  the people they serve
+                </Translate>
               </p>
             </div>
           </div>
@@ -367,7 +370,9 @@ export default function Home() {
                     Help teachers, administrators, staff, and students recognize
                     phishing messages target school accounts, learning platforms,
                     payroll systems, and campus services.
-                  </Translate>{' '}
+                  </Translate>
+                </p>
+                <p>
                   <Link to="/shira-for-education">
                     <Translate id="homepage.audience.education.description.cta">
                       Learn about phishing for educational institutions.
@@ -385,7 +390,9 @@ export default function Home() {
                     Prepare clinical, administrative, and support teams to identify
                     suspicious messages and help protect patient information and
                     essential services.
-                    </Translate>{' '}
+                    </Translate>
+                </p>
+                <p>
                   <Link to="/shira-for-healthcare">
                     <Translate id="homepage.audience.healthcare.description.cta">
                       Learn about phishing for healthcare organizations.
@@ -404,8 +411,10 @@ export default function Home() {
                     Give staff, volunteers, and distributed teams practical tools to
                     recognize phishing, donation fraud, account takeovers, and other
                     targeted attacks—without requiring a dedicated security team.
-                  </Translate>{' '}
-                  <Link to="/shira-for-healthcare">
+                  </Translate>
+                </p>
+                <p>
+                  <Link to="/shira-for-nonprofits">
                     <Translate id="homepage.audience.nonprofits.description.cta">
                       Learn about phishing for nonprofit organizations.
                     </Translate>

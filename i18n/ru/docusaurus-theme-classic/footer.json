@@ -52,7 +52,7 @@
         "description": "The label of footer link with label=Shira is open source linking to https://github.com/Horizontal-org/shira/"
     },
     "copyright": {
-        "message": "Shira — проект некоммерческой организации <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, чья миссия — онлайн-безопасность и приватность для всех. </br> Лицензия MIT 2.0. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
+        "message": "Shira — проект некоммерческой организации <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, чья миссия — онлайн-безопасность и приватность для всех. </br> Лицензия MIT. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>",
         "description": "The footer copyright"
     },
     "logo.alt": {

@@ -74,9 +74,6 @@
     "about.how.title": {
         "message": "¿Cómo se desarrolla Shira?"
     },
-    "about.how.opensource": {
-        "message": "Shira es de código abierto y bajo licencia MIT 2.0."
-    },
     "about.how.design": {
         "message": "En Horizontal, diseñamos y desarrollamos centrando en las necesidades de personas usuarias enfrentando altos riesgos de ataques digitales."
     },
