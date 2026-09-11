@@ -220,7 +220,7 @@ export default function About() {
                     Open Technology Fund
                   </Link>
                   <Translate id="about.started.otfEnd">
-                    , we started with a simple quiz. And we grew it from there. And we grew it from there.
+                    , we started with a simple quiz. And we grew it from there.
                   </Translate>
                 </p>
                 <img

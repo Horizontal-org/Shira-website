@@ -97,8 +97,8 @@ export default function Home() {
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.problem.common.title">
-                    Phishing is the most common attack 💰
-                  </Translate>
+                    Phishing is the most common attack 
+                  </Translate>{' '}💰
                 </h3>
                 <p>
                   <Translate id="homepage.problem.common.description">
@@ -112,8 +112,8 @@ export default function Home() {
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.problem.channels.title">
-                    Reaches your team wherever they communicate 💬
-                  </Translate>
+                    Reaches your team wherever they communicate 
+                  </Translate>{' '}💬
                 </h3>
                 <p>
                   <Translate id="homepage.problem.channels.description">
@@ -127,8 +127,8 @@ export default function Home() {
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.problem.skills.title">
-                    Click rates don't build lasting skills ⏳
-                  </Translate>
+                    Click rates don't build lasting skills 
+                  </Translate>{' '}⏳
                 </h3>
                 <p>
                   <Translate id="homepage.problem.skills.description">
@@ -218,7 +218,7 @@ export default function Home() {
             <div className={classNames(styles.problemGrid, styles.whyChooseGrid)}>
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.realistic.title">Realistic 📱</Translate>
+                  <Translate id="homepage.whyChoose.realistic.title">Realistic</Translate>{' '}📱
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -251,7 +251,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.effective.title">Effective 📈</Translate>
+                  <Translate id="homepage.whyChoose.effective.title">Effective</Translate>{' '}📈
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -282,7 +282,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.easy.title">Easy to use 💨</Translate>
+                  <Translate id="homepage.whyChoose.easy.title">Easy to use</Translate>{' '}💨
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -315,7 +315,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.safe.title">Safe and secure 🔒</Translate>
+                  <Translate id="homepage.whyChoose.safe.title">Safe and secure</Translate>{' '}🔒
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -363,7 +363,7 @@ export default function Home() {
             <div className={classNames(styles.problemGrid, styles.whyChooseGrid)}>
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.education.title">Education 🎓</Translate>
+                  <Translate id="homepage.audience.education.title">Education</Translate>{' '}🎓
                 </h3>
                 <p>
                   <Translate id="homepage.audience.education.description">
@@ -383,7 +383,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.healthcare.title">Healthcare 🏥</Translate>
+                  <Translate id="homepage.audience.healthcare.title">Healthcare</Translate>{' '}🏥
                 </h3>
                 <p>
                   <Translate id="homepage.audience.healthcare.description">
@@ -404,7 +404,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.nonprofits.title">Nonprofits 🌱</Translate>
+                  <Translate id="homepage.audience.nonprofits.title">Nonprofits</Translate>{' '}🌱
                 </h3>
                 <p>
                   <Translate id="homepage.audience.nonprofits.description">
@@ -424,7 +424,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.beyond.title">Beyond these sectors 🌍</Translate>
+                  <Translate id="homepage.audience.beyond.title">Beyond these sectors</Translate>{' '}🌍
                 </h3>
                 <p>
                   <Translate id="homepage.audience.beyond.description">

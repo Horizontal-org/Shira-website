@@ -139,13 +139,13 @@ export default function ShiraForNonprofits() {
                   {translate(
                     {
                       id: 'nonprofits.problem.method.description',
-                      message: 'Phishing is one of the most common ways attackers gain access to organizations and serves as the primary entry point for {statLink}.',
+                      message: 'Phishing remains one of the most common ways attackers gain access to organizations. Among charities that experienced any breach or attack, phishing was the {statLink}.',
                     },
                     {
                       statLink: (
                         <Link to="https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025">
                           <Translate id="nonprofits.problem.method.description.link">
-                            more than 75% of cyberattacks
+                            most prevalent type, affecting 86%.
                           </Translate>
                         </Link>
                       ),
@@ -302,8 +302,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.realistic.title">
-                    Realistic and multichannel 📱
-                  </Translate>
+                    Realistic and multichannel
+                  </Translate>{' '}📱
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.realistic.description1">
@@ -324,8 +324,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.workflows.title">
-                    Built for nonprofit workflows 🫱🏾‍🫲🏼
-                  </Translate>
+                    Built for nonprofit workflows
+                  </Translate>{' '}🫱🏾‍🫲🏼
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.workflows.description1">
@@ -345,8 +345,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.reinforce.title">
-                    Reinforce learning over time ⏱️
-                  </Translate>
+                    Reinforce learning over time
+                  </Translate>{' '}⏱️
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.reinforce.description1">
@@ -365,8 +365,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.track.title">
-                    Track progress and identify knowledge gaps 📈
-                  </Translate>
+                    Track progress and identify knowledge gaps
+                  </Translate>{' '}📈
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.track.description1">
@@ -386,8 +386,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.accessible.title">
-                    Accessible to every member of your organization 📖
-                  </Translate>
+                    Accessible to every member of your organization
+                  </Translate>{' '}📖
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.accessible.description1">
@@ -406,8 +406,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.deploy.title">
-                    Easy to deploy 👩🏽‍💻
-                  </Translate>
+                    Easy to deploy
+                  </Translate>{' '}👩🏽‍💻
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.deploy.description1">
@@ -427,8 +427,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="nonprofits.whyChoose.privacy.title">
-                    Privacy-friendly 🔒
-                  </Translate>
+                    Privacy-friendly
+                  </Translate>{' '}🔒
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.privacy.description">
@@ -462,8 +462,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="nonprofits.training.program.title">
-                    Program teams 🌍
-                  </Translate>
+                    Program teams
+                  </Translate>{' '}🌍
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.program.description">
@@ -477,8 +477,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="nonprofits.training.administrative.title">
-                    Fundraising teams 💰
-                  </Translate>
+                    Fundraising teams
+                  </Translate>{' '}💰
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.administrative.description">
@@ -492,8 +492,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="nonprofits.training.support.title">
-                    Finance and operations teams 👩🏽‍💼
-                  </Translate>
+                    Finance and operations teams
+                  </Translate>{' '}👩🏽‍💼
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.support.description">
@@ -507,8 +507,8 @@ export default function ShiraForNonprofits() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="nonprofits.training.distributed.title">
-                    Volunteers and board members 🌎
-                  </Translate>
+                    Volunteers and board members
+                  </Translate>{' '}🌎
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.distributed.description">

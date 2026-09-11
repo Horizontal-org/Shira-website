@@ -119,7 +119,7 @@ export default function ShiraForHealthcare() {
                   {translate(
                     {
                       id: 'healthcare.problem.identity.description',
-                      message: '{statLink} faced an identity breach last year.',
+                      message: 'Across industries, {statLink} faced an identity breach last year.',
                     },
                     {
                       statLink: (
@@ -321,8 +321,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.realistic.title">
-                    Realistic and multichannel 📱
-                  </Translate>
+                    Realistic and multichannel
+                  </Translate>{' '}📱
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.realistic.description1">
@@ -343,8 +343,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.workflows.title">
-                    Built for healthcare workflows 👩🏾‍⚕️
-                  </Translate>
+                    Built for healthcare workflows
+                  </Translate>{' '}👩🏾‍⚕️
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.workflows.description1">
@@ -364,8 +364,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.reinforce.title">
-                    Reinforce learning over time ⏱️
-                  </Translate>
+                    Reinforce learning over time
+                  </Translate>{' '}⏱️
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.reinforce.description1">
@@ -384,8 +384,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.track.title">
-                    Track progress and identify knowledge gaps 📈
-                  </Translate>
+                    Track progress and identify knowledge gaps
+                  </Translate>{' '}📈
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.track.description1">
@@ -405,8 +405,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.accessible.title">
-                    Accessible to every member of your organization 📖
-                  </Translate>
+                    Accessible to every member of your organization
+                  </Translate>{' '}📖
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.accessible.description1">
@@ -425,8 +425,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.deploy.title">
-                    Easy to deploy 👩🏽‍💻
-                  </Translate>
+                    Easy to deploy
+                  </Translate>{' '}👩🏽‍💻
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.deploy.description1">
@@ -446,8 +446,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.privacy.title">
-                    Privacy-friendly 🔒
-                  </Translate>
+                    Privacy-friendly
+                  </Translate>{' '}🔒
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.privacy.description">
@@ -482,8 +482,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.clinical.title">
-                    Clinical teams 🧑🏾‍⚕️
-                  </Translate>
+                    Clinical teams
+                  </Translate>{' '}🧑🏾‍⚕️
                 </h3>
                 <p>
                   <Translate id="healthcare.training.clinical.description">
@@ -499,8 +499,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.administrative.title">
-                    Administrative teams 🧑🏼‍💼
-                  </Translate>
+                    Administrative teams
+                  </Translate>{' '}🧑🏼‍💼
                 </h3>
                 <p>
                   <Translate id="healthcare.training.administrative.description">
@@ -515,8 +515,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.support.title">
-                    Support and operations teams 👷🏻‍♂️
-                  </Translate>
+                    Support and operations teams
+                  </Translate>{' '}👷🏻‍♂️
                 </h3>
                 <p>
                   <Translate id="healthcare.training.support.description">
@@ -531,8 +531,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.distributed.title">
-                    Distributed and partner teams 🌎
-                  </Translate>
+                    Distributed and partner teams
+                  </Translate>{' '}🌎
                 </h3>
                 <p>
                   <Translate id="healthcare.training.distributed.description">
