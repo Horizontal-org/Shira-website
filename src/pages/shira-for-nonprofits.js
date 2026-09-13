@@ -67,14 +67,14 @@ export default function ShiraForNonprofits() {
 
             <p>
               <Translate id="nonprofits.hero.subtitle">
-                Shira helps fundraising, program, finance, and volunteer teams 
+                Shira helps fundraising, program, finance, and volunteer teams
                 recognize and stop phishing across email, SMS, messaging apps, and social media.
               </Translate>
             </p>
 
             <p>
               <Translate id="nonprofits.hero.description">
-                Create training tailored to your organization, measure progress, 
+                Create training tailored to your organization, measure progress,
                 and strengthen everyday security habits, without coding or specialized IT expertise.
               </Translate>
             </p>
@@ -97,37 +97,37 @@ export default function ShiraForNonprofits() {
 
             <p>
               <Translate id="nonprofits.problem.subtitle">
-                A suspicious message might arrive in a fundraising inbox, a volunteer group chat, 
-                a text message, or a social media account. It may look like a donation receipt, 
+                A suspicious message might arrive in a fundraising inbox, a volunteer group chat,
+                a text message, or a social media account. It may look like a donation receipt,
                 a grant approval, or a message from a colleague, a vendor, a board member, or a major donor.
               </Translate>
             </p>
 
             <div className={indexStyles.problemGrid}>
-            <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
-  <h3>
-    <Translate id="nonprofits.problem.identity.title">
-      Nonprofits face the highest attack rate of any sector
-    </Translate>
-  </h3>
-  <p>
-    {translate(
-      {
-        id: 'nonprofits.problem.identity.description',
-        message: 'Fraudulent login attempts against nonprofits made up {statLink} last year, more than any other industry. Much of that starts with a stolen password, and phishing remains the most common way attackers get one.',
-      },
-      {
-        statLink: (
-          <Link to="https://www.okta.com/content/dam/resources/en_us/whitepapers/nonprofits-at-work-2026.pdf">
-            <Translate id="nonprofits.problem.identity.description.link">
-              78% of the sector's total authentications
-            </Translate>
-          </Link>
-        ),
-      }
-    )}
-  </p>
-</div>
+              <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
+                <h3>
+                  <Translate id="nonprofits.problem.identity.title">
+                    Nonprofits face the highest attack rate of any sector
+                  </Translate>
+                </h3>
+                <p>
+                  {translate(
+                    {
+                      id: 'nonprofits.problem.identity.description',
+                      message: 'Fraudulent login attempts against nonprofits made up {statLink} last year, more than any other industry.',
+                    },
+                    {
+                      statLink: (
+                        <Link to="https://www.okta.com/content/dam/resources/en_us/whitepapers/nonprofits-at-work-2026.pdf">
+                          <Translate id="nonprofits.problem.identity.description.link">
+                            78% of the sector's total authentications
+                          </Translate>
+                        </Link>
+                      ),
+                    }
+                  )}
+                </p>
+              </div>
 
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
@@ -145,7 +145,7 @@ export default function ShiraForNonprofits() {
                       statLink: (
                         <Link to="https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025">
                           <Translate id="nonprofits.problem.method.description.link">
-                            most prevalent type, affecting 86%.
+                            most prevalent type, affecting 86%
                           </Translate>
                         </Link>
                       ),
@@ -221,16 +221,16 @@ export default function ShiraForNonprofits() {
             <div className={styles.createdForText}>
               <p>
                 <Translate id="nonprofits.createdFor.description1">
-                    Nonprofits protect more than systems and data. They protect the donors, volunteers, 
-                    and communities who trust them with their support. With limited resources and high trust, 
-                    nonprofits present an ideal target for cybercriminals seeking to exploit vulnerabilities.
+                  Nonprofits protect more than systems and data. They protect the donors, volunteers,
+                  and communities who trust them with their support. With limited resources and high trust,
+                  nonprofits present an ideal target for cybercriminals seeking to exploit vulnerabilities.
                 </Translate>
               </p>
               <p>
                 <Translate id="nonprofits.createdFor.description2">
-                  Shira gives nonprofits practical, accessible phishing education designed 
-                  for the way these teams actually work: small staffs, large volunteer networks, 
-                    tight budgets, and communication happening across multiple channels.
+                  Shira gives nonprofits practical, accessible phishing education designed
+                  for the way these teams actually work: small staffs, large volunteer networks,
+                  tight budgets, and communication happening across multiple channels.
                 </Translate>
               </p>
               <p>
@@ -307,15 +307,15 @@ export default function ShiraForNonprofits() {
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.realistic.description1">
-                    Attacks that reach people outside of email, through SMS, 
-                    WhatsApp or social media, succeed at higher rates than traditional 
+                    Attacks that reach people outside of email, through SMS,
+                    WhatsApp or social media, succeed at higher rates than traditional
                     email phishing. Training only for the inbox leaves that gap open.
                   </Translate>
                 </p>
                 <p>
                   <Translate id="nonprofits.whyChoose.realistic.description2">
-                    Practice with realistic phishing scenarios across email, SMS, 
-                    messaging apps, and social media. Train people in the tools, 
+                    Practice with realistic phishing scenarios across email, SMS,
+                    messaging apps, and social media. Train people in the tools,
                     languages, and communication channels they use every day—not just in a simulated inbox.
                   </Translate>
                 </p>
@@ -329,8 +329,8 @@ export default function ShiraForNonprofits() {
                 </h3>
                 <p>
                   <Translate id="nonprofits.whyChoose.workflows.description1">
-                    Create exercises for fundraising and development staff, 
-                    program teams, finance and operations, volunteers, 
+                    Create exercises for fundraising and development staff,
+                    program teams, finance and operations, volunteers,
                     board members, and contractors.
                   </Translate>
                 </p>
@@ -467,8 +467,8 @@ export default function ShiraForNonprofits() {
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.program.description">
-                    Help program and service staff spot phishing attempts that impersonate beneficiaries, 
-                    partner organizations, or case-management systems, and that could disrupt service delivery 
+                    Help program and service staff spot phishing attempts that impersonate beneficiaries,
+                    partner organizations, or case-management systems, and that could disrupt service delivery
                     or expose sensitive participant information.
                   </Translate>
                 </p>
@@ -482,8 +482,8 @@ export default function ShiraForNonprofits() {
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.administrative.description">
-                    Help fundraising and development staff recognize fake donor portal alerts, 
-                    phishing grant-approval requests, donation platform account takeover attempts, 
+                    Help fundraising and development staff recognize fake donor portal alerts,
+                    phishing grant-approval requests, donation platform account takeover attempts,
                     and messages impersonating major donors or funders.
                   </Translate>
                 </p>
@@ -497,8 +497,8 @@ export default function ShiraForNonprofits() {
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.support.description">
-                    Prepare finance and operations staff to identify payroll fraud, 
-                    vendor impersonation, wire-transfer fraud, and requests involving 
+                    Prepare finance and operations staff to identify payroll fraud,
+                    vendor impersonation, wire-transfer fraud, and requests involving
                     donor or organizational financial information.
                   </Translate>
                 </p>
@@ -512,7 +512,7 @@ export default function ShiraForNonprofits() {
                 </h3>
                 <p>
                   <Translate id="nonprofits.training.distributed.description">
-                    Give volunteers, board members, and distributed teams 
+                    Give volunteers, board members, and distributed teams
                     practical tools to recognize suspicious communication wherever they work.
                   </Translate>
                 </p>

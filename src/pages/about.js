@@ -364,7 +364,11 @@ export default function About() {
                   <Translate id="about.built.open.description1">
                     Every line of
                   </Translate>{' '}
-                  <Link to="https://github.com/Horizontal-org/shira">Shira code is public</Link>.{' '}
+                  <Link to="https://github.com/Horizontal-org/shira">
+                    <Translate id="about.built.open.codeLink">
+                      Shira code is public
+                    </Translate>
+                  </Link>.{' '}
                   <Translate id="about.built.open.description2">
                     Anyone deciding whether to trust us with their team's security can look at it directly.
                   </Translate>
@@ -382,7 +386,7 @@ export default function About() {
                 className={classNames(styles.button, global.buttonDark)}
                 to="/trust-security"
               >
-                <Translate id="about.built.cta">Trust &amp; Security</Translate>
+                <Translate id="about.built.cta">Trust & Security</Translate>
               </Link>
             </div>
           </section>

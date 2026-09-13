@@ -67,7 +67,7 @@ export default function ShiraForEducation() {
 
             <p>
               <Translate id="education.hero.subtitle">
-                Shira helps faculty, administrative staff, and IT teams recognize and stop phishing
+                Shira helps faculty, administrative staff, and IT teams
                 recognize and stop phishing across email, SMS, messaging
                 apps, and social media.
               </Translate>
@@ -230,9 +230,8 @@ export default function ShiraForEducation() {
               </p>
               <p>
                 <Translate id="education.createdFor.description2">
-                  Education has one of the highest breach rates of any sector,
-                  with 79% of reported security incidents resulting in a
-                  confirmed breach. Unlike organizations with dedicated
+                  Nearly all reported security incidents in the education sector—96%—resulted 
+                  in a confirmed data breach last year. Unlike organizations with dedicated
                   security teams, many educational institutions operate with
                   limited IT resources—training your staff is one of the
                   highest-leverage ways to close that gap.
@@ -563,7 +562,7 @@ export default function ShiraForEducation() {
             </p>
             <p>
               <Translate id="education.closing.part3">
-                We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams, patients, and communities.
+                We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams, students, and communities.
               </Translate>
             </p>
             <Link

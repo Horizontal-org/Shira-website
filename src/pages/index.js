@@ -71,14 +71,14 @@ export default function Home() {
                 </strong>{' '}
                 <Translate id="homepage.trust.statement.part2">
                   organizations—education, healthcare, nonprofits, and beyond—with limited resources and a
-                </Translate>
+                </Translate>{' '}
                 <strong>
                   <Translate id="homepage.trust.statement.bold2">
                      responsibility to protect 
                   </Translate>
                 </strong>{' '}
                 <Translate id="homepage.trust.statement.part3">
-                  the people they serve
+                  the people they serve.
                 </Translate>
               </p>
             </div>
@@ -102,9 +102,8 @@ export default function Home() {
                 </h3>
                 <p>
                   <Translate id="homepage.problem.common.description">
-                    Phishing remains one of the most common ways attackers gain access
-                    to organizations. Phishing serves as the primary entry point for
-                    over 75% of cyberattacks.
+                    Phishing is the most prevalent type of breach organizations face, 
+                    affecting 85% of businesses and 86% of charities last year.
                   </Translate>
                 </p>
               </div>

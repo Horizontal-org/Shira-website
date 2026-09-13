@@ -119,13 +119,13 @@ export default function ShiraForHealthcare() {
                   {translate(
                     {
                       id: 'healthcare.problem.identity.description',
-                      message: 'Across industries, {statLink} faced an identity breach last year.',
+                      message: 'Across industries, {statLink} faced an identity breach last year—healthcare remains the costliest industry to recover from one.',
                     },
                     {
                       statLink: (
-                        <Link to="https://www.paloaltonetworks.com/idira/idira-identity-security-landscape">
+                        <Link to="https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2026-identity-security-landscape-report.pdf">
                           <Translate id="healthcare.problem.identity.description.link">
-                            Nine in ten organizations
+                            nine in ten organizations
                           </Translate>
                         </Link>
                       ),
@@ -144,13 +144,13 @@ export default function ShiraForHealthcare() {
                   {translate(
                     {
                       id: 'healthcare.problem.method.description',
-                      message: 'Phishing is one of the most common ways attackers gain access to organizations and serves as the primary entry point for {statLink}.',
+                      message: 'Phishing remains one of the most common ways attackers gain access to organizations—the most prevalent type of breach, affecting over {statLink} last year.',
                     },
                     {
                       statLink: (
                         <Link to="https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025">
                           <Translate id="healthcare.problem.method.description.link">
-                            more than 75% of cyberattacks
+                            85% of organizations that experienced one
                           </Translate>
                         </Link>
                       ),
@@ -234,7 +234,7 @@ export default function ShiraForHealthcare() {
                     statLink: (
                       <Link
                         className={styles.statLinkOnDark}
-                        to="https://www.verizon.com/business/resources/reports/dbir/"
+                        to="https://www.verizon.com/business/resources/T1db/reports/2026-dbir-data-breach-investigations-report.pdf"
                       >
                         <Translate id="healthcare.createdFor.description1.link">
                           involved in 54% of healthcare data breaches
@@ -326,15 +326,15 @@ export default function ShiraForHealthcare() {
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.realistic.description1">
-                    Attacks that reach people outside of email, through SMS, 
-                    WhatsApp or social media, succeed at higher rates than traditional 
+                    Attacks that reach people outside of email, through SMS,
+                    WhatsApp or social media, succeed at higher rates than traditional
                     email phishing. Training only for the inbox leaves that gap open.
                   </Translate>
                 </p>
                 <p>
                   <Translate id="healthcare.whyChoose.realistic.description2">
-                    Practice with realistic phishing scenarios across email, SMS, 
-                    messaging apps, and social media. Train people in the tools, 
+                    Practice with realistic phishing scenarios across email, SMS,
+                    messaging apps, and social media. Train people in the tools,
                     languages, and communication channels they use every day—not just in a simulated inbox.
                   </Translate>
                 </p>
@@ -355,7 +355,7 @@ export default function ShiraForHealthcare() {
                 </p>
                 <p>
                   <Translate id="healthcare.whyChoose.workflows.description2">
-                    Tailor training to the systems, roles, and risks that matter most to your organization. 
+                    Tailor training to the systems, roles, and risks that matter most to your organization.
                     Write scenarios in your own words, referencing the systems and situations your teams actually deal with.
                   </Translate>
                 </p>
