@@ -258,7 +258,7 @@ export default function ShiraForHealthcare() {
                 </Translate>
               </p>
               <Link
-                className={styles.secondaryButton}
+                className={classNames(global.button, styles.secondaryButton)}
                 to="https://quiz.shira.app/"
               >
                 <Translate id="healthcare.createdFor.cta">

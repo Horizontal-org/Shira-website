@@ -239,7 +239,7 @@ export default function ShiraForNonprofits() {
                 </Translate>
               </p>
               <Link
-                className={styles.secondaryButton}
+                className={classNames(global.button, styles.secondaryButton)}
                 to="https://quiz.shira.app/"
               >
                 <Translate id="nonprofits.createdFor.cta">

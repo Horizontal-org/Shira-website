@@ -360,7 +360,7 @@ export default function Home() {
             </p>
 
             <div className={classNames(styles.problemGrid, styles.whyChooseGrid)}>
-              <div className={classNames(styles.problemCard, global.backgroundLightest)}>
+              <div className={classNames(styles.problemCard, styles.clickableCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.audience.education.title">Education</Translate>{' '}🎓
                 </h3>
@@ -371,8 +371,8 @@ export default function Home() {
                     payroll systems, and campus services.
                   </Translate>
                 </p>
-                <p>
-                  <Link to="/shira-for-education">
+                <p className={styles.cardLinkWrapper}>
+                  <Link to="/shira-for-education" className={styles.cardLink}>
                     <Translate id="homepage.audience.education.description.cta">
                       Learn about phishing for educational institutions.
                     </Translate>
@@ -380,7 +380,7 @@ export default function Home() {
                 </p>
               </div>
 
-              <div className={classNames(styles.problemCard, global.backgroundLightest)}>
+              <div className={classNames(styles.problemCard, styles.clickableCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.audience.healthcare.title">Healthcare</Translate>{' '}🏥
                 </h3>
@@ -391,17 +391,16 @@ export default function Home() {
                     essential services.
                     </Translate>
                 </p>
-                <p>
-                  <Link to="/shira-for-healthcare">
+                <p className={styles.cardLinkWrapper}>
+                  <Link to="/shira-for-healthcare" className={styles.cardLink}>
                     <Translate id="homepage.audience.healthcare.description.cta">
                       Learn about phishing for healthcare organizations.
                     </Translate>
                   </Link>
-                  
                 </p>
               </div>
 
-              <div className={classNames(styles.problemCard, global.backgroundLightest)}>
+              <div className={classNames(styles.problemCard, styles.clickableCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.audience.nonprofits.title">Nonprofits</Translate>{' '}🌱
                 </h3>
@@ -412,8 +411,8 @@ export default function Home() {
                     targeted attacks—without requiring a dedicated security team.
                   </Translate>
                 </p>
-                <p>
-                  <Link to="/shira-for-nonprofits">
+                <p className={styles.cardLinkWrapper}>
+                  <Link to="/shira-for-nonprofits" className={styles.cardLink}>
                     <Translate id="homepage.audience.nonprofits.description.cta">
                       Learn about phishing for nonprofit organizations.
                     </Translate>
