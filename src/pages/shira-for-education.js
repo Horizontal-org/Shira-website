@@ -67,7 +67,7 @@ export default function ShiraForEducation() {
 
             <p>
               <Translate id="education.hero.subtitle">
-                Shira helps faculty, administrative staff, and IT teams recognize and stop phishing
+                Shira helps faculty, administrative staff, and IT teams
                 recognize and stop phishing across email, SMS, messaging
                 apps, and social media.
               </Translate>
@@ -230,9 +230,8 @@ export default function ShiraForEducation() {
               </p>
               <p>
                 <Translate id="education.createdFor.description2">
-                  Education has one of the highest breach rates of any sector,
-                  with 79% of reported security incidents resulting in a
-                  confirmed breach. Unlike organizations with dedicated
+                  Nearly all reported security incidents in the education sector—96%—resulted 
+                  in a confirmed data breach last year. Unlike organizations with dedicated
                   security teams, many educational institutions operate with
                   limited IT resources—training your staff is one of the
                   highest-leverage ways to close that gap.
@@ -249,7 +248,7 @@ export default function ShiraForEducation() {
                 </Translate>
               </p>
               <Link
-                className={styles.secondaryButton}
+                className={classNames(global.button, styles.secondaryButton)}
                 to="https://quiz.shira.app/"
               >
                 <Translate id="education.createdFor.cta">
@@ -311,8 +310,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.realistic.title">
-                    Realistic and multichannel 📱
-                  </Translate>
+                    Realistic and multichannel
+                  </Translate>{' '}📱
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.realistic.description1">
@@ -333,8 +332,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.workflows.title">
-                    Built for education workflows 👩🏾‍🏫
-                  </Translate>
+                    Built for education workflows
+                  </Translate>{' '}👩🏾‍🏫
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.workflows.description1">
@@ -352,8 +351,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.reinforce.title">
-                    Reinforce learning over time ⏱️
-                  </Translate>
+                    Reinforce learning over time
+                  </Translate>{' '}⏱️
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.reinforce.description1">
@@ -372,8 +371,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.track.title">
-                    Track progress and identify knowledge gaps 📈
-                  </Translate>
+                    Track progress and identify knowledge gaps
+                  </Translate>{' '}📈
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.track.description1">
@@ -393,8 +392,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.accessible.title">
-                    Accessible to every member of your institution 📖
-                  </Translate>
+                    Accessible to every member of your institution
+                  </Translate>{' '}📖
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.accessible.description1">
@@ -413,8 +412,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.deploy.title">
-                    Easy to deploy 👩🏽‍💻
-                  </Translate>
+                    Easy to deploy
+                  </Translate>{' '}👩🏽‍💻
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.deploy.description1">
@@ -434,8 +433,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="education.whyChoose.privacy.title">
-                    Privacy-friendly 🔒
-                  </Translate>
+                    Privacy-friendly
+                  </Translate>{' '}🔒
                 </h3>
                 <p>
                   <Translate id="education.whyChoose.privacy.description">
@@ -468,8 +467,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="education.training.clinical.title">
-                    Faculty and academic staff 🧑🏻‍🏫
-                  </Translate>
+                    Faculty and academic staff
+                  </Translate>{' '}🧑🏻‍🏫
                 </h3>
                 <p>
                   <Translate id="education.training.clinical.description">
@@ -483,8 +482,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="education.training.administrative.title">
-                    Administrative teams 👨🏾‍💼
-                  </Translate>
+                    Administrative teams
+                  </Translate>{' '}👨🏾‍💼
                 </h3>
                 <p>
                   <Translate id="education.training.administrative.description">
@@ -498,8 +497,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="education.training.support.title">
-                    Support and operations teams 👷🏻‍♂️
-                  </Translate>
+                    Support and operations teams
+                  </Translate>{' '}👷🏻‍♂️
                 </h3>
                 <p>
                   <Translate id="education.training.support.description">
@@ -512,8 +511,8 @@ export default function ShiraForEducation() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="education.training.distributed.title">
-                    Distributed and partner teams 🌎
-                  </Translate>
+                    Distributed and partner teams
+                  </Translate>{' '}🌎
                 </h3>
                 <p>
                   <Translate id="education.training.distributed.description">
@@ -563,7 +562,7 @@ export default function ShiraForEducation() {
             </p>
             <p>
               <Translate id="education.closing.part3">
-                We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams, patients, and communities.
+                We built Shira because organizations—especially those without dedicated security teams—deserve practical, affordable tools to protect their teams, students, and communities.
               </Translate>
             </p>
             <Link

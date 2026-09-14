@@ -68,11 +68,11 @@ export default function TrustSecurity() {
             <div className={classNames(styles.trustItem, global.backgroundLight)}>
               <div className={styles.trustItemBody}>
                 <h3>
-                  <Translate id="trustSecurity.audits.title">Security audits 🛡️</Translate>
+                  <Translate id="trustSecurity.audits.title">Security audits</Translate>{' '}🛡️
                 </h3>
                 <p>
                   <Translate id="trustSecurity.audits.description">
-                    Independently audited by third-party security firms, including Subgraph and Convocation Design, before major releases. Reports are public.
+                    Independently audited by third-party security firms, including Subgraph and Convocation Research and Design Labs, before major releases. Reports are public.
                   </Translate>
                 </p>
               </div>
@@ -87,7 +87,7 @@ export default function TrustSecurity() {
             <div className={classNames(styles.trustItem, global.backgroundLight)}>
               <div className={styles.trustItemBody}>
                 <h3>
-                  <Translate id="trustSecurity.data.title">How we handle your data 🔐</Translate>
+                  <Translate id="trustSecurity.data.title">How we handle your data</Translate>{' '}🔐
                 </h3>
                 <p>
                   <Translate id="trustSecurity.data.description">
@@ -106,7 +106,7 @@ export default function TrustSecurity() {
             <div className={classNames(styles.trustItem, global.backgroundLight)}>
               <div className={styles.trustItemBody}>
                 <h3>
-                  <Translate id="trustSecurity.openSource.title">Open source 💻</Translate>
+                  <Translate id="trustSecurity.openSource.title">Open source</Translate>{' '}💻
                 </h3>
                 <p>
                   <Translate id="trustSecurity.openSource.description">
@@ -125,7 +125,7 @@ export default function TrustSecurity() {
             <div className={classNames(styles.trustItem, global.backgroundLight)}>
               <div className={styles.trustItemBody}>
                 <h3>
-                  <Translate id="trustSecurity.selfHosting.title">Self-hosting 🖥️</Translate>
+                  <Translate id="trustSecurity.selfHosting.title">Self-hosting</Translate>{' '}🖥️
                 </h3>
                 <p>
                   <Translate id="trustSecurity.selfHosting.description">
@@ -144,7 +144,7 @@ export default function TrustSecurity() {
             <div className={classNames(styles.trustItem, global.backgroundLight)}>
               <div className={styles.trustItemBody}>
                 <h3>
-                  <Translate id="trustSecurity.questions.title">Security questions? 💬</Translate>
+                  <Translate id="trustSecurity.questions.title">Security questions?</Translate>{' '}💬
                 </h3>
                 <p>
                   <Translate id="trustSecurity.questions.description">

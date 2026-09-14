@@ -85,8 +85,15 @@
   text-transform: uppercase;
 }
 .secondaryButton:hover {
-  text-decoration: underline;
+  color: var(--ifm-color-primary-darker);
 }
+
+.secondaryButton:focus-visible {
+   outline: 2px solid var(--ifm-color-primary-darker);
+  outline-offset: 2px;
+}
+
+
 @media (max-width: 768px) {
   .hero {
     flex-direction: column;
@@ -126,5 +133,13 @@
     max-width: 100%;
     flex: initial;
     min-width: 0;
+  }
+
+  .secondaryButton {
+    width: fit-content !important;
+    max-width: 100% !important;
+    white-space: normal !important;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
