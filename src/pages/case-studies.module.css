@@ -275,19 +275,18 @@
   font-weight: 700;
 }
 
-.button.readMoreButton {
+.readMoreButton {
   display: block;
-  margin-left: 0;
-  margin-right: auto;
-  margin-top: 2rem;
   appearance: none;
   -webkit-appearance: none;
   font: inherit;
-  color: var(--ifm-color-primary-lightest);
 }
 
-.button.readMoreButton:hover {
-  text-decoration: underline;
+.readMoreButton.readMoreButton {
+  color: var(--ifm-color-primary-lightest);
+  margin-left: 0;
+  margin-right: auto;
+  margin-top: 2rem;
 }
 
 .ctaSection {

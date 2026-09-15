@@ -119,13 +119,13 @@ export default function ShiraForHealthcare() {
                   {translate(
                     {
                       id: 'healthcare.problem.identity.description',
-                      message: '{statLink} faced an identity breach last year.',
+                      message: 'Across industries, {statLink} faced an identity breach last year—healthcare remains the costliest industry to recover from one.',
                     },
                     {
                       statLink: (
-                        <Link to="https://www.paloaltonetworks.com/idira/idira-identity-security-landscape">
+                        <Link to="https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2026-identity-security-landscape-report.pdf">
                           <Translate id="healthcare.problem.identity.description.link">
-                            Nine in ten organizations
+                            nine in ten organizations
                           </Translate>
                         </Link>
                       ),
@@ -144,13 +144,13 @@ export default function ShiraForHealthcare() {
                   {translate(
                     {
                       id: 'healthcare.problem.method.description',
-                      message: 'Phishing is one of the most common ways attackers gain access to organizations and serves as the primary entry point for {statLink}.',
+                      message: 'Phishing remains one of the most common ways attackers gain access to organizations—the most prevalent type of breach, affecting over {statLink} last year.',
                     },
                     {
                       statLink: (
                         <Link to="https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2025/cyber-security-breaches-survey-2025">
                           <Translate id="healthcare.problem.method.description.link">
-                            more than 75% of cyberattacks
+                            85% of organizations that experienced one
                           </Translate>
                         </Link>
                       ),
@@ -234,7 +234,7 @@ export default function ShiraForHealthcare() {
                     statLink: (
                       <Link
                         className={styles.statLinkOnDark}
-                        to="https://www.verizon.com/business/resources/reports/dbir/"
+                        to="https://www.verizon.com/business/resources/T1db/reports/2026-dbir-data-breach-investigations-report.pdf"
                       >
                         <Translate id="healthcare.createdFor.description1.link">
                           involved in 54% of healthcare data breaches
@@ -258,7 +258,7 @@ export default function ShiraForHealthcare() {
                 </Translate>
               </p>
               <Link
-                className={styles.secondaryButton}
+                className={classNames(global.button, styles.secondaryButton)}
                 to="https://quiz.shira.app/"
               >
                 <Translate id="healthcare.createdFor.cta">
@@ -321,20 +321,20 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.realistic.title">
-                    Realistic and multichannel 📱
-                  </Translate>
+                    Realistic and multichannel
+                  </Translate>{' '}📱
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.realistic.description1">
-                    Attacks that reach people outside of email, through SMS, 
-                    WhatsApp or social media, succeed at higher rates than traditional 
+                    Attacks that reach people outside of email, through SMS,
+                    WhatsApp or social media, succeed at higher rates than traditional
                     email phishing. Training only for the inbox leaves that gap open.
                   </Translate>
                 </p>
                 <p>
                   <Translate id="healthcare.whyChoose.realistic.description2">
-                    Practice with realistic phishing scenarios across email, SMS, 
-                    messaging apps, and social media. Train people in the tools, 
+                    Practice with realistic phishing scenarios across email, SMS,
+                    messaging apps, and social media. Train people in the tools,
                     languages, and communication channels they use every day—not just in a simulated inbox.
                   </Translate>
                 </p>
@@ -343,8 +343,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.workflows.title">
-                    Built for healthcare workflows 👩🏾‍⚕️
-                  </Translate>
+                    Built for healthcare workflows
+                  </Translate>{' '}👩🏾‍⚕️
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.workflows.description1">
@@ -355,7 +355,7 @@ export default function ShiraForHealthcare() {
                 </p>
                 <p>
                   <Translate id="healthcare.whyChoose.workflows.description2">
-                    Tailor training to the systems, roles, and risks that matter most to your organization. 
+                    Tailor training to the systems, roles, and risks that matter most to your organization.
                     Write scenarios in your own words, referencing the systems and situations your teams actually deal with.
                   </Translate>
                 </p>
@@ -364,8 +364,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.reinforce.title">
-                    Reinforce learning over time ⏱️
-                  </Translate>
+                    Reinforce learning over time
+                  </Translate>{' '}⏱️
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.reinforce.description1">
@@ -384,8 +384,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.track.title">
-                    Track progress and identify knowledge gaps 📈
-                  </Translate>
+                    Track progress and identify knowledge gaps
+                  </Translate>{' '}📈
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.track.description1">
@@ -405,8 +405,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.accessible.title">
-                    Accessible to every member of your organization 📖
-                  </Translate>
+                    Accessible to every member of your organization
+                  </Translate>{' '}📖
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.accessible.description1">
@@ -425,8 +425,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.deploy.title">
-                    Easy to deploy 👩🏽‍💻
-                  </Translate>
+                    Easy to deploy
+                  </Translate>{' '}👩🏽‍💻
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.deploy.description1">
@@ -446,8 +446,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLight)}>
                 <h3>
                   <Translate id="healthcare.whyChoose.privacy.title">
-                    Privacy-friendly 🔒
-                  </Translate>
+                    Privacy-friendly
+                  </Translate>{' '}🔒
                 </h3>
                 <p>
                   <Translate id="healthcare.whyChoose.privacy.description">
@@ -482,8 +482,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.clinical.title">
-                    Clinical teams 🧑🏾‍⚕️
-                  </Translate>
+                    Clinical teams
+                  </Translate>{' '}🧑🏾‍⚕️
                 </h3>
                 <p>
                   <Translate id="healthcare.training.clinical.description">
@@ -499,8 +499,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.administrative.title">
-                    Administrative teams 🧑🏼‍💼
-                  </Translate>
+                    Administrative teams
+                  </Translate>{' '}🧑🏼‍💼
                 </h3>
                 <p>
                   <Translate id="healthcare.training.administrative.description">
@@ -515,8 +515,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.support.title">
-                    Support and operations teams 👷🏻‍♂️
-                  </Translate>
+                    Support and operations teams
+                  </Translate>{' '}👷🏻‍♂️
                 </h3>
                 <p>
                   <Translate id="healthcare.training.support.description">
@@ -531,8 +531,8 @@ export default function ShiraForHealthcare() {
               <div className={classNames(indexStyles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="healthcare.training.distributed.title">
-                    Distributed and partner teams 🌎
-                  </Translate>
+                    Distributed and partner teams
+                  </Translate>{' '}🌎
                 </h3>
                 <p>
                   <Translate id="healthcare.training.distributed.description">

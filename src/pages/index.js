@@ -71,14 +71,14 @@ export default function Home() {
                 </strong>{' '}
                 <Translate id="homepage.trust.statement.part2">
                   organizations—education, healthcare, nonprofits, and beyond—with limited resources and a
-                </Translate>
+                </Translate>{' '}
                 <strong>
                   <Translate id="homepage.trust.statement.bold2">
                      responsibility to protect 
                   </Translate>
                 </strong>{' '}
                 <Translate id="homepage.trust.statement.part3">
-                  the people they serve
+                  the people they serve.
                 </Translate>
               </p>
             </div>
@@ -97,14 +97,13 @@ export default function Home() {
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.problem.common.title">
-                    Phishing is the most common attack 💰
-                  </Translate>
+                    Phishing is the most common attack 
+                  </Translate>{' '}💰
                 </h3>
                 <p>
                   <Translate id="homepage.problem.common.description">
-                    Phishing remains one of the most common ways attackers gain access
-                    to organizations. Phishing serves as the primary entry point for
-                    over 75% of cyberattacks.
+                    Phishing is the most prevalent type of breach organizations face, 
+                    affecting 85% of businesses and 86% of charities last year.
                   </Translate>
                 </p>
               </div>
@@ -112,8 +111,8 @@ export default function Home() {
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.problem.channels.title">
-                    Reaches your team wherever they communicate 💬
-                  </Translate>
+                    Reaches your team wherever they communicate 
+                  </Translate>{' '}💬
                 </h3>
                 <p>
                   <Translate id="homepage.problem.channels.description">
@@ -127,8 +126,8 @@ export default function Home() {
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
                   <Translate id="homepage.problem.skills.title">
-                    Click rates don't build lasting skills ⏳
-                  </Translate>
+                    Click rates don't build lasting skills 
+                  </Translate>{' '}⏳
                 </h3>
                 <p>
                   <Translate id="homepage.problem.skills.description">
@@ -218,7 +217,7 @@ export default function Home() {
             <div className={classNames(styles.problemGrid, styles.whyChooseGrid)}>
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.realistic.title">Realistic 📱</Translate>
+                  <Translate id="homepage.whyChoose.realistic.title">Realistic</Translate>{' '}📱
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -251,7 +250,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.effective.title">Effective 📈</Translate>
+                  <Translate id="homepage.whyChoose.effective.title">Effective</Translate>{' '}📈
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -282,7 +281,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.easy.title">Easy to use 💨</Translate>
+                  <Translate id="homepage.whyChoose.easy.title">Easy to use</Translate>{' '}💨
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -315,7 +314,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLight)}>
                 <h3>
-                  <Translate id="homepage.whyChoose.safe.title">Safe and secure 🔒</Translate>
+                  <Translate id="homepage.whyChoose.safe.title">Safe and secure</Translate>{' '}🔒
                 </h3>
                 <div className={styles.whyChooseItem}>
                   <p className={styles.whyChooseItemTitle}>
@@ -361,9 +360,9 @@ export default function Home() {
             </p>
 
             <div className={classNames(styles.problemGrid, styles.whyChooseGrid)}>
-              <div className={classNames(styles.problemCard, global.backgroundLightest)}>
+              <div className={classNames(styles.problemCard, styles.clickableCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.education.title">Education 🎓</Translate>
+                  <Translate id="homepage.audience.education.title">Education</Translate>{' '}🎓
                 </h3>
                 <p>
                   <Translate id="homepage.audience.education.description">
@@ -372,8 +371,8 @@ export default function Home() {
                     payroll systems, and campus services.
                   </Translate>
                 </p>
-                <p>
-                  <Link to="/shira-for-education">
+                <p className={styles.cardLinkWrapper}>
+                  <Link to="/shira-for-education" className={styles.cardLink}>
                     <Translate id="homepage.audience.education.description.cta">
                       Learn about phishing for educational institutions.
                     </Translate>
@@ -381,9 +380,9 @@ export default function Home() {
                 </p>
               </div>
 
-              <div className={classNames(styles.problemCard, global.backgroundLightest)}>
+              <div className={classNames(styles.problemCard, styles.clickableCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.healthcare.title">Healthcare 🏥</Translate>
+                  <Translate id="homepage.audience.healthcare.title">Healthcare</Translate>{' '}🏥
                 </h3>
                 <p>
                   <Translate id="homepage.audience.healthcare.description">
@@ -392,19 +391,18 @@ export default function Home() {
                     essential services.
                     </Translate>
                 </p>
-                <p>
-                  <Link to="/shira-for-healthcare">
+                <p className={styles.cardLinkWrapper}>
+                  <Link to="/shira-for-healthcare" className={styles.cardLink}>
                     <Translate id="homepage.audience.healthcare.description.cta">
                       Learn about phishing for healthcare organizations.
                     </Translate>
                   </Link>
-                  
                 </p>
               </div>
 
-              <div className={classNames(styles.problemCard, global.backgroundLightest)}>
+              <div className={classNames(styles.problemCard, styles.clickableCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.nonprofits.title">Nonprofits 🌱</Translate>
+                  <Translate id="homepage.audience.nonprofits.title">Nonprofits</Translate>{' '}🌱
                 </h3>
                 <p>
                   <Translate id="homepage.audience.nonprofits.description">
@@ -413,8 +411,8 @@ export default function Home() {
                     targeted attacks—without requiring a dedicated security team.
                   </Translate>
                 </p>
-                <p>
-                  <Link to="/shira-for-nonprofits">
+                <p className={styles.cardLinkWrapper}>
+                  <Link to="/shira-for-nonprofits" className={styles.cardLink}>
                     <Translate id="homepage.audience.nonprofits.description.cta">
                       Learn about phishing for nonprofit organizations.
                     </Translate>
@@ -424,7 +422,7 @@ export default function Home() {
 
               <div className={classNames(styles.problemCard, global.backgroundLightest)}>
                 <h3>
-                  <Translate id="homepage.audience.beyond.title">Beyond these sectors 🌍</Translate>
+                  <Translate id="homepage.audience.beyond.title">Beyond these sectors</Translate>{' '}🌍
                 </h3>
                 <p>
                   <Translate id="homepage.audience.beyond.description">

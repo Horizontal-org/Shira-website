@@ -190,7 +190,7 @@
   font-size: 1rem;
 }
 .whySection p {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.4;
   max-width: 720px;
@@ -301,6 +301,32 @@
   .problemGrid.whyChooseGrid {
     grid-template-columns: 1fr;
   }
+}
+
+/* -- clickable audience cards (Education / Healthcare / Nonprofits) ------- */
+.clickableCard {
+  position: relative;
+  transition: transform .1s ease;
+}
+
+.clickableCard:hover {
+  transform: translateY(-2px);
+}
+
+.cardLinkWrapper {
+  margin-top: 1.5rem;
+}
+
+.cardLink::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+
+.cardLink:focus-visible::after {
+  outline: 2px solid var(--ifm-color-primary-dark);
+  outline-offset: 2px;
 }
 
 /* ==========================================================================
