@@ -9,6 +9,8 @@ jobs:
     runs-on: "ubuntu-latest"
     env:
       PRODUCTION_URL: "https://beta.shira.app/"
+      SPACE_URL: "https://beta.space.shira.app"
+      QUIZ_URL: "https://beta.quiz.shira.app"
     steps:
     - uses: "actions/checkout@v7"
     - run: "npm install"
