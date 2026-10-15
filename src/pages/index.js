@@ -13,6 +13,7 @@ import FishImage from "@site/static/img/fish-bubbles.png";
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useSignupUrl from '@site/src/hooks/useSignupUrl';
 import ZoomableImage from '@site/src/components/ZoomableImage';
+import { trackGetStartedClick } from '@site/src/utils/analytics';
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -52,7 +53,7 @@ export default function Home() {
               and stop phishing across email, SMS, messaging apps, and social media.
             </Translate>
           </p>
-          <Link className={classNames(styles.button, global.buttonDark)} to="https://space.shira.app/get-started?plan=starter">
+          <Link className={classNames(styles.button, global.buttonDark)} to="https://space.shira.app/get-started?plan=starter" onClick={trackGetStartedClick}>
             <Translate id="homepage.hero.cta">Start your organization's training</Translate>
           </Link>
         </section>
@@ -336,6 +337,7 @@ export default function Home() {
               <Link
                 className={classNames(styles.button, global.buttonDark)}
                 to="https://space.shira.app/get-started?plan=starter"
+                onClick={trackGetStartedClick}
               >
                 <Translate id="homepage.whyChoose.cta">
                   Start your organization's training
@@ -478,6 +480,7 @@ export default function Home() {
             <Link
               className={classNames(styles.button, global.buttonDark)}
               to="https://space.shira.app/get-started?plan=starter"
+              onClick={trackGetStartedClick}
             >
               <Translate id="homepage.closing.cta">
                 Start your organization's training
