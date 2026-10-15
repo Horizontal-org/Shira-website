@@ -12,6 +12,7 @@ import ClosingFishImage from "@site/static/img/fish-bubbles.png";
 import EnglishDepartmentQuiz from "@site/static/img/quiz-education.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
 import ZoomableImage from '@site/src/components/ZoomableImage';
+import { trackGetStartedClick } from '@site/src/utils/analytics';
 
 export default function ShiraForEducation() {
   const getSignupUrl = useSignupUrl();
@@ -568,6 +569,7 @@ export default function ShiraForEducation() {
             <Link
               className={classNames(global.buttonDark, styles.wideCta)}
               to={getSignupUrl()}
+              onClick={trackGetStartedClick}
             >
               <Translate id="education.closing.cta">
                 Start your organization's training

@@ -12,6 +12,7 @@ import ClosingFishImage from "@site/static/img/fish-bubbles.png";
 import NursePractitionerQuizImage from "@site/static/img/quiz-healthcare.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
 import ZoomableImage from '@site/src/components/ZoomableImage';
+import { trackGetStartedClick } from '@site/src/utils/analytics';
 
 export default function ShiraForHealthcare() {
   const getSignupUrl = useSignupUrl();
@@ -81,7 +82,7 @@ export default function ShiraForHealthcare() {
               </Translate>
             </p>
 
-            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl()}>
+            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl()} onClick={trackGetStartedClick}>
               <Translate id="healthcare.hero.cta.primary">
                 Start your organization's training
               </Translate>
@@ -295,6 +296,7 @@ export default function ShiraForHealthcare() {
             <Link
               className={classNames(global.buttonDark, indexStyles.productPreviewCta, styles.wideCta)}
               to={getSignupUrl()}
+              onClick={trackGetStartedClick}
             >
               <Translate id="healthcare.buildProgram.cta">
                 Start your organization's training
@@ -589,6 +591,7 @@ export default function ShiraForHealthcare() {
             <Link
               className={classNames(global.buttonDark, styles.wideCta)}
               to={getSignupUrl()}
+              onClick={trackGetStartedClick}
             >
               <Translate id="healthcare.closing.cta">
                 Start your organization's training
