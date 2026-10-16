@@ -11,6 +11,7 @@ jobs:
       PRODUCTION_URL: "https://shira.app/"
       SPACE_URL: "https://space.shira.app"
       QUIZ_URL: "https://quiz.shira.app"
+      GOOGLE_ANALYTICS_ID: "G-V5X3LJEG21"
     steps:
     - uses: "actions/checkout@v7"
     - run: "npm install"
