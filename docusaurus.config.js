@@ -13,6 +13,7 @@ const loginUrl = `${signupBaseURL}/login`
 
 
 const quizBaseURL = process.env.QUIZ_URL || 'https://alpha.quiz.shira.app';
+const googleAnalyticsId = process.env.GOOGLE_ANALYTICS_ID;
 
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -94,10 +95,14 @@ const config = {
         theme: {
           customCss: ['./src/css/custom.module.scss', './src/css/navbar.css'],
         },
-        gtag: {
-          trackingID: 'G-V5X3LJEG21',
-          anonymizeIP: true,
-        },
+        ...(googleAnalyticsId
+          ? {
+              gtag: {
+                trackingID: googleAnalyticsId,
+                anonymizeIP: true,
+              },
+            }
+          : {}),
       }),
     ],
   ],
