@@ -73,5 +73,26 @@ Variables work slightly differently in public and private quizzes:
 * In public quizzes, the name and email address displayed are drawn from what the learner entered or auto-generated during quiz setup.
 * In private quizzes,  the name and email address displayed are drawn from the learner's information as they were configured when the learner was invited to the Space.
 
+## Exporting and importing questions {/* #export-import */}
+Each question can be exported as a .zip file. The .zip file contains a question's content, metadata, and assets (such as images).
 
+Exporting a question can be useful to:
+* Share a question with another Space without having to make it publicly available through the template library.
+* Keep a backup of the question for future use.
+
+In order to import a question from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+question_name.zip
+├── metadata.json -> name, app, isPhishing
+├── content.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
+
+<Note>
+If you are looking to export multiple questions at once, consider [exporting a whole quiz](/quizzes#export-import) instead.
+</Note>
 
