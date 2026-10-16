@@ -12,6 +12,7 @@ import ClosingFishImage from "@site/static/img/fish-bubbles.png";
 import NonprofitQuizImage from "@site/static/img/quiz-nonprofit.png";
 import ProductPreviewImage from "@site/static/img/feature-create-new-question.png";
 import ZoomableImage from '@site/src/components/ZoomableImage';
+import { trackGetStartedClick } from '@site/src/utils/analytics';
 
 export default function ShiraForNonprofits() {
   const getSignupUrl = useSignupUrl();
@@ -79,7 +80,7 @@ export default function ShiraForNonprofits() {
               </Translate>
             </p>
 
-            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl()}>
+            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl()} onClick={trackGetStartedClick}>
               <Translate id="nonprofits.hero.cta.primary">
                 Start your organization's training
               </Translate>
@@ -276,6 +277,7 @@ export default function ShiraForNonprofits() {
             <Link
               className={classNames(global.buttonDark, indexStyles.productPreviewCta, styles.wideCta)}
               to={getSignupUrl()}
+              onClick={trackGetStartedClick}
             >
               <Translate id="nonprofits.buildProgram.cta">
                 Start your organization's training
@@ -564,6 +566,7 @@ export default function ShiraForNonprofits() {
             <Link
               className={classNames(global.buttonDark, styles.wideCta)}
               to={getSignupUrl()}
+              onClick={trackGetStartedClick}
             >
               <Translate id="nonprofits.closing.cta">
                 Start your organization's training
