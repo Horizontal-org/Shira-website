@@ -84,10 +84,30 @@ Once duplicated, the original quiz and the new quiz are independent from each ot
 
 You can set a quiz privacy settings (public or private) at the time of duplication.
 
-
 ## Deleting a quiz {/* #delete-quiz */}
 Deleting a quiz means that the quiz, all the questions inside the quiz, and any [results](/results) associated with this quiz are deleted from your space. 
 
 <Warning>
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
 </Warning>
+
+## Exporting and importing quizzes {/* #export-import */}
+Each quiz can be exported as a .zip file. The .zip file contains the quiz's metadata, the content of each question, the assets (such as images) used in the questions.
+
+Exporting a quiz can be useful to:
+* Share a quiz with another Space without having to make it publicly available through the template library.
+* Keep a backup of the quiz for future use.
+
+In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+quiz_name.zip
+├── metadata.json -> quiz info (name) + question array of [name, app, isPhishing]
+└── questions/
+    ├── question_name_1.html
+    └── question_name_2.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
