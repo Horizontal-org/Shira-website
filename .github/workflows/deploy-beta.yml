@@ -20,7 +20,7 @@ jobs:
         switches: "-av --delete-after"
         path: "build/"
         remote_path: "/"
-        remote_host: "tella-app.org"
+        remote_host: "beta.shira.app"
         remote_port: 22
         remote_user: "beta--shira--app"
         remote_key: "${{ secrets.BETA_PRIVATE_KEY }}"
