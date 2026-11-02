@@ -252,7 +252,7 @@ const config = {
               },
               {
                 label: 'Build a custom quiz',
-                href: `${signupFormUrl}?plan=starter`,
+                href: `${signupFormUrl}?plan=pro`,
               },
             ],
           },
