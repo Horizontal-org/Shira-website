@@ -1,9 +1,10 @@
 [![Translation status](https://hosted.weblate.org/widget/shira/svg-badge.svg)](https://hosted.weblate.org/engage/shira/)
 
-# Welcome
+# Welcome to shira.app codebase
 
-This is the Shira Website code-base. Shira website is accesible in [shira.app](https://shira.app/).
-This website is built using [Docusaurus](https://docusaurus.io/).
+This repository contains the source code for [shira.app](https://shira.app), Shira's public website, including the [Help Center](https://shira.app/help) with user documentation. It's built with [Docusaurus](https://docusaurus.io/).
+
+Looking for Shira's application code? See [Horizontal-org/shira](https://github.com/Horizontal-org/shira).
 
 ## Installation {#installation}
 
