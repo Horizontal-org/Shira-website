@@ -1,10 +1,10 @@
 [![Translation status](https://hosted.weblate.org/widget/shira/svg-badge.svg)](https://hosted.weblate.org/engage/shira/)
 
-# Welcome to shira.app codebase
+# Welcome to the shira.app codebase
 
-This repository contains the source code for [shira.app](https://shira.app), Shira's public website, including the [Help Center](https://shira.app/help) with user documentation. It's built with [Docusaurus](https://docusaurus.io/).
+This repository contains the source code for [shira.app](https://shira.app), Shira's public website, including the [Help Center](https://shira.app/help) user documentation. It's built with [Docusaurus](https://docusaurus.io/).
 
-Looking for Shira's application code? See [Horizontal-org/shira](https://github.com/Horizontal-org/shira).
+Looking for the code of the Shira application? See [Horizontal-org/shira](https://github.com/Horizontal-org/shira).
 
 ## Installation {#installation}
 
@@ -37,6 +37,6 @@ This command generates static content into the `build` directory and can be serv
 
 ## Translations
 
-Shira is translated by the community on [Weblate](https://hosted.weblate.org/projects/shira/). If you'd like to help make Shira available in your language, you can join and start translating there — no coding required. If you need any help, please [contact us!](https://shira.app/contact/)
+Shira is translated by users and supporters on [Weblate](https://hosted.weblate.org/projects/shira/). If you'd like to help make Shira available in your language, you can join and start translating there — no coding required. If you need any help, please [contact us!](https://shira.app/contact/)
 
 
