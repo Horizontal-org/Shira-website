@@ -36,6 +36,6 @@ This command generates static content into the `build` directory and can be serv
 
 ## Translations
 
-Shira is translated by the community on [Hosted Weblate](https://hosted.weblate.org/projects/shira/). If you'd like to help make Shira available in your language, you can join and start translating there — no coding required. If you need any help, please [contact us!](https://shira.app/contact/)
+Shira is translated by the community on [Weblate](https://hosted.weblate.org/projects/shira/). If you'd like to help make Shira available in your language, you can join and start translating there — no coding required. If you need any help, please [contact us!](https://shira.app/contact/)
 
 
