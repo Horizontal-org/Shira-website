@@ -284,7 +284,7 @@ export default function PhishingQuizzes() {
           </p>
 
           <div className={styles.alignedCenter}>
-            <Link className={global.buttonDark} to={getSignupUrl()}>
+            <Link className={global.buttonDark} to={getSignupUrl("pro")}>
               <Translate id="phishingQuizzes.cta">
                 Get started
               </Translate>

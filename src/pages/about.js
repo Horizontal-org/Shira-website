@@ -406,7 +406,7 @@ export default function About() {
               <div className={styles.getStartedButtons}>
                 <Link
                   className={classNames(styles.button, global.buttonDark)}
-                  to={getSignupUrl()}
+                  to={getSignupUrl("pro")}
                 >
                   <Translate id="about.getStarted.ctaFree">Start for free</Translate>
                 </Link>
