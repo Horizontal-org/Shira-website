@@ -1,4 +1,3 @@
-import React from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './features.module.css';
@@ -66,7 +65,7 @@ export default function Features() {
               <Link className={classNames(styles.button, global.buttonDark)} to="/pricing">
                 <Translate id="features.intro.pricing">Pricing</Translate>
               </Link>
-              <Link className={classNames(styles.button, global.buttonDark)} to={getSignupUrl()}>
+              <Link className={classNames(styles.button, global.buttonDark)} to={getSignupUrl("pro")}>
                 <Translate id="features.intro.getStarted">Get Started</Translate>
               </Link>
             </div>

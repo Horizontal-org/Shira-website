@@ -80,7 +80,7 @@ export default function ShiraForNonprofits() {
               </Translate>
             </p>
 
-            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl()} onClick={trackGetStartedClick}>
+            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl("pro")} onClick={trackGetStartedClick}>
               <Translate id="nonprofits.hero.cta.primary">
                 Start your organization's training
               </Translate>
@@ -276,7 +276,7 @@ export default function ShiraForNonprofits() {
             </p>
             <Link
               className={classNames(global.buttonDark, indexStyles.productPreviewCta, styles.wideCta)}
-              to={getSignupUrl()}
+              to={getSignupUrl("pro")}
               onClick={trackGetStartedClick}
             >
               <Translate id="nonprofits.buildProgram.cta">
@@ -524,7 +524,7 @@ export default function ShiraForNonprofits() {
             <div className={indexStyles.audienceCta}>
               <Link
                 className={classNames(global.buttonDark, styles.wideCta)}
-                to={getSignupUrl()}
+                to={getSignupUrl("pro")}
               >
                 <Translate id="nonprofits.training.cta">
                   Create a quiz for your team
@@ -565,7 +565,7 @@ export default function ShiraForNonprofits() {
             </p>
             <Link
               className={classNames(global.buttonDark, styles.wideCta)}
-              to={getSignupUrl()}
+              to={getSignupUrl("pro")}
               onClick={trackGetStartedClick}
             >
               <Translate id="nonprofits.closing.cta">

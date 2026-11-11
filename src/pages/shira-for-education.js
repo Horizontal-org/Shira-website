@@ -82,7 +82,7 @@ export default function ShiraForEducation() {
               </Translate>
             </p>
 
-            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl()}>
+            <Link className={classNames(global.buttonDark, styles.wideCta)} to={getSignupUrl("pro")}>
               <Translate id="education.hero.cta.primary">
                 Start your institution's training
               </Translate>
@@ -284,7 +284,7 @@ export default function ShiraForEducation() {
             </p>
             <Link
               className={classNames(global.buttonDark, indexStyles.productPreviewCta, styles.wideCta)}
-              to={getSignupUrl()}
+              to={getSignupUrl("pro")}
             >
               <Translate id="education.buildProgram.cta">
                 Start your institution's training
@@ -527,7 +527,7 @@ export default function ShiraForEducation() {
             <div className={indexStyles.audienceCta}>
               <Link
                 className={classNames(global.buttonDark, styles.wideCta)}
-                to={getSignupUrl()}
+                to={getSignupUrl("pro")}
               >
                 <Translate id="education.training.cta">
                   Create a quiz for your team
@@ -568,7 +568,7 @@ export default function ShiraForEducation() {
             </p>
             <Link
               className={classNames(global.buttonDark, styles.wideCta)}
-              to={getSignupUrl()}
+              to={getSignupUrl("pro")}
               onClick={trackGetStartedClick}
             >
               <Translate id="education.closing.cta">
