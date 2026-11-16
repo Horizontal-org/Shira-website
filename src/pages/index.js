@@ -53,7 +53,7 @@ export default function Home() {
               and stop phishing across email, SMS, messaging apps, and social media.
             </Translate>
           </p>
-          <Link className={classNames(styles.button, global.buttonDark)} to="https://space.shira.app/get-started?plan=starter" onClick={trackGetStartedClick}>
+          <Link className={classNames(styles.button, global.buttonDark)} to="https://space.shira.app/get-started?plan=pro" onClick={trackGetStartedClick}>
             <Translate id="homepage.hero.cta">Start your organization's training</Translate>
           </Link>
         </section>
@@ -336,7 +336,7 @@ export default function Home() {
             <div className={styles.audienceCta}>
               <Link
                 className={classNames(styles.button, global.buttonDark)}
-                to="https://space.shira.app/get-started?plan=starter"
+                to="https://space.shira.app/get-started?plan=pro"
                 onClick={trackGetStartedClick}
               >
                 <Translate id="homepage.whyChoose.cta">
@@ -438,7 +438,7 @@ export default function Home() {
             <div className={styles.audienceCta}>
               <Link
                 className={classNames(styles.button, global.buttonDark)}
-                to="https://space.shira.app/get-started?plan=starter"
+                to="https://space.shira.app/get-started?plan=pro"
               >
                 <Translate id="homepage.audience.cta">
                   Create a quiz for your organization
@@ -479,7 +479,7 @@ export default function Home() {
             </p>
             <Link
               className={classNames(styles.button, global.buttonDark)}
-              to="https://space.shira.app/get-started?plan=starter"
+              to="https://space.shira.app/get-started?plan=pro"
               onClick={trackGetStartedClick}
             >
               <Translate id="homepage.closing.cta">

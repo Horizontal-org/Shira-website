@@ -33,7 +33,7 @@
   },
   "link.item.label.Build a custom quiz": {
     "message": "Build a custom quiz",
-    "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started?plan=starter"
+    "description": "The label of footer link with label=Build a custom quiz linking to https://alpha.space.shira.app/get-started?plan=pro"
   },
   "link.item.label.Visit our help center": {
     "message": "Visit our help center",
