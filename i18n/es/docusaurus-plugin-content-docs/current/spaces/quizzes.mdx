@@ -21,9 +21,9 @@ En tu Espacio Shira, puedes:
 - [eliminar cuestionarios](#delete-quiz)
 
 ## Creating quizzes {/* #create-quizzes */}
-Al crear un cuestionario, debes:
-1. Nombrar tu cuestionario
-2. Establecer la privacidad de tu cuestionario
+To create a quiz, you have two options:
+1. You can create a quiz from scratch.
+2. You can use a ready-made [template](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 In both cases, you must:
 1. Nombrar tu cuestionario
@@ -101,7 +101,7 @@ Exporting a quiz can be useful to:
 In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
 ```
 quiz_name.zip
-├── metadata.json -&gt; quiz info (name) + question array of [name, app, isPhishing]
+├── metadata.json -> quiz info (name) + question array of [name, app, isPhishing]
 └── questions/
     ├── question_name_1.html
     └── question_name_2.html
