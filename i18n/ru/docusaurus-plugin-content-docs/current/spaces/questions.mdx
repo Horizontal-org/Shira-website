@@ -1,10 +1,10 @@
----
+--
 id: вопросы
-slug: /questions
-sidebar_position: 3
-description: Как создавать и настраивать вопросы теста в Shira — включая настройки, приложения, контент и объяснения — чтобы учащиеся смогли распознавать попытки фишинга.
+slug: /вопросы
+sidebar position: 3
+Описание: Узнайте, как создавать и настраивать вопросы викторины в Shira —, включая предпочтения, приложения, контент и объяснения —, чтобы научить учащихся, как идентифицировать фишинговые попытки.
 
----
+--
 import { Note } from '@site/src/components/Admonitions';
 
 # Вопросы
@@ -18,17 +18,17 @@ import { Note } from '@site/src/components/Admonitions';
 * [Переменные](#variables)
 * [Пояснения](#explanations)
 
-## Creating a question {/* #create */}
+## Создание вопроса {/* #create */}
 Создать вопрос и добавить его в тест можно двумя путями:
-1. можете создавать вопросы с нуля и самостоятельно настраивать каждый вопрос;
-2. You can use ready-made [templates](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
+1. Вы можете создавать вопросы с нуля и настраивать каждый из компонентов вопросов самостоятельно.
+2. Вы можете использовать готовые [шаблоны](/templates). Если вы используете шаблон, вы можете использовать его как есть или адаптировать его к своему конкретному контексту и потребностям.
 
-## Question preferences {/* #preferences */}
+## Вопросы преференции {/* #preferences */}
 При создании вопроса нужно выполнить следующие условия.
 - Придумайте вопросу название. Например «Приглашение на конференцию» или «Уведомление о подозрительном входе в систему». Названия помогают ориентироваться в созданных вопросах. Название вопроса видно только администраторам пространства. Учащиеся никогда не видят его, когда проходят тест.
 - Укажите, является ли создаваемое вами электронное письмо или сообщение *фишингом* или *подлинным*. Это позволит Shira определить, когда пользователь отвечает правильно.
 
-## An app {/* #app */}
+## Приложение {/* #app */}
 *Приложение* — интерфейс, который выглядит в точности как реальное приложение или платформа, которые ваши учащиеся используют каждый день: Gmail, Outlook, SMS, WhatsApp и т.д.
 
 С помощью приложений Shira показывает email или сообщение в точности как оно выглядело бы в жизни. Если учащийся столкнётся с реальной фишинговой атакой, он скорее сможет определить признаки фишинга.
@@ -42,10 +42,10 @@ import { Note } from '@site/src/components/Admonitions';
 - Приложение для знакомств
 
 <Note>
-[Let us know](/contact) if your team relies on apps that aren't in this list and that you would like to see in Shira!
+[Let us know](/contact), если ваша команда полагается на приложения, которые не находятся в этом списке, и которые вы хотели бы увидеть в Шире!
 </Note>
 
-## The question's content {/* #content */}
+## Содержание вопроса {/* #content */}
 Содержимое вопроса — электронное письмо или сообщение, которое вы хотите видеть в вопросе теста.
 
 Может включать любые элементы, присущие email или сообщениям в реальной жизни: текст, изображения, вложения, ссылки и т.д.
@@ -62,7 +62,7 @@ import { Note } from '@site/src/components/Admonitions';
 При создании вопросов пояснения отображаются в том же порядке, в котором их увидят учащиеся при тестировании.
 
 ## Переменные {/* #variables */}
-Переменные — поля для вставки персонализированной информации в вопрос.
+Переменные — это заполнители для вставки персонализированных данных в вопрос.
 
 Вот как выглядит переменная в вопросе:
 * ``{{name}}`` имя учащегося
@@ -71,4 +71,27 @@ import { Note } from '@site/src/components/Admonitions';
 Переменные работают немного по-разному в открытых и закрытых тестах:
 * в открытых тестах отображаемое имя и email берутся из данных, введённых учащимся или автоматически сгенерированных при настройке теста;
 * в закрытых тестах отображаемое имя и email берутся из информации об учащемся, которая была указана при его приглашении в пространство.
+
+## Exporting and importing questions {/* #export-import */}
+Each question can be exported as a .zip file. The .zip file contains a question's content, metadata, and assets (such as images).
+
+Exporting a question can be useful to:
+* Share a question with another Space without having to make it publicly available through the template library.
+* Keep a backup of the question for future use.
+
+In order to import a question from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+question_name.zip
+├── metadata.json -&gt; name, app, isPhishing
+├── content.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
+
+<Note>
+If you are looking to export multiple questions at once, consider [exporting a whole quiz](/quizzes#export-import) instead.
+</Note>
 
