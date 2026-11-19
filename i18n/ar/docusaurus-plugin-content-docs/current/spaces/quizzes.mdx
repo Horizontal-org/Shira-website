@@ -14,6 +14,7 @@ import { Note, Warning } from '@site/src/components/Admonitions';
 في مساحة Shira الخاصة بكم، يمكن:
 - [إنشاء اختبارات](#create-quizzes)
 - [تهيئة إعدادات الخصوصية](#privacy)
+- [use quizzes to assess or train](#quiz-mode)
 - [نشر وإلغاء نشر الاختبار](#publish-unpublish)
 - [تعديل الاختبارات الموجودة](#edit-quizzes)
 - [استنساخ اختبار موجود](#duplicate-quiz)
@@ -25,8 +26,8 @@ import { Note, Warning } from '@site/src/components/Admonitions';
 2. تحديد خصوصية الاختبارات
 
 In both cases, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+1. أطلقوا اسما على اختباركم
+2. تحديد خصوصية الاختبارات
 
 ### اسم الاختبار {/* #name */}
 إن إطلاق اسم على الاختبار يساعدكم مع متعلميكم على التعرف على هدف الاختبار (مثلا: 'تدريب الموظفين في الربع الرابع للسنة المالية'، 'أكثر الهجمات شيوعا في 2026'، إلخ). اسم الاختبار مرئي للمتعلمين:
@@ -46,6 +47,11 @@ In both cases, you must:
 **الاختبارات الخاصة**
 * يمكن فقط للمتعلمين المسجلين في المساحة الخاصة بك إجراء الاختبار. يمكنك قراءة المزيد عن [المتعلمين المسجلين هنا](/learners#registered).
 * عندما يتم تعيين اختبار خاص لمتعلم مسجل، فإنه يتلقى رسالة بريد إلكتروني تحتوي على رابط لإجراء الاختبار. هذا الرابط فريد لكل متعلم، ويساعد في تتبع من قام بإجراء الاختبار ومعرفة نتائجه.
+
+### Quiz mode {/* #quiz-mode */}
+In quiz settings, you can select the quiz mode. You should select the quiz mode based on your objectives with this quiz:
+* Learning mode: learners receive immediate feedback and explanations after each answer to help them improve their phishing detection skills. This is the default mode for new quizzes and should be used for training purposes.
+* Assessment mode: learners test their phishing detection skills without feedback or explanations to measure their actual performance level. This should be used to measure learners' detection skills in the most reliable way possible. It is especially useful for regular assessment of a team or organization's preparedness level, or at the beginning and end of a training program to measure the impact of the training.
 
 ## Adding questions to your quiz {/* #questions */}
 
@@ -78,10 +84,30 @@ If some learners have already taken the quiz, editing this quiz may affect the r
 
 يمكنكم تعيين إعدادات الخصوصية للاختبار (عمومية أو خاصة) عند الهمِّ بالتكرار.
 
-
 ## Deleting a quiz {/* #delete-quiz */}
 إن حذف الاختبار يعني أن الحذف من مساحتكم يشمل الاختبار، وجميع الأسئلة داخله، وكل [النتائج](/results) المرتبطة به.
 
 <Warning>
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
 </Warning>
+
+## Exporting and importing quizzes {/* #export-import */}
+Each quiz can be exported as a .zip file. The .zip file contains the quiz's metadata, the content of each question, the assets (such as images) used in the questions.
+
+Exporting a quiz can be useful to:
+* Share a quiz with another Space without having to make it publicly available through the template library.
+* Keep a backup of the quiz for future use.
+
+In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+quiz_name.zip
+├── metadata.json -&gt; quiz info (name) + question array of [name, app, isPhishing]
+└── questions/
+    ├── question_name_1.html
+    └── question_name_2.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
