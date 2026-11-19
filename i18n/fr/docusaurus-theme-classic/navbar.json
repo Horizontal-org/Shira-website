@@ -34,5 +34,23 @@
     },
     "item.label.Visit our help center": {
         "message": "Visiter notre centre d'assistance"
+    },
+    "item.label.Log in": {
+        "message": ""
+    },
+    "item.label.Resources": {
+        "message": ""
+    },
+    "item.label.Help center": {
+        "message": ""
+    },
+    "item.label.Case studies": {
+        "message": ""
+    },
+    "item.label.About ": {
+        "message": ""
+    },
+    "item.label.About Shira": {
+        "message": ""
     }
 }
