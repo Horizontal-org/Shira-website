@@ -1207,5 +1207,1403 @@
     },
     "homepage.hero.cta": {
         "message": "Lancez-vous"
+    },
+    "nonprofits.whyChoose.privacy.cta": {
+        "message": ""
+    },
+    "homepage.audience.healthcare.description": {
+        "message": ""
+    },
+    "healthcare.training.administrative.description": {
+        "message": ""
+    },
+    "healthcare.problem.identity.title": {
+        "message": ""
+    },
+    "education.whyChoose.reinforce.title": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.privacy.title": {
+        "message": ""
+    },
+    "case-studies.hero.pretitle": {
+        "message": ""
+    },
+    "education.whyChoose.track.description2": {
+        "message": ""
+    },
+    "healthcare.whyChoose.workflows.title": {
+        "message": ""
+    },
+    "homepage.audience.title": {
+        "message": ""
+    },
+    "healthcare.training.distributed.description": {
+        "message": ""
+    },
+    "trustSecurity.questions.description": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.details.solution.text": {
+        "message": ""
+    },
+    "healthcare.withShira.title": {
+        "message": ""
+    },
+    "case-studies.hero.title.RealImpact": {
+        "message": ""
+    },
+    "features.group.mobile.title": {
+        "message": ""
+    },
+    "case-studies.meta.title": {
+        "message": ""
+    },
+    "healthcare.createdFor.description1.link": {
+        "message": ""
+    },
+    "homepage.withShira.item3": {
+        "message": ""
+    },
+    "case-studies.amir.details.results.text": {
+        "message": ""
+    },
+    "about.built.open.title": {
+        "message": ""
+    },
+    "about.horizontal.description.part1": {
+        "message": ""
+    },
+    "healthcare.hero.subtitle": {
+        "message": ""
+    },
+    "healthcare.hero.description": {
+        "message": ""
+    },
+    "education.whyChoose.privacy.title": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.item2": {
+        "message": ""
+    },
+    "about.built.open.tagline": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.highlight3": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.org": {
+        "message": ""
+    },
+    "education.buildProgram.cta": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.logoAlt": {
+        "message": ""
+    },
+    "education.whyChoose.track.description1": {
+        "message": ""
+    },
+    "education.training.support.description": {
+        "message": ""
+    },
+    "homepage.problem.skills.title": {
+        "message": ""
+    },
+    "education.problem.channels.description": {
+        "message": ""
+    },
+    "homepage.withShira.item2": {
+        "message": ""
+    },
+    "case-studies.card.readMore": {
+        "message": ""
+    },
+    "homepage.productPreview.imageAlt": {
+        "message": ""
+    },
+    "homepage.problem.channels.description": {
+        "message": ""
+    },
+    "homepage.whyChoose.effective.item1.description": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.deploy.description2": {
+        "message": ""
+    },
+    "healthcare.whyChoose.track.title": {
+        "message": ""
+    },
+    "trustSecurity.openSource.description": {
+        "message": ""
+    },
+    "healthcare.createdFor.title": {
+        "message": ""
+    },
+    "education.hero.description": {
+        "message": ""
+    },
+    "homepage.problem.common.title": {
+        "message": ""
+    },
+    "about.going.partnersBold": {
+        "message": ""
+    },
+    "about.built.community.description1": {
+        "message": ""
+    },
+    "education.hero.imageAlt": {
+        "message": ""
+    },
+    "education.buildProgram.description1": {
+        "message": ""
+    },
+    "features.group.tracking.title": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.workflows.title": {
+        "message": ""
+    },
+    "homepage.withShira.item1": {
+        "message": ""
+    },
+    "healthcare.whyChoose.privacy.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.reinforce.description2": {
+        "message": ""
+    },
+    "about.started.otfMiddle": {
+        "message": ""
+    },
+    "contact.links.emailIntro": {
+        "message": ""
+    },
+    "trustSecurity.audits.title": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.realistic.description2": {
+        "message": ""
+    },
+    "about.getStarted.subtitle": {
+        "message": ""
+    },
+    "case-studies.amir.details.challenge.text": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.reinforce.description1": {
+        "message": ""
+    },
+    "case-studies.huesped.details.challenge.heading": {
+        "message": ""
+    },
+    "case-studies.amir.usage.feature1": {
+        "message": ""
+    },
+    "trustSecurity.selfHosting.description": {
+        "message": ""
+    },
+    "healthcare.meta.description": {
+        "message": ""
+    },
+    "case-studies.amir.details.solution.text": {
+        "message": ""
+    },
+    "features.group.content.imageAlt": {
+        "message": ""
+    },
+    "education.whyChoose.accessible.title": {
+        "message": ""
+    },
+    "about.getStarted.imageAlt": {
+        "message": ""
+    },
+    "education.training.clinical.description": {
+        "message": ""
+    },
+    "education.buildProgram.description2": {
+        "message": ""
+    },
+    "about.built.holism.tagline": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.track.title": {
+        "message": ""
+    },
+    "case-studies.amir.logoAlt": {
+        "message": ""
+    },
+    "nonprofits.withShira.item3": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.industry": {
+        "message": ""
+    },
+    "education.hero.title": {
+        "message": ""
+    },
+    "healthcare.withShira.item1": {
+        "message": ""
+    },
+    "education.withShira.imageAlt": {
+        "message": ""
+    },
+    "healthcare.buildProgram.cta": {
+        "message": ""
+    },
+    "features.group.learning.imageAlt": {
+        "message": ""
+    },
+    "education.training.clinical.title": {
+        "message": ""
+    },
+    "trustSecurity.selfHosting.cta": {
+        "message": ""
+    },
+    "trustSecurity.hero.subtitle": {
+        "message": ""
+    },
+    "case-studies.amir.usage.item2": {
+        "message": ""
+    },
+    "homepage.productPreview.cta": {
+        "message": ""
+    },
+    "trustSecurity.data.cta": {
+        "message": ""
+    },
+    "about.started.scene": {
+        "message": ""
+    },
+    "healthcare.withShira.item2": {
+        "message": ""
+    },
+    "trustSecurity.audits.cta": {
+        "message": ""
+    },
+    "about.going.todayBold": {
+        "message": ""
+    },
+    "case-studies.huesped.details.solution.text": {
+        "message": ""
+    },
+    "trustSecurity.openSource.cta": {
+        "message": ""
+    },
+    "about.getStarted.ctaFree": {
+        "message": ""
+    },
+    "about.built.horizontality.tagline": {
+        "message": ""
+    },
+    "homepage.audience.nonprofits.title": {
+        "message": ""
+    },
+    "homepage.closing.cta": {
+        "message": ""
+    },
+    "nonprofits.hero.description": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.privacy.description": {
+        "message": ""
+    },
+    "nonprofits.buildProgram.title": {
+        "message": ""
+    },
+    "about.getStarted.ctaPricing": {
+        "message": ""
+    },
+    "healthcare.problem.channels.description": {
+        "message": ""
+    },
+    "healthcare.buildProgram.imageAlt": {
+        "message": ""
+    },
+    "homepage.audience.subtitle": {
+        "message": ""
+    },
+    "nonprofits.problem.method.description": {
+        "message": ""
+    },
+    "nonprofits.problem.channels.title": {
+        "message": ""
+    },
+    "education.problem.channels.title": {
+        "message": ""
+    },
+    "homepage.trust.statement.bold2": {
+        "message": ""
+    },
+    "case-studies.huesped.industry": {
+        "message": ""
+    },
+    "nonprofits.withShira.footer": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.deploy.title": {
+        "message": ""
+    },
+    "case-studies.huesped.quoteAuthor.role": {
+        "message": ""
+    },
+    "nonprofits.training.administrative.title": {
+        "message": ""
+    },
+    "case-studies.huesped.location": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.item3": {
+        "message": ""
+    },
+    "about.built.community.tagline": {
+        "message": ""
+    },
+    "healthcare.problem.subtitle": {
+        "message": ""
+    },
+    "healthcare.whyChoose.privacy.cta": {
+        "message": ""
+    },
+    "about.built.title": {
+        "message": ""
+    },
+    "education.problem.subtitle": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.workflows.description2": {
+        "message": ""
+    },
+    "about.built.horizontality.description": {
+        "message": ""
+    },
+    "homepage.closing.part2": {
+        "message": ""
+    },
+    "trustSecurity.data.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.accessible.description1": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.heading": {
+        "message": ""
+    },
+    "healthcare.buildProgram.description1": {
+        "message": ""
+    },
+    "about.built.holism.description": {
+        "message": ""
+    },
+    "homepage.problem.channels.title": {
+        "message": ""
+    },
+    "trustSecurity.audits.description": {
+        "message": ""
+    },
+    "nonprofits.training.support.title": {
+        "message": ""
+    },
+    "trustSecurity.hero.title": {
+        "message": ""
+    },
+    "education.whyChoose.privacy.cta": {
+        "message": ""
+    },
+    "about.started.otfEnd": {
+        "message": ""
+    },
+    "homepage.problem.common.description": {
+        "message": ""
+    },
+    "homepage.whyChoose.easy.item2.description": {
+        "message": ""
+    },
+    "education.training.administrative.description": {
+        "message": ""
+    },
+    "trustSecurity.meta.title": {
+        "message": ""
+    },
+    "about.going.demand": {
+        "message": ""
+    },
+    "case-studies.card.whatTheyValued": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.details.solution.heading": {
+        "message": ""
+    },
+    "case-studies.amir.industry": {
+        "message": ""
+    },
+    "nonprofits.createdFor.description2": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.feature3": {
+        "message": ""
+    },
+    "education.meta.longDescription": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.quoteAuthor.name": {
+        "message": ""
+    },
+    "nonprofits.createdFor.cta": {
+        "message": ""
+    },
+    "education.whyChoose.privacy.description": {
+        "message": ""
+    },
+    "case-studies.huesped.org": {
+        "message": ""
+    },
+    "contact.links.githubIntro": {
+        "message": ""
+    },
+    "about.started.title": {
+        "message": ""
+    },
+    "education.withShira.item1": {
+        "message": ""
+    },
+    "homepage.problem.skills.description": {
+        "message": ""
+    },
+    "healthcare.whyChoose.accessible.title": {
+        "message": ""
+    },
+    "about.built.holism.title": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.quote": {
+        "message": ""
+    },
+    "healthcare.training.support.title": {
+        "message": ""
+    },
+    "case-studies.amir.location": {
+        "message": ""
+    },
+    "education.whyChoose.workflows.description2": {
+        "message": ""
+    },
+    "trustSecurity.hero.kicker": {
+        "message": ""
+    },
+    "about.built.imageAlt": {
+        "message": ""
+    },
+    "nonprofits.training.support.description": {
+        "message": ""
+    },
+    "homepage.whyChoose.easy.item1.description": {
+        "message": ""
+    },
+    "homepage.productPreview.description": {
+        "message": ""
+    },
+    "healthcare.whyChoose.deploy.description2": {
+        "message": ""
+    },
+    "nonprofits.buildProgram.description1": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.feature3": {
+        "message": ""
+    },
+    "nonprofits.closing.imageAlt": {
+        "message": ""
+    },
+    "healthcare.problem.channels.title": {
+        "message": ""
+    },
+    "healthcare.closing.part2": {
+        "message": ""
+    },
+    "nonprofits.problem.method.title": {
+        "message": ""
+    },
+    "nonprofits.problem.identity.description.link": {
+        "message": ""
+    },
+    "education.whyChoose.deploy.description1": {
+        "message": ""
+    },
+    "homepage.whyChoose.easy.item2.title": {
+        "message": ""
+    },
+    "nonprofits.hero.cta.primary": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.item2": {
+        "message": ""
+    },
+    "education.problem.identity.title": {
+        "message": ""
+    },
+    "healthcare.meta.title": {
+        "message": ""
+    },
+    "education.whyChoose.accessible.description1": {
+        "message": ""
+    },
+    "trustSecurity.resources.placeholder2.alt": {
+        "message": ""
+    },
+    "about.why.priorTools": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.track.description2": {
+        "message": ""
+    },
+    "case-studies.huesped.details.results.text": {
+        "message": ""
+    },
+    "education.training.support.title": {
+        "message": ""
+    },
+    "nonprofits.createdFor.description1": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.heading": {
+        "message": ""
+    },
+    "case-studies.hero.title.RealTraining": {
+        "message": ""
+    },
+    "education.closing.part2": {
+        "message": ""
+    },
+    "education.problem.title": {
+        "message": ""
+    },
+    "healthcare.training.title": {
+        "message": ""
+    },
+    "about.going.ctaQuestion": {
+        "message": ""
+    },
+    "education.training.title": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.feature2": {
+        "message": ""
+    },
+    "healthcare.buildProgram.title": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.title": {
+        "message": ""
+    },
+    "case-studies.huesped.details.results.heading": {
+        "message": ""
+    },
+    "healthcare.createdFor.description1": {
+        "message": ""
+    },
+    "about.started.otf": {
+        "message": ""
+    },
+    "education.hero.title.underline": {
+        "message": ""
+    },
+    "homepage.problem.title": {
+        "message": ""
+    },
+    "about.started.workshops": {
+        "message": ""
+    },
+    "healthcare.whyChoose.realistic.description1": {
+        "message": ""
+    },
+    "homepage.audience.education.title": {
+        "message": ""
+    },
+    "education.closing.cta": {
+        "message": ""
+    },
+    "homepage.whyChoose.realistic.item2.description": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.item1": {
+        "message": ""
+    },
+    "case-studies.amir.org": {
+        "message": ""
+    },
+    "nonprofits.hero.title": {
+        "message": ""
+    },
+    "healthcare.createdFor.cta": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.accessible.description2": {
+        "message": ""
+    },
+    "education.withShira.title": {
+        "message": ""
+    },
+    "about.built.open.description2": {
+        "message": ""
+    },
+    "healthcare.problem.identity.description": {
+        "message": ""
+    },
+    "healthcare.whyChoose.title": {
+        "message": ""
+    },
+    "education.training.cta": {
+        "message": ""
+    },
+    "homepage.productPreview.title": {
+        "message": ""
+    },
+    "nonprofits.closing.cta": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.item1": {
+        "message": ""
+    },
+    "nonprofits.meta.title": {
+        "message": ""
+    },
+    "education.problem.identity.description": {
+        "message": ""
+    },
+    "healthcare.problem.method.description.link": {
+        "message": ""
+    },
+    "education.whyChoose.accessible.description2": {
+        "message": ""
+    },
+    "about.built.community.title": {
+        "message": ""
+    },
+    "homepage.audience.education.description": {
+        "message": ""
+    },
+    "healthcare.buildProgram.description2": {
+        "message": ""
+    },
+    "features.group.learning.title": {
+        "message": ""
+    },
+    "homepage.audience.healthcare.description.cta": {
+        "message": ""
+    },
+    "healthcare.whyChoose.track.description1": {
+        "message": ""
+    },
+    "about.built.cta": {
+        "message": ""
+    },
+    "homepage.whyChoose.realistic.title": {
+        "message": ""
+    },
+    "homepage.whyChoose.easy.item1.title": {
+        "message": ""
+    },
+    "case-studies.hero.title.RealOrg": {
+        "message": ""
+    },
+    "case-studies.amir.usage.feature2": {
+        "message": ""
+    },
+    "about.going.demandBold": {
+        "message": ""
+    },
+    "nonprofits.problem.subtitle": {
+        "message": ""
+    },
+    "trustSecurity.openSource.title": {
+        "message": ""
+    },
+    "nonprofits.withShira.item2": {
+        "message": ""
+    },
+    "case-studies.amir.details.results.heading": {
+        "message": ""
+    },
+    "education.training.distributed.title": {
+        "message": ""
+    },
+    "nonprofits.buildProgram.cta": {
+        "message": ""
+    },
+    "education.problem.method.description.link": {
+        "message": ""
+    },
+    "education.whyChoose.realistic.description1": {
+        "message": ""
+    },
+    "healthcare.training.support.description": {
+        "message": ""
+    },
+    "healthcare.hero.title.underline": {
+        "message": ""
+    },
+    "homepage.audience.cta": {
+        "message": ""
+    },
+    "trustSecurity.meta.longDescription": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.track.description1": {
+        "message": ""
+    },
+    "healthcare.closing.part3": {
+        "message": ""
+    },
+    "education.whyChoose.track.title": {
+        "message": ""
+    },
+    "education.withShira.item2": {
+        "message": ""
+    },
+    "case-studies.amir.usage.item1": {
+        "message": ""
+    },
+    "trustSecurity.questions.title": {
+        "message": ""
+    },
+    "education.closing.part1": {
+        "message": ""
+    },
+    "homepage.whyChoose.effective.title": {
+        "message": ""
+    },
+    "trustSecurity.resources.title": {
+        "message": ""
+    },
+    "nonprofits.training.administrative.description": {
+        "message": ""
+    },
+    "homepage.audience.healthcare.title": {
+        "message": ""
+    },
+    "nonprofits.training.cta": {
+        "message": ""
+    },
+    "nonprofits.closing.part2": {
+        "message": ""
+    },
+    "case-studies.amir.quote": {
+        "message": ""
+    },
+    "about.why.mission": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.details.results.heading": {
+        "message": ""
+    },
+    "nonprofits.buildProgram.imageAlt": {
+        "message": ""
+    },
+    "about.started.sceneBold": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.location": {
+        "message": ""
+    },
+    "healthcare.hero.cta.primary": {
+        "message": ""
+    },
+    "healthcare.whyChoose.realistic.description2": {
+        "message": ""
+    },
+    "education.problem.method.description": {
+        "message": ""
+    },
+    "healthcare.whyChoose.reinforce.title": {
+        "message": ""
+    },
+    "about.stats.orgsTrained.label": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.feature2": {
+        "message": ""
+    },
+    "education.training.administrative.title": {
+        "message": ""
+    },
+    "education.closing.part3": {
+        "message": ""
+    },
+    "healthcare.problem.identity.description.link": {
+        "message": ""
+    },
+    "trustSecurity.hero.imageAlt": {
+        "message": ""
+    },
+    "trustSecurity.resources.placeholder2": {
+        "message": ""
+    },
+    "features.group.content.title": {
+        "message": ""
+    },
+    "case-studies.card.readLess": {
+        "message": ""
+    },
+    "healthcare.withShira.item3": {
+        "message": ""
+    },
+    "about.going.demandEnd": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.reinforce.title": {
+        "message": ""
+    },
+    "homepage.whyChoose.safe.item1.description": {
+        "message": ""
+    },
+    "homepage.whyChoose.cta": {
+        "message": ""
+    },
+    "trustSecurity.meta.description": {
+        "message": ""
+    },
+    "case-studies.huesped.quote": {
+        "message": ""
+    },
+    "homepage.whyChoose.title": {
+        "message": ""
+    },
+    "homepage.audience.education.description.cta": {
+        "message": ""
+    },
+    "education.closing.title": {
+        "message": ""
+    },
+    "education.createdFor.description2": {
+        "message": ""
+    },
+    "nonprofits.meta.description": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.summary": {
+        "message": ""
+    },
+    "homepage.closing.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.deploy.title": {
+        "message": ""
+    },
+    "about.going.partners": {
+        "message": ""
+    },
+    "homepage.withShira.imageAlt": {
+        "message": ""
+    },
+    "nonprofits.training.title": {
+        "message": ""
+    },
+    "case-studies.amir.quoteAuthor.name": {
+        "message": ""
+    },
+    "education.problem.method.title": {
+        "message": ""
+    },
+    "case-studies.huesped.summary": {
+        "message": ""
+    },
+    "trustSecurity.resources.tag": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.accessible.title": {
+        "message": ""
+    },
+    "about.started.otfLogoAlt": {
+        "message": ""
+    },
+    "nonprofits.problem.channels.description": {
+        "message": ""
+    },
+    "healthcare.whyChoose.privacy.description": {
+        "message": ""
+    },
+    "trustSecurity.resources.placeholder3": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.item4": {
+        "message": ""
+    },
+    "education.createdFor.description1": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.deploy.description1": {
+        "message": ""
+    },
+    "nonprofits.hero.title.underline": {
+        "message": ""
+    },
+    "features.group.mobile.imageAlt": {
+        "message": ""
+    },
+    "healthcare.createdFor.description3": {
+        "message": ""
+    },
+    "case-studies.huesped.highlight2": {
+        "message": ""
+    },
+    "homepage.audience.nonprofits.description": {
+        "message": ""
+    },
+    "case-studies.amir.highlight1": {
+        "message": ""
+    },
+    "education.buildProgram.imageAlt": {
+        "message": ""
+    },
+    "features.group.realWorld.imageAlt": {
+        "message": ""
+    },
+    "trustSecurity.resources.placeholder1.alt": {
+        "message": ""
+    },
+    "education.withShira.footer": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.realistic.title": {
+        "message": ""
+    },
+    "case-studies.huesped.highlight1": {
+        "message": ""
+    },
+    "education.createdFor.cta": {
+        "message": ""
+    },
+    "homepage.trust.statement.part1": {
+        "message": ""
+    },
+    "nonprofits.buildProgram.description2": {
+        "message": ""
+    },
+    "about.why.logoAlt": {
+        "message": ""
+    },
+    "about.going.today": {
+        "message": ""
+    },
+    "education.closing.imageAlt": {
+        "message": ""
+    },
+    "healthcare.withShira.imageAlt": {
+        "message": ""
+    },
+    "education.hero.cta.primary": {
+        "message": ""
+    },
+    "homepage.whyChoose.effective.item2.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.reinforce.description1": {
+        "message": ""
+    },
+    "about.going.title": {
+        "message": ""
+    },
+    "education.training.distributed.description": {
+        "message": ""
+    },
+    "homepage.whyChoose.realistic.item2.title": {
+        "message": ""
+    },
+    "about.started.advisors": {
+        "message": ""
+    },
+    "homepage.trust.statement.bold1": {
+        "message": ""
+    },
+    "nonprofits.meta.longDescription": {
+        "message": ""
+    },
+    "homepage.withShira.footer": {
+        "message": ""
+    },
+    "healthcare.whyChoose.accessible.description2": {
+        "message": ""
+    },
+    "education.whyChoose.realistic.title": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.workflows.description1": {
+        "message": ""
+    },
+    "case-studies.amir.details.solution.heading": {
+        "message": ""
+    },
+    "healthcare.training.clinical.description": {
+        "message": ""
+    },
+    "healthcare.hero.title": {
+        "message": ""
+    },
+    "healthcare.closing.imageAlt": {
+        "message": ""
+    },
+    "homepage.audience.beyond.title": {
+        "message": ""
+    },
+    "about.going.cta": {
+        "message": ""
+    },
+    "homepage.trust.statement.part3": {
+        "message": ""
+    },
+    "nonprofits.problem.method.description.link": {
+        "message": ""
+    },
+    "case-studies.cta.title": {
+        "message": ""
+    },
+    "education.whyChoose.deploy.title": {
+        "message": ""
+    },
+    "case-studies.meta.description": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.realistic.description1": {
+        "message": ""
+    },
+    "nonprofits.withShira.title": {
+        "message": ""
+    },
+    "healthcare.training.distributed.title": {
+        "message": ""
+    },
+    "about.getStarted.title": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.quoteAuthor.role": {
+        "message": ""
+    },
+    "trustSecurity.questions.cta": {
+        "message": ""
+    },
+    "case-studies.huesped.details.solution.heading": {
+        "message": ""
+    },
+    "case-studies.hero.imageAlt": {
+        "message": ""
+    },
+    "education.whyChoose.workflows.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.realistic.title": {
+        "message": ""
+    },
+    "case-studies.huesped.logoAlt": {
+        "message": ""
+    },
+    "homepage.whyChoose.safe.item1.title": {
+        "message": ""
+    },
+    "healthcare.training.cta": {
+        "message": ""
+    },
+    "healthcare.whyChoose.deploy.description1": {
+        "message": ""
+    },
+    "nonprofits.closing.part1": {
+        "message": ""
+    },
+    "education.createdFor.description3": {
+        "message": ""
+    },
+    "nonprofits.training.distributed.title": {
+        "message": ""
+    },
+    "homepage.audience.nonprofits.description.cta": {
+        "message": ""
+    },
+    "healthcare.hero.imageAlt": {
+        "message": ""
+    },
+    "case-studies.amir.details.challenge.heading": {
+        "message": ""
+    },
+    "nonprofits.problem.identity.title": {
+        "message": ""
+    },
+    "case-studies.amir.highlight3": {
+        "message": ""
+    },
+    "homepage.whyChoose.safe.title": {
+        "message": ""
+    },
+    "trustSecurity.resources.cta": {
+        "message": ""
+    },
+    "homepage.whyChoose.effective.item1.title": {
+        "message": ""
+    },
+    "about.horizontal.tellaDescription": {
+        "message": ""
+    },
+    "education.buildProgram.title": {
+        "message": ""
+    },
+    "homepage.audience.beyond.description": {
+        "message": ""
+    },
+    "healthcare.closing.part1": {
+        "message": ""
+    },
+    "case-studies.amir.highlight2": {
+        "message": ""
+    },
+    "homepage.whyChoose.effective.item2.description": {
+        "message": ""
+    },
+    "education.meta.description": {
+        "message": ""
+    },
+    "education.whyChoose.reinforce.description2": {
+        "message": ""
+    },
+    "healthcare.meta.longDescription": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.usage.feature1": {
+        "message": ""
+    },
+    "healthcare.training.administrative.title": {
+        "message": ""
+    },
+    "homepage.closing.part1": {
+        "message": ""
+    },
+    "case-studies.amir.summary": {
+        "message": ""
+    },
+    "about.built.open.description1": {
+        "message": ""
+    },
+    "about.horizontal.tellaIntro": {
+        "message": ""
+    },
+    "healthcare.problem.method.description": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.highlight1": {
+        "message": ""
+    },
+    "about.stats.countries.label": {
+        "message": ""
+    },
+    "about.stats.years.label": {
+        "message": ""
+    },
+    "healthcare.problem.title": {
+        "message": ""
+    },
+    "education.whyChoose.reinforce.description1": {
+        "message": ""
+    },
+    "healthcare.closing.title": {
+        "message": ""
+    },
+    "case-studies.amir.usage.heading": {
+        "message": ""
+    },
+    "homepage.hero.title.line1": {
+        "message": ""
+    },
+    "about.going.partnersEnd": {
+        "message": ""
+    },
+    "contact.hero.imageAlt": {
+        "message": ""
+    },
+    "about.built.ctaQuestion": {
+        "message": ""
+    },
+    "homepage.withShira.title": {
+        "message": ""
+    },
+    "nonprofits.withShira.imageAlt": {
+        "message": ""
+    },
+    "case-studies.huesped.usage.feature1": {
+        "message": ""
+    },
+    "nonprofits.withShira.item1": {
+        "message": ""
+    },
+    "features.group.realWorld.title": {
+        "message": ""
+    },
+    "healthcare.problem.method.title": {
+        "message": ""
+    },
+    "features.group.tracking.imageAlt": {
+        "message": ""
+    },
+    "education.whyChoose.title": {
+        "message": ""
+    },
+    "about.horizontal.description.part2": {
+        "message": ""
+    },
+    "nonprofits.createdFor.title": {
+        "message": ""
+    },
+    "case-studies.cta.button": {
+        "message": ""
+    },
+    "contact.links.demoIntro": {
+        "message": ""
+    },
+    "homepage.whyChoose.realistic.item1.description": {
+        "message": ""
+    },
+    "education.whyChoose.workflows.description1": {
+        "message": ""
+    },
+    "about.built.horizontality.cta": {
+        "message": ""
+    },
+    "nonprofits.problem.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.workflows.description1": {
+        "message": ""
+    },
+    "case-studies.amir.quoteAuthor.role": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.reinforce.description2": {
+        "message": ""
+    },
+    "case-studies.huesped.highlight3": {
+        "message": ""
+    },
+    "healthcare.whyChoose.workflows.description2": {
+        "message": ""
+    },
+    "case-studies.huesped.details.challenge.text": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.highlight2": {
+        "message": ""
+    },
+    "homepage.trust.statement.part2": {
+        "message": ""
+    },
+    "nonprofits.hero.subtitle": {
+        "message": ""
+    },
+    "nonprofits.problem.identity.description": {
+        "message": ""
+    },
+    "healthcare.withShira.footer": {
+        "message": ""
+    },
+    "case-studies.meta.longDescription": {
+        "message": ""
+    },
+    "trustSecurity.data.description": {
+        "message": ""
+    },
+    "trustSecurity.selfHosting.title": {
+        "message": ""
+    },
+    "healthcare.whyChoose.track.description2": {
+        "message": ""
+    },
+    "healthcare.createdFor.description2": {
+        "message": ""
+    },
+    "homepage.whyChoose.easy.title": {
+        "message": ""
+    },
+    "homepage.closing.imageAlt": {
+        "message": ""
+    },
+    "education.problem.identity.description.link": {
+        "message": ""
+    },
+    "case-studies.hero.description": {
+        "message": ""
+    },
+    "homepage.hero.title.line2": {
+        "message": ""
+    },
+    "healthcare.training.clinical.title": {
+        "message": ""
+    },
+    "nonprofits.closing.title": {
+        "message": ""
+    },
+    "nonprofits.closing.part3": {
+        "message": ""
+    },
+    "homepage.closing.part3": {
+        "message": ""
+    },
+    "case-studies.nothing2hide.details.results.text": {
+        "message": ""
+    },
+    "education.createdFor.title": {
+        "message": ""
+    },
+    "trustSecurity.resources.placeholder1": {
+        "message": ""
+    },
+    "about.built.open.codeLink": {
+        "message": ""
+    },
+    "education.whyChoose.deploy.description2": {
+        "message": ""
+    },
+    "homepage.whyChoose.realistic.item1.title": {
+        "message": ""
+    },
+    "education.whyChoose.realistic.description2": {
+        "message": ""
+    },
+    "nonprofits.createdFor.description3": {
+        "message": ""
+    },
+    "nonprofits.training.program.description": {
+        "message": ""
+    },
+    "case-studies.huesped.quoteAuthor.name": {
+        "message": ""
+    },
+    "education.meta.title": {
+        "message": ""
+    },
+    "about.built.horizontality.title": {
+        "message": ""
+    },
+    "education.withShira.item3": {
+        "message": ""
+    },
+    "about.going.todayEnd": {
+        "message": ""
+    },
+    "healthcare.closing.cta": {
+        "message": ""
+    },
+    "contact.links.newsletterIntro": {
+        "message": ""
+    },
+    "nonprofits.training.program.title": {
+        "message": ""
+    },
+    "nonprofits.hero.imageAlt": {
+        "message": ""
+    },
+    "nonprofits.training.distributed.description": {
+        "message": ""
+    },
+    "education.hero.subtitle": {
+        "message": ""
+    },
+    "nonprofits.whyChoose.accessible.description1": {
+        "message": ""
     }
 }
