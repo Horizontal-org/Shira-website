@@ -20,21 +20,21 @@ import { Note, Warning } from '@site/src/components/Admonitions';
 - [создавать копии тестов](#duplicate-quiz);
 - [удалять тесты](#delete-quiz).
 
-## Создание викторины {/* #create-quizzes */}
+## Создание тестов {/* #create-quizzes */}
 To create a quiz, you have two options:
 1. You can create a quiz from scratch.
 2. You can use a ready-made [template](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 In both cases, you must:
 1. дать название тесту;
-2. установите настройки приватности теста;
+2. установить настройки приватности теста.
 
 ### Название теста {/* #name */}
 Выбранное вами название напоминает и вам, и учащимся суть теста (например, «Обучение персонала Q4», «Самые распространенные атаки 2026 года» и т.д.). Название теста видно учащимся:
 - в email, которое учащиеся получают, когда вы назначаете им тест (только для [закрытых тестов](#privacy));
 - на экране приветствия, когда учащиеся проходят тест.
 
-### Quiz privacy {/* #privacy */}
+### Приватность теста {/* #privacy */}
 Есть два типа приватности теста: открытый и закрытый.
 
 **Выбранные настройки приватности теста нельзя изменить**. Если нужен существующий тест, но с другими настройками, нужно создать его копию.
@@ -101,7 +101,7 @@ Exporting a quiz can be useful to:
 In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
 ```
 quiz_name.zip
-├── metadata.json -&gt; quiz info (name) + question array of [name, app, isPhishing]
+├── metadata.json -> quiz info (name) + question array of [name, app, isPhishing]
 └── questions/
     ├── question_name_1.html
     └── question_name_2.html
