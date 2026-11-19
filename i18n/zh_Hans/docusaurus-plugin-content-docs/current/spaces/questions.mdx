@@ -18,20 +18,20 @@ import { Note } from '@site/src/components/Admonitions';
 * [变量](#variables)
 * [解析](#explanations)
 
-## Creating a question {/* #create */}
+## 提问 {/* #create */}
 可通过两种方式，来创建题目并将其添加到测验：
-1. 您可以从零创建题目，并自行配置每个题目组件。
-2. You can use ready-made [templates](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
+1. 你可以提出问题,并召集每个问题组成部分.
+2. 您可以使用现成的[项目](/templates)。 如果你使用模板,你可以按照具体情况和需要使用模板.
 
-## Question preferences {/* #preferences */}
+## 问题选择 {/* #preferences */}
 创建题目时，必须：
 - 命名题目：该名称应便于识别您的题目，如“会议邀请”或“可疑登录通知”。题目名称仅对空间管理员可见，测验学员看不到。
 - 对于正在创建的邮件或消息，指定是*钓鱼*或*正规*，以便 Shira 判断用户的回答是否正确。
 
-## An app {/* #app */}
+## 附录 {/* #app */}
 *应用*指界面所模拟的应用，其外观与学员实际使用的日常应用或平台完全一致，可以是：Gmail、Outlook、短信、WhatsApp 等。
 
-通过“应用”设置，Shira 可使用与实际界面相同的方式展示邮件或消息。当面临真实的钓鱼攻击时，学员更有可能知道在哪里寻找线索来判断是否为钓鱼。
+通过“应用”这一设置，Shira 可使用与实际界面相同的方式展示邮件或消息。这样，当面临真实的钓鱼攻击时，学员更有可能知道在哪里寻找线索来判断是否为钓鱼。
 
 目前，Shira 支持以下应用：
 - Gmail
@@ -42,10 +42,10 @@ import { Note } from '@site/src/components/Admonitions';
 - 交友应用
 
 <Note>
-[Let us know](/contact) if your team relies on apps that aren't in this list and that you would like to see in Shira!
+[让我们知道](/contact),如果你的团队依靠名单上的 app子,你希望在什叶看到!
 </Note>
 
-## The question's content {/* #content */}
+## 问题的内容 {/* #content */}
 题目内容指您为测验题目编写的实际邮件或消息。
 
 可包括真实邮件或消息中常见的各种元素：文本、图片、文件附件、链接等。
@@ -62,7 +62,7 @@ import { Note } from '@site/src/components/Admonitions';
 您在创建题目时看到的解析顺序，与测验学员所见相同。
 
 ## 变量 {/* #variables */}
-变量指占位符，用于在题目中插入个性化信息。
+变量是占位符，用于在题目中插入个性化信息。
 
 要添加变量，请在题目内容中输入以下内容：
 * ``{{name}}`` 将显示学员的姓名
@@ -71,4 +71,27 @@ import { Note } from '@site/src/components/Admonitions';
 在公开和私有测验中，变量的工作方式略有不同：
 * 在公开测验中，显示的姓名和电子邮箱地址，来自学员在测验设置过程中输入或自动生成的内容。
 * 在私有测验中，显示的姓名和电子邮箱地址，来自学员受邀加入空间时设置的信息。
+
+## Exporting and importing questions {/* #export-import */}
+Each question can be exported as a .zip file. The .zip file contains a question's content, metadata, and assets (such as images).
+
+Exporting a question can be useful to:
+* Share a question with another Space without having to make it publicly available through the template library.
+* Keep a backup of the question for future use.
+
+In order to import a question from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+question_name.zip
+├── metadata.json -&gt; name, app, isPhishing
+├── content.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
+
+<Note>
+If you are looking to export multiple questions at once, consider [exporting a whole quiz](/quizzes#export-import) instead.
+</Note>
 
