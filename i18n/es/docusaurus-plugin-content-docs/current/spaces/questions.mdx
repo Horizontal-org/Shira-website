@@ -18,17 +18,17 @@ Cada pregunta está compuesta por varios elementos:
 * [Variables](#variables)
 * [Explicaciones](#explanations)
 
-## Crear una pregunta {/* #create */}
+## Creating a question {/* #create */}
 Para crear preguntas y añadirlas a to cuestionario, tienes dos opciones:
-1. Puede crear preguntas desde cero y configurar cada uno de los componentes de las preguntas.
-2. Puedes usar los planos listos. Si utiliza una plantilla, puede utilizarla como está o adaptarla a su contexto y necesidades específicas.
+1. Puedes crear preguntas desde cero y configurar cada elemento de la pregunta.
+2. You can use ready-made [templates](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
-## Preferencias de preguntas {/* #preferences */}
+## Question preferences {/* #preferences */}
 Al crear una pregunta, debes:
 - Nombrar la pregunta: este nombre, como "Invitación a conferencia" o "Notificación de inicio de sesión sospechoso", te ayuda a reconocer las preguntas que hayas creado. El nombre de una pregunta solo es visible para las personas admins del espacio; quienes estudian nunca lo ven mientras completan un cuestionario.
 - Dile a Shira si el correo o mensaje que estás creando es **phishing** o **legítimo**. Esto permitirá a Shira determinar si la respuesta de una persona usuaria es correcta.
 
-## Una app {/* #app */}
+## An app {/* #app */}
 Una *app* es una interfaz que se ve exactamente igual a la app o plataforma real que tus estudiantes usan cotidianamente: Gmail, Outlook, SMS, WhatsApp, etc.
 
 Con apps, Shira muestra un correo o mensaje exactamente cómo sería en la vida real. Esto significa que cuando se enfrenten a un ataque de phishing en la realidad, tus estudiantes tendrán más probabilidades de identificar señales de que es phishing.
@@ -42,10 +42,10 @@ Actualmente, Shira admite las siguientes apps:
 - App de Citas
 
 <Note>
-[Avísanos](/contact) si tu equipo se basa en aplicaciones que no están en esta lista y que te gustaría ver en Shira!
+[Let us know](/contact) if your team relies on apps that aren't in this list and that you would like to see in Shira!
 </Note>
 
-## El contenido de la pregunta {/* #content */}
+## The question's content {/* #content */}
 El contenido de una pregunta son el correo o mensaje reales que redactas para mostrar en la pregunta del cuestionario.
 
 Esto puede incluir cualquier elemento que normalmente sea parte de correos o mensajes en la vida real: texto, imágenes, archivos adjuntos, enlaces, etc.
@@ -82,7 +82,7 @@ Exporting a question can be useful to:
 In order to import a question from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
 ```
 question_name.zip
-├── metadata.json -&gt; name, app, isPhishing
+├── metadata.json -> name, app, isPhishing
 ├── content.html
 └── assets/
     ├── image-1.png
