@@ -9,7 +9,7 @@ import { Note, Warning } from '@site/src/components/Admonitions';
 
 # 测验
 
-在 Shira 中，测验是钓鱼培训活动或项目的核心组件。Shira 可根据受众的特定需求、背景和威胁，让用户创建自己的测验。
+在 Shira 中，测验是钓鱼培训活动或项目的核心组件。用户可根据受众的特定需求、背景和威胁，创建自己的测验。
 
 在 Shira 空间中，您可以：
 - [创建测验](#create-quizzes)
@@ -20,10 +20,10 @@ import { Note, Warning } from '@site/src/components/Admonitions';
 - [复制现有测验](#duplicate-quiz)
 - [删除测验](#delete-quiz)
 
-## Creating quizzes {/* #create-quizzes */}
-在创建测验时，必须：
-1. 命名测验
-2. 设置测验隐私
+## 创建测验 {/* #create-quizzes */}
+To create a quiz, you have two options:
+1. You can create a quiz from scratch.
+2. You can use a ready-made [template](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 In both cases, you must:
 1. 命名测验
@@ -34,7 +34,7 @@ In both cases, you must:
 - 在学员收到的分配测验邮件中（仅适用于[私有测验](#privacy)）
 - 在学员参加测验时的欢迎界面上。
 
-### Quiz privacy {/* #privacy */}
+### 测验隐私 {/* #privacy */}
 测验隐私有两种选项：公开和私有。
 
 **测验的隐私设置是永久性的，无法更改**。如果想要更改现有测验的隐私设置，必须复制该测验。
@@ -53,20 +53,20 @@ In quiz settings, you can select the quiz mode. You should select the quiz mode 
 * Learning mode: learners receive immediate feedback and explanations after each answer to help them improve their phishing detection skills. This is the default mode for new quizzes and should be used for training purposes.
 * Assessment mode: learners test their phishing detection skills without feedback or explanations to measure their actual performance level. This should be used to measure learners' detection skills in the most reliable way possible. It is especially useful for regular assessment of a team or organization's preparedness level, or at the beginning and end of a training program to measure the impact of the training.
 
-## Adding questions to your quiz {/* #questions */}
+## 添加测验题目 {/* #questions */}
 
 可手动创建题目，或从题库导入现成模板来添加题目。[可在这里了解更多关于题目的信息](/questions)。
 
-## Publishing and unpublishing quizzes {/* #publish-unpublish */}
+## 发布和取消发布测验 {/* #publish-unpublish */}
 发布测验表示将其开放给学员访问。
 
 取消发布测验之后，学员将无法参加该测验，测验链接将导向错误页面。
 
 <Note>
-If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost.
+在取消发布该测验时，如果学员*正在*参加测验，那么测验结束提交答案后，将在结束中显示错误消息，并且提交内容将丢失。
 </Note>
 
-## Editing quizzes {/* #edit-quizzes */}
+## 编辑测验 {/* #edit-quizzes */}
 无论是否发布，都可对测验进行编辑，包括：
 - 为测验添加新题目。
 - 编辑测验中的现有题目。
@@ -74,21 +74,21 @@ If you unpublish a quiz *while* a learner is taking it, the learner will see an 
 - 删除题目：题目一旦删除，无法恢复。
 
 <Note>
-If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
+如果已有学员参加过测验，编辑该测验可能会影响[测验结果](/results)。
 </Note>
 
-## Duplicating a quiz {/* #duplicate-quiz */}
+## 复制测验 {/* #duplicate-quiz */}
 复制测验指为现有测验创建一个完全相同的副本。
 
 复制测验后，原测验和新测验将彼此独立：编辑或删除一个测验，另一个不受影响。**与原测验关联的*结果不会*迁移到新测验**。
 
 在复制时，可设置测验隐私为公开或私有。
 
-## Deleting a quiz {/* #delete-quiz */}
+## 删除测验 {/* #delete-quiz */}
 删除测验意味着，在您的空间中删除测验及其所有题目以及该测验关联的所有[结果](/results)。
 
 <Warning>
-Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
+删除测验是永久性的：一旦删除，测验及其结果将无法恢复！
 </Warning>
 
 ## Exporting and importing quizzes {/* #export-import */}
@@ -101,7 +101,7 @@ Exporting a quiz can be useful to:
 In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
 ```
 quiz_name.zip
-├── metadata.json -&gt; quiz info (name) + question array of [name, app, isPhishing]
+├── metadata.json -> quiz info (name) + question array of [name, app, isPhishing]
 └── questions/
     ├── question_name_1.html
     └── question_name_2.html
