@@ -43,5 +43,26 @@
     },
     "copyright": {
         "message": "Shira est un produit de <a href=\"http://www.wearehorizontal.org\">Horizontal</a>, une organisation technologique à but non lucratif dédiée à rendre la sécurité et la confidentialité en ligne accessibles à tous et à toutes. </br> Sous licence MIT. </br> <a href=\"mailto:contact@wearehorizontal.org\">contact@wearehorizontal.org</a>"
+    },
+    "link.item.label.Trust & Security": {
+        "message": ""
+    },
+    "link.item.label.Phishing training for education": {
+        "message": ""
+    },
+    "link.item.label.Phishing training for nonprofits": {
+        "message": ""
+    },
+    "link.item.label.Case studies": {
+        "message": ""
+    },
+    "link.item.label.Learn about us": {
+        "message": ""
+    },
+    "link.item.label.Phishing training for healthcare": {
+        "message": ""
+    },
+    "link.title.About Shira": {
+        "message": ""
     }
 }
