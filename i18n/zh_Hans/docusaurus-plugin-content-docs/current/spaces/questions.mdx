@@ -21,7 +21,7 @@ import { Note } from '@site/src/components/Admonitions';
 ## 创建题目 {/* #create */}
 可通过两种方式，来创建题目并将其添加到测验：
 1. 您可以从零创建题目，并自行配置每个题目组件。
-2. 您可以使用现成的[项目](/templates)。 如果你使用模板,你可以按照具体情况和需要使用模板.
+2. You can use ready-made [templates](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 ## 题目偏好 {/* #preferences */}
 创建题目时，必须：
@@ -45,7 +45,7 @@ import { Note } from '@site/src/components/Admonitions';
 如果您的团队依赖的应用不在此列表中，并且希望在 Shira 中看到它们，[请告诉我们](/contact)！
 </Note>
 
-## 问题的内容 {/* #content */}
+## 题目内容 {/* #content */}
 题目内容指您为测验题目编写的实际邮件或消息。
 
 可包括真实邮件或消息中常见的各种元素：文本、图片、文件附件、链接等。
@@ -62,7 +62,7 @@ import { Note } from '@site/src/components/Admonitions';
 您在创建题目时看到的解析顺序，与测验学员所见相同。
 
 ## 变量 {/* #variables */}
-变量是占位符，用于在题目中插入个性化信息。
+变量指占位符，用于在题目中插入个性化信息。
 
 要添加变量，请在题目内容中输入以下内容：
 * ``{{name}}`` 将显示学员的姓名
@@ -82,7 +82,7 @@ Exporting a question can be useful to:
 In order to import a question from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
 ```
 question_name.zip
-├── metadata.json -&gt; name, app, isPhishing
+├── metadata.json -> name, app, isPhishing
 ├── content.html
 └── assets/
     ├── image-1.png
