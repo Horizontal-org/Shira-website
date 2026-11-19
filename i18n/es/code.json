@@ -111,7 +111,7 @@
         "message": "? ¿Te gustaría explorar una posible asociación? ¿Eres una organización sin fines de lucro o una organización comunitaria y no puedes costear el precio completo de Shira?"
     },
     "contact.getInTouch": {
-        "message": "Ponte en contacto:"
+        "message": "Ponte en contacto"
     },
     "contact.links.emailText": {
         "message": "Escríbenos a"
@@ -2696,6 +2696,9 @@
         "message": ""
     },
     "nonprofits.whyChoose.accessible.description1": {
+        "message": ""
+    },
+    "case-studies.meta.title": {
         "message": ""
     }
 }
