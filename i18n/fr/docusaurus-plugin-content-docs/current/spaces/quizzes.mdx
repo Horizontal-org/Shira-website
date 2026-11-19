@@ -2,7 +2,7 @@
 id: quizzes
 slug: /quizzes
 sidebar_position: 2
-description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage. 
+description: En publiant, modifiant, dupliquant et supprimant des questionnaires, apprenez à créér, gérer et personnaliser des questionnaires dans Shira, pour sensibiliser votre équipe à l'hameçonnage.
 
 ---
 import { Note, Warning } from '@site/src/components/Admonitions';
@@ -14,6 +14,7 @@ Shira place les quiz au cœur de toute campagne ou programme de sensibilisation 
 Depuis votre espace dédié sur Shira, vous pouvez :
 - [créer des quiz](#create-quizzes)
 - [configurer les paramètres de confidentialité] (#privacy)
+- [use quizzes to assess or train](#quiz-mode)
 - [publier et dépublier un quiz](#publish-unpublish)
 - [modifier des quiz existants](#edit-quizzes)
 - [dupliquer un quiz existant](#duplicate-quiz)
@@ -25,8 +26,8 @@ Lorsque vous créez un quiz, vous devez :
 2. Définir les paramètres de confidentialité de votre quiz
 
 In both cases, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+1. Nommer votre quiz
+2. Définir les paramètres de confidentialité de votre quiz
 
 ### Nom du quiz {/* #name */}
 Le nom que vous choisissez pour le quiz vous aide, ainsi que vos apprenants et apprenantes, à en identifier l'objectif (ex. : "Formation du personnel T4", "Attaques les plus courantes de 2026", etc.). Le nom du quiz est visible pour les apprenants et apprenantes :
@@ -46,6 +47,11 @@ Deux options de confidentialité sont disponibles pour les quiz : public et priv
 **Quiz privés**
 * Seuls les apprenants et apprenanes inscrits dans votre espace peuvent participer au quiz. Pour en savoir plus sur les [apprenants et apprenantes inscrits ici](/learners#registered).
 * Lorsqu'un quiz privé est attribué à un apprenant ou une apprenante inscrit, celui-ci reçoit un email avec le lien pour y participer. Ce lien est unique à chaque apprenant et apprenante et permet de suivre qui participe au quiz ainsi que leurs scores.
+
+### Mode quiz {/* #quiz-mode */}
+In quiz settings, you can select the quiz mode. You should select the quiz mode based on your objectives with this quiz:
+* Learning mode: learners receive immediate feedback and explanations after each answer to help them improve their phishing detection skills. This is the default mode for new quizzes and should be used for training purposes.
+* Assessment mode: learners test their phishing detection skills without feedback or explanations to measure their actual performance level. This should be used to measure learners' detection skills in the most reliable way possible. It is especially useful for regular assessment of a team or organization's preparedness level, or at the beginning and end of a training program to measure the impact of the training.
 
 ## Adding questions to your quiz {/* #questions */}
 
@@ -78,10 +84,30 @@ Une fois dupliqués, le quiz original et le nouveau sont indépendants l'un de l
 
 Vous pouvez définir les paramètres de confidentialité (public ou privé) au moment de la duplication.
 
-
 ## Deleting a quiz {/* #delete-quiz */}
 Supprimer un quiz signifie que le quiz, toutes ses questions et tous les [scores](/results)associés seront supprimés de votre espace.
 
 <Warning>
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
 </Warning>
+
+## Exporting and importing quizzes {/* #export-import */}
+Each quiz can be exported as a .zip file. The .zip file contains the quiz's metadata, the content of each question, the assets (such as images) used in the questions.
+
+Exporting a quiz can be useful to:
+* Share a quiz with another Space without having to make it publicly available through the template library.
+* Keep a backup of the quiz for future use.
+
+In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+quiz_name.zip
+├── metadata.json -&gt; quiz info (name) + question array of [name, app, isPhishing]
+└── questions/
+    ├── question_name_1.html
+    └── question_name_2.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
