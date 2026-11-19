@@ -1,8 +1,8 @@
 ---
 id: questions
 slug: /questions
-sidebar_position: 3
-description: Apprenez à créer et à personnaliser des questions pour les quiz dans Shira — en incluant vos préférences, des applications, du contenu et des explications — pour apprendre aux apprenants à repérer les tentatives d'hameçonnage.
+sidebar position: 3
+description: Apprenez à créer et personnaliser les questions de quiz dans Shira — y compris les préférences, les applications, le contenu et les explications — pour enseigner aux apprenants comment identifier les tentatives de phishing.
 
 ---
 import { Note } from '@site/src/components/Admonitions';
@@ -18,17 +18,17 @@ Chaque question est composée de plusieurs éléments :
 * [Variables](#variables)
 * [Explications](#explanations)
 
-## Creating a question {/* #create */}
+## Créer une question {/* #create */}
 Pour créer des questions et les ajouter à votre quiz, deux options vous sont proposées :
-1. Il est possible de personnaliser vos questions dans leur intégralité et de définir vous-même l'ensemble de leurs composantes.
-2. You can use ready-made [templates](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
+1. Vous pouvez créer des questions à partir de zéro et configurer chacun des composants des questions vous-même.
+2. Vous pouvez utiliser des [modèles] prêt-à-porter. Si vous utilisez un modèle, vous pouvez l'utiliser comme il est ou l'adapter à votre contexte et vos besoins spécifiques.
 
-## Question preferences {/* #preferences */}
+## Préférences de questions {/* #preferences */}
 Lorsque vous créez une question, vous devez :
 - Nommer la question : ce nom, comme "Invitation à une conférence" ou "Notification de connexion suspecte", vous aide à reconnaître les questions que vous créez. Le nom d'une question est uniquement visible par les administrateurs et administratrices de l'espace ; les apprenants et apprenantes ne le voient jamais lorsqu'ils participent à un quiz.
 - Indiquez à Shira si l'email ou le message que vous créez est *de l'hameçonnage* ou s'il est *légitime*. Cela permettra à Shira de déterminer si la réponse d'un utilisateur ou d'une utilisatrice est correcte.
 
-## An app {/* #app */}
+## Une application {/* #app */}
 Une *appli* est une interface qui ressemble exactement à l'application ou à la plateforme réelle que vos apprenants ou apprenantes utilisent au quotidien : Gmail, Outlook, SMS, WhatsApp, etc.
 
 Avec les appli, Shira affiche un email ou un message exactement tel qu'il apparaîtrait dans la vie réelle. Cela signifie que lorsqu'ils seront confrontés à une véritable attaque d'hameçonnage, les apprenants et apprenantes seront plus susceptibles de savoir où chercher les indices prouvant qu'il s'agit d'un hameçonnage.
@@ -42,10 +42,10 @@ Actuellement, Shira prend en charge les applications suivantes :
 - Application de rencontre
 
 <Note>
-[Let us know](/contact) if your team relies on apps that aren't in this list and that you would like to see in Shira!
+Si votre équipe compte sur des applications qui ne sont pas dans cette liste et que vous aimeriez voir dans Shira !
 </Note>
 
-## The question's content {/* #content */}
+## Le contenu de la question {/* #content */}
 Le contenu d'une question correspond au texte de l'e-mail ou du message que vous rédigez pour l'afficher dans le questionnaire.
 
 Il peut s'agir de tous les éléments habituellement présents dans les emails et les messages : texte, images, pièces jointes, liens, etc.
@@ -62,7 +62,7 @@ Lorsque vous créez une question, chaque explication doit être liée à un él�
 L’ordre d’affichage des explications lors de la création des questions correspond à l’ordre dans lequel elles sont présentées aux apprenants et apprenantes pendant le quiz.
 
 ## Variables {/* #variables */}
-Les variables sont des espaces réservés permettant d’insérer des informations personnalisées dans une question.
+Les variables sont des espaces réservés qui vous permettent d'insérer des informations personnalisées dans une question.
 
 Pour ajouter une variable, saisissez le texte suivant dans le contenu de la question :
 * ``{{name}}`` affichera le nom de l'apprenant ou de l'apprenante
@@ -71,4 +71,27 @@ Pour ajouter une variable, saisissez le texte suivant dans le contenu de la ques
 Le fonctionnement des variables diffère légèrement selon qu'il s'agit d'un quiz public ou privé :
 * Dans un quiz public, le nom et l'adresse email affichés sont ceux saisis par l'apprenant ou l'apprenante ou générés automatiquement lors de la configuration du quiz.
 * Dans les quiz privés, le nom et l'email affichés sont tirés des informations de l'apprenant ou apprenante telles qu'elles ont été configurées lors de son invitation à l'Espace.
+
+## Exporting and importing questions {/* #export-import */}
+Each question can be exported as a .zip file. The .zip file contains a question's content, metadata, and assets (such as images).
+
+Exporting a question can be useful to:
+* Share a question with another Space without having to make it publicly available through the template library.
+* Keep a backup of the question for future use.
+
+In order to import a question from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+question_name.zip
+├── metadata.json -&gt; name, app, isPhishing
+├── content.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
+
+<Note>
+If you are looking to export multiple questions at once, consider [exporting a whole quiz](/quizzes#export-import) instead.
+</Note>
 
