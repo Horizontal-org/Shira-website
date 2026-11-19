@@ -58,5 +58,26 @@
     "logo.alt": {
         "message": "Logo de Shira",
         "description": "The alt text of footer logo"
+    },
+    "link.item.label.Trust & Security": {
+        "message": ""
+    },
+    "link.item.label.Phishing training for education": {
+        "message": ""
+    },
+    "link.item.label.Phishing training for nonprofits": {
+        "message": ""
+    },
+    "link.item.label.Case studies": {
+        "message": ""
+    },
+    "link.item.label.Learn about us": {
+        "message": ""
+    },
+    "link.item.label.Phishing training for healthcare": {
+        "message": ""
+    },
+    "link.title.About Shira": {
+        "message": ""
     }
 }
