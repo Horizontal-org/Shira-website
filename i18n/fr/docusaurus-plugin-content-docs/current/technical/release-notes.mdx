@@ -10,26 +10,89 @@ import { Note, Tip } from '@site/src/components/Admonitions';
 # Notes de version
 
 <Tip>
-Here’s everything you need to know about the latest features and improvements in Shira. If something is missing, you can [suggest new features or improvements here](https://github.com/Horizontal-org/shira/discussions).
+Voici tout ce que vous devez savoir sur les dernières fonctionnalités et améliorations à Shira. Si quelque chose manque, vous pouvez [suggérer de nouvelles fonctionnalités ou améliorations ici] (https://github.com/Horizontal-org/shira/discussions).
 </Tip>
+
+## Shira 2.4 {/* #shira-24 */}
+*Released on 22 October 2026*
+
+#### 🌟 New feature: full Right-to-Left support! {/* #-new-feature-rtl */}
+- All of Shira is now available in true right-to-left interfaces!
+- Up until now, right-to-left languages were displayed in a left-to-right interface. Now, all interfaces and components display in the expected right-to-left direction.
+- Shira is currently partially translated into Arabic. If you'd like to contribute to completing the Arabic translation or translate Shira in other right-to-left languages, [get in touch here](/contact).
+
+#### 🌟 Import and export! {/* #-new-feature-import-export */}
+- You can now import and export questions and quizzes.
+- Exporting questions and quizzes downloads them as files that can then be reimported into the same Space or a different one.
+- Exporting can be a good way of backing up your work, but also to share questions or quizzes with others without having to publish to the template library.
+
+#### 🌟 Disable Results! {/* #-new-feature-disable-results */}
+- Results can now be disabled in Space settings.
+- Disabling Results means that analytics about how learners are doing on quizzes is no longer collected and saved.
+- Disabling Results can be useful for those who want to collect the absolute minimal amount of data about their learners.
+
+#### Improvements {/* #improvements-24 */}
+- Tags and language tags in the template library can now be translated, so they won't appear in English to those using Shira in a different language.
+- The list of languages in Settings > Language includes each language in the user's current interface language (eg. if Shira is currently set in Spanish, then French in the language dropdown will show up as: Francés, Français)
+- The Settings screen now shows the current version of Shira the user is on.
+
+#### Fixes {/* #fixes-24 */}
+- The "learn more" link in the template submission screen leads to a more helpful page in the documentation.
+- The "request a missing language" link in the template submission screen leads directly to the contact page.
+
+## Shira 2.3 {/* #shira-23 */}
+*Released on 20 August 2026*
+
+#### 🌟 Nouvelle fonctionnalité : soumission communautaire à la bibliothèque de modèles! {/* #-new-feature-submission */}
+- La bibliothèque de modèles introduite dans v2.1 est maintenant collaborative!
+- Tout utilisateur avec un espace peut maintenant soumettre une question de quiz ou un quiz complet comme un modèle, de sorte que d'autres utilisateurs peuvent les utiliser dans leur propre espace.
+- Pour soumettre un modèle, il suffit de vous diriger vers la question ou quiz que vous souhaitez soumettre et cliquez sur le bouton "soumettre comme modèle". On vous demandera alors de remplir certaines informations pour faciliter la recherche du modèle et comprendre ce qu'il offre.
+- Chaque présentation de modèle est examinée par l'équipe Shira et approuvée ou rejetée. Si elle est rejetée, un court message mettra en évidence la raison du rejet.
+- Chaque gabarit montre l'auteur qui l'a créé, et les utilisateurs peuvent filtrer la bibliothèque de modèles par les auteurs pour trouver des modèles créés par des personnes ou une organisation qu'ils travaillent avec ou confiance.
+
+#### Improvements {/* #improvements-23 */}
+- Lorsque vous créez un nouveau quiz ou doublez un quiz existant, vous êtes maintenant automatiquement redirigé dans le quiz nouvellement créé afin que vous puissiez commencer à travailler sur lui immédiatement.
+- Nous avons mis à jour l'interface utilisateur de l'application Gmail pour refléter les changements récents dans l'application Gmail réelle.
+
+#### Fixes {/* #fixes-23 */}
+- Nous avons réparé l'espacement excessif entre chaque carte de quiz dans le tableau de bord Shira
+- Nous nous sommes débarrassés d'un bug qui a mis en évidence une explication en double cliquant sur l'explication ci-dessus.
+- Une explication sur les pièces jointes met maintenant en évidence l'ensemble de l'attachement plutôt que seulement le nom.
+- L'arrière-plan sur la maquette de téléphone pour les questions SMS a la même couleur que l'arrière-plan de la question.
+
+## Shira 2.2 {/* #shira-22 */}
+*Released on 17 July 2026*
+
+#### 🌟 Nouvelle fonction: mode d'évaluation! {/* #-new-feature-assessment-mode */}
+- Un nouveau paramètre vous permet de définir vos quizz en mode « apprentissage » ou en mode « évaluation » :
+   - En mode d'apprentissage, les apprenants reçoivent une rétroaction immédiate et des explications après chaque réponse pour les aider à améliorer leurs compétences de détection de phishing. C'est le mode auquel vous êtes déjà habitué.
+   - En mode évaluation, les apprenants testent leurs compétences de détection de phishing sans commentaires ni explications pour mesurer leur niveau de performance réel.
+- Comme le mode d'évaluation supprime toute possibilité d'apprendre d'une question à l'autre, il augmentera la précision des quizz utilisés pour mesurer le niveau des apprenants.
+
+#### Improvements {/* #improvements-22 */}
+**Templates:**
+- Nous avons rebaptisé la bibliothèque aux «modèles» pour préciser que c'est là que se trouvent les modèles de quiz et de questions.
+
+#### Fixes {/* #fixes-22 */}
+- Nous avons corrigé un problème dans les questions Messenger par lequel un long message texte ne serait pas entièrement couvert par la bulle de texte gris.
 
 ## Shira 2.1 {/* #shira-21 */}
 *Sortie le 20 mai 2026*
 
-#### 🌟 New feature: quiz templates! {/* #-new-feature-quiz-templates */}
+#### 🌟 Nouvelle fonctionnalité: modèles de quiz! {/* #-new-feature-quiz-templates */}
 
 - The Template library now includes not just quiz questions, but full quizzes ready to be imported into your space. This means you no longer have to build a quiz from scratch, you can start training your team within minutes.
 - Filter and search the library by keyword, language, apps, and more.
 - Using a template from the library creates a copy of the template into your space. After you use a template, the original template and the quiz in your space are separate and independent from each other, and you can edit the quiz in your space to customize it to your needs.
 
-#### 🌟 New feature: add more admins to your space! {/* #-new-feature-add-more-admins-to-your-space */}
+#### 🌟 Nouvelle fonctionnalité: ajoutez plus d'administrateurs à votre espace! {/* #-new-feature-add-more-admins-to-your-space */}
 Up until now, a team had to use a shared account to collaborate in a space. Now, spaces support multiple admins, each with their own account and credentials. It's not yet possible to add additional admins yourself, but just [reach out](/contact) and we'll help.
 
 <Note>
-Multi-admins is only available to users on [the Enterprise plan](/pricing).
+Multi-admins est seulement disponible pour les utilisateurs sur [le plan Enterprise](/pricing).
 </Note>
 
-#### 🌟 New feature: multilingual spaces! {/* #-new-feature-multilingual-spaces */}
+#### 🌟 Nouvelle fonctionnalité : espaces multilingues ! {/* #-new-feature-multilingual-spaces */}
 Spaces are now multilingual! The interface of the entire Space is available in Spanish, French, Russian, Chinese (simplified), and Arabic (Arabic is unfortunately not yet available in a right-to-left interface, but we'll be working on that soon).
 
 Just head to Settings to select your preferred language.
@@ -58,7 +121,7 @@ Explications
 ## Shira 2.0 {/* #shira-20 */}
 *Sortie le 20 avril 2026*
 
-#### Nouveau {/* #new */}
+#### New {/* #new */}
 - The report of the latest security audit is now [available on a new Security page](/security)
 
 #### Improvements {/* #improvements-1 */}
@@ -76,30 +139,32 @@ Explications
 ## Shira 2.0-beta6 {/* #shira-20-beta6 */}
 *Publié le 29 janvier 2026*
 
-#### Nouveau {/* #new-1 */}
+#### New {/* #new-1 */}
 - User can now reset their password from the login page.
 - User can import learners in bulk by uploading a CSV, instead of having to create large number of learners one by one
 - New Results metrics:
    - **Completion rate**\
      Il s'agit du pourcentage d'apprenants ayant envoyé leur quiz par rapport au nombre total d'apprenants auxquels ce quiz a été attribué. Le taux de complétion est uniquement disponible pour les quiz privés.
-   - Results by question: the average score received by all learners on each specific question in the quiz.
-   - Results by learner: the list of registered learners who completed the quiz and their score on the quiz. Results by learner are only available for private quizzes.
+   - **Results by question**\
+     Ceci vous indique le score moyen obtenu par tous les apprenants à chaque question spécifique du quiz.
+   - **Results by learner**\
+     Vous trouverez ici la liste des apprenants inscrits ayant répondu au quiz, ainsi que leur score. Les résultats par apprenant ne sont disponibles que pour les quiz privés.
 
 ## Shira 2.0-beta5 {/* #shira-20-beta5 */}
+*Publié le 29 janvier 2026*
+
+Cette version introduit les quiz privés--notre fonctionnalité la plus demandée !
+- Quiz privés : quiz auxquels seuls les apprenants et apprenantes inscrits dans votre espace peuvent participer.
+- Apprenants et apprenantes inscrits : les apprenants qui ont été invités par un administrateur ou administratrice à rejoindre votre espace et dont les scores sont rattachés à leur compte, vous permettant ainsi de suivre la progression de chacun sur vos quiz.
+
+## Shira 2.0-beta4 {/* #shira-20-beta4 */}
 *Publié le 3 novembre 2025*
 
 Avec cette version, nous nous rapprochons de l'ensemble complet des fonctionnalités qui seront incluses dans Shira 2.0. Vous pouvez déjà trouver les fonctionnalités suivantes :
 - Espaces d'organisation : un endroit pour gérer vos quiz et consulter les scores.
 - Quiz personnalisables : créez autant de quiz que vous le souhaitez.
-
-## Shira 2.0-beta4 {/* #shira-20-beta4 */}
-*Released on 3 November 2025*
-
-With this release, we are getting closer to the full feature set that will be included in Shira 2.0. You can already find the following features:
-- Organizational spaces: a place for you to manage quizzes and see results.
-- Customizable quizzes: create as many quizzes as you wish.
-- Customizable quiz questions: create quiz questions tailored to your team's needs and capacity.
-- Explanations: display short texts, directly inside quiz questions, to point learners to specific elements in the question content that suggest that it may be a phishing attack or that it may be legitimate.
-- Six apps to display your questions and make them look as close as possible to what your learners will experience in real life: Gmail, Outlook, WhatsApp, SMS, Facebook Messenger, and Dating App.
-- Results: see how well your learners did on your quizzes.
+- Questions de quiz personnalisables : créez des questions adaptées aux besoins et aux compétences de votre équipe.
+- Explications : affichez de courts textes, directement à l'intérieur des questions du quiz, pour signaler aux apprenants et apprenantes des éléments spécifiques du contenu suggérant qu'il peut s'agir d'une attaque d'hameçonnage ou d'un message légitime.
+- Six applications pour afficher vos questions et leur donner une apparence aussi proche que possible de ce à quoi vos apprenants et apprenantes seront confrontés dans la réalité : Gmail, Outlook, WhatsApp, SMS, Facebook Messenger et Application de rencontre.
+- Scores : découvrez les performances de vos apprenants et apprenantes à vos quiz.
 
