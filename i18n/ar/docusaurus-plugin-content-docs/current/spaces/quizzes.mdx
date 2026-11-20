@@ -14,26 +14,27 @@ import { Note, Warning } from '@site/src/components/Admonitions';
 في مساحة Shira الخاصة بكم، يمكن:
 - [إنشاء اختبارات](#create-quizzes)
 - [تهيئة إعدادات الخصوصية](#privacy)
+- [use quizzes to assess or train](#quiz-mode)
 - [نشر وإلغاء نشر الاختبار](#publish-unpublish)
 - [تعديل الاختبارات الموجودة](#edit-quizzes)
 - [استنساخ اختبار موجود](#duplicate-quiz)
 - [حذف الاختبارات](#delete-quiz)
 
-## Creating quizzes {/* #create-quizzes */}
-عند إنشاء اختبار ما، يجب:
-1. أطلقوا اسما على اختباركم
-2. تحديد خصوصية الاختبارات
+## إنشاء اختبارات {/* #create-quizzes */}
+To create a quiz, you have two options:
+1. You can create a quiz from scratch.
+2. You can use a ready-made [template](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 In both cases, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+1. أطلقوا اسما على اختباركم
+2. تحديد خصوصية الاختبارات
 
 ### اسم الاختبار {/* #name */}
 إن إطلاق اسم على الاختبار يساعدكم مع متعلميكم على التعرف على هدف الاختبار (مثلا: 'تدريب الموظفين في الربع الرابع للسنة المالية'، 'أكثر الهجمات شيوعا في 2026'، إلخ). اسم الاختبار مرئي للمتعلمين:
 - في البريد الإلكتروني الذي يتلقاه المتعلمون عندما تُعيِّنون لهم اختبارا (حصريا [للاختبارات الخاصة](#privacy))
 - على شاشة الترحيب عندما يُجري المتعلمون الاختبار.
 
-### Quiz privacy {/* #privacy */}
+### خصوصية الاختبار {/* #privacy */}
 هناك خياران متاحان لخصوصية الاختبار: عمومي وخاص.
 
 **خصوصية الاختبار دائمة ولا يمكن تغييرها**. إذا أردت تغيير إعدادات الخصوصية لاختبار موجود بالفعل، فيجب عليك استنساخ الاختبار.
@@ -47,20 +48,25 @@ In both cases, you must:
 * يمكن فقط للمتعلمين المسجلين في المساحة الخاصة بك إجراء الاختبار. يمكنك قراءة المزيد عن [المتعلمين المسجلين هنا](/learners#registered).
 * عندما يتم تعيين اختبار خاص لمتعلم مسجل، فإنه يتلقى رسالة بريد إلكتروني تحتوي على رابط لإجراء الاختبار. هذا الرابط فريد لكل متعلم، ويساعد في تتبع من قام بإجراء الاختبار ومعرفة نتائجه.
 
-## Adding questions to your quiz {/* #questions */}
+### Quiz mode {/* #quiz-mode */}
+In quiz settings, you can select the quiz mode. You should select the quiz mode based on your objectives with this quiz:
+* Learning mode: learners receive immediate feedback and explanations after each answer to help them improve their phishing detection skills. This is the default mode for new quizzes and should be used for training purposes.
+* Assessment mode: learners test their phishing detection skills without feedback or explanations to measure their actual performance level. This should be used to measure learners' detection skills in the most reliable way possible. It is especially useful for regular assessment of a team or organization's preparedness level, or at the beginning and end of a training program to measure the impact of the training.
+
+## إضافة سؤال إلى الاختبار {/* #questions */}
 
 يمكنكم إضافة أسئلة إلى اختباراتكم إما عن طريق إنشائها يدوياً أو استيراد قوالب جاهزة من المكتبة. [تعرفوا على المزيد حول الأسئلة هنا](/questions).
 
-## Publishing and unpublishing quizzes {/* #publish-unpublish */}
+## نشر الاختبارات وإلغاء نشرها {/* #publish-unpublish */}
 نشر اختبار يعني أنكم تتيحون للمتعلمين إمكانية الوصول إليه.
 
 يمكنكم بعد ذلك إلغاء نشر الاختبار لمنع المتعلمين من إجرائه. وفي حال إلغاء نشر الاختبار، فإن رابط الاختبار سيُظهر صفحة الخطأ.
 
 <Note>
-If you unpublish a quiz *while* a learner is taking it, the learner will see an error message at the end of the quiz when they try to submit their answers, and their submission will be lost.
+إذا ألغيتم نشر اختبار ما *أثناء إجراء* المتعلم له، سيرى المتعلم رسالة خطأ في نهاية الاختبار عند محاولته تقديم إجاباته، وسيفقد حينها تقديمه.
 </Note>
 
-## Editing quizzes {/* #edit-quizzes */}
+## تحرير الاختبارات {/* #edit-quizzes */}
 يمكنك تحرير أي اختبار، سواء كان منشورا أو غير منشور، بما في ذلك:
 - إضافة أسئلة جديدة إلى الاختبار.
 - تحرير الأسئلة الموجودة بالفعل في الاختبار.
@@ -68,20 +74,40 @@ If you unpublish a quiz *while* a learner is taking it, the learner will see an 
 - حذف الأسئلة: بمجرد الحذف، لا توجد طريقة لاسترجاع السؤال.
 
 <Note>
-If some learners have already taken the quiz, editing this quiz may affect the reliability of [the quizz's results](/results).
+إذا كان بعض المتعلمين قد أجروا الاختبار بالفعل، فقد يؤثر تحرير هذا الاختبار على موثوقية [نتائج الاختبار](/results).
 </Note>
 
-## Duplicating a quiz {/* #duplicate-quiz */}
+## استنساخ اختبار {/* #duplicate-quiz */}
 تكرار اختبار يعني إنشاء نسخة مطابقة من اختبار موجود.
 
 بمجرد تكرارهما، يصبح الاختبار الأصلي والاختبار الجديد مستقلَّين عن بعضهما البعض: يمكنكم تعديل أو حذف أحدهما، فلن يتأثر الآخر. **إن النتائج المرتبطة بالاختبار الأصلي *لن تُنقَل* إلى النسخة الجديدة من الاختبار**.
 
 يمكنكم تعيين إعدادات الخصوصية للاختبار (عمومية أو خاصة) عند الهمِّ بالتكرار.
 
-
-## Deleting a quiz {/* #delete-quiz */}
+## حذف الاختبار {/* #delete-quiz */}
 إن حذف الاختبار يعني أن الحذف من مساحتكم يشمل الاختبار، وجميع الأسئلة داخله، وكل [النتائج](/results) المرتبطة به.
 
 <Warning>
-Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
+إن حذف اختبار أمر لا رجعة فيه: بمجرد حذفه، لن يكون ممكنا استعادة الاختبار ونتائجه!
 </Warning>
+
+## Exporting and importing quizzes {/* #export-import */}
+Each quiz can be exported as a .zip file. The .zip file contains the quiz's metadata, the content of each question, the assets (such as images) used in the questions.
+
+Exporting a quiz can be useful to:
+* Share a quiz with another Space without having to make it publicly available through the template library.
+* Keep a backup of the quiz for future use.
+
+In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+quiz_name.zip
+├── metadata.json -> quiz info (name) + question array of [name, app, isPhishing]
+└── questions/
+    ├── question_name_1.html
+    └── question_name_2.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.

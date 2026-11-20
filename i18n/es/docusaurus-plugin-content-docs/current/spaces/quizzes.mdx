@@ -14,19 +14,20 @@ En Shira, un cuestionario es el componente central de una campaña o programa ed
 En tu Espacio Shira, puedes:
 - [crear cuestionarios](#create-quizzes)
 - [configurar ajustes de privacidad](#privacy)
+- [use quizzes to assess or train](#quiz-mode)
 - [publicar y despublicar un cuestionario](#publish-unpublish)
 - [editar cuestionarios existentes](#edit-quizzes)
 - [duplicar un cuestionario existente](#duplicate-quiz)
 - [eliminar cuestionarios](#delete-quiz)
 
 ## Creating quizzes {/* #create-quizzes */}
-Al crear un cuestionario, debes:
-1. Nombrar tu cuestionario
-2. Establecer la privacidad de tu cuestionario
+To create a quiz, you have two options:
+1. You can create a quiz from scratch.
+2. You can use a ready-made [template](/templates). If you use a template, you can use it as is or adapt it to your specific context and needs.
 
 In both cases, you must:
-1. Name your quiz
-2. Set the privacy of your quiz
+1. Nombrar tu cuestionario
+2. Establecer la privacidad de tu cuestionario
 
 ### Nombre del cuestionario {/* #name */}
 El nombre que elijas para el cuestionario te ayudará a ti y a tus estudiantes a reconocer el propósito de tu cuestionario (p. ej., "Capacitación del personal T4", "Los ataques más comunes de 2026", etc). El nombre del cuestionario es visible para estudiantes:
@@ -46,6 +47,11 @@ Hay dos opciones disponibles para la privacidad de los cuestionarios: público y
 **Cuestionarios privados**
 * Solo estudiantes que se tienen registro en tu espacio pueden completar el cuestionario. Puedes leer más sobre [personas registradas aquí](/learners#registered).
 * Cuando se le asigna un cuestionario a una persona estudiante registrada, recibe un correo con el enlace al cuestionario. Este enlace es único para cada estudiante y ayuda a mantener un registro de quienes realizan el cuestionario y sus resultados.
+
+### Quiz mode {/* #quiz-mode */}
+In quiz settings, you can select the quiz mode. You should select the quiz mode based on your objectives with this quiz:
+* Learning mode: learners receive immediate feedback and explanations after each answer to help them improve their phishing detection skills. This is the default mode for new quizzes and should be used for training purposes.
+* Assessment mode: learners test their phishing detection skills without feedback or explanations to measure their actual performance level. This should be used to measure learners' detection skills in the most reliable way possible. It is especially useful for regular assessment of a team or organization's preparedness level, or at the beginning and end of a training program to measure the impact of the training.
 
 ## Adding questions to your quiz {/* #questions */}
 
@@ -78,10 +84,30 @@ Una vez duplicado, el cuestionario original y el nuevo cuestionario son independ
 
 Puedes establecer una configuración de privacidad de cuestionario (público o privado) en el momento del duplicado.
 
-
 ## Deleting a quiz {/* #delete-quiz */}
 Eliminar un cuestionario significa que el cuestionario, todas las preguntas dentro del cuestionario, y cualquier [resultado](/results) asociado con este cuestionario serán eliminados de tu espacio.
 
 <Warning>
 Deleting a quiz is permanent: once deleted, a quiz and its results cannot be recovered!
 </Warning>
+
+## Exporting and importing quizzes {/* #export-import */}
+Each quiz can be exported as a .zip file. The .zip file contains the quiz's metadata, the content of each question, the assets (such as images) used in the questions.
+
+Exporting a quiz can be useful to:
+* Share a quiz with another Space without having to make it publicly available through the template library.
+* Keep a backup of the quiz for future use.
+
+In order to import a quiz from a .zip file, the .zip file must be structured exactly as it was exported. The correct structure is:
+```
+quiz_name.zip
+├── metadata.json -> quiz info (name) + question array of [name, app, isPhishing]
+└── questions/
+    ├── question_name_1.html
+    └── question_name_2.html
+└── assets/
+    ├── image-1.png
+    └── image-2.jpg
+```
+
+If the .zip file itself or the file it contains are not properly formatted, the import will fail.
